@@ -52,8 +52,9 @@ tbody tr:hover{background:#fff6f7}
 .fit-Excellent{background:#1f9d55}.fit-Good{background:#3b82f6}.fit-Average{background:#e08a00}.fit-Question{background:#b00020}
 .expiring{color:#b00020;font-weight:600}
 /* avatars */
-.av{border-radius:50%;object-fit:cover;background:var(--red);flex:0 0 auto;border:2px solid var(--gold);box-shadow:0 1px 2px rgba(0,0,0,.15)}
-.av.sm{width:30px;height:30px}.av.md{width:40px;height:40px}.av.lg{width:64px;height:64px;border-width:3px}
+.av{border-radius:50%;object-fit:cover;object-position:top;background:#fff;flex:0 0 auto;border:2.5px solid var(--red);box-shadow:0 0 0 1px #fff,0 1px 3px rgba(0,0,0,.2)}
+.av.sm{width:32px;height:32px}.av.md{width:42px;height:42px}.av.lg{width:66px;height:66px;border-width:3px}
+.lfclogo{width:100%;height:100%;object-fit:contain}
 .named{display:flex;align-items:center;gap:9px}
 .rumor{display:flex;justify-content:space-between;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--red);border-radius:12px;padding:11px 14px;margin-bottom:10px}
 .rumor .who{font-weight:700}.rumor .meta{font-size:12px;color:var(--muted);margin-top:2px}
@@ -265,19 +266,33 @@ function initialsURI(name){
   const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="32" fill="#C8102E"/><text x="32" y="41" font-family="Arial" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">${t}</text></svg>`;
   return 'data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent(svg)));
 }
-function av(name,size){size=size||'sm';return `<img class="av ${size}" data-wiki="${wikiTitle(name)}" src="${initialsURI(name)}" alt="${name}" loading="lazy">`;}
+function photoFor(name){
+  const all=[...(REF.squad||[]),...(REF.loans||[])];
+  const p=all.find(x=>x.name===name); if(p&&p.photo)return p.photo;
+  const t=REF.transfers||{}; for(const k of ['in','out','rumIn','rumOut']){const m=(t[k]||[]).find(x=>x.who===name);if(m&&m.photo)return m.photo;}
+  return null;
+}
+function av(name,size){size=size||'sm';const wt=wikiTitle(name);const init=initialsURI(name);const ph=photoFor(name);
+  if(ph)return `<img class="av ${size}" src="${ph}" data-wiki="${wt}" data-init="${init}" onerror="imgFallback(this)" alt="${name}">`;
+  return `<img class="av ${size}" src="${init}" data-wiki="${wt}" alt="${name}">`;}
 const photoCache={};
+function imgFallback(img){img.onerror=null;img.src=img.dataset.init||'';fetchWiki(img);}
+function fetchWiki(img){const t=img.dataset.wiki;if(!t)return;
+  if(t in photoCache){if(photoCache[t]&&img.src.startsWith('data:'))img.src=photoCache[t];return;}
+  photoCache[t]=undefined;
+  fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t))
+    .then(r=>r.ok?r.json():null).then(d=>{const u=d&&d.thumbnail&&d.thumbnail.source;photoCache[t]=u||null;
+      if(u)document.querySelectorAll('img.av[data-wiki="'+(window.CSS&&CSS.escape?CSS.escape(t):t)+'"]').forEach(i=>{if(i.src.startsWith('data:'))i.src=u;});})
+    .catch(()=>{photoCache[t]=null;});
+}
 function loadPhotos(){
   document.querySelectorAll('img.av[data-wiki]:not([data-done])').forEach(img=>{
-    img.dataset.done='1';const t=img.dataset.wiki;if(!t)return;
-    if(t in photoCache){if(photoCache[t])img.src=photoCache[t];return;}
-    photoCache[t]=undefined;
-    fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t))
-      .then(r=>r.ok?r.json():null).then(d=>{const u=d&&d.thumbnail&&d.thumbnail.source;photoCache[t]=u||null;
-        if(u)document.querySelectorAll('img.av[data-wiki="'+(window.CSS&&CSS.escape?CSS.escape(t):t)+'"]').forEach(i=>i.src=u);})
-      .catch(()=>{photoCache[t]=null;});
+    img.dataset.done='1';
+    if(!img.src.startsWith('data:'))return; // already showing a real (club) photo
+    fetchWiki(img);
   });
 }
+window.imgFallback=imgFallback;
 
 /* ---- crest (generic badge in club colours) ---- */
 function crest(){return `<svg viewBox="0 0 100 120" width="100%" height="100%"><defs><linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C8102E"/><stop offset="1" stop-color="#8f0a20"/></linearGradient></defs><path d="M50 3 94 17V63C94 92 74 109 50 117 26 109 6 92 6 63V17Z" fill="url(#cg)" stroke="#F6EB61" stroke-width="4"/><path d="M50 12 86 23V63C86 87 69 102 50 109 31 102 14 87 14 63V23Z" fill="none" stroke="#ffffff55" stroke-width="1.5"/><text x="50" y="58" font-family="Arial" font-size="30" font-weight="900" fill="#fff" text-anchor="middle">LFC</text><text x="50" y="78" font-family="Arial" font-size="10" letter-spacing="1" fill="#F6EB61" text-anchor="middle">EST. 1892</text><path d="M38 86 H62 L58 96 H42 Z" fill="#F6EB61"/></svg>`;}
@@ -318,12 +333,14 @@ function renderSquad(){
   makeSortable("squadTable",REF.squad||[],squadRow);
 }
 function renderDepth(){
-  const bySlot={};(REF.squad||[]).forEach(p=>{(bySlot[p.slot]=bySlot[p.slot]||[]).push(p);});
-  const order=Object.keys(bySlot).sort((a,b)=>slotOrder[a]-slotOrder[b]);
-  document.getElementById("depthGrid").innerHTML=order.map(s=>{
-    const players=bySlot[s].sort((a,b)=>(a.depth||9)-(b.depth||9));
-    return `<div class="depthcol"><h4>${slotName[s]||s}</h4>${players.map((p,i)=>`
-      <div class="pchip ${i===0?'starter':''}"><span class="num">${p.num||''}</span><img class="av sm" style="width:26px;height:26px;border-color:${fitColor[p.fit]}" data-wiki="${wikiTitle(p.name)}" src="${initialsURI(p.name)}" alt=""><span class="n">${surname(p.name)}</span>${p.injury?'<span class="inj" title="'+p.injury+'">●</span>':''}</div>`).join("")}</div>`;
+  const slots=["GK","RB","CB","LB","DM","CM","AM","LW","RW","ST"];
+  const sq=REF.squad||[];
+  document.getElementById("depthGrid").innerHTML=slots.map(s=>{
+    const here=sq.filter(p=>(p.slots||[p.slot]).includes(s));
+    if(!here.length)return '';
+    here.sort((a,b)=>{const pa=((a.slots&&a.slots[0])||a.slot)===s?0:1,pb=((b.slots&&b.slots[0])||b.slot)===s?0:1;return pa-pb||(a.depth||9)-(b.depth||9);});
+    return `<div class="depthcol"><h4>${slotName[s]||s}</h4>${here.map(p=>{const primary=((p.slots&&p.slots[0])||p.slot)===s;
+      return `<div class="pchip ${(primary&&p.depth===1)?'starter':''}" style="${primary?'':'opacity:.72'}">${av(p.name,'sm')}<span class="n">${surname(p.name)}</span><span class="fitdot" style="background:${fitColor[p.fit]}" title="${p.fit} fit"></span>${p.injury?'<span class="inj" title="'+p.injury+'">●</span>':''}${primary?'':'<span class="note" style="font-size:10px;flex:0 0 auto">2nd</span>'}</div>`;}).join("")}</div>`;
   }).join("");
 }
 function renderFit(){
@@ -378,16 +395,22 @@ function renderHierarchy(){
 }
 
 /* ---- LINEUP ---- */
+function eligible(p,slot){return (p.slots||[p.slot]).includes(slot);}
 function defaultLineup(){const slots=(REF.formations||{})[formation]||[];const used=new Set();const lu={};
-  slots.forEach((s,i)=>{const c=(REF.squad||[]).filter(p=>p.slot===s.slot&&!used.has(p.name)).sort((a,b)=>(a.depth||9)-(b.depth||9));if(c.length){lu[i]=c[0].name;used.add(c[0].name);}});return lu;}
+  // pass 1: primary-position players
+  slots.forEach((s,i)=>{const c=(REF.squad||[]).filter(p=>!used.has(p.name)&&(((p.slots&&p.slots[0])||p.slot)===s.slot)).sort((a,b)=>(a.depth||9)-(b.depth||9));if(c.length){lu[i]=c[0].name;used.add(c[0].name);}});
+  // pass 2: fill gaps with any eligible (versatile) player
+  slots.forEach((s,i)=>{if(lu[i])return;const c=(REF.squad||[]).filter(p=>!used.has(p.name)&&eligible(p,s.slot)).sort((a,b)=>(a.depth||9)-(b.depth||9));if(c.length){lu[i]=c[0].name;used.add(c[0].name);}});
+  return lu;}
 function playerByName(n){return (REF.squad||[]).find(p=>p.name===n);}
 function renderPitch(){
   const slots=(REF.formations||{})[formation]||[];
   document.getElementById("pitch").innerHTML=`<div class="pwm">${crest()}</div>`+slots.map((s,i)=>{
     const p=playerByName(lineup[i]);const col=p?fitColor[p.fit]:"#999";
-    const bg=p?`background-image:url('${photoCache[wikiTitle(p.name)]||initialsURI(p.name)}')`:'';
+    const src=p?(photoFor(p.name)||photoCache[wikiTitle(p.name)]||initialsURI(p.name)):'';
+    const bg=src?`background-image:url('${src}')`:'';
     return `<div class="token ${activeSlot===i?'active':''}" data-i="${i}" style="left:${s.x}%;top:${s.y}%">
-      <div class="circle" style="border-color:${col};${bg}">${p&&photoCache[wikiTitle(p.name)]?'':(p?(p.num||''):'+')}</div>
+      <div class="circle" style="border-color:${col};${bg}">${p?'':'+'}</div>
       <div class="nm">${p?surname(p.name):'—'}</div><div class="poslbl">${s.lbl}</div></div>`;}).join("");
   document.querySelectorAll("#pitch .token").forEach(t=>t.addEventListener("click",()=>{activeSlot=+t.dataset.i;renderPitch();renderBench();}));
   const picks=Object.values(lineup).map(playerByName).filter(Boolean);
@@ -416,8 +439,13 @@ function renderCharts(){if(charts.done)return;charts.done=true;
   new Chart(document.getElementById("recordChart"),{type:'doughnut',data:{labels:["Wins","Draws","Losses"],datasets:[{data:rec,backgroundColor:["#1f9d55","#e08a00","#b00020"]}]},options:{responsive:true,maintainAspectRatio:false,plugins:{title:{display:true,text:"Premier League record",font:{size:14,weight:'700'}},legend:{position:'bottom'}}}});
 }
 
-document.getElementById("crestBox").innerHTML=crest();
-document.getElementById("footCrest").innerHTML=crest();
+// Official club logo: drop an image at assets/lfc-logo.png and it is used here;
+// otherwise the generated badge is shown as a fallback.
+function mountLogo(el){if(!el)return;const img=new Image();img.className='lfclogo';img.alt='Liverpool FC';
+  img.onload=()=>{el.innerHTML='';el.appendChild(img);};img.onerror=()=>{el.innerHTML=crest();};
+  img.src='./assets/lfc-logo.png';}
+mountLogo(document.getElementById("crestBox"));
+mountLogo(document.getElementById("footCrest"));
 document.getElementById("headerWM").innerHTML=crest();
 document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
 
