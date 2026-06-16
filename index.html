@@ -317,6 +317,7 @@ function findPerson(name){
   return null;
 }
 function photoFor(name){const p=findPerson(name);if(p&&p.photo)return p.photo;
+  if(REF.staffPhotos&&REF.staffPhotos[name])return REF.staffPhotos[name];
   const w=REF.worldcup&&REF.worldcup.target;if(w&&w.who===name&&w.photo)return w.photo;return null;}
 function blurbFor(name){const p=findPerson(name);if(p&&p.blurb)return p.blurb;if(HIER[name])return HIER[name];
   const w=REF.worldcup&&REF.worldcup.target;if(w&&w.who===name)return w.note;return null;}

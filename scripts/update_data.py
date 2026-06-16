@@ -3,7 +3,9 @@
 Liverpool FC dashboard — data updater.
 
 Scrapes Liverpool news from across the web (direct outlet RSS + Google News
-search feeds that aggregate hundreds of sources and journalists), scores each
+search feeds that aggregate hundreds of sources and journalists, including
+dedicated queries for trusted reporters who break news on social media —
+Fabrizio Romano, James Pearce, Paul Joyce, David Ornstein, etc.), scores each
 story by (1) SOURCE CREDIBILITY/ACCURACY and (2) RELEVANCE, ranks them, and writes:
   - data/news.json           (consumed by the dashboard)
   - data/liverpool_data.xlsx (the Excel "backend" / source of truth)
@@ -55,9 +57,14 @@ CREDIBILITY = {
 }
 DEFAULT_CREDIBILITY = 4  # unknown outlet
 
-# Known reliable transfer reporters — a small accuracy boost when named.
-TRUSTED_REPORTERS = ["fabrizio romano", "david ornstein", "ornstein",
-                     "james pearce", "paul joyce", "melissa reddy"]
+# Known reliable transfer/club reporters (many break news first on X/Twitter).
+# When one is named in a story, we treat the report as high-accuracy regardless
+# of which outlet republished it — these are the people the user trusts most.
+TRUSTED_REPORTERS = [
+    "fabrizio romano", "david ornstein", "ornstein", "james pearce",
+    "paul joyce", "melissa reddy", "david lynch", "neil jones",
+    "florian plettenberg", "ben jacobs", "simon hughes", "chris bascombe",
+]
 
 # ---------------------------------------------------------------------------
 # 2. FEEDS
@@ -83,6 +90,15 @@ GOOGLE_QUERIES = [
     "Liverpool FC Isak OR Wirtz OR Gakpo",
     '"Liverpool" Diomande OR Bouaddi OR transfer target',
     "Liverpool World Cup 2026 player",
+    # Reporter-focused queries. Top reporters break news first on X/Twitter;
+    # Google News surfaces their articles AND aggregators quoting their posts,
+    # which is the practical way to capture social-media scoops without the
+    # (paid, auth-walled) X API.
+    'Liverpool "Fabrizio Romano"',
+    'Liverpool "James Pearce"',
+    'Liverpool "Paul Joyce"',
+    'Liverpool "David Ornstein"',
+    'Liverpool ("Melissa Reddy" OR "David Lynch" OR "Neil Jones")',
 ]
 def google_news_url(q):
     return ("https://news.google.com/rss/search?q="
@@ -133,9 +149,11 @@ def credibility_for(host, text):
         if host.endswith(dom):
             score = val
             break
-    # reporter boost (capped at 10)
+    # Trusted-reporter boost: when one of these reporters is named, treat the
+    # story as high-accuracy (floor of 9) regardless of which outlet ran it,
+    # since the information originates from a reliable, well-sourced journalist.
     if any(r in text for r in TRUSTED_REPORTERS):
-        score = min(10, score + 1)
+        score = min(10, max(score + 1, 9))
     return score
 
 
