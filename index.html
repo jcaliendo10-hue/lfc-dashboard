@@ -159,6 +159,12 @@ a{color:var(--red)}
 .bchip{font-size:12.5px;font-weight:700;padding:7px 12px;border-radius:20px;border:1px solid var(--line)}
 .bchip.committed{background:#eafaf0;border-color:#bfe9cf;color:#137a3e}
 .bchip.target{background:#fff6f7;border-color:#f3c7cf;color:var(--red-dark)}
+.ftoggle{border:1px solid var(--amber);background:#fffdf3;color:var(--amber);font-weight:700;border-radius:20px;padding:7px 14px;font-size:13px;cursor:pointer}
+.ftoggle.on{background:var(--amber);color:#fff}
+.bench .b.target{border:1px dashed var(--amber);background:#fffdf3}
+.ttag{font-size:9px;font-weight:800;background:var(--amber);color:#fff;border-radius:4px;padding:1px 4px;letter-spacing:.3px}
+.token .circle.target{border-style:dashed}
+.token .ttok{position:absolute;top:-6px;right:6px;font-size:8px;font-weight:800;background:var(--amber);color:#fff;border-radius:4px;padding:0 3px}
 </style>
 </head>
 <body>
@@ -207,8 +213,9 @@ a{color:var(--red)}
 
 <section class="panel" id="lineup">
   <h2 class="sec">Interactive lineup builder</h2>
-  <p class="hint">Pick a formation, click a position on the pitch, then click any squad player to slot them in. Every player is available.</p>
+  <p class="hint">Pick a formation, click a position on the pitch, then click any player to slot them in. Turn on <b>Fantasy mode</b> to add rumoured transfer targets to the pool and build a hypothetical XI.</p>
   <div class="formrow" id="formRow"></div>
+  <div style="margin:-2px 0 12px"><button id="fantasyToggle" class="ftoggle">⚡ Fantasy mode — add transfer targets</button></div>
   <div class="two" style="align-items:start">
     <div><div class="pitch" id="pitch"></div>
       <div class="card acc" style="margin-top:12px;text-align:center"><div class="stat" id="xiFit" style="font-size:22px">—</div><div class="lbl">Average system-fit of selected XI</div></div></div>
@@ -361,7 +368,10 @@ function credColor(c){return c>=9?'#1f9d55':c>=7?'#3b82f6':c>=5?'#e08a00':'#8a8a
 
 function squadRow(p){const exp=p.contract===2026?' class="expiring"':'';
   return `<tr><td>${p.num||''}</td><td><div class="named">${av(p.name,'sm')}<b>${nameTag(p.name,true)}</b>${p.new?' <span class="badge in" style="font-size:10px">NEW</span>':''}</div></td><td><span class="pos ${p.posGroup}">${p.posGroup}</span></td><td>${(p.slots||[p.slot]).join(', ')}</td><td>${p.age}</td><td>${p.nat}</td><td${exp}>${p.contract}</td><td><span class="fitb fit-${p.fit}">${p.fit}</span></td></tr>`;}
-function rumorCard(r){return `<div class="rumor">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${r.who}</div><div class="meta">${r.meta}</div></div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee}</div></div></div>`;}
+function statSummary(s){if(!s)return'';const parts=[];if(s.Appearances!=null)parts.push(s.Appearances+' apps');if(s.Goals!=null)parts.push(s.Goals+' G');if(s.Assists!=null)parts.push(s.Assists+' A');if('Clean sheets (PL)' in s)parts.push(s['Clean sheets (PL)']+' CS');return parts.join(' · ');}
+function rumorCard(r){const fb=r.fit?` <span class="fitb fit-${r.fit}">${r.fit} fit</span>`:'';
+  const st=r.stats?`<div class="note" style="margin-top:2px">${statSummary(r.stats)}</div>`:'';
+  return `<div class="rumor">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)}${fb}</div><div class="meta">${r.meta}</div>${st}</div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee}</div></div></div>`;}
 function confCard(c,d){return `<div class="rumor">${av(c.who,'md')}<div style="flex:1 1 auto"><div class="who">${c.who}</div><div class="meta">${c.meta}</div></div><div class="right"><span class="badge ${d}">${d==='in'?'IN':'OUT'}</span><div class="fee">${c.fee}</div></div></div>`;}
 
 function makeSortable(id,data,rowFn){const t=document.getElementById(id);let asc={};
@@ -462,21 +472,24 @@ function renderHierarchy(){
 }
 
 /* ---- LINEUP ---- */
+let fantasy=false;
+function targetPlayers(){return (REF.transfers&&REF.transfers.rumIn||[]).filter(r=>r.slot).map(r=>Object.assign({},r,{name:r.who,isTarget:true,depth:5}));}
+function pool(){return fantasy?[...(REF.squad||[]),...targetPlayers()]:(REF.squad||[]);}
 function eligible(p,slot){return (p.slots||[p.slot]).includes(slot);}
 function defaultLineup(){const slots=(REF.formations||{})[formation]||[];const used=new Set();const lu={};
-  // pass 1: primary-position players
+  // pass 1: primary-position players (existing squad only — targets are opt-in)
   slots.forEach((s,i)=>{const c=(REF.squad||[]).filter(p=>!used.has(p.name)&&(((p.slots&&p.slots[0])||p.slot)===s.slot)).sort((a,b)=>(a.depth||9)-(b.depth||9));if(c.length){lu[i]=c[0].name;used.add(c[0].name);}});
   // pass 2: fill gaps with any eligible (versatile) player
   slots.forEach((s,i)=>{if(lu[i])return;const c=(REF.squad||[]).filter(p=>!used.has(p.name)&&eligible(p,s.slot)).sort((a,b)=>(a.depth||9)-(b.depth||9));if(c.length){lu[i]=c[0].name;used.add(c[0].name);}});
   return lu;}
-function playerByName(n){return (REF.squad||[]).find(p=>p.name===n);}
+function playerByName(n){return pool().find(p=>p.name===n);}
 function renderPitch(){
   const slots=(REF.formations||{})[formation]||[];
-  document.getElementById("pitch").innerHTML=`<div class="pwm">${logoHTML('lfclogo')}</div>`+slots.map((s,i)=>{
-    const p=playerByName(lineup[i]);const col=p?fitColor[p.fit]:"#999";
+  document.getElementById("pitch").innerHTML=slots.map((s,i)=>{
+    const p=playerByName(lineup[i]);const col=p?fitColor[p.fit]:"#999";const isT=p&&p.isTarget;
     const inner=p?`<img class="av" style="width:100%;height:100%;border:none;box-shadow:none;border-radius:0" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" src="${photoFor(p.name)||initialsURI(p.name)}" onerror="imgFallback(this)" alt="">`:'+';
     return `<div class="token ${activeSlot===i?'active':''}" data-i="${i}" style="left:${s.x}%;top:${s.y}%">
-      <div class="circle" style="border-color:${col}">${inner}</div>
+      ${isT?'<span class="ttok">NEW</span>':''}<div class="circle${isT?' target':''}" style="border-color:${col}">${inner}</div>
       <div class="nm">${p?surname(p.name):'—'}</div><div class="poslbl">${s.lbl}</div></div>`;}).join("");
   document.querySelectorAll("#pitch .token").forEach(t=>t.addEventListener("click",()=>{activeSlot=+t.dataset.i;renderPitch();renderBench();}));
   const picks=Object.values(lineup).map(playerByName).filter(Boolean);
@@ -485,8 +498,8 @@ function renderPitch(){
 }
 function renderBench(){
   const used=new Set(Object.values(lineup));
-  const sq=[...(REF.squad||[])].sort((a,b)=>slotOrder[a.slot]-slotOrder[b.slot]||(a.depth||9)-(b.depth||9));
-  document.getElementById("bench").innerHTML=sq.map(p=>`<div class="b ${used.has(p.name)?'used':''}" data-n="${p.name}">${av(p.name,'sm')}${surname(p.name)} <span class="note">${p.slot}</span></div>`).join("");
+  const sq=[...pool()].sort((a,b)=>slotOrder[a.slot]-slotOrder[b.slot]||(a.depth||9)-(b.depth||9));
+  document.getElementById("bench").innerHTML=sq.map(p=>`<div class="b ${used.has(p.name)?'used':''}${p.isTarget?' target':''}" data-n="${p.name}">${av(p.name,'sm')}${surname(p.name)} <span class="note">${p.slot}</span>${p.isTarget?'<span class="ttag">TARGET</span>':''}</div>`).join("");
   document.querySelectorAll("#bench .b").forEach(b=>b.addEventListener("click",()=>{if(activeSlot===null){alert("Click a position on the pitch first.");return;}
     const name=b.dataset.n;for(const k in lineup){if(lineup[k]===name)delete lineup[k];}lineup[activeSlot]=name;renderPitch();renderBench();loadPhotos();}));
   loadPhotos();
@@ -495,6 +508,11 @@ function renderFormRow(){const fs=Object.keys(REF.formations||{});
   document.getElementById("formRow").innerHTML=fs.map(f=>`<button class="${f===formation?'active':''}" data-f="${f}">${f}</button>`).join("");
   document.querySelectorAll("#formRow button").forEach(b=>b.addEventListener("click",()=>{formation=b.dataset.f;activeSlot=null;lineup=defaultLineup();renderFormRow();renderPitch();renderBench();}));}
 function initLineup(){formation=Object.keys(REF.formations||{})[0]||"4-2-3-1";lineup=defaultLineup();renderFormRow();renderPitch();renderBench();}
+document.addEventListener('click',e=>{const b=e.target.closest('#fantasyToggle');if(!b)return;
+  fantasy=!fantasy;b.classList.toggle('on',fantasy);
+  b.textContent=fantasy?'⚡ Fantasy mode ON — transfer targets included':'⚡ Fantasy mode — add transfer targets';
+  if(!fantasy){const tn=new Set(targetPlayers().map(t=>t.name));for(const k in lineup){if(tn.has(lineup[k]))delete lineup[k];}}
+  renderPitch();renderBench();loadPhotos();});
 
 function renderCharts(){if(charts.done)return;charts.done=true;
   const mk=(id,arr,label,color)=>new Chart(document.getElementById(id),{type:'bar',data:{labels:arr.map(a=>a[0]),datasets:[{data:arr.map(a=>a[1]),backgroundColor:color,borderRadius:5}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},title:{display:true,text:label,font:{size:14,weight:'700'}}},scales:{x:{grid:{color:'#eef0f3'}},y:{grid:{display:false}}}}});
@@ -532,28 +550,34 @@ const modal=document.createElement('div');modal.id='modal';modal.innerHTML='<div
 modal.addEventListener('click',e=>{if(e.target===modal)closeModal();});
 function closeModal(){modal.classList.remove('show');}
 function openPlayer(name){
-  const p=(REF.squad||[]).find(x=>x.name===name)||(REF.loans||[]).find(x=>x.name===name);if(!p)return;
+  let p=(REF.squad||[]).find(x=>x.name===name)||(REF.loans||[]).find(x=>x.name===name);let isTarget=false;
+  if(!p){const t=REF.transfers||{};const m=[...(t.rumIn||[]),...(t.in||[])].find(x=>x.who===name);if(m){p=Object.assign({},m,{name:m.who});isTarget=true;}}
+  if(!p)return;
   const img=photoFor(name)||initialsURI(name);
-  const positions=(p.slots||[p.slot]).map(s=>slotName[s]||s).join(', ');
+  const positions=(p.slots||[p.slot]).filter(Boolean).map(s=>slotName[s]||s).join(', ')||'—';
   const stats=p.stats||{};const statHTML=Object.keys(stats).length
     ? `<div class="statline">${Object.entries(stats).map(([k,v])=>`<div class="s"><div class="num">${v}</div><div class="lab">${k}</div></div>`).join("")}</div>`
     : `<p class="note">Detailed match stats not available for this player.</p>`;
+  const kv=isTarget
+    ? `<div><div class="k">Position</div><div class="v">${slotName[p.slot]||p.slot||'—'}</div></div>
+       <div><div class="k">Reported fee</div><div class="v">${p.fee||'—'}</div></div>
+       <div><div class="k">Likelihood</div><div class="v"><span class="badge ${p.p}">${p.p||'—'}</span></div></div>
+       <div><div class="k">Iraola fit</div><div class="v"><span class="fitb fit-${p.fit}">${p.fit||'—'}</span></div></div>`
+    : `<div><div class="k">Primary position</div><div class="v">${slotName[p.slot]||p.slot}</div></div>
+       <div><div class="k">Contract until</div><div class="v">${p.contract||'—'}</div></div>
+       <div><div class="k">Iraola fit</div><div class="v"><span class="fitb fit-${p.fit}">${p.fit||'—'}</span></div></div>
+       ${p.injury?`<div><div class="k">Fitness</div><div class="v" style="color:#b00020;font-size:13px">Injured</div></div>`:''}`;
   document.getElementById('sheet').innerHTML=`
     <div class="hd"><img src="${img}" data-wiki="${wikiTitle(name)}" data-init="${initialsURI(name)}" onerror="imgFallback(this)" alt="">
-      <div><h3>${name}${p.num?` · #${p.num}`:''}</h3><div class="meta">${positions} · ${p.nat||''}${p.age?` · age ${p.age}`:''}</div></div>
+      <div><h3>${name}${(!isTarget&&p.num)?` · #${p.num}`:''}${isTarget?` <span class="badge ${p.p}" style="vertical-align:middle">TARGET</span>`:''}</h3><div class="meta">${positions}${p.nat?` · ${p.nat}`:''}${p.age?` · age ${p.age}`:''}${isTarget&&p.meta?` · ${esc(p.meta)}`:''}</div></div>
       <button class="close" onclick="closeModal()">×</button></div>
     <div class="bd">
-      <div class="kv">
-        <div><div class="k">Primary position</div><div class="v">${slotName[p.slot]||p.slot}</div></div>
-        <div><div class="k">Contract until</div><div class="v">${p.contract||'—'}</div></div>
-        <div><div class="k">Iraola fit</div><div class="v"><span class="fitb fit-${p.fit}">${p.fit||'—'}</span></div></div>
-        ${p.injury?`<div><div class="k">Fitness</div><div class="v" style="color:#b00020;font-size:13px">Injured</div></div>`:''}
-      </div>
-      <h4>2025/26 stats</h4>${statHTML}
+      <div class="kv">${kv}</div>
+      <h4>${isTarget?'2025/26 stats (current club)':'2025/26 stats'}</h4>${statHTML}
       <h4>Key information</h4><p>${p.blurb||''}</p>
-      <h4>Role & fit under Iraola</h4><p class="note">${p.fitNote||''}</p>
-      ${p.injury?`<h4>Injury</h4><p class="note">${p.injury}</p>`:''}
-      <h4>Outlook for 2026/27</h4><p>${p.outlook||'—'}</p>
+      <h4>Role &amp; fit under Iraola</h4><p class="note">${p.fitNote||''}</p>
+      ${(p.injury&&!isTarget)?`<h4>Injury</h4><p class="note">${p.injury}</p>`:''}
+      <h4>${isTarget?'Transfer outlook':'Outlook for 2026/27'}</h4><p>${p.outlook||'—'}</p>
     </div>`;
   modal.classList.add('show');loadPhotos();
 }
