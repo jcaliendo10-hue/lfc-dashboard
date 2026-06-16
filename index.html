@@ -422,7 +422,7 @@ function renderOverview(){
   document.getElementById("overviewBody").innerHTML=`
     <div class="callout"><b>State of play:</b> Liverpool finished <b>${m.league_finish}</b> in 2025/26. <b>${m.head_coach}</b> is head coach after Slot was sacked; major overhaul under way (Salah, Konaté, Robertson all left on frees). System: <b>${m.system||''}</b>.</div>
     <div class="two" style="margin-bottom:4px">
-      <div class="card acc"><div class="lbl" style="margin-top:0">Recent form</div><div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">${formPills}</div></div>
+      <div class="card acc"><div class="lbl" style="margin-top:0">Recent form · end of 2025/26</div><div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">${formPills}</div><div class="note" style="margin-top:7px;font-size:11px">Final 6 league games (oldest → most recent). Season ended in May; next up is pre-season.</div></div>
       <div class="card acc"><div class="lbl" style="margin-top:0">Next match</div><div style="margin-top:6px">${nextHTML}</div></div>
     </div>
     <h2 class="sec">${secIco()}Season 2025/26 at a glance</h2>

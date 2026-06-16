@@ -157,17 +157,19 @@
     "note": "Projection built from public revenue figures, reported bids and likely outgoings. Not an official club budget."
   },
   "results": [
+    {"comp": "PL", "opp": "Everton (A)", "score": "2–1", "r": "W"},
+    {"comp": "PL", "opp": "Crystal Palace (H)", "score": "3–1", "r": "W"},
     {"comp": "PL", "opp": "Man United (A)", "score": "2–3", "r": "L"},
     {"comp": "PL", "opp": "Chelsea (H)", "score": "1–1", "r": "D"},
     {"comp": "PL", "opp": "Aston Villa (A)", "score": "2–4", "r": "L"},
-    {"comp": "PL", "opp": "Brentford (A)", "score": "1–1", "r": "D"},
-    {"comp": "FA Cup", "opp": "Man City (A)", "score": "0–4", "r": "L"},
-    {"comp": "UCL", "opp": "PSG (QF)", "score": "out", "r": "L"}
+    {"comp": "PL", "opp": "Brentford (H)", "score": "1–1", "r": "D"}
   ],
   "fixtures": [
-    {"date": "25 Jul 2026", "opp": "vs Sunderland — Nashville"},
-    {"date": "29 Jul 2026", "opp": "vs Wrexham — New York"},
-    {"date": "2 Aug 2026", "opp": "vs Leeds — Chicago"}
+    {"date": "25 Jul 2026", "opp": "vs Sunderland — Nashville (pre-season)"},
+    {"date": "29 Jul 2026", "opp": "vs Wrexham — New York (pre-season)"},
+    {"date": "2 Aug 2026", "opp": "vs Leeds United — Chicago (pre-season)"},
+    {"date": "9 Aug 2026", "opp": "vs AS Monaco (H) — pre-season"},
+    {"date": "16 Aug 2026", "opp": "vs Como 1907 (H) — pre-season"}
   ],
   "scorers": [["Ekitiké", 17], ["Szoboszlai", 12], ["Salah", 12], ["Gakpo", 8], ["Wirtz", 7], ["Van Dijk", 6], ["Mac Allister", 5], ["Gravenberch", 5]],
   "assists": [["Salah", 7], ["Wirtz", 5], ["Szoboszlai", 5], ["Ekitiké", 4], ["Mac Allister", 3], ["Gakpo", 3]],
