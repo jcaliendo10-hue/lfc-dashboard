@@ -7,8 +7,8 @@
     "league_finish": "5th",
     "points": 60,
     "record": [17, 9, 12],
-    "pl_goals_for": 57,
-    "pl_goals_against": 47
+    "pl_goals_for": 63,
+    "pl_goals_against": 53
   },
   "iraola": {
     "summary": "High-intensity, vertical 'controlled chaos'. Base 4-2-3-1 (flexes to 4-3-3). Signature is a hybrid press — zonal shape that springs man-to-man traps — plus an aggressive high line, immediate counterpress and direct, wide attacking. Among the most physically demanding systems in Europe (Bournemouth led the PL for distance covered and lowest PPDA).",
@@ -171,5 +171,31 @@
   ],
   "scorers": [["Ekitiké", 17], ["Szoboszlai", 12], ["Salah", 12], ["Gakpo", 8], ["Wirtz", 7], ["Van Dijk", 6], ["Mac Allister", 5], ["Gravenberch", 5]],
   "assists": [["Salah", 7], ["Wirtz", 5], ["Szoboszlai", 5], ["Ekitiké", 4], ["Mac Allister", 3], ["Gakpo", 3]],
-  "apps": [["Van Dijk", 51], ["Mac Allister", 51], ["Szoboszlai", 49], ["Gakpo", 47], ["Gravenberch", 46], ["Wirtz", 45], ["Jones", 45], ["Kerkez", 44]]
+  "apps": [["Van Dijk", 51], ["Mac Allister", 51], ["Szoboszlai", 49], ["Gakpo", 47], ["Gravenberch", 46], ["Wirtz", 45], ["Jones", 45], ["Kerkez", 44]],
+  "comparison": {
+    "subtitle": "Both managed in the 2025/26 Premier League — Iraola at Bournemouth, Slot at Liverpool. A statistical preview of the stylistic shift coming to Anfield (FBref / Opta / Understat).",
+    "a": {"name": "Iraola · Bournemouth", "color": "#e08a00", "pos": 6, "points": 57, "record": [13, 18, 7]},
+    "b": {"name": "Slot · Liverpool", "color": "#C8102E", "pos": 5, "points": 60, "record": [17, 9, 12]},
+    "stats": {
+      "goals_for":     {"label": "Goals scored", "a": 58, "b": 63, "better": "high"},
+      "goals_against": {"label": "Goals conceded", "a": 54, "b": 53, "better": "low"},
+      "xg_for":        {"label": "xG created", "a": 61.9, "b": 61.3, "better": "high"},
+      "xg_against":    {"label": "xG conceded", "a": 56.8, "b": 47.4, "better": "low"},
+      "possession":    {"label": "Possession", "a": 50.1, "b": 60.1, "better": "high", "suffix": "%"},
+      "pass_pct":      {"label": "Pass completion", "a": 80.4, "b": 86.0, "better": "high", "suffix": "%"},
+      "shots90":       {"label": "Shots / 90", "a": 13.81, "b": 14.87, "better": "high"},
+      "sot90":         {"label": "Shots on target / 90", "a": 4.75, "b": 4.51, "better": "high"},
+      "ppda":          {"label": "PPDA — press intensity (lower = harder press)", "a": 9.0, "b": 9.89, "better": "low"},
+      "tkint90":       {"label": "Tackles + interceptions / 90", "a": 26.1, "b": 19.7, "better": "high"}
+    },
+    "radar": [
+      {"axis": "Possession", "key": "possession", "min": 35, "max": 65, "invert": false},
+      {"axis": "Press (PPDA)", "key": "ppda", "min": 7, "max": 16, "invert": true},
+      {"axis": "Ball-winning", "key": "tkint90", "min": 15, "max": 30, "invert": false},
+      {"axis": "Shot volume", "key": "shots90", "min": 9, "max": 18, "invert": false},
+      {"axis": "Attack (xG)", "key": "xg_for", "min": 35, "max": 75, "invert": false},
+      {"axis": "Defence (xGA)", "key": "xg_against", "min": 35, "max": 65, "invert": true}
+    ],
+    "takeaway": "Iraola's Bournemouth pressed far harder (lower PPDA, ~33% more tackles + interceptions) and defended a high line with barely half the ball, while Slot's Liverpool dominated possession and passing but pressed more passively. Both created near-identical xG (~61), but Liverpool defended much better (xGA 47 vs 57). The likely shift: keep Liverpool's control on the ball, but win it back far more aggressively off it."
+  }
 }

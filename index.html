@@ -165,6 +165,20 @@ a{color:var(--red)}
 .ttag{font-size:9px;font-weight:800;background:var(--amber);color:#fff;border-radius:4px;padding:1px 4px;letter-spacing:.3px}
 .token .circle.target{border-style:dashed}
 .token .ttok{position:absolute;top:-6px;right:6px;font-size:8px;font-weight:800;background:var(--amber);color:#fff;border-radius:4px;padding:0 3px}
+.cmplegend{display:flex;gap:18px;font-size:12px;margin-bottom:14px;flex-wrap:wrap}
+.cmplegend span{display:inline-flex;align-items:center;gap:6px;font-weight:600}
+.cmplegend i{width:12px;height:12px;border-radius:3px;display:inline-block}
+.cmprow{margin-bottom:12px}
+.cmphead{display:flex;justify-content:space-between;align-items:center;gap:10px;margin-bottom:4px}
+.cmphead .ml{color:var(--muted);text-transform:uppercase;letter-spacing:.4px;font-size:10.5px;text-align:center;flex:1 1 auto}
+.cmphead b{font-size:13px;font-weight:800;min-width:60px}
+.cmphead b.r{text-align:right}
+.cmpwin{color:var(--green)}
+.cmptracks{display:flex;gap:4px}
+.cmpL,.cmpR{flex:1 1 50%;height:12px;background:#eef0f3;border-radius:6px;overflow:hidden;display:flex}
+.cmpL{justify-content:flex-end}
+.cmpL i,.cmpR i{height:100%;border-radius:6px;display:block}
+.cmpL i{background:#e08a00}.cmpR i{background:var(--red)}
 </style>
 </head>
 <body>
@@ -268,6 +282,15 @@ a{color:var(--red)}
 
 <section class="panel" id="analytics">
   <h2 class="sec">Analytics 2025/26</h2>
+  <h3 class="sub" style="margin-top:0">Style shift — Iraola vs Slot · 2025/26</h3>
+  <div class="callout" id="cmpIntro"></div>
+  <div id="cmpHead" class="two" style="margin-bottom:14px"></div>
+  <div class="two" style="align-items:start">
+    <div class="chartbox" style="height:360px"><canvas id="styleRadar"></canvas></div>
+    <div id="cmpBars"></div>
+  </div>
+  <div class="callout" id="cmpTakeaway" style="margin-top:14px"></div>
+  <h3 class="sub" style="margin-top:26px">Squad performance 2025/26</h3>
   <div class="two"><div class="chartbox"><canvas id="scorersChart"></canvas></div><div class="chartbox"><canvas id="assistsChart"></canvas></div></div>
   <div class="two" style="margin-top:16px"><div class="chartbox"><canvas id="appsChart"></canvas></div><div class="chartbox"><canvas id="recordChart"></canvas></div></div>
 </section>
@@ -520,7 +543,27 @@ document.addEventListener('click',e=>{const b=e.target.closest('#fantasyToggle')
   if(!fantasy){const tn=new Set(targetPlayers().map(t=>t.name));for(const k in lineup){if(tn.has(lineup[k]))delete lineup[k];}}
   renderPitch();renderBench();loadPhotos();});
 
+function ord(n){const s=["th","st","nd","rd"],v=n%100;return n+(s[(v-20)%10]||s[v]||s[0]);}
+function renderComparison(){
+  const c=REF.comparison;if(!c||!document.getElementById("cmpBars"))return;
+  document.getElementById("cmpIntro").innerHTML=c.subtitle;
+  document.getElementById("cmpHead").innerHTML=[c.a,c.b].map(t=>`<div class="card acc" style="border-top-color:${t.color}"><div style="font-weight:800;color:${t.color}">${t.name}</div><div class="stat" style="color:${t.color};font-size:24px">${ord(t.pos)}<span class="unit"> · ${t.points} pts</span></div><div class="lbl">${t.record.join('-')} (W-D-L)</div></div>`).join("");
+  const rows=Object.values(c.stats).map(m=>{
+    const max=Math.max(m.a,m.b)||1;const aw=m.a/max*100,bw=m.b/max*100;
+    const aWin=m.better==='low'?m.a<m.b:m.a>m.b;const fmt=v=>(m.fmt==='ord'?ord(v):v)+(m.suffix||'');
+    return `<div class="cmprow"><div class="cmphead"><b class="${aWin?'cmpwin':''}">${fmt(m.a)}${aWin?' ✓':''}</b><span class="ml">${m.label}</span><b class="r ${!aWin?'cmpwin':''}">${!aWin?'✓ ':''}${fmt(m.b)}</b></div>
+      <div class="cmptracks"><div class="cmpL"><i style="width:${aw}%"></i></div><div class="cmpR"><i style="width:${bw}%"></i></div></div></div>`;}).join("");
+  document.getElementById("cmpBars").innerHTML=`<div class="cmplegend"><span><i style="background:${c.a.color}"></i>${c.a.name}</span><span><i style="background:${c.b.color}"></i>${c.b.name}</span><span class="note" style="font-weight:400">✓ = better</span></div>`+rows;
+  document.getElementById("cmpTakeaway").innerHTML=`<b>Takeaway —</b> ${c.takeaway}`;
+  const norm=t=>(c.radar||[]).map(r=>{const st=c.stats[r.key];if(!st)return 0;let x=((t==='a'?st.a:st.b)-r.min)/(r.max-r.min);if(r.invert)x=1-x;return Math.round(Math.max(0,Math.min(1,x))*100);});
+  if(window.Chart&&document.getElementById("styleRadar"))new Chart(document.getElementById("styleRadar"),{type:'radar',
+    data:{labels:(c.radar||[]).map(r=>r.axis),datasets:[
+      {label:c.a.name,data:norm('a'),borderColor:c.a.color,backgroundColor:c.a.color+'33',pointBackgroundColor:c.a.color},
+      {label:c.b.name,data:norm('b'),borderColor:c.b.color,backgroundColor:c.b.color+'33',pointBackgroundColor:c.b.color}]},
+    options:{responsive:true,maintainAspectRatio:false,scales:{r:{min:0,max:100,ticks:{display:false,stepSize:25},pointLabels:{font:{size:11,weight:'600'}}}},plugins:{legend:{position:'bottom'},title:{display:true,text:'Playing-style fingerprint (0–100, PL-scaled)',font:{size:13,weight:'700'}}}}});
+}
 function renderCharts(){if(charts.done)return;charts.done=true;
+  renderComparison();
   const mk=(id,arr,label,color)=>new Chart(document.getElementById(id),{type:'bar',data:{labels:arr.map(a=>a[0]),datasets:[{data:arr.map(a=>a[1]),backgroundColor:color,borderRadius:5}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},title:{display:true,text:label,font:{size:14,weight:'700'}}},scales:{x:{grid:{color:'#eef0f3'}},y:{grid:{display:false}}}}});
   mk("scorersChart",REF.scorers||[],"Top scorers (all comps)","#C8102E");
   mk("assistsChart",REF.assists||[],"Top assists (all comps)","#2563eb");
