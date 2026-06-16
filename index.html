@@ -7,7 +7,7 @@
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 120'%3E%3Cpath d='M50 4 92 18V62C92 90 73 107 50 116 27 107 8 90 8 62V18Z' fill='%23C8102E' stroke='%23F6EB61' stroke-width='5'/%3E%3Ctext x='50' y='70' font-size='34' font-weight='900' fill='%23fff' text-anchor='middle' font-family='Arial'%3ELFC%3C/text%3E%3C/svg%3E">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
 <style>
-:root{--red:#C8102E;--red-dark:#8f0a20;--red-deep:#6d0718;--gold:#F6EB61;--gold-d:#d9c93b;--ink:#1b1b1f;--muted:#6b6b76;--bg:#f4f5f7;--card:#fff;--line:#e6e7eb;--green:#1f9d55;--amber:#e08a00;--grey:#8a8a92}
+:root{--red:#C8102E;--red-dark:#8f0a20;--red-deep:#5c0715;--gold:#ffffff;--gold-d:#e6e6e6;--ink:#1b1b1f;--muted:#6b6b76;--bg:#f4f5f7;--card:#fff;--line:#e6e7eb;--green:#1f9d55;--amber:#e08a00;--grey:#8a8a92}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;line-height:1.5}
 .wrap{max-width:1100px;margin:0 auto;padding:0 16px 60px}
@@ -123,7 +123,29 @@ a{color:var(--red)}
 .orgrow{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
 .orgcard{display:flex;gap:10px;align-items:center;background:#fff;border:1px solid var(--line);border-top:3px solid var(--red);border-radius:12px;padding:10px 14px;min-width:200px}
 .orgcard .nm{font-weight:700;font-size:14px}.orgcard .rl{font-size:12px;color:var(--muted)}
-.orgline{width:2px;height:14px;background:var(--gold)}
+.orgline{width:2px;height:14px;background:var(--red)}
+.pname{}
+.plink{color:var(--red);cursor:pointer;border-bottom:1px dotted var(--red)}
+.plink:hover{color:var(--red-dark)}
+[data-blurb]{cursor:help}
+#tip{position:fixed;z-index:100;max-width:280px;background:var(--red-deep);color:#fff;border:1px solid var(--red);border-radius:10px;padding:9px 12px;font-size:12.5px;line-height:1.45;box-shadow:0 6px 20px rgba(0,0,0,.3);pointer-events:none;opacity:0;transition:opacity .12s;display:none}
+#tip.show{opacity:1;display:block}
+#tip .tn{font-weight:800;display:block;margin-bottom:3px}
+#modal{position:fixed;inset:0;z-index:200;background:rgba(20,4,8,.55);display:none;align-items:flex-start;justify-content:center;padding:40px 16px;overflow:auto}
+#modal.show{display:flex}
+.sheet{background:#fff;border-radius:16px;max-width:560px;width:100%;border-top:6px solid var(--red);box-shadow:0 20px 60px rgba(0,0,0,.4);overflow:hidden}
+.sheet .hd{display:flex;gap:16px;align-items:center;padding:18px 20px;background:linear-gradient(135deg,var(--red),var(--red-deep));color:#fff}
+.sheet .hd img{width:84px;height:84px;border-radius:50%;border:3px solid #fff;object-fit:cover;object-position:top;background:#fff;flex:0 0 auto}
+.sheet .hd h3{margin:0;font-size:22px;font-weight:800}
+.sheet .hd .meta{font-size:13px;opacity:.92;margin-top:3px}
+.sheet .bd{padding:18px 20px}
+.kv{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:10px;margin-bottom:14px}
+.kv .k{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted)}
+.kv .v{font-weight:700;font-size:15px}
+.statline{display:flex;gap:18px;flex-wrap:wrap;background:#fff6f7;border:1px solid #f3c7cf;border-radius:10px;padding:12px 14px;margin-bottom:14px}
+.statline .s{text-align:center}.statline .s .num{font-size:22px;font-weight:800;color:var(--red)}.statline .s .lab{font-size:11px;color:var(--muted)}
+.sheet h4{margin:14px 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--red)}
+.sheet .close{margin-left:auto;background:rgba(255,255,255,.2);border:none;color:#fff;width:32px;height:32px;border-radius:50%;font-size:18px;cursor:pointer;flex:0 0 auto}
 </style>
 </head>
 <body>
@@ -157,7 +179,7 @@ a{color:var(--red)}
   <h2 class="sec">First-team squad</h2>
   <p class="note">Click a column header to sort. <span class="expiring">Red contract</span> = expiring 2026. Fit = suitability to Iraola's system.</p>
   <div style="margin-top:12px;overflow-x:auto"><table id="squadTable">
-    <thead><tr><th data-k="num" data-t="n">#</th><th data-k="name">Player</th><th data-k="posGroup">Pos</th><th data-k="slot">Slot</th><th data-k="age" data-t="n">Age</th><th data-k="nat">Nat.</th><th data-k="contract" data-t="n">Contract</th><th data-k="fit">Iraola fit</th></tr></thead>
+    <thead><tr><th data-k="num" data-t="n">#</th><th data-k="name">Player</th><th data-k="posGroup">Pos</th><th data-k="slot">Positions</th><th data-k="age" data-t="n">Age</th><th data-k="nat">Nat.</th><th data-k="contract" data-t="n">Contract</th><th data-k="fit">Iraola fit</th></tr></thead>
     <tbody></tbody></table></div>
 </section>
 
@@ -266,15 +288,31 @@ function initialsURI(name){
   const svg=`<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="32" fill="#C8102E"/><text x="32" y="41" font-family="Arial" font-size="26" font-weight="700" fill="#fff" text-anchor="middle">${t}</text></svg>`;
   return 'data:image/svg+xml;base64,'+btoa(unescape(encodeURIComponent(svg)));
 }
-function photoFor(name){
-  const all=[...(REF.squad||[]),...(REF.loans||[])];
-  const p=all.find(x=>x.name===name); if(p&&p.photo)return p.photo;
-  const t=REF.transfers||{}; for(const k of ['in','out','rumIn','rumOut']){const m=(t[k]||[]).find(x=>x.who===name);if(m&&m.photo)return m.photo;}
+function esc(s){return String(s||'').replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/</g,'&lt;');}
+const HIER={
+ "John W. Henry":"Principal owner through Fenway Sports Group, which bought Liverpool in 2010. Sets ownership strategy and signs off major investment.",
+ "Tom Werner":"FSG chairman since the 2010 takeover. Chairs the club at board level and represents ownership publicly.",
+ "Mike Gordon":"FSG president and the owners' point man on football since 2010 — historically the key link between ownership and football operations.",
+ "Billy Hogan":"Chief Executive Officer since 2020 (at the club since 2012). Runs day-to-day business, commercial and operational matters.",
+ "Michael Edwards":"FSG CEO of Football since 2024; the former sporting director now oversees football strategy across the group.",
+ "Richard Hughes":"Sporting Director since 2024. Leads recruitment and football planning — he hired Iraola at Bournemouth.",
+ "Andoni Iraola":"Head coach since June 2026, joining from Bournemouth. Coaches a high-pressing, vertical, transition-heavy style."
+};
+function findPerson(name){
+  const all=[...(REF.squad||[]),...(REF.loans||[])];const p=all.find(x=>x.name===name);if(p)return p;
+  const t=REF.transfers||{};for(const k of ['in','out','rumIn','rumOut']){const m=(t[k]||[]).find(x=>x.who===name);if(m)return {name:m.who,blurb:m.blurb,photo:m.photo};}
   return null;
 }
+function photoFor(name){const p=findPerson(name);if(p&&p.photo)return p.photo;
+  const w=REF.worldcup&&REF.worldcup.target;if(w&&w.who===name&&w.photo)return w.photo;return null;}
+function blurbFor(name){const p=findPerson(name);if(p&&p.blurb)return p.blurb;if(HIER[name])return HIER[name];
+  const w=REF.worldcup&&REF.worldcup.target;if(w&&w.who===name)return w.note;return null;}
 function av(name,size){size=size||'sm';const wt=wikiTitle(name);const init=initialsURI(name);const ph=photoFor(name);
-  if(ph)return `<img class="av ${size}" src="${ph}" data-wiki="${wt}" data-init="${init}" onerror="imgFallback(this)" alt="${name}">`;
-  return `<img class="av ${size}" src="${init}" data-wiki="${wt}" alt="${name}">`;}
+  const b=blurbFor(name);const ba=b?` data-blurb="${esc(b)}" data-person="${esc(name)}"`:'';
+  if(ph)return `<img class="av ${size}"${ba} src="${ph}" data-wiki="${wt}" data-init="${init}" onerror="imgFallback(this)" alt="${esc(name)}">`;
+  return `<img class="av ${size}"${ba} src="${init}" data-wiki="${wt}" alt="${esc(name)}">`;}
+function nameTag(name,clickable){const b=blurbFor(name);
+  return `<span class="pname${clickable?' plink':''}"${b?` data-blurb="${esc(b)}"`:''}${clickable?` data-player="${esc(name)}"`:''}>${name}</span>`;}
 const photoCache={};
 function imgFallback(img){img.onerror=null;img.src=img.dataset.init||'';fetchWiki(img);}
 function fetchWiki(img){const t=img.dataset.wiki;if(!t)return;
@@ -302,7 +340,7 @@ function surname(n){n=n.replace(' (c)','');const p=n.split(' ');return p.length>
 function credColor(c){return c>=9?'#1f9d55':c>=7?'#3b82f6':c>=5?'#e08a00':'#8a8a92';}
 
 function squadRow(p){const exp=p.contract===2026?' class="expiring"':'';
-  return `<tr><td>${p.num||''}</td><td><div class="named">${av(p.name,'sm')}<b>${p.name}</b>${p.new?' <span class="badge in" style="font-size:10px">NEW</span>':''}</div></td><td><span class="pos ${p.posGroup}">${p.posGroup}</span></td><td>${p.slot}</td><td>${p.age}</td><td>${p.nat}</td><td${exp}>${p.contract}</td><td><span class="fitb fit-${p.fit}">${p.fit}</span></td></tr>`;}
+  return `<tr><td>${p.num||''}</td><td><div class="named">${av(p.name,'sm')}<b>${nameTag(p.name,true)}</b>${p.new?' <span class="badge in" style="font-size:10px">NEW</span>':''}</div></td><td><span class="pos ${p.posGroup}">${p.posGroup}</span></td><td>${(p.slots||[p.slot]).join(', ')}</td><td>${p.age}</td><td>${p.nat}</td><td${exp}>${p.contract}</td><td><span class="fitb fit-${p.fit}">${p.fit}</span></td></tr>`;}
 function rumorCard(r){return `<div class="rumor">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${r.who}</div><div class="meta">${r.meta}</div></div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee}</div></div></div>`;}
 function confCard(c,d){return `<div class="rumor">${av(c.who,'md')}<div style="flex:1 1 auto"><div class="who">${c.who}</div><div class="meta">${c.meta}</div></div><div class="right"><span class="badge ${d}">${d==='in'?'IN':'OUT'}</span><div class="fee">${c.fee}</div></div></div>`;}
 
@@ -340,7 +378,7 @@ function renderDepth(){
     if(!here.length)return '';
     here.sort((a,b)=>{const pa=((a.slots&&a.slots[0])||a.slot)===s?0:1,pb=((b.slots&&b.slots[0])||b.slot)===s?0:1;return pa-pb||(a.depth||9)-(b.depth||9);});
     return `<div class="depthcol"><h4>${slotName[s]||s}</h4>${here.map(p=>{const primary=((p.slots&&p.slots[0])||p.slot)===s;
-      return `<div class="pchip ${(primary&&p.depth===1)?'starter':''}" style="${primary?'':'opacity:.72'}">${av(p.name,'sm')}<span class="n">${surname(p.name)}</span><span class="fitdot" style="background:${fitColor[p.fit]}" title="${p.fit} fit"></span>${p.injury?'<span class="inj" title="'+p.injury+'">●</span>':''}${primary?'':'<span class="note" style="font-size:10px;flex:0 0 auto">2nd</span>'}</div>`;}).join("")}</div>`;
+      return `<div class="pchip ${(primary&&p.depth===1)?'starter':''}" style="${primary?'':'opacity:.72'}">${av(p.name,'sm')}<span class="n plink" data-player="${esc(p.name)}">${surname(p.name)}</span><span class="fitdot" style="background:${fitColor[p.fit]}" title="${p.fit} fit"></span>${p.injury?'<span class="inj" title="'+esc(p.injury)+'">●</span>':''}${primary?'':'<span class="note" style="font-size:10px;flex:0 0 auto">2nd</span>'}</div>`;}).join("")}</div>`;
   }).join("");
 }
 function renderFit(){
@@ -348,7 +386,7 @@ function renderFit(){
   document.getElementById("iraolaSummary").innerHTML=`<b>Iraola's system —</b> ${ir.summary||''}`;
   document.getElementById("iraolaNeeds").innerHTML=`<table><tbody>${(ir.needs||[]).map(n=>`<tr><td style="width:150px;font-weight:700">${n[0]}</td><td class="note">${n[1]}</td></tr>`).join("")}</tbody></table>`;
   const sq=[...(REF.squad||[])].sort((a,b)=>fitScoreMap[b.fit]-fitScoreMap[a.fit]||slotOrder[a.slot]-slotOrder[b.slot]);
-  document.getElementById("fitList").innerHTML=sq.map(p=>`<div class="fitrow">${av(p.name,'md')}<div class="nm">${surname(p.name)}<div class="note" style="font-weight:400">${p.slot}</div></div><div style="flex:1 1 auto"><span class="fitb fit-${p.fit}">${p.fit}</span><div class="note" style="margin-top:4px">${p.fitNote||''}</div></div></div>`).join("");
+  document.getElementById("fitList").innerHTML=sq.map(p=>`<div class="fitrow">${av(p.name,'md')}<div class="nm"><span class="plink" data-player="${esc(p.name)}">${surname(p.name)}</span><div class="note" style="font-weight:400">${(p.slots||[p.slot]).join(', ')}</div></div><div style="flex:1 1 auto"><span class="fitb fit-${p.fit}">${p.fit}</span><div class="note" style="margin-top:4px">${p.fitNote||''}</div></div></div>`).join("");
 }
 function renderTransfers(){
   const t=REF.transfers||{};
@@ -391,7 +429,7 @@ function renderHierarchy(){
     ["Football executives",[["Billy Hogan","Chief Executive Officer"],["Michael Edwards","FSG CEO of Football"],["Richard Hughes","Sporting Director"]]],
     ["First team",[["Andoni Iraola","Head Coach"]]]
   ];
-  document.getElementById("org").innerHTML=tiers.map((t,i)=>`<div class="orgtier"><div class="lab">${t[0]}</div><div class="orgrow">${t[1].map(p=>`<div class="orgcard">${av(p[0],'md')}<div><div class="nm">${p[0]}</div><div class="rl">${p[1]}</div></div></div>`).join("")}</div></div>${i<tiers.length-1?'<div class="orgline"></div>':''}`).join("");
+  document.getElementById("org").innerHTML=tiers.map((t,i)=>`<div class="orgtier"><div class="lab">${t[0]}</div><div class="orgrow">${t[1].map(p=>`<div class="orgcard" data-blurb="${esc(HIER[p[0]]||'')}" data-person="${esc(p[0])}">${av(p[0],'md')}<div><div class="nm">${p[0]}</div><div class="rl">${p[1]}</div></div></div>`).join("")}</div></div>${i<tiers.length-1?'<div class="orgline"></div>':''}`).join("");
 }
 
 /* ---- LINEUP ---- */
@@ -447,6 +485,53 @@ function mountLogo(el){if(!el)return;const img=new Image();img.className='lfclog
 mountLogo(document.getElementById("crestBox"));
 mountLogo(document.getElementById("footCrest"));
 document.getElementById("headerWM").innerHTML=crest();
+
+/* ---- hover blurbs (tooltips) ---- */
+const tip=document.createElement('div');tip.id='tip';document.body.appendChild(tip);
+function showTip(el,e){const b=el.getAttribute('data-blurb');if(!b)return;
+  const who=el.getAttribute('data-person');
+  tip.innerHTML=(who?`<span class="tn">${who}</span>`:'')+b;tip.classList.add('show');moveTip(e);}
+function moveTip(e){const pad=14;let x=e.clientX+pad,y=e.clientY+pad;
+  const w=tip.offsetWidth,h=tip.offsetHeight;
+  if(x+w>window.innerWidth-8)x=e.clientX-w-pad;if(y+h>window.innerHeight-8)y=e.clientY-h-pad;
+  tip.style.left=x+'px';tip.style.top=y+'px';}
+document.addEventListener('mouseover',e=>{const el=e.target.closest('[data-blurb]');if(el)showTip(el,e);});
+document.addEventListener('mousemove',e=>{if(tip.classList.contains('show'))moveTip(e);});
+document.addEventListener('mouseout',e=>{if(e.target.closest('[data-blurb]'))tip.classList.remove('show');});
+
+/* ---- player profile modal ---- */
+const modal=document.createElement('div');modal.id='modal';modal.innerHTML='<div class="sheet" id="sheet"></div>';document.body.appendChild(modal);
+modal.addEventListener('click',e=>{if(e.target===modal)closeModal();});
+function closeModal(){modal.classList.remove('show');}
+function openPlayer(name){
+  const p=(REF.squad||[]).find(x=>x.name===name)||(REF.loans||[]).find(x=>x.name===name);if(!p)return;
+  const img=photoFor(name)||initialsURI(name);
+  const positions=(p.slots||[p.slot]).map(s=>slotName[s]||s).join(', ');
+  const stats=p.stats||{};const statHTML=Object.keys(stats).length
+    ? `<div class="statline">${Object.entries(stats).map(([k,v])=>`<div class="s"><div class="num">${v}</div><div class="lab">${k}</div></div>`).join("")}</div>`
+    : `<p class="note">Detailed match stats not available for this player.</p>`;
+  document.getElementById('sheet').innerHTML=`
+    <div class="hd"><img src="${img}" data-wiki="${wikiTitle(name)}" data-init="${initialsURI(name)}" onerror="imgFallback(this)" alt="">
+      <div><h3>${name}${p.num?` · #${p.num}`:''}</h3><div class="meta">${positions} · ${p.nat||''}${p.age?` · age ${p.age}`:''}</div></div>
+      <button class="close" onclick="closeModal()">×</button></div>
+    <div class="bd">
+      <div class="kv">
+        <div><div class="k">Primary position</div><div class="v">${slotName[p.slot]||p.slot}</div></div>
+        <div><div class="k">Contract until</div><div class="v">${p.contract||'—'}</div></div>
+        <div><div class="k">Iraola fit</div><div class="v"><span class="fitb fit-${p.fit}">${p.fit||'—'}</span></div></div>
+        ${p.injury?`<div><div class="k">Fitness</div><div class="v" style="color:#b00020;font-size:13px">Injured</div></div>`:''}
+      </div>
+      <h4>2025/26 stats</h4>${statHTML}
+      <h4>Key information</h4><p>${p.blurb||''}</p>
+      <h4>Role & fit under Iraola</h4><p class="note">${p.fitNote||''}</p>
+      ${p.injury?`<h4>Injury</h4><p class="note">${p.injury}</p>`:''}
+      <h4>Outlook for 2026/27</h4><p>${p.outlook||'—'}</p>
+    </div>`;
+  modal.classList.add('show');loadPhotos();
+}
+window.openPlayer=openPlayer;window.closeModal=closeModal;
+document.addEventListener('click',e=>{const el=e.target.closest('.plink[data-player]');if(el)openPlayer(el.getAttribute('data-player'));});
+document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
 document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
 
 document.getElementById("tabnav").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;
