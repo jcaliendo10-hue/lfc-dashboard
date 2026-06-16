@@ -261,7 +261,9 @@ a{color:var(--red)}
   <h2 class="sec">World Cup 2026 tracker</h2>
   <div class="callout" id="wcStatus"></div>
   <h3 class="sub">Liverpool players at the tournament</h3><div class="wcgrid" id="wcAt"></div>
-  <h3 class="sub">Transfer target in action</h3><div id="wcTarget"></div>
+  <h3 class="sub">Transfer targets to monitor</h3>
+  <p class="note" style="margin:-4px 0 10px">Every player Liverpool are linked with — tracked through the tournament. Click a name for stats &amp; fit.</p>
+  <div class="wcgrid" id="wcTarget"></div>
 </section>
 
 <section class="panel" id="analytics">
@@ -459,8 +461,12 @@ function renderWC(){
   const wc=REF.worldcup||{};document.getElementById("wcStatus").innerHTML=`<b>Status —</b> ${wc.status||''}`;
   const sq=REF.squad||[];const at=sq.filter(p=>p.wc&&p.wc.at);
   document.getElementById("wcAt").innerHTML=at.map(p=>`<div class="wccard">${av(p.name,'md')}<div><div class="t">${surname(p.name)}</div><div class="team">${p.wc.team}</div><div class="nt">${p.wc.note}</div></div></div>`).join("")||'<div class="note">None.</div>';
-  const tg=wc.target;
-  document.getElementById("wcTarget").innerHTML=tg?`<div class="wccard" style="border-left-color:var(--red)">${av(tg.who,'md')}<div><div class="t">${tg.who} <span class="badge ${tg.p}">${tg.p}</span></div><div class="team">${tg.team}</div><div class="nt">${tg.note}</div></div></div>`:'';
+  const targets=(REF.transfers&&REF.transfers.rumIn||[]);
+  document.getElementById("wcTarget").innerHTML=targets.map(tg=>{
+    const team=(tg.wc&&tg.wc.team)||tg.nat||'';const atWc=tg.wc&&tg.wc.at;
+    const note=(tg.wc&&tg.wc.note)||tg.blurb||'';
+    return `<div class="wccard" style="border-left-color:${atWc?'var(--red)':'var(--grey)'};${atWc?'':'opacity:.8'}">${av(tg.who,'md')}<div><div class="t">${nameTag(tg.who,true)} <span class="badge ${tg.p}">${tg.p}</span></div><div class="team">${team}${atWc?'':' · not at the World Cup'}</div><div class="nt">${note}</div></div></div>`;
+  }).join("")||'<div class="note">No active transfer links.</div>';
 }
 function renderHierarchy(){
   const tiers=[
@@ -593,9 +599,10 @@ document.getElementById("tabnav").addEventListener("click",e=>{const b=e.target.
   if(tab==="lineup"&&!Object.keys(lineup).length)initLineup();
   loadPhotos();});
 
+const cb="?v="+Date.now(); // cache-buster so browsers always load the latest data
 Promise.all([
-  fetch("./data/reference.json").then(r=>r.json()).catch(()=>({})),
-  fetch("./data/news.json").then(r=>r.json()).catch(()=>({items:[]}))
+  fetch("./data/reference.json"+cb).then(r=>r.json()).catch(()=>({})),
+  fetch("./data/news.json"+cb).then(r=>r.json()).catch(()=>({items:[]}))
 ]).then(([ref,news])=>{REF=ref||{};
   renderOverview();renderSquad();renderDepth();renderFit();renderTransfers();renderBudget();renderNews(news);renderInjuries();renderWC();renderHierarchy();initLineup();
   document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
