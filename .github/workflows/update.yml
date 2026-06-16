@@ -1,0 +1,42 @@
+name: Update Liverpool dashboard data
+
+# Runs daily at 07:00 UTC and on manual trigger.
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write   # allow the action to commit refreshed data
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install feedparser openpyxl
+
+      - name: Scrape & rank news, rebuild Excel backend
+        run: python scripts/update_data.py
+
+      - name: Commit refreshed data
+        run: |
+          git config user.name  "lfc-dashboard-bot"
+          git config user.email "actions@github.com"
+          git add data/news.json data/liverpool_data.xlsx
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update news data ($(date -u +%Y-%m-%d))"
+            git push
+          fi

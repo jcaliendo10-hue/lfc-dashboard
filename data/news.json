@@ -1,0 +1,138 @@
+{
+  "updated": "16 Jun 2026 (seed — Action refreshes live)",
+  "count": 12,
+  "items": [
+    {
+      "headline": "Jeremy Jacquet completes £55m move from Rennes",
+      "summary": "",
+      "source": "Liverpool FC (official)",
+      "credibility": 10,
+      "relevance": 60,
+      "rank_score": 60.0,
+      "date": "2026-06-15",
+      "url": "",
+      "rank": 1
+    },
+    {
+      "headline": "Andoni Iraola appointed Liverpool head coach on a two-year contract",
+      "summary": "",
+      "source": "Liverpool FC (official)",
+      "credibility": 10,
+      "relevance": 55,
+      "rank_score": 55.0,
+      "date": "2026-06-04",
+      "url": "",
+      "rank": 2
+    },
+    {
+      "headline": "Mohamed Salah to leave Liverpool on a free transfer, ending an era",
+      "summary": "",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 55,
+      "rank_score": 55.0,
+      "date": "2026-03-20",
+      "url": "",
+      "rank": 3
+    },
+    {
+      "headline": "Curtis Jones: Inter Milan in talks but yet to meet Liverpool valuation",
+      "summary": "",
+      "source": "ESPN FC",
+      "credibility": 8,
+      "relevance": 57,
+      "rank_score": 51.3,
+      "date": "2026-06-13",
+      "url": "",
+      "rank": 4
+    },
+    {
+      "headline": "Ibrahima Konate confirmed to leave Liverpool, agrees terms with Real Madrid",
+      "summary": "",
+      "source": "The Guardian",
+      "credibility": 10,
+      "relevance": 50,
+      "rank_score": 50.0,
+      "date": "2026-05-22",
+      "url": "",
+      "rank": 5
+    },
+    {
+      "headline": "Liverpool submit first official bid for RB Leipzig winger Yan Diomande",
+      "summary": "",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 51,
+      "rank_score": 48.4,
+      "date": "2026-06-11",
+      "url": "",
+      "rank": 6
+    },
+    {
+      "headline": "Arne Slot sacked by Liverpool after fifth-place finish",
+      "summary": "",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 45,
+      "rank_score": 45.0,
+      "date": "2026-05-30",
+      "url": "",
+      "rank": 7
+    },
+    {
+      "headline": "Alisson Becker to STAY at Liverpool after Juventus U-turn",
+      "summary": "",
+      "source": "The Guardian",
+      "credibility": 10,
+      "relevance": 45,
+      "rank_score": 45.0,
+      "date": "2026-05-26",
+      "url": "",
+      "rank": 8
+    },
+    {
+      "headline": "Liverpool wage bill cut by around £36m after summer departures",
+      "summary": "",
+      "source": "This Is Anfield",
+      "credibility": 6,
+      "relevance": 51,
+      "rank_score": 40.8,
+      "date": "2026-06-12",
+      "url": "",
+      "rank": 9
+    },
+    {
+      "headline": "Darwin Nunez closing in on Saudi Pro League exit",
+      "summary": "",
+      "source": "This Is Anfield",
+      "credibility": 6,
+      "relevance": 46,
+      "rank_score": 36.8,
+      "date": "2026-06-09",
+      "url": "",
+      "rank": 10
+    },
+    {
+      "headline": "2026/27 Premier League fixtures to be released on 19 June",
+      "summary": "",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 22,
+      "rank_score": 20.9,
+      "date": "2026-06-14",
+      "url": "",
+      "rank": 11
+    },
+    {
+      "headline": "Andy Robertson joins Tottenham as a free agent after nine years at Anfield",
+      "summary": "",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 16,
+      "rank_score": 15.2,
+      "date": "2026-06-10",
+      "url": "",
+      "rank": 12
+    }
+  ]
+}
