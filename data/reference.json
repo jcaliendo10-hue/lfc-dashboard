@@ -172,6 +172,14 @@
   "scorers": [["Ekitiké", 17], ["Szoboszlai", 12], ["Salah", 12], ["Gakpo", 8], ["Wirtz", 7], ["Van Dijk", 6], ["Mac Allister", 5], ["Gravenberch", 5]],
   "assists": [["Salah", 7], ["Wirtz", 5], ["Szoboszlai", 5], ["Ekitiké", 4], ["Mac Allister", 3], ["Gakpo", 3]],
   "apps": [["Van Dijk", 51], ["Mac Allister", 51], ["Szoboszlai", 49], ["Gakpo", 47], ["Gravenberch", 46], ["Wirtz", 45], ["Jones", 45], ["Kerkez", 44]],
+  "marketValues": {
+    "Alisson Becker": 15, "Giorgi Mamardashvili": 28, "Armin Pécsi": 0.8, "Virgil van Dijk (c)": 15,
+    "Jérémy Jacquet": 55, "Joe Gomez": 13, "Giovanni Leoni": 25, "Jeremie Frimpong": 35, "Conor Bradley": 25,
+    "Calvin Ramsay": 1.5, "Milos Kerkez": 35, "Ryan Gravenberch": 80, "Wataru Endo": 4, "Stefan Bajcetic": 4,
+    "Dominik Szoboszlai": 100, "Alexis Mac Allister": 70, "Curtis Jones": 35, "Trey Nyoni": 8, "Florian Wirtz": 100,
+    "Alexander Isak": 85, "Hugo Ekitiké": 80, "Jayden Danns": 0.8, "Cody Gakpo": 60, "Federico Chiesa": 13,
+    "Rio Ngumoha": 30, "Kaide Gordon": 0.8
+  },
   "comparison": {
     "subtitle": "Both managed in the 2025/26 Premier League — Iraola at Bournemouth, Slot at Liverpool. A statistical preview of the stylistic shift coming to Anfield (FBref / Opta / Understat).",
     "a": {"name": "Iraola · Bournemouth", "color": "#e08a00", "pos": 6, "points": 57, "record": [13, 18, 7]},

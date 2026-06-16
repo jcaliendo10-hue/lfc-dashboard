@@ -179,6 +179,8 @@ a{color:var(--red)}
 .cmpL{justify-content:flex-end}
 .cmpL i,.cmpR i{height:100%;border-radius:6px;display:block}
 .cmpL i{background:#e08a00}.cmpR i{background:var(--red)}
+.formpill{width:28px;height:28px;border-radius:8px;display:inline-flex;align-items:center;justify-content:center;font-weight:800;font-size:14px;color:#fff;cursor:help}
+.res-bg-W{background:var(--green)}.res-bg-D{background:var(--amber)}.res-bg-L{background:#b00020}
 </style>
 </head>
 <body>
@@ -214,6 +216,12 @@ a{color:var(--red)}
   <div style="margin-top:12px;overflow-x:auto"><table id="squadTable">
     <thead><tr><th data-k="num" data-t="n">#</th><th data-k="name">Player</th><th data-k="posGroup">Pos</th><th data-k="slot">Positions</th><th data-k="age" data-t="n">Age</th><th data-k="nat">Nat.</th><th data-k="contract" data-t="n">Contract</th><th data-k="fit">Iraola fit</th></tr></thead>
     <tbody></tbody></table></div>
+  <h3 class="sub" style="margin-top:26px">Age vs market value</h3>
+  <p class="note" style="margin:-4px 0 10px">Each dot is a player — hover for details. Spot the ageing assets, the prime-age core, and the high-value youth. (Transfermarkt, mid-2026.)</p>
+  <div class="chartbox" style="height:380px"><canvas id="ageValueChart"></canvas></div>
+  <h3 class="sub" style="margin-top:26px">Contract expiry timeline</h3>
+  <p class="note" style="margin:-4px 0 10px">When each player's deal runs out. <span class="expiring">Red years</span> are the urgent ones to resolve.</p>
+  <div class="depthgrid" id="contractTimeline"></div>
 </section>
 
 <section class="panel" id="depth">
@@ -404,10 +412,19 @@ function makeSortable(id,data,rowFn){const t=document.getElementById(id);let asc
     const d=[...data].sort((a,b)=>{let x=a[k],y=b[k];if(n){return asc[k]?x-y:y-x;}return asc[k]?String(x).localeCompare(y):String(y).localeCompare(x);});
     t.querySelector("tbody").innerHTML=d.map(rowFn).join("");loadPhotos();}));}
 
+function daysUntil(dstr){const d=new Date(dstr);if(isNaN(d))return null;return Math.ceil((d-new Date())/86400000);}
 function renderOverview(){
   const m=REF.meta||{};document.getElementById("subhead").textContent=m.season||"";
+  const results=REF.results||[];
+  const formPills=results.map(r=>`<span class="formpill res-bg-${r.r}" data-blurb="${esc(r.comp+' · '+r.opp+' '+r.score)}">${r.r}</span>`).join("")||'<span class="note">—</span>';
+  const fx=REF.fixtures||[];const nf=fx[0];let nextHTML='<span class="note">No upcoming fixtures.</span>';
+  if(nf){const du=daysUntil(nf.date);nextHTML=`<div style="font-weight:800;font-size:16px">${esc(nf.opp.replace(/^vs /,''))}</div><div class="note" style="margin-top:2px">${nf.date}${du!=null&&du>=0?` · in ${du} day${du===1?'':'s'}`:''}</div>`;}
   document.getElementById("overviewBody").innerHTML=`
     <div class="callout"><b>State of play:</b> Liverpool finished <b>${m.league_finish}</b> in 2025/26. <b>${m.head_coach}</b> is head coach after Slot was sacked; major overhaul under way (Salah, Konaté, Robertson all left on frees). System: <b>${m.system||''}</b>.</div>
+    <div class="two" style="margin-bottom:4px">
+      <div class="card acc"><div class="lbl" style="margin-top:0">Recent form</div><div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">${formPills}</div></div>
+      <div class="card acc"><div class="lbl" style="margin-top:0">Next match</div><div style="margin-top:6px">${nextHTML}</div></div>
+    </div>
     <h2 class="sec">${secIco()}Season 2025/26 at a glance</h2>
     <div class="grid cards">
       <div class="card acc"><div class="stat">${m.league_finish}</div><div class="lbl">Premier League</div></div>
@@ -424,6 +441,28 @@ function renderSquad(){
   const sq=[...(REF.squad||[])].sort((a,b)=>posOrder[a.posGroup]-posOrder[b.posGroup]);
   document.querySelector("#squadTable tbody").innerHTML=sq.map(squadRow).join("");
   makeSortable("squadTable",REF.squad||[],squadRow);
+  renderContractTimeline();
+}
+function renderContractTimeline(){
+  const el=document.getElementById("contractTimeline");if(!el)return;
+  const sq=REF.squad||[];
+  const years=[...new Set(sq.map(p=>p.contract).filter(Boolean))].sort();
+  el.innerHTML=years.map(y=>{
+    const here=sq.filter(p=>p.contract===y).sort((a,b)=>posOrder[a.posGroup]-posOrder[b.posGroup]);
+    const soon=y<=2027;
+    return `<div class="depthcol"><h4 style="${soon?'background:linear-gradient(135deg,#b00020,#8f0a20)':''}">${y}${soon?' ⚠':''}</h4>${here.map(p=>`<div class="pchip">${av(p.name,'sm')}<span class="n plink" data-player="${esc(p.name)}">${surname(p.name)}</span><span class="pos ${p.posGroup}" style="font-size:9px">${p.posGroup}</span></div>`).join("")||'<div class="note">—</div>'}</div>`;
+  }).join("");
+}
+let ageValueDone=false;
+function renderAgeValue(){
+  if(ageValueDone)return;const cv=document.getElementById("ageValueChart");if(!cv||!window.Chart)return;ageValueDone=true;
+  const mv=REF.marketValues||{};const groups={GK:'#e08a00',DEF:'#2563eb',MID:'#1f9d55',FWD:'#C8102E'};
+  const datasets=Object.keys(groups).map(g=>({label:g,backgroundColor:groups[g],borderColor:'#fff',borderWidth:1,pointRadius:6,pointHoverRadius:9,
+    data:(REF.squad||[]).filter(p=>p.posGroup===g&&mv[p.name]!=null).map(p=>({x:p.age,y:mv[p.name],name:surname(p.name)}))}));
+  new Chart(cv,{type:'scatter',data:{datasets},options:{responsive:true,maintainAspectRatio:false,
+    plugins:{title:{display:true,text:'Age vs market value (€m) — by position',font:{size:13,weight:'700'}},legend:{position:'bottom'},
+      tooltip:{callbacks:{label:c=>`${c.raw.name}: age ${c.raw.x}, €${c.raw.y}m`}}},
+    scales:{x:{title:{display:true,text:'Age'},grid:{color:'#eef0f3'}},y:{title:{display:true,text:'Market value (€m)'},grid:{color:'#eef0f3'},beginAtZero:true}}}});
 }
 function renderDepth(){
   const slots=["GK","RB","CB","LB","DM","CM","AM","LW","RW","ST"];
@@ -639,6 +678,7 @@ document.getElementById("tabnav").addEventListener("click",e=>{const b=e.target.
   document.querySelectorAll("nav.tabs button").forEach(x=>x.classList.remove("active"));b.classList.add("active");
   const tab=b.dataset.tab;document.querySelectorAll("section.panel").forEach(p=>p.classList.toggle("active",p.id===tab));
   if(tab==="analytics")renderCharts();
+  if(tab==="squad")renderAgeValue();
   if(tab==="lineup"&&!Object.keys(lineup).length)initLineup();
   loadPhotos();});
 
