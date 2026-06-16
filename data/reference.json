@@ -137,6 +137,20 @@
     {"name": "Owen Beck", "posGroup": "DEF", "slot": "LB", "club": "Derby County", "notes": "Loan reportedly cut short (injury)", "blurb": "Young left-back whose Derby loan was reportedly cut short by injury.", "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p430992.png"},
     {"name": "Luca Stephenson", "posGroup": "MID", "slot": "CM", "club": "Dundee United", "notes": "Season loan (Scotland)", "blurb": "Midfielder gaining senior experience on loan in Scotland.", "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p466936.png"}
   ],
+  "budget": {
+    "headline": "≈ £150–200m",
+    "headlineLabel": "Projected gross spend, summer 2026",
+    "subtitle": "An estimate, not an official figure — funded largely by sales rather than a repeat of last year's ~£450m splurge.",
+    "inflows": [
+      {"label": "Revenue / PSR headroom", "amount": "£80–120m", "note": "Record £703m 2024/25 revenue (+£89m YoY) and confirmed PSR compliance; Champions League football retained for 2026/27."},
+      {"label": "Projected player sales", "amount": "£100–150m", "note": "Gakpo (~£75m), Jones (~£35m), Chiesa plus fringe and academy sales — the club is leaning on outgoings to fund spend."},
+      {"label": "Wage savings", "amount": "~£36m/yr", "note": "Free departures of Salah, Konaté and Robertson trim the wage bill and create headroom."}
+    ],
+    "committed": {"label": "Jérémy Jacquet", "amount": "£55m", "note": "Agreed in February, registered this window."},
+    "marquee": {"label": "Yan Diomande (target)", "amount": "~£112m", "note": "Reported bid; would dominate the budget if completed."},
+    "verdict": "Realistic gross outlay of ~£150–200m, but net spend much lower as sale proceeds are reinvested. A marquee winger (Diomande) plus a midfielder and a centre-back is achievable — provided Gakpo and others are sold first.",
+    "note": "Projection built from public revenue figures, reported bids and likely outgoings. Not an official club budget."
+  },
   "results": [
     {"comp": "PL", "opp": "Man United (A)", "score": "2–3", "r": "L"},
     {"comp": "PL", "opp": "Chelsea (H)", "score": "1–1", "r": "D"},

@@ -147,6 +147,18 @@ a{color:var(--red)}
 .statline .s{text-align:center}.statline .s .num{font-size:22px;font-weight:800;color:var(--red)}.statline .s .lab{font-size:11px;color:var(--muted)}
 .sheet h4{margin:14px 0 6px;font-size:12px;text-transform:uppercase;letter-spacing:.6px;color:var(--red)}
 .sheet .close{margin-left:auto;background:rgba(255,255,255,.2);border:none;color:#fff;width:32px;height:32px;border-radius:50%;font-size:18px;cursor:pointer;flex:0 0 auto}
+.bhead{display:flex;justify-content:space-between;gap:16px;align-items:center;flex-wrap:wrap;background:linear-gradient(135deg,var(--red),var(--red-deep));color:#fff;border-radius:14px;padding:16px 18px;margin-bottom:12px}
+.bbig{font-size:30px;font-weight:800;line-height:1}
+.bhead .blab{font-size:12px;opacity:.9;text-transform:uppercase;letter-spacing:.5px}
+.bhead .note{color:#ffffffdd}
+.bgrid{display:grid;grid-template-columns:repeat(auto-fit,minmax(180px,1fr));gap:12px}
+.bcard{background:#fff;border:1px solid var(--line);border-top:3px solid var(--red);border-radius:12px;padding:14px}
+.bamt{font-size:22px;font-weight:800;color:var(--red)}
+.bcard .blab{font-weight:700;font-size:13px;margin-top:2px}
+.brow{display:flex;flex-wrap:wrap;gap:8px;margin-top:12px}
+.bchip{font-size:12.5px;font-weight:700;padding:7px 12px;border-radius:20px;border:1px solid var(--line)}
+.bchip.committed{background:#eafaf0;border-color:#bfe9cf;color:#137a3e}
+.bchip.target{background:#fff6f7;border-color:#f3c7cf;color:var(--red-dark)}
 </style>
 </head>
 <body>
@@ -215,6 +227,7 @@ a{color:var(--red)}
 <section class="panel" id="transfers">
   <h2 class="sec">Summer 2026 window</h2>
   <p class="note">Likelihood reflects credibility/consensus of reporting, not a guarantee.</p>
+  <div id="budgetBox"></div>
   <h3 class="sub">Confirmed in</h3><div id="confIn"></div>
   <h3 class="sub">Confirmed out</h3><div id="confOut"></div>
   <div class="two"><div><h3 class="sub">Incoming rumours</h3><div id="rumIn"></div></div>
@@ -241,7 +254,6 @@ a{color:var(--red)}
   <h2 class="sec">World Cup 2026 tracker</h2>
   <div class="callout" id="wcStatus"></div>
   <h3 class="sub">Liverpool players at the tournament</h3><div class="wcgrid" id="wcAt"></div>
-  <h3 class="sub">Watching from home</h3><div id="wcMiss"></div>
   <h3 class="sub">Transfer target in action</h3><div id="wcTarget"></div>
 </section>
 
@@ -319,8 +331,8 @@ function imgFallback(img){img.onerror=null;img.src=img.dataset.init||'';fetchWik
 function fetchWiki(img){const t=img.dataset.wiki;if(!t)return;
   if(t in photoCache){if(photoCache[t]&&img.src.startsWith('data:'))img.src=photoCache[t];return;}
   photoCache[t]=undefined;
-  fetch('https://en.wikipedia.org/api/rest_v1/page/summary/'+encodeURIComponent(t))
-    .then(r=>r.ok?r.json():null).then(d=>{const u=d&&d.thumbnail&&d.thumbnail.source;photoCache[t]=u||null;
+  fetch('https://en.wikipedia.org/w/api.php?action=query&format=json&prop=pageimages&piprop=thumbnail&pithumbsize=320&redirects=1&origin=*&titles='+encodeURIComponent(t))
+    .then(r=>r.ok?r.json():null).then(d=>{let u=null;try{const pg=d.query.pages,k=Object.keys(pg)[0];u=pg[k].thumbnail&&pg[k].thumbnail.source;}catch(e){}photoCache[t]=u||null;
       if(u)document.querySelectorAll('img.av[data-wiki="'+(window.CSS&&CSS.escape?CSS.escape(t):t)+'"]').forEach(i=>{if(i.src.startsWith('data:'))i.src=u;});})
     .catch(()=>{photoCache[t]=null;});
 }
@@ -404,6 +416,16 @@ function renderTransfers(){
   document.getElementById("results").innerHTML=(REF.results||[]).map(r=>`<div class="result"><span class="comp">${r.comp}</span><span>${r.opp}</span><span class="res-${r.r}" style="margin-left:auto;font-weight:700">${r.score}</span></div>`).join("");
   document.getElementById("fixtures").innerHTML=(REF.fixtures||[]).map(f=>`<div class="result"><span class="comp">${f.date}</span><span>${f.opp}</span></div>`).join("");
 }
+function renderBudget(){
+  const b=REF.budget;const box=document.getElementById("budgetBox");if(!b||!box){return;}
+  const inflow=(b.inflows||[]).map(f=>`<div class="bcard"><div class="bamt">${f.amount}</div><div class="blab">${f.label}</div><div class="note" style="margin-top:4px">${f.note}</div></div>`).join("");
+  box.innerHTML=`<h3 class="sub">Projected transfer budget</h3>
+    <div class="bhead"><div><div class="bbig">${b.headline}</div><div class="blab">${b.headlineLabel}</div></div><div class="note" style="max-width:430px">${b.subtitle}</div></div>
+    <div class="bgrid">${inflow}</div>
+    <div class="brow">${b.committed?`<span class="bchip committed">Committed · ${b.committed.label} ${b.committed.amount}</span>`:''}${b.marquee?`<span class="bchip target">Top target · ${b.marquee.label} ${b.marquee.amount}</span>`:''}</div>
+    <div class="callout" style="margin-top:12px"><b>Verdict —</b> ${b.verdict}</div>
+    <p class="note">${b.note}</p>`;
+}
 function renderNews(payload){
   const items=(payload&&payload.items)||[];
   document.getElementById("updated").textContent="Updated "+((payload&&payload.updated)||(REF.meta&&REF.meta.as_of)||"");
@@ -424,9 +446,8 @@ function renderInjuries(){
 }
 function renderWC(){
   const wc=REF.worldcup||{};document.getElementById("wcStatus").innerHTML=`<b>Status —</b> ${wc.status||''}`;
-  const sq=REF.squad||[];const at=sq.filter(p=>p.wc&&p.wc.at);const miss=sq.filter(p=>p.wc&&!p.wc.at);
+  const sq=REF.squad||[];const at=sq.filter(p=>p.wc&&p.wc.at);
   document.getElementById("wcAt").innerHTML=at.map(p=>`<div class="wccard">${av(p.name,'md')}<div><div class="t">${surname(p.name)}</div><div class="team">${p.wc.team}</div><div class="nt">${p.wc.note}</div></div></div>`).join("")||'<div class="note">None.</div>';
-  document.getElementById("wcMiss").innerHTML=miss.map(p=>`<span class="miss">${av(p.name,'sm')}<b>${surname(p.name)}</b> — ${p.wc.note}</span>`).join("");
   const tg=wc.target;
   document.getElementById("wcTarget").innerHTML=tg?`<div class="wccard" style="border-left-color:var(--red)">${av(tg.who,'md')}<div><div class="t">${tg.who} <span class="badge ${tg.p}">${tg.p}</span></div><div class="team">${tg.team}</div><div class="nt">${tg.note}</div></div></div>`:'';
 }
@@ -452,10 +473,9 @@ function renderPitch(){
   const slots=(REF.formations||{})[formation]||[];
   document.getElementById("pitch").innerHTML=`<div class="pwm">${logoHTML('lfclogo')}</div>`+slots.map((s,i)=>{
     const p=playerByName(lineup[i]);const col=p?fitColor[p.fit]:"#999";
-    const src=p?(photoFor(p.name)||photoCache[wikiTitle(p.name)]||initialsURI(p.name)):'';
-    const bg=src?`background-image:url('${src}')`:'';
+    const inner=p?`<img class="av" style="width:100%;height:100%;border:none;box-shadow:none;border-radius:0" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" src="${photoFor(p.name)||initialsURI(p.name)}" onerror="imgFallback(this)" alt="">`:'+';
     return `<div class="token ${activeSlot===i?'active':''}" data-i="${i}" style="left:${s.x}%;top:${s.y}%">
-      <div class="circle" style="border-color:${col};${bg}">${p?'':'+'}</div>
+      <div class="circle" style="border-color:${col}">${inner}</div>
       <div class="nm">${p?surname(p.name):'—'}</div><div class="poslbl">${s.lbl}</div></div>`;}).join("");
   document.querySelectorAll("#pitch .token").forEach(t=>t.addEventListener("click",()=>{activeSlot=+t.dataset.i;renderPitch();renderBench();}));
   const picks=Object.values(lineup).map(playerByName).filter(Boolean);
@@ -552,7 +572,7 @@ Promise.all([
   fetch("./data/reference.json").then(r=>r.json()).catch(()=>({})),
   fetch("./data/news.json").then(r=>r.json()).catch(()=>({items:[]}))
 ]).then(([ref,news])=>{REF=ref||{};
-  renderOverview();renderSquad();renderDepth();renderFit();renderTransfers();renderNews(news);renderInjuries();renderWC();renderHierarchy();initLineup();
+  renderOverview();renderSquad();renderDepth();renderFit();renderTransfers();renderBudget();renderNews(news);renderInjuries();renderWC();renderHierarchy();initLineup();
   document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
   loadPhotos();
 }).catch(()=>{document.getElementById("overviewBody").innerHTML='<div class="note">Could not load data files. On GitHub Pages this loads automatically.</div>';});
