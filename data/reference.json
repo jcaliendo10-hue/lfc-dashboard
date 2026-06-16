@@ -3,76 +3,131 @@
     "season": "2025/26 review & Summer 2026 window",
     "as_of": "16 Jun 2026",
     "head_coach": "Andoni Iraola",
+    "system": "4-2-3-1 · high hybrid press · vertical, transition-heavy",
     "league_finish": "5th",
     "points": 60,
     "record": [17, 9, 12],
     "pl_goals_for": 57,
     "pl_goals_against": 47
   },
+  "iraola": {
+    "summary": "High-intensity, vertical 'controlled chaos'. Base 4-2-3-1 (flexes to 4-3-3). Signature is a hybrid press — zonal shape that springs man-to-man traps — plus an aggressive high line, immediate counterpress and direct, wide attacking. Among the most physically demanding systems in Europe (Bournemouth led the PL for distance covered and lowest PPDA).",
+    "needs": [
+      ["Goalkeeper", "Ball-playing libero: calm vs the press, brave off his line, accurate short and long."],
+      ["Centre-backs", "Front-foot defenders who step into midfield and recover quickly behind a high line; line-breaking passers."],
+      ["Full-backs", "Tireless two-way engines that stretch build-up then attack the byline; second-ball hunters."],
+      ["Double pivot", "Do-everything engine room: beat the press, win second balls, counterpress instantly. Athleticism non-negotiable."],
+      ["Wingers", "Pace, 1v1 directness and aggressive off-ball running/pressing."],
+      ["No. 10 / striker", "Thrive in pockets and on second balls; striker runs in behind, holds up and floods the box."]
+    ]
+  },
   "squad": [
-    {"num": 1, "name": "Alisson Becker", "posGroup": "GK", "role": "Goalkeeper", "age": 33, "nat": "BRA", "contract": 2027},
-    {"num": 25, "name": "Giorgi Mamardashvili", "posGroup": "GK", "role": "Goalkeeper", "age": 25, "nat": "GEO", "contract": 2031},
-    {"num": 41, "name": "Armin Pécsi", "posGroup": "GK", "role": "Goalkeeper", "age": 21, "nat": "HUN", "contract": 2030},
-    {"num": 2, "name": "Joe Gomez", "posGroup": "DEF", "role": "CB / RB", "age": 29, "nat": "ENG", "contract": 2027},
-    {"num": 4, "name": "Virgil van Dijk (c)", "posGroup": "DEF", "role": "Centre-back", "age": 34, "nat": "NED", "contract": 2027},
-    {"num": 6, "name": "Milos Kerkez", "posGroup": "DEF", "role": "Left-back", "age": 22, "nat": "HUN", "contract": 2030},
-    {"num": 12, "name": "Conor Bradley", "posGroup": "DEF", "role": "Right-back", "age": 22, "nat": "NIR", "contract": 2029},
-    {"num": 15, "name": "Giovanni Leoni", "posGroup": "DEF", "role": "Centre-back", "age": 19, "nat": "ITA", "contract": 2031},
-    {"num": 30, "name": "Jeremie Frimpong", "posGroup": "DEF", "role": "RB / RWB", "age": 25, "nat": "NED", "contract": 2030},
-    {"num": 47, "name": "Calvin Ramsay", "posGroup": "DEF", "role": "Right-back", "age": 22, "nat": "SCO", "contract": 2027},
-    {"num": 3, "name": "Wataru Endo", "posGroup": "MID", "role": "Defensive mid", "age": 33, "nat": "JPN", "contract": 2027},
-    {"num": 7, "name": "Florian Wirtz", "posGroup": "MID", "role": "Attacking mid", "age": 23, "nat": "GER", "contract": 2030},
-    {"num": 8, "name": "Dominik Szoboszlai", "posGroup": "MID", "role": "CM / AM", "age": 25, "nat": "HUN", "contract": 2028},
-    {"num": 10, "name": "Alexis Mac Allister", "posGroup": "MID", "role": "Central mid", "age": 27, "nat": "ARG", "contract": 2028},
-    {"num": 17, "name": "Curtis Jones", "posGroup": "MID", "role": "Central mid", "age": 25, "nat": "ENG", "contract": 2027},
-    {"num": 38, "name": "Ryan Gravenberch", "posGroup": "MID", "role": "CM / DM", "age": 24, "nat": "NED", "contract": 2028},
-    {"num": 43, "name": "Stefan Bajcetic", "posGroup": "MID", "role": "Defensive mid", "age": 21, "nat": "ESP", "contract": 2027},
-    {"num": 42, "name": "Trey Nyoni", "posGroup": "MID", "role": "Central mid", "age": 18, "nat": "ENG", "contract": 2028},
-    {"num": 9, "name": "Alexander Isak", "posGroup": "FWD", "role": "Striker", "age": 26, "nat": "SWE", "contract": 2031},
-    {"num": 14, "name": "Federico Chiesa", "posGroup": "FWD", "role": "RW / Forward", "age": 28, "nat": "ITA", "contract": 2028},
-    {"num": 18, "name": "Cody Gakpo", "posGroup": "FWD", "role": "LW / Striker", "age": 27, "nat": "NED", "contract": 2030},
-    {"num": 22, "name": "Hugo Ekitiké", "posGroup": "FWD", "role": "Striker", "age": 23, "nat": "FRA", "contract": 2031},
-    {"num": 73, "name": "Rio Ngumoha", "posGroup": "FWD", "role": "Forward", "age": 17, "nat": "ENG", "contract": 2026},
-    {"num": 76, "name": "Jayden Danns", "posGroup": "FWD", "role": "Forward", "age": 20, "nat": "ENG", "contract": 2027},
-    {"num": 49, "name": "Kaide Gordon", "posGroup": "FWD", "role": "Forward", "age": 21, "nat": "ENG", "contract": 2027}
+    {"num": 1, "name": "Alisson Becker", "posGroup": "GK", "slot": "GK", "depth": 1, "age": 33, "nat": "BRA", "contract": 2027, "fit": "Excellent", "fitNote": "Ideal spare-man libero — elite distribution short and long, calm under the press.", "injury": null, "wc": {"team": "Brazil", "at": true, "note": "1-1 draw vs Morocco; group stage"}},
+    {"num": 25, "name": "Giorgi Mamardashvili", "posGroup": "GK", "slot": "GK", "depth": 2, "age": 25, "nat": "GEO", "contract": 2031, "fit": "Good", "fitNote": "Modern ball-playing keeper; strong competition/cover.", "injury": null, "wc": {"team": "Georgia", "at": false, "note": "Georgia did not qualify"}},
+    {"num": 41, "name": "Armin Pécsi", "posGroup": "GK", "slot": "GK", "depth": 3, "age": 21, "nat": "HUN", "contract": 2030, "fit": "Average", "fitNote": "Young third-choice; one for the future.", "injury": null, "wc": {"team": "Hungary", "at": false, "note": "Hungary did not qualify"}},
+
+    {"num": 4, "name": "Virgil van Dijk (c)", "posGroup": "DEF", "slot": "CB", "depth": 1, "age": 34, "nat": "NED", "contract": 2027, "fit": "Excellent", "fitNote": "Fits the line-breaking 'Senesi' role; only question is pace behind a high line.", "injury": null, "wc": {"team": "Netherlands", "at": true, "note": "Scored vs Japan (2-2); group stage"}},
+    {"num": 99, "name": "Jérémy Jacquet", "posGroup": "DEF", "slot": "CB", "depth": 2, "age": 20, "nat": "FRA", "contract": 2031, "fit": "Good", "fitNote": "New £55m signing from Rennes; athletic front-foot CB. Recovering from March shoulder surgery.", "injury": "Shoulder surgery (Mar 2026) — expected fit for pre-season", "wc": null, "new": true},
+    {"num": 2, "name": "Joe Gomez", "posGroup": "DEF", "slot": "CB", "depth": 3, "age": 29, "nat": "ENG", "contract": 2027, "fit": "Average", "fitNote": "Versatile and athletic but injury record makes him depth, not a cornerstone.", "injury": null, "wc": {"team": "England", "at": false, "note": "Not selected"}},
+    {"num": 15, "name": "Giovanni Leoni", "posGroup": "DEF", "slot": "CB", "depth": 4, "age": 19, "nat": "ITA", "contract": 2031, "fit": "Average", "fitNote": "Composed, progressive — future depth; unproven at this intensity.", "injury": null, "wc": null},
+    {"num": 30, "name": "Jeremie Frimpong", "posGroup": "DEF", "slot": "RB", "depth": 1, "age": 25, "nat": "NED", "contract": 2030, "fit": "Good", "fitNote": "Blistering pace and run-timing made for the attacking-FB role; balance/injury caveat.", "injury": null, "wc": {"team": "Netherlands", "at": false, "note": "Left out of NED squad (injury record)"}},
+    {"num": 12, "name": "Conor Bradley", "posGroup": "DEF", "slot": "RB", "depth": 2, "age": 22, "nat": "NIR", "contract": 2029, "fit": "Good", "fitNote": "Sound two-way RB with pace and work-rate; good for balance.", "injury": "Knee (Jan 2026) — recovery monitored into pre-season", "wc": {"team": "N. Ireland", "at": false, "note": "Did not qualify"}},
+    {"num": 47, "name": "Calvin Ramsay", "posGroup": "DEF", "slot": "RB", "depth": 3, "age": 22, "nat": "SCO", "contract": 2027, "fit": "Average", "fitNote": "Fringe RB depth.", "injury": null, "wc": null},
+    {"num": 6, "name": "Milos Kerkez", "posGroup": "DEF", "slot": "LB", "depth": 1, "age": 22, "nat": "HUN", "contract": 2030, "fit": "Excellent", "fitNote": "Arguably the best fit — thrived under Iraola at Bournemouth as a marauding LB.", "injury": null, "wc": {"team": "Hungary", "at": false, "note": "Hungary did not qualify"}},
+
+    {"num": 38, "name": "Ryan Gravenberch", "posGroup": "MID", "slot": "DM", "depth": 1, "age": 24, "nat": "NED", "contract": 2028, "fit": "Excellent", "fitNote": "The 'Tyler Adams' of the pivot — driving carries and physicality Iraola loves.", "injury": null, "wc": {"team": "Netherlands", "at": true, "note": "Assisted Van Dijk vs Japan (2-2)"}},
+    {"num": 3, "name": "Wataru Endo", "posGroup": "MID", "slot": "DM", "depth": 2, "age": 33, "nat": "JPN", "contract": 2027, "fit": "Question", "fitNote": "Pure screener; lacks the two-way range Iraola's pivot demands.", "injury": null, "wc": {"team": "Japan", "at": true, "note": "Captained 2-2 draw vs Netherlands"}},
+    {"num": 43, "name": "Stefan Bajcetic", "posGroup": "MID", "slot": "DM", "depth": 3, "age": 21, "nat": "ESP", "contract": 2027, "fit": "Average", "fitNote": "Right profile but injuries leave him as long-term depth.", "injury": "Recurring injury setbacks — long-term concern", "wc": null},
+    {"num": 8, "name": "Dominik Szoboszlai", "posGroup": "MID", "slot": "CM", "depth": 1, "age": 25, "nat": "HUN", "contract": 2028, "fit": "Excellent", "fitNote": "A 'perfect fit' — receives between lines, threads passes, presses intensely.", "injury": null, "wc": {"team": "Hungary", "at": false, "note": "Hungary did not qualify"}},
+    {"num": 10, "name": "Alexis Mac Allister", "posGroup": "MID", "slot": "CM", "depth": 2, "age": 27, "nat": "ARG", "contract": 2028, "fit": "Question", "fitNote": "Technically superb but physical output over 90 mins is questioned for this pivot.", "injury": null, "wc": {"team": "Argentina", "at": true, "note": "Opener vs Algeria 17 Jun (not yet played)"}},
+    {"num": 17, "name": "Curtis Jones", "posGroup": "MID", "slot": "CM", "depth": 3, "age": 25, "nat": "ENG", "contract": 2027, "fit": "Good", "fitNote": "Energetic, press-resistant two-way profile fits the 8 role.", "injury": null, "wc": {"team": "England", "at": false, "note": "Not selected"}},
+    {"num": 42, "name": "Trey Nyoni", "posGroup": "MID", "slot": "CM", "depth": 4, "age": 18, "nat": "ENG", "contract": 2028, "fit": "Average", "fitNote": "Highly rated teenager; squad depth/future.", "injury": null, "wc": null},
+    {"num": 7, "name": "Florian Wirtz", "posGroup": "MID", "slot": "AM", "depth": 1, "age": 23, "nat": "GER", "contract": 2030, "fit": "Good", "fitNote": "Earmarked for the hybrid No.10 role; chaos-and-pockets system seen as the platform to unlock him.", "injury": null, "wc": {"team": "Germany", "at": true, "note": "Assisted in 7-1 win vs Curaçao"}},
+
+    {"num": 9, "name": "Alexander Isak", "posGroup": "FWD", "slot": "ST", "depth": 1, "age": 26, "nat": "SWE", "contract": 2031, "fit": "Excellent", "fitNote": "A 'dream No.9' — runs in behind, hold-up, instinctive finishing and link play.", "injury": null, "wc": {"team": "Sweden", "at": true, "note": "Scored in 5-1 win vs Tunisia; Sweden top Group F"}},
+    {"num": 22, "name": "Hugo Ekitiké", "posGroup": "FWD", "slot": "ST", "depth": 2, "age": 23, "nat": "FRA", "contract": 2031, "fit": "Good", "fitNote": "Mobile, direct forward who runs channels; strong alternative to Isak when fit.", "injury": "Ruptured Achilles — long-term, rehab into start of 2026/27", "wc": {"team": "France", "at": false, "note": "Out injured (Achilles)"}},
+    {"num": 76, "name": "Jayden Danns", "posGroup": "FWD", "slot": "ST", "depth": 3, "age": 20, "nat": "ENG", "contract": 2027, "fit": "Average", "fitNote": "Academy striker depth.", "injury": null, "wc": null},
+    {"num": 18, "name": "Cody Gakpo", "posGroup": "FWD", "slot": "LW", "depth": 1, "age": 27, "nat": "NED", "contract": 2030, "fit": "Question", "fitNote": "Role-dependent: can work as a wide target-man, but the system's demand for pace/directness can expose him. Linked with Spurs.", "injury": null, "wc": {"team": "Netherlands", "at": true, "note": "In squad; 2-2 vs Japan"}},
+    {"num": 14, "name": "Federico Chiesa", "posGroup": "FWD", "slot": "RW", "depth": 1, "age": 28, "nat": "ITA", "contract": 2028, "fit": "Average", "fitNote": "Directness suits the winger brief but durability is the concern; LFC chasing faster wingers.", "injury": null, "wc": {"team": "Italy", "at": false, "note": "Italy did not qualify"}},
+    {"num": 73, "name": "Rio Ngumoha", "posGroup": "FWD", "slot": "RW", "depth": 2, "age": 17, "nat": "ENG", "contract": 2026, "fit": "Good", "fitNote": "Pace and dribbling fit the isolate-and-attack plan; young but exciting, especially post-Salah.", "injury": null, "wc": null},
+    {"num": 49, "name": "Kaide Gordon", "posGroup": "FWD", "slot": "RW", "depth": 3, "age": 21, "nat": "ENG", "contract": 2027, "fit": "Average", "fitNote": "Talented but injury-hampered; depth.", "injury": null, "wc": null}
   ],
-  "loans": [
-    {"name": "Harvey Elliott", "posGroup": "MID", "club": "Aston Villa", "notes": "Obligation-to-buy reportedly triggered; likely permanent exit"},
-    {"name": "Kostas Tsimikas", "posGroup": "DEF", "club": "AS Roma", "notes": "Returning from loan; weighing exit behind Kerkez"},
-    {"name": "Vítězslav Jaroš", "posGroup": "GK", "club": "Ajax", "notes": "Season loan; LFC contract expires Jun 2026"},
-    {"name": "Harvey Davies", "posGroup": "GK", "club": "Crawley Town", "notes": "Season loan (League Two)"},
-    {"name": "James McConnell", "posGroup": "MID", "club": "Ajax", "notes": "Season loan"},
-    {"name": "Luca Stephenson", "posGroup": "MID", "club": "Dundee United", "notes": "Season loan (Scotland)"},
-    {"name": "Owen Beck", "posGroup": "DEF", "club": "Derby County", "notes": "Loan reportedly cut short (injury) — verify status"},
-    {"name": "Lewis Koumas", "posGroup": "FWD", "club": "Hull City", "notes": "Moved on loan in January window"},
-    {"name": "Luke Chambers", "posGroup": "DEF", "club": "Charlton Athletic", "notes": "January loan"},
-    {"name": "James Balagizi", "posGroup": "MID", "club": "Forest Green Rovers", "notes": "Season loan (National League)"}
+  "formations": {
+    "4-2-3-1": [
+      {"slot": "GK", "x": 50, "y": 92, "lbl": "GK"},
+      {"slot": "RB", "x": 84, "y": 72, "lbl": "RB"},
+      {"slot": "CB", "x": 62, "y": 78, "lbl": "CB"},
+      {"slot": "CB", "x": 38, "y": 78, "lbl": "CB"},
+      {"slot": "LB", "x": 16, "y": 72, "lbl": "LB"},
+      {"slot": "DM", "x": 62, "y": 56, "lbl": "CM"},
+      {"slot": "CM", "x": 38, "y": 56, "lbl": "CM"},
+      {"slot": "RW", "x": 82, "y": 34, "lbl": "RW"},
+      {"slot": "AM", "x": 50, "y": 38, "lbl": "AM"},
+      {"slot": "LW", "x": 18, "y": 34, "lbl": "LW"},
+      {"slot": "ST", "x": 50, "y": 16, "lbl": "ST"}
+    ],
+    "4-3-3": [
+      {"slot": "GK", "x": 50, "y": 92, "lbl": "GK"},
+      {"slot": "RB", "x": 84, "y": 72, "lbl": "RB"},
+      {"slot": "CB", "x": 62, "y": 78, "lbl": "CB"},
+      {"slot": "CB", "x": 38, "y": 78, "lbl": "CB"},
+      {"slot": "LB", "x": 16, "y": 72, "lbl": "LB"},
+      {"slot": "DM", "x": 50, "y": 58, "lbl": "DM"},
+      {"slot": "CM", "x": 70, "y": 46, "lbl": "CM"},
+      {"slot": "AM", "x": 30, "y": 46, "lbl": "CM"},
+      {"slot": "RW", "x": 82, "y": 24, "lbl": "RW"},
+      {"slot": "ST", "x": 50, "y": 16, "lbl": "ST"},
+      {"slot": "LW", "x": 18, "y": 24, "lbl": "LW"}
+    ],
+    "4-4-2": [
+      {"slot": "GK", "x": 50, "y": 92, "lbl": "GK"},
+      {"slot": "RB", "x": 84, "y": 72, "lbl": "RB"},
+      {"slot": "CB", "x": 62, "y": 78, "lbl": "CB"},
+      {"slot": "CB", "x": 38, "y": 78, "lbl": "CB"},
+      {"slot": "LB", "x": 16, "y": 72, "lbl": "LB"},
+      {"slot": "RW", "x": 82, "y": 48, "lbl": "RM"},
+      {"slot": "DM", "x": 60, "y": 50, "lbl": "CM"},
+      {"slot": "CM", "x": 40, "y": 50, "lbl": "CM"},
+      {"slot": "LW", "x": 18, "y": 48, "lbl": "LM"},
+      {"slot": "ST", "x": 60, "y": 18, "lbl": "ST"},
+      {"slot": "AM", "x": 40, "y": 18, "lbl": "ST"}
+    ]
+  },
+  "injuries": [
+    {"player": "Hugo Ekitiké", "issue": "Ruptured Achilles (surgery)", "status": "Long-term — rehab expected into the start of 2026/27", "severity": "Severe"},
+    {"player": "Stefan Bajcetic", "issue": "Recurring muscular setbacks", "status": "Long-standing concern; minimal 2025/26 minutes", "severity": "Ongoing"},
+    {"player": "Conor Bradley", "issue": "Knee (sustained Jan 2026)", "status": "Recovery being monitored ahead of pre-season", "severity": "Moderate"},
+    {"player": "Jérémy Jacquet", "issue": "Shoulder surgery (Mar 2026)", "status": "Incoming signing; expected fully fit for pre-season", "severity": "Recovering"},
+    {"player": "Alexander Isak", "issue": "Ankle/fibula fracture (Dec 2025)", "status": "Recovered — back training and playing at the World Cup", "severity": "Resolved"}
   ],
+  "worldcup": {
+    "status": "Group stage — tournament began 11 Jun 2026 (USA / Canada / Mexico). 48 teams, 12 groups; group games run to 27 Jun.",
+    "target": {"who": "Yan Diomande", "team": "Ivory Coast", "note": "Liverpool's priority winger target. Tormented Ecuador in a 1-0 win; faces Wirtz's Germany on 20 Jun.", "p": "High"}
+  },
   "transfers": {
     "in": [
-      {"who": "Jeremy Jacquet", "meta": "CB · from Rennes · age 20", "fee": "£55m (+£5m)"},
+      {"who": "Jérémy Jacquet", "meta": "CB · from Rennes · age 20 (agreed Feb, joins now)", "fee": "£55m (+£5m)"},
       {"who": "Ifeanyi Ndukwe", "meta": "Defender · from Austria Wien · age 18", "fee": "£2.6m"}
     ],
     "out": [
       {"who": "Mohamed Salah", "meta": "RW · released (free) · 257 goals in 442 games", "fee": "Free"},
-      {"who": "Ibrahima Konaté", "meta": "CB · released (free) · agreed terms with Real Madrid", "fee": "Free"},
-      {"who": "Andy Robertson", "meta": "LB · free · to Tottenham after 9 years", "fee": "Free"},
-      {"who": "Rhys Williams", "meta": "CB · academy graduate departing", "fee": "—"}
+      {"who": "Ibrahima Konaté", "meta": "CB · free → agreed move to Real Madrid", "fee": "Free"},
+      {"who": "Andy Robertson", "meta": "LB · free → Tottenham (confirmed)", "fee": "Free"},
+      {"who": "Rhys Williams", "meta": "CB · released", "fee": "Free"}
     ],
     "rumIn": [
-      {"who": "Yan Diomande", "meta": "RW · RB Leipzig · 19", "fee": "~€112–120m", "p": "High"},
-      {"who": "Alex Scott", "meta": "CM · Bournemouth · 22 (Iraola link)", "fee": "undisclosed", "p": "Medium"},
-      {"who": "Jorrel Hato", "meta": "LB/CB · Ajax · 19", "fee": "undisclosed", "p": "Low"},
-      {"who": "Lucas Chevalier", "meta": "GK · PSG · 24", "fee": "undisclosed", "p": "Low"},
-      {"who": "Nico Schlotterbeck", "meta": "CB · Borussia Dortmund", "fee": "undisclosed", "p": "Low"}
+      {"who": "Yan Diomande", "meta": "RW · RB Leipzig · 19 · first official bid lodged ~11 Jun", "fee": "~€130m", "p": "High"},
+      {"who": "Ayyoub Bouaddi", "meta": "DM · Lille · 'concrete steps' reported", "fee": "undisclosed", "p": "Medium"},
+      {"who": "Gonçalo Inácio", "meta": "CB · Sporting · priority Konaté replacement", "fee": "~£55m clause", "p": "Medium"},
+      {"who": "Bradley Barcola", "meta": "LW · PSG · secondary target", "fee": "undisclosed", "p": "Medium"},
+      {"who": "Francisco Trincão", "meta": "RW · Sporting · Diomande alternative", "fee": "~£50m clause", "p": "Low"}
     ],
     "rumOut": [
-      {"who": "Darwin Núñez", "meta": "CF · Saudi Pro League interest", "fee": "~£90m", "p": "High"},
-      {"who": "Federico Chiesa", "meta": "RW · seeking minutes (World Cup year)", "fee": "undisclosed", "p": "High"},
-      {"who": "Curtis Jones", "meta": "CM · Inter Milan negotiating", "fee": "LFC want £35m", "p": "Medium"},
-      {"who": "Cody Gakpo", "meta": "LW · Tottenham preparing offer", "fee": "~£75m", "p": "Medium"},
-      {"who": "Alexis Mac Allister", "meta": "CM · Real/Atlético links", "fee": "undisclosed", "p": "Medium"},
-      {"who": "Kostas Tsimikas", "meta": "LB · limited minutes", "fee": "undisclosed", "p": "Medium"}
+      {"who": "Cody Gakpo", "meta": "LW · Tottenham preparing a big offer", "fee": "€45–85m", "p": "High"},
+      {"who": "Curtis Jones", "meta": "CM · Inter Milan (apart on price)", "fee": "LFC want £35m", "p": "Medium"},
+      {"who": "Virgil van Dijk", "meta": "CB · Galatasaray interest; LFC won't sell", "fee": "low/free", "p": "Low"},
+      {"who": "Rio Ngumoha", "meta": "RW · Bayern keen on the teenager", "fee": "undisclosed", "p": "Low"},
+      {"who": "Federico Chiesa", "meta": "RW · seeking regular minutes", "fee": "undisclosed", "p": "Medium"}
     ]
   },
   "results": [
@@ -90,5 +145,5 @@
   ],
   "scorers": [["Ekitiké", 17], ["Szoboszlai", 12], ["Salah", 12], ["Gakpo", 8], ["Wirtz", 7], ["Van Dijk", 6], ["Mac Allister", 5], ["Gravenberch", 5]],
   "assists": [["Salah", 7], ["Wirtz", 5], ["Szoboszlai", 5], ["Ekitiké", 4], ["Mac Allister", 3], ["Gakpo", 3]],
-  "apps": [["Van Dijk", 51], ["Mac Allister", 51], ["Szoboszlai", 49], ["Gakpo", 47], ["Konaté", 47], ["Gravenberch", 46], ["Wirtz", 45], ["Jones", 45]]
+  "apps": [["Van Dijk", 51], ["Mac Allister", 51], ["Szoboszlai", 49], ["Gakpo", 47], ["Gravenberch", 46], ["Wirtz", 45], ["Jones", 45], ["Kerkez", 44]]
 }

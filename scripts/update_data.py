@@ -2,9 +2,10 @@
 """
 Liverpool FC dashboard — data updater.
 
-Scrapes Liverpool news from multiple RSS feeds, scores each story by
-(1) source credibility and (2) relevance, ranks them, and writes:
-  - data/news.json          (consumed by the dashboard)
+Scrapes Liverpool news from across the web (direct outlet RSS + Google News
+search feeds that aggregate hundreds of sources and journalists), scores each
+story by (1) SOURCE CREDIBILITY/ACCURACY and (2) RELEVANCE, ranks them, and writes:
+  - data/news.json           (consumed by the dashboard)
   - data/liverpool_data.xlsx (the Excel "backend" / source of truth)
 
 Run locally:  python scripts/update_data.py
@@ -19,6 +20,7 @@ import sys
 import datetime as dt
 from pathlib import Path
 from html import unescape
+from urllib.parse import quote_plus
 
 try:
     import feedparser
@@ -30,48 +32,78 @@ DATA = ROOT / "data"
 DATA.mkdir(exist_ok=True)
 
 # ---------------------------------------------------------------------------
-# SOURCE CREDIBILITY MODEL
-# credibility: 1-10 accuracy/reliability weight for the outlet.
-# lfc_specific: True if the whole feed is already Liverpool-only (so every
-#               item is relevant); False feeds are filtered for "liverpool".
+# 1. SOURCE CREDIBILITY / ACCURACY MAP
+# A reliability score (1-10) per outlet/domain. Used to weight every story,
+# whether it comes from a direct feed or is surfaced via Google News.
+# Tier 1 (9-10): primary, rarely-wrong sources & top reporters' outlets.
+# Tier 2 (7-8):  strong national media.
+# Tier 3 (5-6):  reputable fan/aggregator sites.
+# Tier 4 (3-4):  tabloids / heavy-aggregation / speculation.
 # ---------------------------------------------------------------------------
-SOURCES = [
-    # Tier 1 — most reliable
-    {"name": "BBC Sport",        "credibility": 10, "lfc_specific": True,
-     "url": "https://feeds.bbci.co.uk/sport/football/teams/liverpool/rss.xml"},
-    {"name": "The Guardian",     "credibility": 10, "lfc_specific": True,
-     "url": "https://www.theguardian.com/football/liverpool/rss"},
-    {"name": "Liverpool FC (official)", "credibility": 10, "lfc_specific": True,
-     "url": "https://www.liverpoolfc.com/news.rss"},
-    # Tier 2 — strong national outlets (general feeds, filtered for Liverpool)
-    {"name": "Sky Sports",       "credibility": 9, "lfc_specific": False,
-     "url": "https://www.skysports.com/rss/12040"},
-    {"name": "ESPN FC",          "credibility": 8, "lfc_specific": False,
-     "url": "https://www.espn.com/espn/rss/soccer/news"},
-    {"name": "Liverpool Echo",   "credibility": 7, "lfc_specific": True,
-     "url": "https://www.liverpoolecho.co.uk/all-about/liverpool-fc?service=rss"},
-    # Tier 3 — reputable fan / aggregator sites
-    {"name": "This Is Anfield",  "credibility": 6, "lfc_specific": True,
-     "url": "https://www.thisisanfield.com/feed/"},
-    {"name": "Empire of the Kop","credibility": 5, "lfc_specific": True,
-     "url": "https://www.empireofthekop.com/feed/"},
+CREDIBILITY = {
+    "liverpoolfc.com": 10, "premierleague.com": 10, "uefa.com": 10,
+    "bbc.co.uk": 10, "bbc.com": 10, "theathletic.com": 10, "nytimes.com": 10,
+    "skysports.com": 9, "theguardian.com": 9, "reuters.com": 10, "apnews.com": 10,
+    "espn.com": 8, "espn.co.uk": 8, "thetimes.co.uk": 9, "telegraph.co.uk": 8,
+    "independent.co.uk": 7, "liverpoolecho.co.uk": 7, "goal.com": 6,
+    "football.london": 6, "90min.com": 6, "fabrizioromano.com": 9,
+    "thisisanfield.com": 6, "empireofthekop.com": 5, "anfieldwatch.co.uk": 5,
+    "rousingthekop.com": 5, "caughtoffside.com": 4, "football365.com": 6,
+    "teamtalk.com": 5, "mirror.co.uk": 4, "thesun.co.uk": 4, "dailymail.co.uk": 4,
+    "tribuna.com": 5, "sportsmole.co.uk": 5, "givemesport.com": 5,
+    "footballtransfers.com": 5, "metro.co.uk": 4,
+}
+DEFAULT_CREDIBILITY = 4  # unknown outlet
+
+# Known reliable transfer reporters — a small accuracy boost when named.
+TRUSTED_REPORTERS = ["fabrizio romano", "david ornstein", "ornstein",
+                     "james pearce", "paul joyce", "melissa reddy"]
+
+# ---------------------------------------------------------------------------
+# 2. FEEDS
+# Direct outlet feeds (fast, clean) + Google News search feeds (web-wide:
+# pulls from hundreds of outlets and surfaces individual journalists' reports).
+# Google News items carry their original source, so credibility is scored from
+# the source domain via CREDIBILITY above.
+# ---------------------------------------------------------------------------
+DIRECT_FEEDS = [
+    "https://feeds.bbci.co.uk/sport/football/teams/liverpool/rss.xml",
+    "https://www.theguardian.com/football/liverpool/rss",
+    "https://www.liverpoolfc.com/news.rss",
+    "https://www.thisisanfield.com/feed/",
+    "https://www.empireofthekop.com/feed/",
+    "https://www.liverpoolecho.co.uk/all-about/liverpool-fc?service=rss",
 ]
+
+# Google News RSS search queries — broaden coverage across the whole web.
+GOOGLE_QUERIES = [
+    "Liverpool FC transfer",
+    "Liverpool FC Iraola",
+    "Liverpool FC injury",
+    "Liverpool FC Isak OR Wirtz OR Gakpo",
+    '"Liverpool" Diomande OR Bouaddi OR transfer target',
+    "Liverpool World Cup 2026 player",
+]
+def google_news_url(q):
+    return ("https://news.google.com/rss/search?q="
+            + quote_plus(q + " when:21d")
+            + "&hl=en-GB&gl=GB&ceid=GB:en")
 
 # Relevance keywords (lowercase). Hits add to the relevance score.
 KEYWORDS = [
     "liverpool", "anfield", "iraola", "transfer", "signing", "signs", "deal",
     "contract", "injury", "fixture", "wirtz", "isak", "salah", "van dijk",
     "szoboszlai", "ekitike", "gakpo", "mac allister", "gravenberch", "frimpong",
-    "konate", "robertson", "fsg", "premier league", "champions league",
+    "konate", "robertson", "diomande", "fsg", "premier league", "world cup",
 ]
 
-MAX_ITEMS = 25          # how many ranked stories to keep
-RECENCY_DAYS = 21       # ignore anything older than this
+MAX_ITEMS = 30
+RECENCY_DAYS = 21
 
 
 def clean(text):
     text = unescape(text or "")
-    text = re.sub(r"<[^>]+>", "", text)        # strip HTML tags
+    text = re.sub(r"<[^>]+>", "", text)
     return re.sub(r"\s+", " ", text).strip()
 
 
@@ -83,42 +115,75 @@ def published_dt(entry):
     return dt.datetime.utcnow()
 
 
-def score_item(title, summary, src, age_days):
-    """Return (relevance 0-100, credibility 1-10, composite)."""
+def domain_of(entry, fallback=""):
+    # Google News puts the outlet in entry.source.title; otherwise parse link.
+    src = entry.get("source")
+    if isinstance(src, dict) and src.get("href"):
+        link = src["href"]
+    else:
+        link = entry.get("link", fallback)
+    m = re.search(r"https?://([^/]+)/?", link or "")
+    host = (m.group(1) if m else "").lower().replace("www.", "")
+    return host
+
+
+def credibility_for(host, text):
+    score = DEFAULT_CREDIBILITY
+    for dom, val in CREDIBILITY.items():
+        if host.endswith(dom):
+            score = val
+            break
+    # reporter boost (capped at 10)
+    if any(r in text for r in TRUSTED_REPORTERS):
+        score = min(10, score + 1)
+    return score
+
+
+def source_name(entry, host):
+    src = entry.get("source")
+    if isinstance(src, dict) and src.get("title"):
+        return src["title"]
+    pretty = {
+        "bbc.co.uk": "BBC Sport", "theguardian.com": "The Guardian",
+        "liverpoolfc.com": "Liverpool FC", "thisisanfield.com": "This Is Anfield",
+        "empireofthekop.com": "Empire of the Kop", "liverpoolecho.co.uk": "Liverpool Echo",
+        "skysports.com": "Sky Sports", "espn.com": "ESPN",
+    }
+    for dom, name in pretty.items():
+        if host.endswith(dom):
+            return name
+    return host or "Unknown"
+
+
+def relevance_score(title, summary, age_days):
     hay = (title + " " + summary).lower()
-
-    relevance = 0
-    if src["lfc_specific"] or "liverpool" in hay:
-        relevance += 40
+    rel = 0
+    if "liverpool" in hay:
+        rel += 40
     if "liverpool" in summary.lower():
-        relevance += 10
+        rel += 10
     hits = sum(1 for k in KEYWORDS if k in hay)
-    relevance += min(hits * 5, 30)
-    # recency boost
+    rel += min(hits * 5, 30)
     if age_days <= 1:
-        relevance += 20
+        rel += 20
     elif age_days <= 3:
-        relevance += 12
+        rel += 12
     elif age_days <= 7:
-        relevance += 6
-    relevance = min(relevance, 100)
-
-    cred = src["credibility"]
-    # Blend: relevance weighted by source quality so a strong source
-    # outranks a weak one at equal relevance.
-    composite = round(relevance * (0.5 + 0.5 * cred / 10), 1)
-    return relevance, cred, composite
+        rel += 6
+    return min(rel, 100)
 
 
-def fetch_news():
-    items = []
+def collect():
+    feeds = list(DIRECT_FEEDS) + [google_news_url(q) for q in GOOGLE_QUERIES]
     now = dt.datetime.utcnow()
-    for src in SOURCES:
+    items = []
+    for url in feeds:
         try:
-            feed = feedparser.parse(src["url"])
+            feed = feedparser.parse(url)
         except Exception as e:
-            print(f"  ! {src['name']}: {e}")
+            print(f"  ! feed error {url[:50]}: {e}")
             continue
+        label = "google-news" if "news.google" in url else url.split("//")[1][:28]
         n = 0
         for e in feed.entries:
             title = clean(e.get("title", ""))
@@ -126,47 +191,49 @@ def fetch_news():
             if not title:
                 continue
             hay = (title + " " + summary).lower()
-            if not src["lfc_specific"] and "liverpool" not in hay:
+            if "liverpool" not in hay and "anfield" not in hay:
                 continue
             pub = published_dt(e)
             age = (now - pub).days
-            if age > RECENCY_DAYS:
+            if age > RECENCY_DAYS or age < -1:
                 continue
-            rel, cred, comp = score_item(title, summary, src, age)
+            host = domain_of(e, url)
+            cred = credibility_for(host, hay)
+            rel = relevance_score(title, summary, age)
+            # Accuracy-weighted ranking: relevance scaled by source reliability.
+            composite = round(rel * (0.45 + 0.55 * cred / 10), 1)
             items.append({
                 "headline": title,
                 "summary": summary[:240],
-                "source": src["name"],
+                "source": source_name(e, host),
                 "credibility": cred,
                 "relevance": rel,
-                "rank_score": comp,
+                "rank_score": composite,
                 "date": pub.strftime("%Y-%m-%d"),
                 "url": e.get("link", ""),
             })
             n += 1
-        print(f"  {src['name']}: {n} items")
+        print(f"  {label}: {n} items")
+    return items
 
-    # de-duplicate by normalised headline, keep the highest-scoring copy
+
+def dedupe_and_rank(items):
     items.sort(key=lambda x: x["rank_score"], reverse=True)
-    seen, deduped = set(), []
+    seen, out = set(), []
     for it in items:
-        key = re.sub(r"[^a-z0-9]", "", it["headline"].lower())[:60]
+        key = re.sub(r"[^a-z0-9]", "", it["headline"].lower())[:55]
         if key in seen:
             continue
         seen.add(key)
-        deduped.append(it)
-
-    for i, it in enumerate(deduped, 1):
+        out.append(it)
+    for i, it in enumerate(out, 1):
         it["rank"] = i
-    return deduped[:MAX_ITEMS]
+    return out[:MAX_ITEMS]
 
 
 def load_reference():
-    """Static reference data (squad, transfers, etc.). Edit via Excel or here."""
-    ref_path = DATA / "reference.json"
-    if ref_path.exists():
-        return json.loads(ref_path.read_text(encoding="utf-8"))
-    return {}
+    p = DATA / "reference.json"
+    return json.loads(p.read_text(encoding="utf-8")) if p.exists() else {}
 
 
 def write_excel(news, ref):
@@ -185,52 +252,42 @@ def write_excel(news, ref):
         for r in rows:
             ws.append(r)
         for i, h in enumerate(headers, 1):
-            width = max([len(str(h))] + [len(str(r[i-1])) for r in rows]) if rows else len(h)
-            ws.column_dimensions[chr(64+i)].width = min(width + 3, 60)
+            vals = [len(str(h))] + [len(str(r[i-1])) for r in rows] if rows else [len(str(h))]
+            ws.column_dimensions[chr(64+i)].width = min(max(vals) + 3, 70)
         ws.freeze_panes = "A2"
         ws.auto_filter.ref = ws.dimensions
-        return ws
 
     wb.remove(wb.active)
-
     sheet("News (ranked)",
-          ["Rank", "Date", "Headline", "Source", "Credibility (1-10)",
-           "Relevance (0-100)", "Rank score", "URL"],
+          ["Rank", "Date", "Headline", "Source", "Credibility", "Relevance", "Rank score", "URL"],
           [[n["rank"], n["date"], n["headline"], n["source"], n["credibility"],
             n["relevance"], n["rank_score"], n["url"]] for n in news])
-
-    sheet("Sources",
-          ["Source", "Credibility (1-10)", "Liverpool-only feed", "Feed URL"],
-          [[s["name"], s["credibility"], "Yes" if s["lfc_specific"] else "No", s["url"]]
-           for s in sorted(SOURCES, key=lambda s: -s["credibility"])])
-
+    sheet("Source credibility",
+          ["Domain", "Credibility (1-10)"],
+          [[d, v] for d, v in sorted(CREDIBILITY.items(), key=lambda x: -x[1])])
     if ref.get("squad"):
         sheet("Squad",
-              ["#", "Player", "Position", "Role", "Age", "Nationality", "Contract"],
-              [[p["num"], p["name"], p["posGroup"], p["role"], p["age"], p["nat"], p["contract"]]
-               for p in ref["squad"]])
-    if ref.get("loans"):
-        sheet("Loanees", ["Player", "Position", "Loan club", "Notes"],
-              [[l["name"], l["posGroup"], l["club"], l["notes"]] for l in ref["loans"]])
+              ["#", "Player", "Position", "Slot", "Age", "Nat", "Contract", "Iraola fit", "Injury"],
+              [[p.get("num"), p["name"], p["posGroup"], p.get("slot",""), p["age"], p["nat"],
+                p["contract"], p.get("fit",""), (p.get("injury") or "")] for p in ref["squad"]])
     if ref.get("transfers"):
-        t = ref["transfers"]
-        rows = []
+        t = ref["transfers"]; rows = []
         for c in t.get("in", []):    rows.append(["IN (confirmed)", c["who"], c["meta"], c["fee"], ""])
         for c in t.get("out", []):   rows.append(["OUT (confirmed)", c["who"], c["meta"], c["fee"], ""])
         for c in t.get("rumIn", []): rows.append(["Rumour IN", c["who"], c["meta"], c["fee"], c["p"]])
         for c in t.get("rumOut", []):rows.append(["Rumour OUT", c["who"], c["meta"], c["fee"], c["p"]])
         sheet("Transfers", ["Type", "Player", "Detail", "Fee", "Likelihood"], rows)
-
-    out = DATA / "liverpool_data.xlsx"
-    wb.save(out)
-    print(f"  wrote {out}")
+    if ref.get("injuries"):
+        sheet("Injuries", ["Player", "Issue", "Status", "Severity"],
+              [[i["player"], i["issue"], i["status"], i.get("severity","")] for i in ref["injuries"]])
+    wb.save(DATA / "liverpool_data.xlsx")
+    print(f"  wrote {DATA/'liverpool_data.xlsx'}")
 
 
 def main():
-    print("Fetching Liverpool news feeds...")
-    news = fetch_news()
+    print("Scraping Liverpool news (direct feeds + Google News web-wide)...")
+    news = dedupe_and_rank(collect())
     print(f"Ranked {len(news)} stories.")
-
     ref = load_reference()
     payload = {
         "updated": dt.datetime.utcnow().strftime("%d %b %Y %H:%M UTC"),
@@ -239,12 +296,10 @@ def main():
     }
     (DATA / "news.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"  wrote {DATA/'news.json'}")
-
     try:
         write_excel(news, ref)
     except Exception as e:
         print(f"  ! Excel write failed: {e}")
-
     print("Done.")
 
 
