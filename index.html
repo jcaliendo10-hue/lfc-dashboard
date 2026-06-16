@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Liverpool FC Dashboard</title>
-<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 120'%3E%3Cpath d='M50 4 92 18V62C92 90 73 107 50 116 27 107 8 90 8 62V18Z' fill='%23C8102E' stroke='%23F6EB61' stroke-width='5'/%3E%3Ctext x='50' y='70' font-size='34' font-weight='900' fill='%23fff' text-anchor='middle' font-family='Arial'%3ELFC%3C/text%3E%3C/svg%3E">
+<link rel="icon" type="image/png" href="./assets/lfc-logo.png">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.5.0/dist/chart.umd.js"></script>
 <style>
 :root{--red:#C8102E;--red-dark:#8f0a20;--red-deep:#5c0715;--gold:#ffffff;--gold-d:#e6e6e6;--ink:#1b1b1f;--muted:#6b6b76;--bg:#f4f5f7;--card:#fff;--line:#e6e7eb;--green:#1f9d55;--amber:#e08a00;--grey:#8a8a92}
@@ -55,6 +55,7 @@ tbody tr:hover{background:#fff6f7}
 .av{border-radius:50%;object-fit:cover;object-position:top;background:#fff;flex:0 0 auto;border:2.5px solid var(--red);box-shadow:0 0 0 1px #fff,0 1px 3px rgba(0,0,0,.2)}
 .av.sm{width:32px;height:32px}.av.md{width:42px;height:42px}.av.lg{width:66px;height:66px;border-width:3px}
 .lfclogo{width:100%;height:100%;object-fit:contain}
+img.ico{object-fit:contain;border-radius:3px}
 .named{display:flex;align-items:center;gap:9px}
 .rumor{display:flex;justify-content:space-between;align-items:center;gap:12px;background:#fff;border:1px solid var(--line);border-left:4px solid var(--red);border-radius:12px;padding:11px 14px;margin-bottom:10px}
 .rumor .who{font-weight:700}.rumor .meta{font-size:12px;color:var(--muted);margin-top:2px}
@@ -256,7 +257,7 @@ a{color:var(--red)}
 </section>
 
 <div class="foot"><div class="crestbox" style="width:34px;height:41px" id="footCrest"></div>
-  <div>Auto-updated daily via GitHub Actions — news scraped web-wide and ranked by source accuracy × relevance. Headshots load from Wikipedia (CC-licensed) with a branded fallback. Squad/fit/depth data live in <code>data/reference.json</code> / <code>data/liverpool_data.xlsx</code>. Fit ratings and likelihoods are interpretive. Unofficial fan dashboard — the crest shown is a generic badge, not affiliated with Liverpool FC.</div>
+  <div>Auto-updated daily via GitHub Actions — news scraped web-wide and ranked by source accuracy × relevance. Headshots load from Wikipedia (CC-licensed) with a branded fallback. Squad/fit/depth data live in <code>data/reference.json</code> / <code>data/liverpool_data.xlsx</code>. Fit ratings and likelihoods are interpretive. Unofficial fan dashboard — not affiliated with or endorsed by Liverpool FC.</div>
 </div>
 </div>
 
@@ -334,7 +335,13 @@ window.imgFallback=imgFallback;
 
 /* ---- crest (generic badge in club colours) ---- */
 function crest(){return `<svg viewBox="0 0 100 120" width="100%" height="100%"><defs><linearGradient id="cg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#C8102E"/><stop offset="1" stop-color="#8f0a20"/></linearGradient></defs><path d="M50 3 94 17V63C94 92 74 109 50 117 26 109 6 92 6 63V17Z" fill="url(#cg)" stroke="#F6EB61" stroke-width="4"/><path d="M50 12 86 23V63C86 87 69 102 50 109 31 102 14 87 14 63V23Z" fill="none" stroke="#ffffff55" stroke-width="1.5"/><text x="50" y="58" font-family="Arial" font-size="30" font-weight="900" fill="#fff" text-anchor="middle">LFC</text><text x="50" y="78" font-family="Arial" font-size="10" letter-spacing="1" fill="#F6EB61" text-anchor="middle">EST. 1892</text><path d="M38 86 H62 L58 96 H42 Z" fill="#F6EB61"/></svg>`;}
-function secIco(){return `<svg class="ico" viewBox="0 0 100 120"><path d="M50 3 94 17V63C94 92 74 109 50 117 26 109 6 92 6 63V17Z" fill="#C8102E" stroke="#F6EB61" stroke-width="6"/></svg>`;}
+/* ---- official logo image (red shield is fallback only) ---- */
+function logoHTML(cls){return `<img class="${cls}" src="./assets/lfc-logo.png" alt="Liverpool FC" onerror="lfcFallback(this)">`;}
+function lfcFallback(el){el.onerror=null;
+  if(el.classList.contains('ico')){el.outerHTML=`<svg class="ico" viewBox="0 0 100 120"><path d="M50 3 94 17V63C94 92 74 109 50 117 26 109 6 92 6 63V17Z" fill="#C8102E" stroke="#F6EB61" stroke-width="6"/></svg>`;}
+  else{el.outerHTML=crest();}}
+window.lfcFallback=lfcFallback;
+function secIco(){return logoHTML('ico');}
 
 function surname(n){n=n.replace(' (c)','');const p=n.split(' ');return p.length>1?p.slice(1).join(' '):n;}
 function credColor(c){return c>=9?'#1f9d55':c>=7?'#3b82f6':c>=5?'#e08a00':'#8a8a92';}
@@ -443,7 +450,7 @@ function defaultLineup(){const slots=(REF.formations||{})[formation]||[];const u
 function playerByName(n){return (REF.squad||[]).find(p=>p.name===n);}
 function renderPitch(){
   const slots=(REF.formations||{})[formation]||[];
-  document.getElementById("pitch").innerHTML=`<div class="pwm">${crest()}</div>`+slots.map((s,i)=>{
+  document.getElementById("pitch").innerHTML=`<div class="pwm">${logoHTML('lfclogo')}</div>`+slots.map((s,i)=>{
     const p=playerByName(lineup[i]);const col=p?fitColor[p.fit]:"#999";
     const src=p?(photoFor(p.name)||photoCache[wikiTitle(p.name)]||initialsURI(p.name)):'';
     const bg=src?`background-image:url('${src}')`:'';
@@ -484,7 +491,7 @@ function mountLogo(el){if(!el)return;const img=new Image();img.className='lfclog
   img.src='./assets/lfc-logo.png';}
 mountLogo(document.getElementById("crestBox"));
 mountLogo(document.getElementById("footCrest"));
-document.getElementById("headerWM").innerHTML=crest();
+document.getElementById("headerWM").innerHTML=logoHTML('lfclogo');
 
 /* ---- hover blurbs (tooltips) ---- */
 const tip=document.createElement('div');tip.id='tip';document.body.appendChild(tip);
