@@ -332,7 +332,8 @@ const WIKI={
  "Tom Werner":"Tom Werner","John W. Henry":"John W. Henry","Darwin Núñez":"Darwin Núñez",
  "Gonçalo Inácio":"Gonçalo Inácio","Francisco Trincão":"Francisco Trincão","Ayyoub Bouaddi":"Ayyoub Bouaddi",
  "Yan Diomande":"Yan Diomande","Bradley Barcola":"Bradley Barcola","Andoni Iraola":"Andoni Iraola",
- "Ifeanyi Ndukwe":"","Rhys Williams":"Rhys Williams (footballer, born 2001)"
+ "Ifeanyi Ndukwe":"","Rhys Williams":"Rhys Williams (footballer, born 2001)",
+ "Víctor Muñoz":""
 };
 function wikiTitle(name){const n=name.replace(' (c)','').trim();if(n in WIKI)return WIKI[n];return n.replace(/ /g,'_');}
 function initials(name){const p=name.replace(' (c)','').split(' ').filter(Boolean);return ((p[0]||' ')[0]+(p.length>1?p[p.length-1][0]:(p[0][1]||''))).toUpperCase();}
