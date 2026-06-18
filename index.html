@@ -624,9 +624,9 @@ const RUMOUR_WATCH={
     {who:"Ayyoub Bouaddi",meta:"DM · Lille",fee:"undisclosed",p:"Medium",aliases:["bouaddi"]},
     {who:"Gonçalo Inácio",meta:"CB · Sporting CP",fee:"~£55m clause",p:"Medium",aliases:["inacio","inácio"]},
     {who:"Bradley Barcola",meta:"LW · PSG",fee:"undisclosed",p:"Medium",aliases:["barcola"]},
-    {who:"Alex Scott",meta:"CM · Bournemouth",fee:"undisclosed",p:"Low",aliases:["alex scott"]},
+    {who:"Alex Scott",meta:"CM · Bournemouth · Iraola reunion",fee:"~£50m",p:"Low",aliases:["alex scott"]},
     {who:"Francisco Trincão",meta:"RW · Sporting CP",fee:"~£50m clause",p:"Low",aliases:["trincao","trincão"]},
-    {who:"Darwin Núñez",meta:"ST · Al-Hilal (return talk)",fee:"undisclosed",p:"Low",aliases:["nunez","núñez"]}
+    {who:"Darwin Núñez",meta:"ST · Al-Hilal · return talk",fee:"~£25m",p:"Low",aliases:["nunez","núñez"]}
   ],
   out:[
     {who:"Cody Gakpo",meta:"LW · Tottenham interest",fee:"€45–85m",p:"High",aliases:["gakpo"]},
@@ -890,7 +890,7 @@ const RATINGS={
  "Alexander Isak":[87,130],"Hugo Ekitiké":[83,80],"Jayden Danns":[68,8],"Cody Gakpo":[84,75],
  "Federico Chiesa":[80,25],"Rio Ngumoha":[72,35],"Kaide Gordon":[67,6],"Víctor Muñoz":[78,40]
 };
-const TARGETFEE={"Yan Diomande":112,"Ayyoub Bouaddi":45,"Gonçalo Inácio":50,"Bradley Barcola":70,"Francisco Trincão":42};
+const TARGETFEE={"Yan Diomande":112,"Ayyoub Bouaddi":45,"Gonçalo Inácio":50,"Bradley Barcola":70,"Francisco Trincão":42,"Alex Scott":50,"Darwin Núñez":25};
 function ovrOf(n){if(RATINGS[n])return RATINGS[n][0];const p=findPerson(n);return ({Excellent:84,Good:79,Average:72,Question:70})[p&&p.fit]||72;}
 function valueOf(n){return RATINGS[n]?RATINGS[n][1]:(TARGETFEE[n]||20);}
 function statOf(p,k){const s=p.stats||{};return +(s[k]||0);}

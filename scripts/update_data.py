@@ -371,9 +371,9 @@ RUMOUR_WATCH = {
         {"who": "Ayyoub Bouaddi", "meta": "DM · Lille", "fee": "undisclosed", "p": "Medium", "aliases": ["bouaddi"]},
         {"who": "Gonçalo Inácio", "meta": "CB · Sporting CP", "fee": "~£55m clause", "p": "Medium", "aliases": ["inacio", "inácio"]},
         {"who": "Bradley Barcola", "meta": "LW · PSG", "fee": "undisclosed", "p": "Medium", "aliases": ["barcola"]},
-        {"who": "Alex Scott", "meta": "CM · Bournemouth", "fee": "undisclosed", "p": "Low", "aliases": ["alex scott"]},
+        {"who": "Alex Scott", "meta": "CM · Bournemouth · Iraola reunion", "fee": "~£50m", "p": "Low", "aliases": ["alex scott"]},
         {"who": "Francisco Trincão", "meta": "RW · Sporting CP", "fee": "~£50m clause", "p": "Low", "aliases": ["trincao", "trincão"]},
-        {"who": "Darwin Núñez", "meta": "ST · Al-Hilal (return talk)", "fee": "undisclosed", "p": "Low", "aliases": ["nunez", "núñez"]},
+        {"who": "Darwin Núñez", "meta": "ST · Al-Hilal · return talk", "fee": "~£25m", "p": "Low", "aliases": ["nunez", "núñez"]},
     ],
     "out": [
         {"who": "Cody Gakpo", "meta": "LW · Tottenham interest", "fee": "€45–85m", "p": "High", "aliases": ["gakpo"]},
