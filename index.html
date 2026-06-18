@@ -197,9 +197,7 @@ a{color:var(--red)}
 .simtoggle.buy{background:var(--red)}.simtoggle.bought{background:#1f9d55}
 .simtoggle.sell{background:#8a8a92}.simtoggle.sold{background:#1f9d55}
 .over{color:#b00020;font-weight:800}
-/* confetti + anims */
-@keyframes confF{to{transform:translateY(100vh) rotate(540deg);opacity:0}}
-.cf{position:fixed;top:-12px;width:9px;height:14px;z-index:300;pointer-events:none;animation:confF linear forwards}
+/* anims */
 @keyframes pop{0%{transform:scale(.8);opacity:0}100%{transform:scale(1);opacity:1}}
 .cmphero,.simstat{animation:pop .35s ease both}
 .card,.news,.wccard,.injcard,.fitrow,.rumor{transition:transform .12s ease,box-shadow .12s ease}
@@ -753,10 +751,18 @@ const TARGETFEE={"Yan Diomande":112,"Ayyoub Bouaddi":45,"Gonçalo Inácio":50,"B
 function ovrOf(n){if(RATINGS[n])return RATINGS[n][0];const p=findPerson(n);return ({Excellent:84,Good:79,Average:72,Question:70})[p&&p.fit]||72;}
 function valueOf(n){return RATINGS[n]?RATINGS[n][1]:(TARGETFEE[n]||20);}
 function statOf(p,k){const s=p.stats||{};return +(s[k]||0);}
+function statsFor(p){return Object.assign({},p.stats||{},(REF.posStats||{})[p.name]||{});}
+const _pct=x=>x+'%';
+const POSSTATS={
+ GK:[['Clean sheets','Clean sheets'],['Save %','Save %',_pct],['Appearances','Appearances']],
+ DEF:[['Tackles+Int','Tackles + interceptions'],['Clearances','Clearances'],['Aerials won %','Aerials won %',_pct],['Appearances','Appearances']],
+ MID:[['Pass %','Pass accuracy %',_pct],['Key passes','Chances created'],['Tackles+Int','Tackles + interceptions'],['Appearances','Appearances']],
+ FWD:[['Goals','Goals'],['Assists','Assists'],['Shots on target','Shots on target'],['Appearances','Appearances']]
+};
+const POSSTATS_COMMON=[['Appearances','Appearances'],['Goals','Goals'],['Assists','Assists']];
 
 function countUp(el,to,suffix,prefix){const dur=650,t0=performance.now();suffix=suffix||'';prefix=prefix||'';
  (function step(t){const k=Math.min(1,(t-t0)/dur);el.textContent=prefix+Math.round(to*(1-Math.pow(1-k,3)))+suffix;if(k<1)requestAnimationFrame(step);})(t0);}
-function confetti(){const cols=['#C8102E','#ffffff','#8f0a20','#b59410'];for(let i=0;i<80;i++){const d=document.createElement('div');d.className='cf';d.style.left=Math.random()*100+'vw';d.style.background=cols[i%cols.length];d.style.animationDuration=(1.4+Math.random()*1.6)+'s';d.style.animationDelay=(Math.random()*.25)+'s';document.body.appendChild(d);setTimeout(()=>d.remove(),3300);}}
 
 /* ---- Player comparison ---- */
 function renderCompare(){
@@ -771,18 +777,19 @@ function metricRow(lab,a,b,fmt){fmt=fmt||(x=>x);const max=Math.max(a,b,1);
  return `<div class="cmpmetric"><div class="lab">${lab}</div><div class="cmpbars"><span class="val r ${a>=b?'win':''}">${fmt(a)}</span><div class="track"><div class="fillL" data-w="${a/max*100}"></div><div class="fillR" data-w="${b/max*100}"></div></div><span class="val ${b>=a?'winB':''}">${fmt(b)}</span></div></div>`;}
 function drawCompare(){
  const pa=findPerson(document.getElementById('cmpA').value),pb=findPerson(document.getElementById('cmpB').value);if(!pa||!pb)return;
- const hero=p=>`<div class="cmphero"><img class="av lg" style="border-color:#fff" src="${photoFor(p.name)||initialsURI(p.name)}" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" onerror="imgFallback(this)" alt=""><div class="ov" data-to="${ovrOf(p.name)}">0</div><div class="ovl">Overall</div><div class="nm">${surname(p.name)}</div><div class="sub2">${(p.slots||[p.slot]).join(', ')} · age ${p.age} · ${p.nat}</div></div>`;
+ const hero=p=>`<div class="cmphero"><img class="av lg" style="border-color:#fff" src="${photoFor(p.name)||initialsURI(p.name)}" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" onerror="imgFallback(this)" alt=""><div class="nm" style="margin-top:8px">${surname(p.name)}</div><div class="sub2">${(p.slots||[p.slot]).join(', ')} · age ${p.age} · ${p.nat}</div></div>`;
  const fitN=f=>({Excellent:4,Good:3,Average:2,Question:1})[f]||0,fitL=x=>['—','?','Avg','Good','Excl'][x];
  let h=`<div class="cmpgrid">${hero(pa)}${hero(pb)}</div>`;
- h+=metricRow('Overall rating',ovrOf(pa.name),ovrOf(pb.name));
  h+=metricRow('Market value (£m)',valueOf(pa.name),valueOf(pb.name),x=>'£'+x+'m');
  h+=metricRow('Iraola fit',fitN(pa.fit),fitN(pb.fit),fitL);
- h+=metricRow('Goals 25/26',statOf(pa,'Goals'),statOf(pb,'Goals'));
- h+=metricRow('Assists 25/26',statOf(pa,'Assists'),statOf(pb,'Assists'));
- h+=metricRow('Appearances 25/26',statOf(pa,'Appearances'),statOf(pb,'Appearances'));
+ const sa=statsFor(pa),sb=statsFor(pb);
+ const sameGrp=pa.posGroup===pb.posGroup;
+ const set=sameGrp?(POSSTATS[pa.posGroup]||POSSTATS_COMMON):POSSTATS_COMMON;
+ if(!sameGrp)h+=`<p class="note" style="margin:10px 0 2px">Different positions — showing general output.</p>`;
+ else h+=`<p class="note" style="margin:10px 0 2px">${({GK:'Goalkeeping',DEF:'Defensive',MID:'Midfield',FWD:'Attacking'})[pa.posGroup]||''} metrics · 2025/26</p>`;
+ set.forEach(([k,lab,fmt])=>h+=metricRow(lab,+(sa[k]||0),+(sb[k]||0),fmt));
  document.getElementById('cmpOut').innerHTML=h;
- requestAnimationFrame(()=>{document.querySelectorAll('#cmpOut .fillL,#cmpOut .fillR').forEach(x=>x.style.width=x.dataset.w+'%');
-   document.querySelectorAll('#cmpOut .ov').forEach(o=>countUp(o,+o.dataset.to));});
+ requestAnimationFrame(()=>document.querySelectorAll('#cmpOut .fillL,#cmpOut .fillR').forEach(x=>x.style.width=x.dataset.w+'%'));
  loadPhotos();
 }
 
@@ -807,7 +814,7 @@ function renderSim(){
  const sq=[...(REF.squad||[])].sort((a,b)=>valueOf(b.name)-valueOf(a.name));
  document.getElementById('simOut').innerHTML=sq.map(p=>{const on=SIM.sold[p.name];
    return `<div class="simrow sell ${on?'on sell':''}">${av(p.name,'sm')}<div class="who"><b>${surname(p.name)}</b><span class="note">${p.slot} · OVR ${ovrOf(p.name)}</span></div><span class="price">£${valueOf(p.name)}m</span><button class="simtoggle ${on?'sold':'sell'}" data-sell="${esc(p.name)}">${on?'✓ Sold':'Sell'}</button></div>`;}).join("");
- document.querySelectorAll('#simIn [data-sign]').forEach(b=>b.onclick=()=>{const k=b.dataset.sign,was=SIM.signed[k];SIM.signed[k]=!was;if(!was)confetti();renderSim();});
+ document.querySelectorAll('#simIn [data-sign]').forEach(b=>b.onclick=()=>{const k=b.dataset.sign;SIM.signed[k]=!SIM.signed[k];renderSim();});
  document.querySelectorAll('#simOut [data-sell]').forEach(b=>b.onclick=()=>{const k=b.dataset.sell;SIM.sold[k]=!SIM.sold[k];renderSim();});
  document.getElementById('simReset').onclick=()=>{SIM.signed={};SIM.sold={};renderSim();};
  requestAnimationFrame(()=>document.querySelectorAll('#simBoard .num[data-to]').forEach(el=>countUp(el,+el.dataset.to,el.dataset.suf,el.dataset.pre)));
