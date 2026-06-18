@@ -359,18 +359,84 @@ def build_transfers(items, ref, limit=16):
     return out
 
 
+# ---------------------------------------------------------------------------
+# 4. RUMOUR WATCHLIST — the players we track for incoming/outgoing links.
+# Each run we check which are being linked in the latest news and recompute a
+# fresh likelihood, so the Transfers tab's rumour cards update automatically.
+# (Edit fee/meta here, or add/remove names, as the window evolves.)
+# ---------------------------------------------------------------------------
+RUMOUR_WATCH = {
+    "in": [
+        {"who": "Yan Diomande", "meta": "RW · RB Leipzig · 19", "fee": "~€130m", "p": "High", "aliases": ["diomande"]},
+        {"who": "Ayyoub Bouaddi", "meta": "DM · Lille", "fee": "undisclosed", "p": "Medium", "aliases": ["bouaddi"]},
+        {"who": "Gonçalo Inácio", "meta": "CB · Sporting CP", "fee": "~£55m clause", "p": "Medium", "aliases": ["inacio", "inácio"]},
+        {"who": "Bradley Barcola", "meta": "LW · PSG", "fee": "undisclosed", "p": "Medium", "aliases": ["barcola"]},
+        {"who": "Alex Scott", "meta": "CM · Bournemouth", "fee": "undisclosed", "p": "Low", "aliases": ["alex scott"]},
+        {"who": "Francisco Trincão", "meta": "RW · Sporting CP", "fee": "~£50m clause", "p": "Low", "aliases": ["trincao", "trincão"]},
+        {"who": "Darwin Núñez", "meta": "ST · Al-Hilal (return talk)", "fee": "undisclosed", "p": "Low", "aliases": ["nunez", "núñez"]},
+    ],
+    "out": [
+        {"who": "Cody Gakpo", "meta": "LW · Tottenham interest", "fee": "€45–85m", "p": "High", "aliases": ["gakpo"]},
+        {"who": "Curtis Jones", "meta": "CM · Inter Milan", "fee": "~£35m", "p": "Medium", "aliases": ["curtis jones"]},
+        {"who": "Alexis Mac Allister", "meta": "CM · Real/Atlético links", "fee": "undisclosed", "p": "Medium", "aliases": ["mac allister"]},
+        {"who": "Federico Chiesa", "meta": "RW · seeking minutes", "fee": "undisclosed", "p": "Medium", "aliases": ["chiesa"]},
+        {"who": "Virgil van Dijk", "meta": "CB · Galatasaray interest", "fee": "low/free", "p": "Low", "aliases": ["van dijk"]},
+        {"who": "Rio Ngumoha", "meta": "RW · Bayern keen", "fee": "undisclosed", "p": "Low", "aliases": ["ngumoha"]},
+        {"who": "Kostas Tsimikas", "meta": "LB · exit weighed", "fee": "undisclosed", "p": "Low", "aliases": ["tsimikas"]},
+    ],
+}
+_RANK = {"High": 3, "Medium": 2, "Low": 1}
+
+
+def _likelihood(hay, cred):
+    if any(w in hay for w in HIGH_WORDS):
+        p = "High"
+    elif any(w in hay for w in MED_WORDS):
+        p = "Medium"
+    else:
+        p = "Low"
+    if cred < 5 and p == "High":
+        p = "Medium"
+    return p
+
+
+def build_rumours(items):
+    out = {"in": [], "out": []}
+    for dirn, lst in RUMOUR_WATCH.items():
+        for w in lst:
+            matches = [it for it in items
+                       if any(a in (it["headline"] + " " + it.get("summary", "")).lower() for a in w["aliases"])]
+            card = {"who": w["who"], "meta": w["meta"], "fee": w["fee"]}
+            if matches:
+                matches.sort(key=lambda x: (x["credibility"], x["date"]), reverse=True)
+                best = "Low"
+                for it in matches:
+                    p = _likelihood((it["headline"] + " " + it.get("summary", "")).lower(), it["credibility"])
+                    if _RANK[p] > _RANK[best]:
+                        best = p
+                top = matches[0]
+                card.update(p=best, mentions=len(matches), source=top["source"],
+                            url=top["url"], date=top["date"], active=True)
+            else:
+                card.update(p=w.get("p", "Low"), mentions=0, active=False)
+            out[dirn].append(card)
+        out[dirn].sort(key=lambda c: (c.get("active", False), _RANK.get(c["p"], 0), c.get("mentions", 0)), reverse=True)
+    return out
+
+
 def main():
     print("Scraping Liverpool news (direct feeds + Google News web-wide)...")
     news = dedupe_and_rank(collect())
     print(f"Ranked {len(news)} stories.")
     ref = load_reference()
-    rumours = build_transfers(news, ref)
-    print(f"Derived {len(rumours)} live transfer rumours.")
+    rumours = build_rumours(news)
+    print(f"Rumour cards: {len(rumours['in'])} in, {len(rumours['out'])} out "
+          f"({sum(1 for c in rumours['in']+rumours['out'] if c['active'])} actively linked).")
     payload = {
         "updated": dt.datetime.utcnow().strftime("%d %b %Y %H:%M UTC"),
         "count": len(news),
         "items": news,
-        "transfers_live": rumours,
+        "rumours": rumours,
     }
     (DATA / "news.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"  wrote {DATA/'news.json'}")

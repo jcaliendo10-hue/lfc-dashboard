@@ -1,5 +1,5 @@
 {
-  "updated": "18 Jun 2026 17:06 UTC",
+  "updated": "18 Jun 2026 17:15 UTC",
   "count": 30,
   "items": [
     {
@@ -333,166 +333,137 @@
       "rank": 30
     }
   ],
-  "transfers_live": [
-    {
-      "headline": "Liverpool beat Newcastle to £34.5m Víctor Muñoz in first signing of Iraola era",
-      "source": "The Guardian",
-      "credibility": 9,
-      "date": "2026-06-18",
-      "url": "https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news",
-      "dir": "in",
-      "p": "High",
-      "rank_score": 94.5
-    },
-    {
-      "headline": "‘On the list’ – Journalist names three wingers Liverpool may target in addition to Yan Diomande",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-18",
-      "url": "https://www.empireofthekop.com/2026/06/18/journalist-names-three-wingers-liverpool-may-target-in-addition-to-diomande/",
-      "dir": "in",
-      "p": "High",
-      "rank_score": 89.8
-    },
-    {
-      "headline": "‘I expect…’ – Fabrizio Romano issues Liverpool transfer prediction after clinching Munoz deal",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-18",
-      "url": "https://www.empireofthekop.com/2026/06/18/romano-issues-liverpool-transfer-prediction-after-clinching-munoz-deal/",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 85.1
-    },
-    {
-      "headline": "Victor Munoz in numbers: What can Liverpool fans expect from impending £35m addition at Anfield?",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-18",
-      "url": "https://www.empireofthekop.com/2026/06/18/victor-munoz-in-numbers-what-can-liverpool-fans-expect/",
-      "dir": "in",
-      "p": "High",
-      "rank_score": 85.1
-    },
-    {
-      "headline": "Fabrizio Romano drops massive late-night transfer update as Liverpool pull off ‘big surprise’",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-18",
-      "url": "https://www.empireofthekop.com/2026/06/18/fabrizio-romano-here-we-go-victor-munoz-liverpool/",
-      "dir": "in",
-      "p": "High",
-      "rank_score": 85.1
-    },
-    {
-      "headline": "Report: Liverpool ready to splash out £70m on European trophy winner who’s ‘a joy to play with’",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-17",
-      "url": "https://www.empireofthekop.com/2026/06/17/liverpool-ready-to-splash-out-70m-on-european-trophy-winner/",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 85.1
-    },
-    {
-      "headline": "‘It is impossible…’ – What Carlos Mac Allister has now said about Alexis’ future at club level",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-17",
-      "url": "https://www.empireofthekop.com/2026/06/17/carlos-mac-allister-alexis-future-world-cup/",
-      "dir": "out",
-      "p": "Low",
-      "rank_score": 85.1
-    },
-    {
-      "headline": "2026-27 key dates: Premier League, UCL, cups, transfer windows and internationals - Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeTA2eTdWY1Rlam9fa19vMVNSVU1uSWRxTm1xTmhteWNxclBpYVIzbnY2QXdDUFY0dkpaQ3phc2FYZWdQQUZSRGlGM0VYV0VienhfaFVleldtdGFtcHo0QjhqR1A1ZW1YbDgyeWVENThIRFhCU0RjelBxYkhteE1MSUEyY3BpS1FfamVrTlNFQ0JNVmdPSzA0Wkc0MllCdHliRG9mcGpvT1Z1YjVYbld30gG3AUFVX3lxTE92TnhtMTFsUy1RWU15ellQQ1JGUk5YYm5PbUJLTGdQaGhiUWdjQU1MUXJ5WG1IVm90MVlFUXJ1NUJoYXRWX19RUGNtWTJHTkNpU05Ibklob3UtYjAtY05BUDBObnpNSmU5a1RxRU0yZTJDbUE1T1VEbzM3cFBSSE05TFk4OG11N1BXOU1KdEpRZnhXNVJhSHNCZUljT2Z0SmlqYlZ1MzNGcXpVY2VoUGpuTGVkQWtiRQ?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 85.0
-    },
-    {
-      "headline": "Victor Munoz set to sign for Liverpool in £35m deal after stunning new transfer hijack - Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWEpObmhTQXFSQjkta0RQNTNUclU0cTRoMW40U29sVE1lZmM2aDFhdXRraldhY2w3YVF5d19EZWNaUW94NUdFdmFQRHdmNWZNZG1QLUthZEJ3a2gxalJoYjRJLUZLaXBlMko5THRFMFJZRjhIRE9oLUNwSWdpQ1lZUTQwTk9ZSU12ZWc3Q0t2YUM4cnlyVkY2ZU1jUHJJa3pNVjVENjlDOS1YS0ZFRDdn0gG3AUFVX3lxTE1yTFgyalZoVHZ2Nk1oLTFCNVJ1Y3JKVzZ5QllQSjlUbzNvQUdtdDh3dURiT01VM043SWphYzVsQmhVQnhCZU5INldSRWpEYzBxSXk0UFRPNk5GZ05JVlRIbnFRaUZhOEhHR0piTnpfRGxxQmN5RWVobXhmVEQ5NExzUnNUSnEtZmIwd21ETzh4bnZ6eEtubF9wTEpEWUpmMnczeHR4WFNxYklWb2t0QkpIOW55WWhQVQ?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 85.0
-    },
-    {
-      "headline": "Why Derby County’s £6m deal for Bobby Clark proves Liverpool's controversial transfer blueprint is still flawless - readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPYlJXcGdNdm1YTmZLRDgtWDF4bnlLZXNtSkVoUVJhbzdsX2xRZ0RRRWV0UGg1MDloNU01REdBbllOWUF2bDl6QS0xY3pSRC0yLVd5SlVQNUd2elRPNGR2UnJsbng4UENyNlMwTTRjbjFfekpJLTBvMEMyVXcySWJCQTlrRnFIaDlrWDJuaVp1ZENFZTlMbXhHaEh1a01TQQ?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 85.0
-    },
-    {
-      "headline": "Iraola says YES to £112m Liverpool signing as talks accelerate to beat PSG to Yan Diomande - Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEI4cXVOOUpJRmdJMGFIMTM4Nmk2bmdkVHpnMzlnZnc4cFZKSWJBSTliRXg5bnc5bGNPcDNYMWhFNDE2Z0kwS2V3OXhXaXpqOEwyNWVRbmVSZUQwRGRXN3Q3endUUnhPaGtPaF9zeV9XVGJfLUJrdncxVzlUX1ZZNFFzOHJhaTNGRDZyU0xxMFYzX0JMb1B6dUhwQUF4WjRuOXhyMGYxZUxQR19fYWcxQXZB0gG6AUFVX3lxTE9XUW9hRzhTdXV1elBQSk4zWTZMQjVkb3VYRkZGRlRmcjVPU0FUMkVyZTM5XzdkeFgtcXdHZ0RJaUZYMHNVbDJnVWhIcW1YcmlSMzVDczhSdndsUjlCWjkwYko2ZHFVU1p6ZDVNdm9RYmE5Vm1zdzNBZW9IUV9pcXlwQlE5RmZMcUxGbzJNVE1TTnVlWmlhc3ktWFRPRlQyY09QWlFVb3VtekFtUC1FaGRlbDVtUmt5ekhiUQ?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 82.0
-    },
-    {
-      "headline": "PSG? Liverpool? Diomande will only decide his transfer future after the World Cup - Faé - Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "date": "2026-06-15",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPY0tyY252eGFCSm1vN3pFWTlBVXVZOExyaE5FbmVDT29ESnVUOURqTHFDbmJhU05oQTU1d0lkdkJKVjU3SS1mMjIyelNjeFdUS1RwSXM1VlNFNUJTSFU2VDRYdlZFcmtmUjNvNWJRNWxNWkdpSWtET1haZEhhXzdEcFItN0x1bjY5ZzdEblk4WmlzblVZWUduMmNObWttZGZZMFRzRlBfcVJHQkd1ZkpocERB0gG6AUFVX3lxTE1pZGhmdmdPbnNmSTQ3Ujc2RkNPMmQwTXY1WUNvUUlESW9xSGFvaU1lUUpWVVVtT3NmVGQ4c3ZkRmFrZy1JaXpZWjBiQ1J3d044X3k1b19xeDhFQXNYemtIeXp3a1VhcWhrMDlkcG9Cb1dOVEFzODE2bzY0TVBvUXQxZXItVk9vUXVET3JrNm9jbTNQQ2VSQTU1MGduWTBLTnZqQUFnY2k0eHo1MkxWUTd3UXFVS2ZiWWNGdw?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 82.0
-    },
-    {
-      "headline": "‘It is not discounted…’ – Journalist issues Yan Diomande update after Liverpool seal Munoz deal",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "date": "2026-06-18",
-      "url": "https://www.empireofthekop.com/2026/06/18/journalist-issues-yan-diomande-update-after-liverpool-seal-munoz-deal/",
-      "dir": "in",
-      "p": "High",
-      "rank_score": 80.3
-    },
-    {
-      "headline": "😱OH MY GOD! FABRIZIO ROMANO JUST REVEALED A HUGE DEAL AT 🚨LIVERPOOL - LIVERPOOL TRANSFER NEWS Instagram Instants (VtTV4xLDU8) - Mshale",
-      "source": "Mshale",
-      "credibility": 9,
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBkTjZkRXNpSVBwODdMVm9KYzUzZWNMelhZMGJDMWdONlhlUTRmcU5JaVFfT1V6TDBxSXVxcW5FYVBjSGU1SHFHdUJnT1I1VEFHcmFGaGVWYk1pNUVVVHVvRA?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 80.3
-    },
-    {
-      "headline": "Liverpool blow PSG away for Yan Diomande signing as Fabrizio Romano drops dream update - MSN",
-      "source": "MSN",
-      "credibility": 9,
-      "date": "2026-06-16",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQQU5sTnl4RWVKOVpKM3c4RVZwNVQtMTBDM1lXaU9MRU1aZFUwc3FCQ09sUFNkSXVWQ1h3Ti1aRno0NmhsMjh1eHRTTnRPNUVPRm15czFiMG1VMW1Oa2NwX002RENaRGlxcmJzVGZpamVLRDFFU0R3dGs1VjV6YmwxMlJ4aWdHRUx6VnhIRUFrU2J1Q0xycGxVd21sTUwyQmgxTlUtOGVuRXFfajU4OHdtWG1PNllIUzYxM0VtYTZEUDdKTDA5SkdyLWZJMV9ISWJtTHc?oc=5",
-      "dir": "in",
-      "p": "Low",
-      "rank_score": 80.3
-    },
-    {
-      "headline": "Fabrizio Romano confirms his intel on crazy Liverpool deal - Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "date": "2026-06-17",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTkVwSm5vRFhvNzZwUDRTRy1rSmJxM09KY2RqTnNjSHUyMUJGTWJUZlVzU205LWJNWVZZbWFIY3QwX0NYcG44WHZVZXRmVkYteEdUZXZKdllQMjZ4Y0NuUks2eFY3VC00SzItTlI0SGFCNEMteVJxb2JZRWlwekFrbVNtS01VdmRQNkItTTl5NmNVNmd5aDRud3gyM2pWcFlMTmdkYjZ0SmFVMTJ3?oc=5",
-      "dir": "in",
-      "p": "High",
-      "rank_score": 80.3
-    }
-  ]
+  "rumours": {
+    "in": [
+      {
+        "who": "Yan Diomande",
+        "meta": "RW · RB Leipzig · 19",
+        "fee": "~€130m",
+        "p": "High",
+        "mentions": 5,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEI4cXVOOUpJRmdJMGFIMTM4Nmk2bmdkVHpnMzlnZnc4cFZKSWJBSTliRXg5bnc5bGNPcDNYMWhFNDE2Z0kwS2V3OXhXaXpqOEwyNWVRbmVSZUQwRGRXN3Q3endUUnhPaGtPaF9zeV9XVGJfLUJrdncxVzlUX1ZZNFFzOHJhaTNGRDZyU0xxMFYzX0JMb1B6dUhwQUF4WjRuOXhyMGYxZUxQR19fYWcxQXZB0gG6AUFVX3lxTE9XUW9hRzhTdXV1elBQSk4zWTZMQjVkb3VYRkZGRlRmcjVPU0FUMkVyZTM5XzdkeFgtcXdHZ0RJaUZYMHNVbDJnVWhIcW1YcmlSMzVDczhSdndsUjlCWjkwYko2ZHFVU1p6ZDVNdm9RYmE5Vm1zdzNBZW9IUV9pcXlwQlE5RmZMcUxGbzJNVE1TTnVlWmlhc3ktWFRPRlQyY09QWlFVb3VtekFtUC1FaGRlbDVtUmt5ekhiUQ?oc=5",
+        "date": "2026-06-16",
+        "active": true
+      },
+      {
+        "who": "Darwin Núñez",
+        "meta": "ST · Al-Hilal (return talk)",
+        "fee": "undisclosed",
+        "p": "High",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-transfer-news-live-salah-34133792",
+        "date": "2026-06-18",
+        "active": true
+      },
+      {
+        "who": "Ayyoub Bouaddi",
+        "meta": "DM · Lille",
+        "fee": "undisclosed",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Gonçalo Inácio",
+        "meta": "CB · Sporting CP",
+        "fee": "~£55m clause",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Bradley Barcola",
+        "meta": "LW · PSG",
+        "fee": "undisclosed",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Alex Scott",
+        "meta": "CM · Bournemouth",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Francisco Trincão",
+        "meta": "RW · Sporting CP",
+        "fee": "~£50m clause",
+        "p": "Low",
+        "mentions": 0,
+        "active": false
+      }
+    ],
+    "out": [
+      {
+        "who": "Cody Gakpo",
+        "meta": "LW · Tottenham interest",
+        "fee": "€45–85m",
+        "p": "High",
+        "mentions": 2,
+        "source": "readliverpoolfc.com",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPbU9rZ050dndRMGhCNS01THM2bmtVNnNLOXgxVU1pMHFJaTRFMkZYZGV2UV94cFg3ZWQyMFpIUElnUjdrSkhSamcxeEVBNlpGdFZkWDdZdFhGYi0wNWlIYkJMaTRiRk00ZElGZm5UYTRsdWxBbzlhMjZEWVQtUml2RUJxaXRWZw?oc=5",
+        "date": "2026-06-15",
+        "active": true
+      },
+      {
+        "who": "Alexis Mac Allister",
+        "meta": "CM · Real/Atlético links",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Empire of the Kop",
+        "url": "https://www.empireofthekop.com/2026/06/17/carlos-mac-allister-alexis-future-world-cup/",
+        "date": "2026-06-17",
+        "active": true
+      },
+      {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
+        "mentions": 1,
+        "source": "readliverpoolfc.com",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWdTNEJ4VTRYdFd4U2VCNXdta3JlS0xqMldMbnBaQ2ZaUnJ5YzR0S0tVVm9vRjJOQVI0S2NBR3VzYlg3OGJDd3V3dW1HZXVQdE5kQlh0SzdialV3cEJycURmbm1taEwzZDl3MGpoWERfZzktZ0VlaTlUU2pEeXd4SVJzZ0JfazF1ZXdOTEhlVi1ob2RJ?oc=5",
+        "date": "2026-06-15",
+        "active": true
+      },
+      {
+        "who": "Curtis Jones",
+        "meta": "CM · Inter Milan",
+        "fee": "~£35m",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Federico Chiesa",
+        "meta": "RW · seeking minutes",
+        "fee": "undisclosed",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Rio Ngumoha",
+        "meta": "RW · Bayern keen",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Kostas Tsimikas",
+        "meta": "LB · exit weighed",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 0,
+        "active": false
+      }
+    ]
+  }
 }

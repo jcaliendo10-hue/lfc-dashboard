@@ -1,9 +1,10 @@
 name: Update Liverpool dashboard data
 
-# Runs daily at 07:00 UTC and on manual trigger.
+# Runs every 4 hours (and on manual trigger / push) so transfer rumours and
+# news stay current through the window.
 on:
   schedule:
-    - cron: "0 7 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch: {}
   push:
     branches: [main]
