@@ -302,15 +302,75 @@ def write_excel(news, ref):
     print(f"  wrote {DATA/'liverpool_data.xlsx'}")
 
 
+# ---------------------------------------------------------------------------
+# 3. LIVE TRANSFER RUMOURS — derived from the scraped feed every run, so the
+# Transfers tab refreshes daily without manual editing. Direction (in/out) and
+# likelihood are inferred from the wording and weighted by source credibility.
+# ---------------------------------------------------------------------------
+TRANSFER_KEYS = ["transfer", "sign", "signing", "signs", "signed", "deal", "bid",
+    "fee", "release clause", "loan", "exit", "leav", "sold", "sale", "swoop",
+    "agree", "agreed", "medical", "here we go", "linked", " link", "target",
+    "wants", "interest", "talks", "suitor", "close to", "pursuit", "hijack", "move for"]
+HIGH_WORDS = ["here we go", "confirmed", "confirm", "completes", "complete", "done deal",
+    "agreed", "agree personal terms", "sealed", " seal ", "medical", "unveiled",
+    "announce", "signs ", "signed", "triggered", "joins"]
+MED_WORDS = ["close to", "advanced", "in talks", "verbal", "bid", "submitted",
+    "negotiat", "accept", "agreement", "reach", "personal terms", "offer"]
+OUT_WORDS = ["exit", "leav", "sold", "sale", "up for sale", "offer for", "bid for",
+    "suitor", "wanted by", "to join", "departure", "sell ", "swap", "wants to leave"]
+
+
+def squad_tokens(ref):
+    toks = set()
+    for grp in (ref.get("squad", []), ref.get("loans", [])):
+        for p in grp:
+            nm = (p.get("name") or "").replace(" (c)", "").strip()
+            if nm:
+                toks.add(nm.split()[-1].lower())
+    for c in ref.get("transfers", {}).get("out", []):
+        w = c.get("who", "")
+        if w:
+            toks.add(w.split()[-1].lower())
+    return {x for x in toks if len(x) > 3}
+
+
+def build_transfers(items, ref, limit=16):
+    lfc = squad_tokens(ref)
+    out = []
+    for it in items:
+        hay = (it["headline"] + " " + it.get("summary", "")).lower()
+        if not any(k in hay for k in TRANSFER_KEYS):
+            continue
+        mentions_lfc = any(n in hay for n in lfc)
+        d = "out" if (mentions_lfc and any(w in hay for w in OUT_WORDS)) else "in"
+        if any(w in hay for w in HIGH_WORDS):
+            p = "High"
+        elif any(w in hay for w in MED_WORDS):
+            p = "Medium"
+        else:
+            p = "Low"
+        if it["credibility"] < 5 and p == "High":   # weak source can't assert "High"
+            p = "Medium"
+        out.append({"headline": it["headline"], "source": it["source"],
+                    "credibility": it["credibility"], "date": it["date"],
+                    "url": it["url"], "dir": d, "p": p, "rank_score": it["rank_score"]})
+        if len(out) >= limit:
+            break
+    return out
+
+
 def main():
     print("Scraping Liverpool news (direct feeds + Google News web-wide)...")
     news = dedupe_and_rank(collect())
     print(f"Ranked {len(news)} stories.")
     ref = load_reference()
+    rumours = build_transfers(news, ref)
+    print(f"Derived {len(rumours)} live transfer rumours.")
     payload = {
         "updated": dt.datetime.utcnow().strftime("%d %b %Y %H:%M UTC"),
         "count": len(news),
         "items": news,
+        "transfers_live": rumours,
     }
     (DATA / "news.json").write_text(json.dumps(payload, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"  wrote {DATA/'news.json'}")

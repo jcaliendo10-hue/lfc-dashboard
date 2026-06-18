@@ -193,6 +193,18 @@ a{color:var(--red)}
 .cmpbars .fillL{height:100%;background:#ffffff;box-shadow:inset 0 0 0 1px rgba(0,0,0,.14);border-radius:7px 0 0 7px;width:0;transition:width .7s cubic-bezier(.2,.8,.2,1);margin-left:auto}
 .cmpbars .fillR{height:100%;background:var(--red);border-radius:0 7px 7px 0;width:0;transition:width .7s cubic-bezier(.2,.8,.2,1)}
 .win{color:var(--red)}.winB{color:#1b1b1f}
+.buzzgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media(max-width:720px){.buzzgrid{grid-template-columns:1fr}}
+.buzzcol h5{margin:0 0 8px;font-size:12px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);display:flex;align-items:center;gap:6px}
+.buzzpill{font-size:10px;font-weight:800;color:#fff;border-radius:20px;padding:1px 8px}
+.buzzpill.in{background:var(--green)}.buzzpill.out{background:#b00020}
+.buzzitem{display:flex;gap:10px;align-items:flex-start;background:#fff;border:1px solid var(--line);border-left:3px solid var(--red);border-radius:10px;padding:9px 11px;margin-bottom:8px}
+.buzzitem .bz{flex:1 1 auto;min-width:0}
+.buzzitem .bz a{color:var(--ink);text-decoration:none;font-weight:600;font-size:13px}
+.buzzitem .bz a:hover{color:var(--red)}
+.buzzitem .bzmeta{font-size:11px;color:var(--muted);margin-top:3px;display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+.lk{font-size:10px;font-weight:800;padding:1px 7px;border-radius:20px;color:#fff;flex:0 0 auto}
+.lk.High{background:var(--green)}.lk.Medium{background:var(--amber)}.lk.Low{background:var(--grey)}
 /* simulator */
 .simboard{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin-bottom:8px}
 .simstat{background:#fff;border:1px solid var(--line);border-top:3px solid var(--red);border-radius:12px;padding:12px;text-align:center}
@@ -352,6 +364,9 @@ section.panel.active{animation:fadeIn .38s ease}
   <h2 class="sec">Summer 2026 window</h2>
   <p class="note">Likelihood reflects credibility/consensus of reporting, not a guarantee.</p>
   <div id="budgetBox"></div>
+  <h3 class="sub">📰 Live transfer buzz <span class="note" style="font-weight:400;text-transform:none;letter-spacing:0">— auto-scraped &amp; refreshed daily</span></h3>
+  <div id="buzzMeta" class="note" style="margin:-4px 0 8px"></div>
+  <div id="buzz"></div>
   <h3 class="sub">Confirmed in</h3><div id="confIn"></div>
   <h3 class="sub">Confirmed out</h3><div id="confOut"></div>
   <div class="two"><div><h3 class="sub">Incoming rumours</h3><div id="rumIn"></div></div>
@@ -596,6 +611,35 @@ function renderBudget(){
     <div class="brow">${b.committed?`<span class="bchip committed">Committed · ${b.committed.label} ${b.committed.amount}</span>`:''}${b.marquee?`<span class="bchip target">Top target · ${b.marquee.label} ${b.marquee.amount}</span>`:''}</div>
     <div class="callout" style="margin-top:12px"><b>Verdict —</b> ${b.verdict}</div>
     <p class="note">${b.note}</p>`;
+}
+function deriveBuzz(news){
+  const KEYS=["transfer","sign","deal","bid","fee","release clause","loan","exit","leav","sold","sale","swoop","agree","medical","here we go","linked","link","target","wants","interest","talks","hijack","move for"];
+  const HI=["here we go","confirmed","completes","done deal","agreed","sealed","medical","unveiled","announce","signed","triggered","joins"];
+  const MED=["close to","advanced","in talks","verbal","bid","submitted","negotiat","accept","agreement","personal terms","offer"];
+  const OUT=["exit","leav","sold","sale","offer for","bid for","suitor","wanted by","to join","departure","sell","swap","wants to leave"];
+  const lfc=new Set();(REF.squad||[]).concat(REF.loans||[]).forEach(p=>{const n=(p.name||'').replace(' (c)','').trim();if(n)lfc.add(n.split(' ').pop().toLowerCase());});
+  ((((REF.transfers||{}).out)||[])).forEach(c=>{if(c.who)lfc.add(c.who.split(' ').pop().toLowerCase());});
+  const res=[];
+  for(const it of news){const hay=((it.headline||'')+' '+(it.summary||'')).toLowerCase();
+    if(!KEYS.some(k=>hay.includes(k)))continue;
+    const mentions=[...lfc].some(n=>n.length>3&&hay.includes(n));
+    const dir=(mentions&&OUT.some(w=>hay.includes(w)))?'out':'in';
+    let p=HI.some(w=>hay.includes(w))?'High':MED.some(w=>hay.includes(w))?'Medium':'Low';
+    if((it.credibility||0)<5&&p==='High')p='Medium';
+    res.push({headline:it.headline,source:it.source,credibility:it.credibility,date:it.date,url:it.url,dir:dir,p:p});
+    if(res.length>=16)break;}
+  return res;
+}
+function renderTransferBuzz(payload){
+  const box=document.getElementById('buzz');if(!box)return;
+  let items=(payload&&payload.transfers_live)||[];
+  if(!items.length&&payload&&payload.items)items=deriveBuzz(payload.items);
+  const meta=document.getElementById('buzzMeta');
+  if(meta)meta.textContent=items.length?('Updated '+((payload&&payload.updated)||'')+' · '+items.length+' live rumours — direction & likelihood inferred automatically from the wording and source.'):'';
+  if(!items.length){box.innerHTML='<div class="note">No fresh transfer chatter in the latest scrape yet — the daily job will populate this. The curated rumours below are editorially rated.</div>';return;}
+  const col=(dir,label)=>{const list=items.filter(i=>i.dir===dir);
+    return `<div class="buzzcol"><h5>${label} <span class="buzzpill ${dir}">${list.length}</span></h5>${list.map(i=>`<div class="buzzitem"><div class="bz"><a href="${i.url}" target="_blank" rel="noopener">${i.headline}</a><div class="bzmeta"><span class="lk ${i.p}">${i.p}</span><span class="src">${i.source}</span><span>· ${i.date}</span></div></div></div>`).join("")||'<div class="note">Nothing right now.</div>'}</div>`;};
+  box.innerHTML=`<div class="buzzgrid">${col('in','Incoming links')}${col('out','Exit links')}</div>`;
 }
 function renderNews(payload){
   const items=(payload&&payload.items)||[];
@@ -926,7 +970,7 @@ Promise.all([
   fetch("./data/reference.json"+cb).then(r=>r.json()).catch(()=>({})),
   fetch("./data/news.json"+cb).then(r=>r.json()).catch(()=>({items:[]}))
 ]).then(([ref,news])=>{REF=ref||{};
-  renderOverview();renderSquad();renderDepth();renderFit();renderTransfers();renderBudget();renderNews(news);renderInjuries();renderWC();renderHierarchy();initLineup();
+  renderOverview();renderSquad();renderDepth();renderFit();renderTransfers();renderBudget();renderTransferBuzz(news);renderNews(news);renderInjuries();renderWC();renderHierarchy();initLineup();
   document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
   loadPhotos();setBg('overview');
 }).catch(()=>{document.getElementById("overviewBody").innerHTML='<div class="note">Could not load data files. On GitHub Pages this loads automatically.</div>';});
