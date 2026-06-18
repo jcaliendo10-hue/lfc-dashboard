@@ -807,13 +807,14 @@ function renderCharts(){
 function ovrTier(o){return o>=85?'#1f9d55':o>=80?'#3b82f6':o>=74?'#e08a00':'#8a8a92';}
 function renderPlayerReports(){
   const box=document.getElementById('playerReports');if(!box)return;
-  const sq=[...(REF.squad||[])].sort((a,b)=>ovrOf(b.name)-ovrOf(a.name));
-  box.innerHTML=sq.map(p=>`<div class="repcard plink" data-player="${esc(p.name)}">${av(p.name,'md')}<div class="ri"><b>${surname(p.name)}</b><span class="note">${(p.slots||[p.slot]).join(', ')}</span></div><span class="repovr" style="background:${ovrTier(ovrOf(p.name))}">${ovrOf(p.name)}</span></div>`).join("");
+  const order={GK:0,DEF:1,MID:2,FWD:3};
+  const sq=[...(REF.squad||[])].sort((a,b)=>(order[a.posGroup]-order[b.posGroup])||((a.depth||9)-(b.depth||9)));
+  box.innerHTML=sq.map(p=>`<div class="repcard plink" data-player="${esc(p.name)}">${av(p.name,'md')}<div class="ri"><b>${surname(p.name)}</b><span class="note">${(p.slots||[p.slot]).join(', ')}</span></div></div>`).join("");
   loadPhotos();
 }
 function rbar(lab,v,max,disp){const w=Math.max(2,Math.min(100,v/max*100));return `<div class="rb"><span class="rl">${lab}</span><div class="rt"><i data-w="${w}"></i></div><span class="rv">${disp!=null?disp:v}</span></div>`;}
 function reportBars(p){const fitN={Excellent:4,Good:3,Average:2,Question:1}[p.fit]||0;const s=p.stats||{};
-  return `<div class="repbars">${rbar('Overall rating',ovrOf(p.name),99)}${rbar('Market value',valueOf(p.name),130,'£'+valueOf(p.name)+'m')}${rbar('Iraola fit',fitN,4,p.fit||'—')}${rbar('Goals 25/26',+(s.Goals||0),20)}${rbar('Assists 25/26',+(s.Assists||0),10)}${rbar('Appearances',+(s.Appearances||0),55)}</div>`;}
+  return `<div class="repbars">${rbar('Market value',valueOf(p.name),130,'£'+valueOf(p.name)+'m')}${rbar('Iraola fit',fitN,4,p.fit||'—')}${rbar('Goals 25/26',+(s.Goals||0),20)}${rbar('Assists 25/26',+(s.Assists||0),10)}${rbar('Appearances',+(s.Appearances||0),55)}</div>`;}
 
 // Official club logo: drop an image at assets/lfc-logo.png and it is used here;
 // otherwise the generated badge is shown as a fallback.
@@ -882,13 +883,13 @@ document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.in
 
 /* ====== RATINGS (overall + market value £m) for Compare & Simulator ====== */
 const RATINGS={
- "Alisson Becker":[88,35],"Giorgi Mamardashvili":[80,35],"Armin Pécsi":[67,4],
- "Virgil van Dijk (c)":[88,30],"Jérémy Jacquet":[76,55],"Joe Gomez":[76,22],"Giovanni Leoni":[70,25],
- "Jeremie Frimpong":[83,60],"Conor Bradley":[78,45],"Calvin Ramsay":[66,5],"Milos Kerkez":[83,65],
- "Ryan Gravenberch":[85,90],"Wataru Endo":[78,10],"Stefan Bajcetic":[72,18],"Dominik Szoboszlai":[85,90],
- "Alexis Mac Allister":[86,95],"Curtis Jones":[80,45],"Trey Nyoni":[66,12],"Florian Wirtz":[88,130],
- "Alexander Isak":[87,130],"Hugo Ekitiké":[83,80],"Jayden Danns":[68,8],"Cody Gakpo":[84,75],
- "Federico Chiesa":[80,25],"Rio Ngumoha":[72,35],"Kaide Gordon":[67,6],"Víctor Muñoz":[78,40]
+ "Alisson Becker":[88,18],"Giorgi Mamardashvili":[80,28],"Armin Pécsi":[67,3],
+ "Virgil van Dijk (c)":[88,10],"Jérémy Jacquet":[76,45],"Joe Gomez":[76,14],"Giovanni Leoni":[70,20],
+ "Jeremie Frimpong":[83,40],"Conor Bradley":[78,38],"Calvin Ramsay":[66,3],"Milos Kerkez":[83,50],
+ "Ryan Gravenberch":[85,70],"Wataru Endo":[78,5],"Stefan Bajcetic":[72,11],"Dominik Szoboszlai":[85,70],
+ "Alexis Mac Allister":[86,72],"Curtis Jones":[80,34],"Trey Nyoni":[66,8],"Florian Wirtz":[88,110],
+ "Alexander Isak":[87,110],"Hugo Ekitiké":[83,62],"Jayden Danns":[68,5],"Cody Gakpo":[84,58],
+ "Federico Chiesa":[80,12],"Rio Ngumoha":[72,24],"Kaide Gordon":[67,3],"Víctor Muñoz":[78,35]
 };
 const TARGETFEE={"Yan Diomande":112,"Ayyoub Bouaddi":45,"Gonçalo Inácio":50,"Bradley Barcola":70,"Francisco Trincão":42,"Alex Scott":50,"Darwin Núñez":25};
 function ovrOf(n){if(RATINGS[n])return RATINGS[n][0];const p=findPerson(n);return ({Excellent:84,Good:79,Average:72,Question:70})[p&&p.fit]||72;}
@@ -908,23 +909,42 @@ function countUp(el,to,suffix,prefix){const dur=650,t0=performance.now();suffix=
  (function step(t){const k=Math.min(1,(t-t0)/dur);el.textContent=prefix+Math.round(to*(1-Math.pow(1-k,3)))+suffix;if(k<1)requestAnimationFrame(step);})(t0);}
 
 /* ---- Player comparison ---- */
+function slotGroup(s){if(s==='GK')return 'GK';if(['RB','CB','LB','RWB','LWB'].includes(s))return 'DEF';if(['DM','CM','AM'].includes(s))return 'MID';if(['RW','LW','ST','CF','FW'].includes(s))return 'FWD';return 'MID';}
+function getComparable(name){
+ const sp=(REF.squad||[]).find(p=>p.name===name);if(sp)return sp;
+ const t=REF.transfers||{};const m=[...(t.rumIn||[]),...(t.in||[]),...(t.rumOut||[])].find(x=>x.who===name);
+ if(!m)return findPerson(name);
+ const parts=(m.meta||'').split('·').map(s=>s.trim());
+ const pos=(parts[0]||'').toUpperCase().replace(/[^A-Z]/g,'');
+ const ageStr=parts.find(s=>/^\d{2}$/.test(s));
+ return {name:m.who,slots:pos?[pos]:[],slot:pos,posGroup:slotGroup(pos),age:ageStr?+ageStr:null,nat:'',fit:null,stats:{},isTarget:true,meta:m.meta,fee:m.fee,photo:m.photo};
+}
+function cmpOptions(){
+ const names=new Set((REF.squad||[]).map(p=>p.name));
+ const sq=(REF.squad||[]).map(p=>`<option value="${esc(p.name)}">${p.name}</option>`).join("");
+ const t=REF.transfers||{};const tg=[...(t.rumIn||[]),...(t.rumOut||[])].filter(x=>!names.has(x.who));
+ const to=tg.map(x=>`<option value="${esc(x.who)}">${x.who} (target)</option>`).join("");
+ return `<optgroup label="Squad">${sq}</optgroup>`+(to?`<optgroup label="Transfer links">${to}</optgroup>`:'');
+}
 function renderCompare(){
  const sq=REF.squad||[];if(!sq.length)return;
  const A=document.getElementById('cmpA'),B=document.getElementById('cmpB');
- if(!A.dataset.init){const opts=sq.map(p=>`<option value="${esc(p.name)}">${p.name}</option>`).join("");
-   A.innerHTML=opts;B.innerHTML=opts;A.value="Florian Wirtz";B.value="Dominik Szoboszlai";A.dataset.init=B.dataset.init='1';
+ if(!A.dataset.init){const opts=cmpOptions();
+   A.innerHTML=opts;B.innerHTML=opts;A.value="Florian Wirtz";B.value=(REF.transfers&&REF.transfers.rumIn&&REF.transfers.rumIn[0]&&REF.transfers.rumIn[0].who)||"Dominik Szoboszlai";A.dataset.init=B.dataset.init='1';
    A.onchange=B.onchange=drawCompare;document.getElementById('cmpSwap').onclick=()=>{const t=A.value;A.value=B.value;B.value=t;drawCompare();};}
  drawCompare();
 }
 function metricRow(lab,a,b,fmt){fmt=fmt||(x=>x);const max=Math.max(a,b,1);
  return `<div class="cmpmetric"><div class="lab">${lab}</div><div class="cmpbars"><span class="val r ${a>=b?'win':''}">${fmt(a)}</span><div class="track"><div class="fillL" data-w="${a/max*100}"></div><div class="fillR" data-w="${b/max*100}"></div></div><span class="val ${b>=a?'winB':''}">${fmt(b)}</span></div></div>`;}
 function drawCompare(){
- const pa=findPerson(document.getElementById('cmpA').value),pb=findPerson(document.getElementById('cmpB').value);if(!pa||!pb)return;
- const hero=p=>`<div class="cmphero"><img class="av lg" style="border-color:#fff" src="${photoFor(p.name)||initialsURI(p.name)}" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" onerror="imgFallback(this)" alt=""><div class="nm" style="margin-top:8px">${surname(p.name)}</div><div class="sub2">${(p.slots||[p.slot]).join(', ')} · age ${p.age} · ${p.nat}</div></div>`;
+ const pa=getComparable(document.getElementById('cmpA').value),pb=getComparable(document.getElementById('cmpB').value);if(!pa||!pb)return;
+ const hero=p=>{const bits=[(p.slots&&p.slots.length?p.slots.join(', '):(p.slot||'')),(p.age?'age '+p.age:''),(p.nat||'')].filter(Boolean).join(' · ');
+   return `<div class="cmphero">${p.isTarget?'<div class="ovl" style="margin-bottom:4px">Transfer link</div>':''}<img class="av lg" style="border-color:#fff" src="${photoFor(p.name)||initialsURI(p.name)}" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" onerror="imgFallback(this)" alt=""><div class="nm" style="margin-top:8px">${surname(p.name)}</div><div class="sub2">${bits}</div></div>`;};
  const fitN=f=>({Excellent:4,Good:3,Average:2,Question:1})[f]||0,fitL=x=>['—','?','Avg','Good','Excl'][x];
  let h=`<div class="cmpgrid">${hero(pa)}${hero(pb)}</div>`;
  h+=metricRow('Market value (£m)',valueOf(pa.name),valueOf(pb.name),x=>'£'+x+'m');
  h+=metricRow('Iraola fit',fitN(pa.fit),fitN(pb.fit),fitL);
+ if(pa.isTarget||pb.isTarget)h+=`<p class="note" style="margin:10px 0 0">A transfer link is shown — they have no Liverpool match stats, so value &amp; profile are the meaningful comparison.</p>`;
  const sa=statsFor(pa),sb=statsFor(pb);
  const sameGrp=pa.posGroup===pb.posGroup;
  const set=sameGrp?(POSSTATS[pa.posGroup]||POSSTATS_COMMON):POSSTATS_COMMON;
