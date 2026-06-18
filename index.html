@@ -204,8 +204,11 @@ a{color:var(--red)}
 .card,.news,.wccard,.injcard,.fitrow,.rumor{transition:transform .12s ease,box-shadow .12s ease}
 .card:hover,.wccard:hover,.injcard:hover,.rumor:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
 /* per-tab faded background */
-#bgwash{position:fixed;inset:0;z-index:-1;background-size:cover;background-position:center;background-repeat:no-repeat;opacity:0;transition:opacity .5s ease;pointer-events:none;filter:saturate(1.05)}
+#bgwash{position:fixed;inset:0;z-index:-2;background-size:cover;background-position:center;background-repeat:no-repeat;opacity:0;transition:opacity .55s ease,background-image .3s ease;pointer-events:none}
+#bgtint{position:fixed;inset:0;z-index:-1;pointer-events:none;background:radial-gradient(125% 95% at 50% -10%,rgba(200,16,46,.16),rgba(143,10,32,.10) 45%,rgba(92,7,21,.17) 100%)}
 .wrap{position:relative}
+section.panel.active{animation:fadeIn .38s ease}
+@keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
 /* player report cards (analytics) */
 .repgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
 .repcard{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:9px 11px;cursor:pointer;transition:transform .12s,box-shadow .12s,border-color .12s}
@@ -245,6 +248,7 @@ a{color:var(--red)}
 </head>
 <body>
 <div id="bgwash"></div>
+<div id="bgtint"></div>
 <header class="top">
   <div class="wm" id="headerWM"></div>
   <div class="inner">
@@ -847,15 +851,41 @@ function renderSim(){
  loadPhotos();
 }
 
-// Per-tab faded background: drop an HD image at assets/bg/<tab>.jpg (e.g.
-// assets/bg/hierarchy.jpg = training ground, transfers.jpg = boardroom,
-// lineup.jpg = Anfield pitch). Missing files simply show no background.
+// Per-tab background. Every tab gets an on-theme red line-art motif by default;
+// if you drop an HD photo at assets/bg/<tab>.jpg it is used instead (still under
+// the red tint layer). e.g. hierarchy.jpg = training ground, transfers.jpg =
+// boardroom, lineup.jpg = Anfield pitch.
 const bgCache={};
+function motif(tab){
+  const c="#C8102E";
+  const heads=[0,1,2,3].map(r=>[0,1,2,3,4,5].map(k=>`<circle cx='${150+k*180}' cy='${150+r*170}' r='44'/>`).join('')).join('');
+  const newsCols=[0,1,2].map(col=>{const x=110+col*370;let s=`<rect x='${x}' y='100' width='300' height='620' rx='6'/><rect x='${x+30}' y='130' width='160' height='28' stroke-width='10'/>`;for(let l=0;l<7;l++)s+=`<line x1='${x+30}' y1='${200+l*72}' x2='${x+270}' y2='${200+l*72}' stroke-width='5'/>`;return s;}).join('');
+  const aBars=[0,1,2,3,4,5].map(i=>{const h=120+((i*70)%260);return `<rect x='${130+i*170}' y='${700-h}' width='72' height='${h}' stroke-width='5'/>`;}).join('');
+  const dBars=[0,1,2,3,4,5,6].map(i=>{const h=140+((i*97)%320);return `<rect x='${110+i*150}' y='${720-h}' width='95' height='${h}'/>`;}).join('');
+  const m={
+    overview:"<path d='M600 110 L905 205 V445 C905 615 760 715 600 775 C440 715 295 615 295 445 V205 Z'/><text x='600' y='470' font-size='150' font-weight='900' font-family='Arial' fill='"+c+"' stroke='none' text-anchor='middle'>LFC</text>",
+    squad:heads,
+    compare:"<circle cx='455' cy='400' r='225'/><circle cx='745' cy='400' r='225'/><text x='600' y='438' font-size='120' font-weight='900' font-family='Arial' fill='"+c+"' stroke='none' text-anchor='middle'>VS</text>",
+    depth:dBars,
+    lineup:"<rect x='80' y='80' width='1040' height='640' rx='12'/><line x1='600' y1='80' x2='600' y2='720'/><circle cx='600' cy='400' r='120'/><circle cx='600' cy='400' r='7' fill='"+c+"'/><rect x='80' y='250' width='160' height='300'/><rect x='960' y='250' width='160' height='300'/>",
+    simulator:"<text x='600' y='560' font-size='560' font-weight='900' font-family='Arial' fill='"+c+"' stroke='none' text-anchor='middle'>£</text><circle cx='220' cy='250' r='70'/><circle cx='980' cy='560' r='95'/>",
+    transfers:"<path d='M150 280 H470 M400 220 L470 280 L400 340'/><path d='M1050 520 H730 M800 460 L730 520 L800 580'/><circle cx='600' cy='400' r='150'/><text x='600' y='455' font-size='170' font-weight='900' font-family='Arial' fill='"+c+"' stroke='none' text-anchor='middle'>£</text>",
+    fit:"<path d='M120 660 Q400 280 660 500 T1110 230'/><path d='M150 250 H360 M300 210 L370 250 L300 290'/><path d='M860 600 H1070 M1010 560 L1080 600 L1010 640'/>",
+    news:newsCols,
+    injuries:"<path d='M520 190 H680 V350 H840 V520 H680 V690 H520 V520 H360 V350 H520 Z'/><polyline points='80,400 300,400 360,250 430,560 500,400 1120,400' stroke-width='6'/>",
+    worldcup:"<circle cx='600' cy='400' r='280'/><ellipse cx='600' cy='400' rx='110' ry='280'/><line x1='320' y1='400' x2='880' y2='400'/><line x1='600' y1='120' x2='600' y2='680'/>",
+    analytics:"<polyline points='90,600 270,420 450,500 630,250 810,340 990,150 1120,230'/>"+aBars,
+    hierarchy:"<rect x='520' y='90' width='160' height='95' rx='12'/><rect x='230' y='340' width='160' height='95' rx='12'/><rect x='520' y='340' width='160' height='95' rx='12'/><rect x='810' y='340' width='160' height='95' rx='12'/><path d='M600 185 V270 M310 340 V285 H890 V340 M600 270 V340'/>"
+  };
+  const inner=m[tab]||m.overview;
+  return `url("data:image/svg+xml,${encodeURIComponent("<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 1200 800' fill='none' stroke='"+c+"' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'>"+inner+"</svg>")}")`;
+}
 function setBg(tab){const el=document.getElementById('bgwash');if(!el)return;const url='./assets/bg/'+tab+'.jpg';
-  if(bgCache[tab]===false){el.style.opacity=0;return;}
-  if(bgCache[tab]){el.style.backgroundImage="url('"+url+"')";el.style.opacity=.12;return;}
-  const im=new Image();im.onload=()=>{bgCache[tab]=true;el.style.backgroundImage="url('"+url+"')";el.style.opacity=.12;};
-  im.onerror=()=>{bgCache[tab]=false;el.style.opacity=0;};im.src=url;}
+  const useMotif=()=>{el.style.backgroundImage=motif(tab);el.style.opacity=.14;};
+  if(bgCache[tab]===false){useMotif();return;}
+  if(bgCache[tab]){el.style.backgroundImage="url('"+url+"')";el.style.opacity=.22;return;}
+  const im=new Image();im.onload=()=>{bgCache[tab]=true;el.style.backgroundImage="url('"+url+"')";el.style.opacity=.22;};
+  im.onerror=()=>{bgCache[tab]=false;useMotif();};im.src=url;}
 
 document.getElementById("tabnav").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;
   document.querySelectorAll("nav.tabs button").forEach(x=>x.classList.remove("active"));b.classList.add("active");
