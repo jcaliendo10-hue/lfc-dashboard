@@ -96,7 +96,8 @@ a{color:var(--red)}
 .formrow button{border:1px solid var(--line);background:#fff;border-radius:20px;padding:7px 14px;font-weight:700;font-size:13px;cursor:pointer;color:var(--muted)}
 .formrow button.active{background:var(--red);color:#fff;border-color:var(--red)}
 .pitch{position:relative;width:100%;max-width:520px;margin:0 auto;aspect-ratio:68/100;background:repeating-linear-gradient(0deg,#2e9e57 0 10%,#2b945190 10% 20%);border:2px solid #ffffff70;border-radius:12px;overflow:hidden}
-.pitch::before{content:"";position:absolute;left:8%;right:8%;top:8%;bottom:8%;border:2px solid #ffffff55;border-radius:6px}
+.pitch{background:repeating-linear-gradient(0deg,#2f9f58 0 9%,#2a8f4f 9% 18%)}
+.pitchmark{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}
 .pitch .pwm{position:absolute;left:50%;top:50%;width:120px;transform:translate(-50%,-50%);opacity:.12}
 .token{position:absolute;transform:translate(-50%,-50%);width:64px;text-align:center;cursor:pointer}
 .token .circle{width:46px;height:46px;border-radius:50%;margin:0 auto;background:#fff center/cover no-repeat;border:3px solid var(--red);display:flex;align-items:center;justify-content:center;font-weight:800;font-size:11px;color:var(--ink);box-shadow:0 2px 6px rgba(0,0,0,.35);overflow:hidden}
@@ -202,6 +203,22 @@ a{color:var(--red)}
 .cmphero,.simstat{animation:pop .35s ease both}
 .card,.news,.wccard,.injcard,.fitrow,.rumor{transition:transform .12s ease,box-shadow .12s ease}
 .card:hover,.wccard:hover,.injcard:hover,.rumor:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
+/* per-tab faded background */
+#bgwash{position:fixed;inset:0;z-index:-1;background-size:cover;background-position:center;background-repeat:no-repeat;opacity:0;transition:opacity .5s ease;pointer-events:none;filter:saturate(1.05)}
+.wrap{position:relative}
+/* player report cards (analytics) */
+.repgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
+.repcard{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:9px 11px;cursor:pointer;transition:transform .12s,box-shadow .12s,border-color .12s}
+.repcard:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.1);border-color:var(--red)}
+.repcard .ri{flex:1 1 auto;min-width:0}.repcard .ri b{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.repovr{flex:0 0 auto;width:34px;height:34px;border-radius:9px;color:#fff;font-weight:800;display:flex;align-items:center;justify-content:center;font-size:15px}
+/* report stat bars (player modal) */
+.repbars{margin:2px 0 4px}
+.rb{display:flex;align-items:center;gap:10px;margin-bottom:7px}
+.rb .rl{width:120px;flex:0 0 auto;font-size:12px;color:var(--muted)}
+.rb .rt{flex:1 1 auto;height:12px;background:#eee;border-radius:6px;overflow:hidden}
+.rb .rt>i{display:block;height:100%;background:linear-gradient(90deg,var(--red),var(--red-dark));border-radius:6px;width:0;transition:width .7s cubic-bezier(.2,.8,.2,1)}
+.rb .rv{width:60px;flex:0 0 auto;text-align:right;font-weight:800;font-size:13px}
 .ftoggle{border:1px solid var(--amber);background:#fffdf3;color:var(--amber);font-weight:700;border-radius:20px;padding:7px 14px;font-size:13px;cursor:pointer}
 .ftoggle.on{background:var(--amber);color:#fff}
 .bench .b.target{border:1px dashed var(--amber);background:#fffdf3}
@@ -227,6 +244,7 @@ a{color:var(--red)}
 </style>
 </head>
 <body>
+<div id="bgwash"></div>
 <header class="top">
   <div class="wm" id="headerWM"></div>
   <div class="inner">
@@ -360,9 +378,9 @@ a{color:var(--red)}
     <div id="cmpBars"></div>
   </div>
   <div class="callout" id="cmpTakeaway" style="margin-top:14px"></div>
-  <h3 class="sub" style="margin-top:26px">Squad performance 2025/26</h3>
-  <div class="two"><div class="chartbox"><canvas id="scorersChart"></canvas></div><div class="chartbox"><canvas id="assistsChart"></canvas></div></div>
-  <div class="two" style="margin-top:16px"><div class="chartbox"><canvas id="appsChart"></canvas></div><div class="chartbox"><canvas id="recordChart"></canvas></div></div>
+  <h3 class="sub" style="margin-top:26px">Player analytics reports</h3>
+  <p class="note">Tap any player for a one-page report — key stats, ratings, fit and outlook.</p>
+  <div id="playerReports" class="repgrid"></div>
 </section>
 
 <section class="panel" id="hierarchy">
@@ -614,9 +632,10 @@ function defaultLineup(){const slots=(REF.formations||{})[formation]||[];const u
   slots.forEach((s,i)=>{if(lu[i])return;const c=(REF.squad||[]).filter(p=>!used.has(p.name)&&eligible(p,s.slot)).sort((a,b)=>(a.depth||9)-(b.depth||9));if(c.length){lu[i]=c[0].name;used.add(c[0].name);}});
   return lu;}
 function playerByName(n){return pool().find(p=>p.name===n);}
+const PITCH_MARKINGS=`<svg class="pitchmark" viewBox="0 0 680 1000" preserveAspectRatio="none"><g fill="none" stroke="#ffffff" stroke-width="3" stroke-opacity="0.7"><rect x="18" y="18" width="644" height="964" rx="4"/><line x1="18" y1="500" x2="662" y2="500"/><circle cx="340" cy="500" r="92"/><rect x="140" y="18" width="400" height="160"/><rect x="245" y="18" width="190" height="58"/><path d="M255 178 A92 92 0 0 0 425 178"/><rect x="140" y="822" width="400" height="160"/><rect x="245" y="924" width="190" height="58"/><path d="M255 822 A92 92 0 0 1 425 822"/></g><g fill="#ffffff" fill-opacity="0.75"><circle cx="340" cy="500" r="5"/><circle cx="340" cy="128" r="5"/><circle cx="340" cy="872" r="5"/></g><g stroke="#ffffff" stroke-width="6" stroke-opacity="0.95"><line x1="298" y1="16" x2="382" y2="16"/><line x1="298" y1="984" x2="382" y2="984"/></g></svg>`;
 function renderPitch(){
   const slots=(REF.formations||{})[formation]||[];
-  document.getElementById("pitch").innerHTML=slots.map((s,i)=>{
+  document.getElementById("pitch").innerHTML=PITCH_MARKINGS+slots.map((s,i)=>{
     const p=playerByName(lineup[i]);const col=p?fitColor[p.fit]:"#999";const isT=p&&p.isTarget;
     const inner=p?`<img class="av" style="width:100%;height:100%;border:none;box-shadow:none;border-radius:0" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" src="${photoFor(p.name)||initialsURI(p.name)}" onerror="imgFallback(this)" alt="">`:'+';
     return `<div class="token ${activeSlot===i?'active':''}" data-i="${i}" style="left:${s.x}%;top:${s.y}%">
@@ -664,15 +683,20 @@ function renderComparison(){
       {label:c.b.name,data:norm('b'),borderColor:c.b.color,backgroundColor:c.b.color+'33',pointBackgroundColor:c.b.color}]},
     options:{responsive:true,maintainAspectRatio:false,scales:{r:{min:0,max:100,ticks:{display:false,stepSize:25},pointLabels:{font:{size:11,weight:'600'}}}},plugins:{legend:{position:'bottom'},title:{display:true,text:'Playing-style fingerprint (0–100, PL-scaled)',font:{size:13,weight:'700'}}}}});
 }
-function renderCharts(){if(charts.done)return;charts.done=true;
-  renderComparison();
-  const mk=(id,arr,label,color)=>new Chart(document.getElementById(id),{type:'bar',data:{labels:arr.map(a=>a[0]),datasets:[{data:arr.map(a=>a[1]),backgroundColor:color,borderRadius:5}]},options:{indexAxis:'y',responsive:true,maintainAspectRatio:false,plugins:{legend:{display:false},title:{display:true,text:label,font:{size:14,weight:'700'}}},scales:{x:{grid:{color:'#eef0f3'}},y:{grid:{display:false}}}}});
-  mk("scorersChart",REF.scorers||[],"Top scorers (all comps)","#C8102E");
-  mk("assistsChart",REF.assists||[],"Top assists (all comps)","#2563eb");
-  mk("appsChart",REF.apps||[],"Most appearances","#c9ccd3");
-  const rec=(REF.meta&&REF.meta.record)||[0,0,0];
-  new Chart(document.getElementById("recordChart"),{type:'doughnut',data:{labels:["Wins","Draws","Losses"],datasets:[{data:rec,backgroundColor:["#1f9d55","#e08a00","#b00020"]}]},options:{responsive:true,maintainAspectRatio:false,plugins:{title:{display:true,text:"Premier League record",font:{size:14,weight:'700'}},legend:{position:'bottom'}}}});
+function renderCharts(){
+  if(!charts.done){charts.done=true;renderComparison();}
+  renderPlayerReports();
 }
+function ovrTier(o){return o>=85?'#1f9d55':o>=80?'#3b82f6':o>=74?'#e08a00':'#8a8a92';}
+function renderPlayerReports(){
+  const box=document.getElementById('playerReports');if(!box)return;
+  const sq=[...(REF.squad||[])].sort((a,b)=>ovrOf(b.name)-ovrOf(a.name));
+  box.innerHTML=sq.map(p=>`<div class="repcard plink" data-player="${esc(p.name)}">${av(p.name,'md')}<div class="ri"><b>${surname(p.name)}</b><span class="note">${(p.slots||[p.slot]).join(', ')}</span></div><span class="repovr" style="background:${ovrTier(ovrOf(p.name))}">${ovrOf(p.name)}</span></div>`).join("");
+  loadPhotos();
+}
+function rbar(lab,v,max,disp){const w=Math.max(2,Math.min(100,v/max*100));return `<div class="rb"><span class="rl">${lab}</span><div class="rt"><i data-w="${w}"></i></div><span class="rv">${disp!=null?disp:v}</span></div>`;}
+function reportBars(p){const fitN={Excellent:4,Good:3,Average:2,Question:1}[p.fit]||0;const s=p.stats||{};
+  return `<div class="repbars">${rbar('Overall rating',ovrOf(p.name),99)}${rbar('Market value',valueOf(p.name),130,'£'+valueOf(p.name)+'m')}${rbar('Iraola fit',fitN,4,p.fit||'—')}${rbar('Goals 25/26',+(s.Goals||0),20)}${rbar('Assists 25/26',+(s.Assists||0),10)}${rbar('Appearances',+(s.Appearances||0),55)}</div>`;}
 
 // Official club logo: drop an image at assets/lfc-logo.png and it is used here;
 // otherwise the generated badge is shown as a fallback.
@@ -725,12 +749,14 @@ function openPlayer(name){
     <div class="bd">
       <div class="kv">${kv}</div>
       <h4>${isTarget?'2025/26 stats (current club)':'2025/26 stats'}</h4>${statHTML}
+      <h4>Key metrics</h4>${reportBars(p)}
       <h4>Key information</h4><p>${p.blurb||''}</p>
       <h4>Role &amp; fit under Iraola</h4><p class="note">${p.fitNote||''}</p>
       ${(p.injury&&!isTarget)?`<h4>Injury</h4><p class="note">${p.injury}</p>`:''}
       <h4>${isTarget?'Transfer outlook':'Outlook for 2026/27'}</h4><p>${p.outlook||'—'}</p>
     </div>`;
   modal.classList.add('show');loadPhotos();
+  requestAnimationFrame(()=>document.querySelectorAll('#sheet .rb i[data-w]').forEach(i=>i.style.width=i.dataset.w+'%'));
 }
 window.openPlayer=openPlayer;window.closeModal=closeModal;
 document.addEventListener('click',e=>{const el=e.target.closest('.plink[data-player]');if(el)openPlayer(el.getAttribute('data-player'));});
@@ -821,9 +847,20 @@ function renderSim(){
  loadPhotos();
 }
 
+// Per-tab faded background: drop an HD image at assets/bg/<tab>.jpg (e.g.
+// assets/bg/hierarchy.jpg = training ground, transfers.jpg = boardroom,
+// lineup.jpg = Anfield pitch). Missing files simply show no background.
+const bgCache={};
+function setBg(tab){const el=document.getElementById('bgwash');if(!el)return;const url='./assets/bg/'+tab+'.jpg';
+  if(bgCache[tab]===false){el.style.opacity=0;return;}
+  if(bgCache[tab]){el.style.backgroundImage="url('"+url+"')";el.style.opacity=.12;return;}
+  const im=new Image();im.onload=()=>{bgCache[tab]=true;el.style.backgroundImage="url('"+url+"')";el.style.opacity=.12;};
+  im.onerror=()=>{bgCache[tab]=false;el.style.opacity=0;};im.src=url;}
+
 document.getElementById("tabnav").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;
   document.querySelectorAll("nav.tabs button").forEach(x=>x.classList.remove("active"));b.classList.add("active");
   const tab=b.dataset.tab;document.querySelectorAll("section.panel").forEach(p=>p.classList.toggle("active",p.id===tab));
+  setBg(tab);
   if(tab==="analytics")renderCharts();
   if(tab==="squad")renderAgeValue();
   if(tab==="compare")renderCompare();
@@ -838,7 +875,7 @@ Promise.all([
 ]).then(([ref,news])=>{REF=ref||{};
   renderOverview();renderSquad();renderDepth();renderFit();renderTransfers();renderBudget();renderNews(news);renderInjuries();renderWC();renderHierarchy();initLineup();
   document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
-  loadPhotos();
+  loadPhotos();setBg('overview');
 }).catch(()=>{document.getElementById("overviewBody").innerHTML='<div class="note">Could not load data files. On GitHub Pages this loads automatically.</div>';});
 </script>
 </body>
