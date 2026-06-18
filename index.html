@@ -159,6 +159,51 @@ a{color:var(--red)}
 .bchip{font-size:12.5px;font-weight:700;padding:7px 12px;border-radius:20px;border:1px solid var(--line)}
 .bchip.committed{background:#eafaf0;border-color:#bfe9cf;color:#137a3e}
 .bchip.target{background:#fff6f7;border-color:#f3c7cf;color:var(--red-dark)}
+.simbtn{border:1px solid var(--red);background:#fff;color:var(--red);border-radius:20px;padding:4px 12px;font-weight:700;font-size:12px;cursor:pointer}
+.simbtn:hover{background:var(--red);color:#fff}
+/* compare */
+.cmppick{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:16px}
+.cmppick select{padding:9px 12px;border:1px solid var(--line);border-radius:10px;font-size:14px;font-weight:600;background:#fff;min-width:170px}
+.cmpvs{font-weight:800;color:var(--red)}
+.cmpgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:18px}
+.cmphero{border-radius:16px;padding:16px;color:#fff;text-align:center;background:linear-gradient(150deg,var(--red),var(--red-deep))}
+.cmphero img{width:96px;height:96px;border-radius:50%;border:3px solid #fff;object-fit:cover;object-position:top;background:#fff}
+.cmphero .nm{font-weight:800;font-size:18px;margin-top:8px}
+.cmphero .ov{font-size:40px;font-weight:900;line-height:1}
+.cmphero .ovl{font-size:11px;text-transform:uppercase;letter-spacing:1px;opacity:.85}
+.cmphero .sub2{font-size:12px;opacity:.9;margin-top:4px}
+.cmpmetric{margin-bottom:12px}
+.cmpmetric .lab{font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;text-align:center;margin-bottom:4px}
+.cmpbars{display:flex;align-items:center;gap:8px}
+.cmpbars .val{font-weight:800;width:46px;flex:0 0 auto}
+.cmpbars .val.r{text-align:right}
+.cmpbars .track{flex:1 1 auto;height:14px;background:#eee;border-radius:7px;overflow:hidden;display:flex}
+.cmpbars .fillL{height:100%;background:#3b82f6;border-radius:7px 0 0 7px;width:0;transition:width .7s cubic-bezier(.2,.8,.2,1);margin-left:auto}
+.cmpbars .fillR{height:100%;background:var(--red);border-radius:0 7px 7px 0;width:0;transition:width .7s cubic-bezier(.2,.8,.2,1)}
+.win{color:var(--red)}.winB{color:#3b82f6}
+/* simulator */
+.simboard{display:grid;grid-template-columns:repeat(auto-fit,minmax(120px,1fr));gap:12px;margin-bottom:8px}
+.simstat{background:#fff;border:1px solid var(--line);border-top:3px solid var(--red);border-radius:12px;padding:12px;text-align:center}
+.simstat .num{font-size:24px;font-weight:800}
+.simstat .lab{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px;margin-top:2px}
+.simbar{height:12px;border-radius:6px;background:#eee;overflow:hidden;margin:6px 0 16px}
+.simbar>i{display:block;height:100%;background:linear-gradient(90deg,#1f9d55,#e08a00,#b00020);width:0;transition:width .6s ease}
+.simrow{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:10px;padding:8px 10px;margin-bottom:8px}
+.simrow .who{flex:1 1 auto;min-width:0}.simrow .who b{display:block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.simrow .price{font-weight:800;flex:0 0 auto}
+.simrow.on{border-color:var(--red);background:#fff6f7}
+.simrow.on.sell{border-color:#1f9d55;background:#eafaf0}
+.simtoggle{border:none;border-radius:20px;padding:6px 12px;font-weight:700;font-size:12px;cursor:pointer;flex:0 0 auto;color:#fff}
+.simtoggle.buy{background:var(--red)}.simtoggle.bought{background:#1f9d55}
+.simtoggle.sell{background:#8a8a92}.simtoggle.sold{background:#1f9d55}
+.over{color:#b00020;font-weight:800}
+/* confetti + anims */
+@keyframes confF{to{transform:translateY(100vh) rotate(540deg);opacity:0}}
+.cf{position:fixed;top:-12px;width:9px;height:14px;z-index:300;pointer-events:none;animation:confF linear forwards}
+@keyframes pop{0%{transform:scale(.8);opacity:0}100%{transform:scale(1);opacity:1}}
+.cmphero,.simstat{animation:pop .35s ease both}
+.card,.news,.wccard,.injcard,.fitrow,.rumor{transition:transform .12s ease,box-shadow .12s ease}
+.card:hover,.wccard:hover,.injcard:hover,.rumor:hover{transform:translateY(-2px);box-shadow:0 6px 18px rgba(0,0,0,.08)}
 .ftoggle{border:1px solid var(--amber);background:#fffdf3;color:var(--amber);font-weight:700;border-radius:20px;padding:7px 14px;font-size:13px;cursor:pointer}
 .ftoggle.on{background:var(--amber);color:#fff}
 .bench .b.target{border:1px dashed var(--amber);background:#fffdf3}
@@ -196,8 +241,10 @@ a{color:var(--red)}
 <nav class="tabs"><div class="inner" id="tabnav">
   <button data-tab="overview" class="active">Overview</button>
   <button data-tab="squad">Squad</button>
+  <button data-tab="compare">⚔️ Compare</button>
   <button data-tab="depth">Depth Chart</button>
   <button data-tab="lineup">Lineup Builder</button>
+  <button data-tab="simulator">🎮 Transfer Sim</button>
   <button data-tab="fit">Fit Analysis</button>
   <button data-tab="transfers">Transfers</button>
   <button data-tab="news">News</button>
@@ -243,6 +290,23 @@ a{color:var(--red)}
       <div class="card acc" style="margin-top:12px;text-align:center"><div class="stat" id="xiFit" style="font-size:22px">—</div><div class="lbl">Average system-fit of selected XI</div></div></div>
     <div><h3 class="sub" style="margin-top:0">Squad <span class="note" style="text-transform:none;letter-spacing:0;font-weight:400">— click to place in the highlighted position</span></h3>
       <div class="bench" id="bench"></div></div>
+  </div>
+</section>
+
+<section class="panel" id="compare">
+  <h2 class="sec">Player comparison</h2>
+  <p class="note">Pick any two players to compare overall rating, stats, fit and positions head-to-head.</p>
+  <div class="cmppick"><select id="cmpA"></select><span class="cmpvs">VS</span><select id="cmpB"></select><button id="cmpSwap" class="simbtn">⇄ Swap</button></div>
+  <div id="cmpOut"></div>
+</section>
+
+<section class="panel" id="simulator">
+  <h2 class="sec">Transfer window simulator</h2>
+  <p class="note">You're the sporting director — sign targets, sell players, and stay within budget. <button id="simReset" class="simbtn">↺ Reset</button></p>
+  <div id="simBoard"></div>
+  <div class="two" style="align-items:start">
+    <div><h3 class="sub">🎯 Targets to sign</h3><div id="simIn"></div></div>
+    <div><h3 class="sub">💰 Sell from squad</h3><div id="simOut"></div></div>
   </div>
 </section>
 
@@ -675,11 +739,88 @@ document.addEventListener('click',e=>{const el=e.target.closest('.plink[data-pla
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
 document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
 
+/* ====== RATINGS (overall + market value £m) for Compare & Simulator ====== */
+const RATINGS={
+ "Alisson Becker":[88,35],"Giorgi Mamardashvili":[80,35],"Armin Pécsi":[67,4],
+ "Virgil van Dijk (c)":[88,30],"Jérémy Jacquet":[76,55],"Joe Gomez":[76,22],"Giovanni Leoni":[70,25],
+ "Jeremie Frimpong":[83,60],"Conor Bradley":[78,45],"Calvin Ramsay":[66,5],"Milos Kerkez":[83,65],
+ "Ryan Gravenberch":[85,90],"Wataru Endo":[78,10],"Stefan Bajcetic":[72,18],"Dominik Szoboszlai":[85,90],
+ "Alexis Mac Allister":[86,95],"Curtis Jones":[80,45],"Trey Nyoni":[66,12],"Florian Wirtz":[88,130],
+ "Alexander Isak":[87,130],"Hugo Ekitiké":[83,80],"Jayden Danns":[68,8],"Cody Gakpo":[84,75],
+ "Federico Chiesa":[80,25],"Rio Ngumoha":[72,35],"Kaide Gordon":[67,6],"Víctor Muñoz":[78,40]
+};
+const TARGETFEE={"Yan Diomande":112,"Ayyoub Bouaddi":45,"Gonçalo Inácio":50,"Bradley Barcola":70,"Francisco Trincão":42};
+function ovrOf(n){if(RATINGS[n])return RATINGS[n][0];const p=findPerson(n);return ({Excellent:84,Good:79,Average:72,Question:70})[p&&p.fit]||72;}
+function valueOf(n){return RATINGS[n]?RATINGS[n][1]:(TARGETFEE[n]||20);}
+function statOf(p,k){const s=p.stats||{};return +(s[k]||0);}
+
+function countUp(el,to,suffix,prefix){const dur=650,t0=performance.now();suffix=suffix||'';prefix=prefix||'';
+ (function step(t){const k=Math.min(1,(t-t0)/dur);el.textContent=prefix+Math.round(to*(1-Math.pow(1-k,3)))+suffix;if(k<1)requestAnimationFrame(step);})(t0);}
+function confetti(){const cols=['#C8102E','#ffffff','#8f0a20','#b59410'];for(let i=0;i<80;i++){const d=document.createElement('div');d.className='cf';d.style.left=Math.random()*100+'vw';d.style.background=cols[i%cols.length];d.style.animationDuration=(1.4+Math.random()*1.6)+'s';d.style.animationDelay=(Math.random()*.25)+'s';document.body.appendChild(d);setTimeout(()=>d.remove(),3300);}}
+
+/* ---- Player comparison ---- */
+function renderCompare(){
+ const sq=REF.squad||[];if(!sq.length)return;
+ const A=document.getElementById('cmpA'),B=document.getElementById('cmpB');
+ if(!A.dataset.init){const opts=sq.map(p=>`<option value="${esc(p.name)}">${p.name}</option>`).join("");
+   A.innerHTML=opts;B.innerHTML=opts;A.value="Florian Wirtz";B.value="Dominik Szoboszlai";A.dataset.init=B.dataset.init='1';
+   A.onchange=B.onchange=drawCompare;document.getElementById('cmpSwap').onclick=()=>{const t=A.value;A.value=B.value;B.value=t;drawCompare();};}
+ drawCompare();
+}
+function metricRow(lab,a,b,fmt){fmt=fmt||(x=>x);const max=Math.max(a,b,1);
+ return `<div class="cmpmetric"><div class="lab">${lab}</div><div class="cmpbars"><span class="val r ${a>=b?'win':''}">${fmt(a)}</span><div class="track"><div class="fillL" data-w="${a/max*100}"></div><div class="fillR" data-w="${b/max*100}"></div></div><span class="val ${b>=a?'winB':''}">${fmt(b)}</span></div></div>`;}
+function drawCompare(){
+ const pa=findPerson(document.getElementById('cmpA').value),pb=findPerson(document.getElementById('cmpB').value);if(!pa||!pb)return;
+ const hero=p=>`<div class="cmphero"><img class="av lg" style="border-color:#fff" src="${photoFor(p.name)||initialsURI(p.name)}" data-wiki="${wikiTitle(p.name)}" data-init="${initialsURI(p.name)}" onerror="imgFallback(this)" alt=""><div class="ov" data-to="${ovrOf(p.name)}">0</div><div class="ovl">Overall</div><div class="nm">${surname(p.name)}</div><div class="sub2">${(p.slots||[p.slot]).join(', ')} · age ${p.age} · ${p.nat}</div></div>`;
+ const fitN=f=>({Excellent:4,Good:3,Average:2,Question:1})[f]||0,fitL=x=>['—','?','Avg','Good','Excl'][x];
+ let h=`<div class="cmpgrid">${hero(pa)}${hero(pb)}</div>`;
+ h+=metricRow('Overall rating',ovrOf(pa.name),ovrOf(pb.name));
+ h+=metricRow('Market value (£m)',valueOf(pa.name),valueOf(pb.name),x=>'£'+x+'m');
+ h+=metricRow('Iraola fit',fitN(pa.fit),fitN(pb.fit),fitL);
+ h+=metricRow('Goals 25/26',statOf(pa,'Goals'),statOf(pb,'Goals'));
+ h+=metricRow('Assists 25/26',statOf(pa,'Assists'),statOf(pb,'Assists'));
+ h+=metricRow('Appearances 25/26',statOf(pa,'Appearances'),statOf(pb,'Appearances'));
+ document.getElementById('cmpOut').innerHTML=h;
+ requestAnimationFrame(()=>{document.querySelectorAll('#cmpOut .fillL,#cmpOut .fillR').forEach(x=>x.style.width=x.dataset.w+'%');
+   document.querySelectorAll('#cmpOut .ov').forEach(o=>countUp(o,+o.dataset.to));});
+ loadPhotos();
+}
+
+/* ---- Transfer window simulator ---- */
+const SIM={budget:180,signed:{},sold:{}};
+function simNums(){let spent=0,income=0;
+ for(const n in SIM.signed)if(SIM.signed[n])spent+=TARGETFEE[n]||valueOf(n);
+ for(const n in SIM.sold)if(SIM.sold[n])income+=valueOf(n);
+ return {spent,income,net:spent-income,remaining:SIM.budget+income-spent};}
+function renderSim(){
+ const n=simNums(),over=n.remaining<0;
+ document.getElementById('simBoard').innerHTML=`<div class="simboard">
+   <div class="simstat"><div class="num" data-to="${SIM.budget}" data-pre="£" data-suf="m">£${SIM.budget}m</div><div class="lab">War chest</div></div>
+   <div class="simstat"><div class="num" style="color:var(--red)" data-to="${n.spent}" data-pre="£" data-suf="m">£0m</div><div class="lab">Spent on signings</div></div>
+   <div class="simstat"><div class="num" style="color:#1f9d55" data-to="${n.income}" data-pre="£" data-suf="m">£0m</div><div class="lab">Raised from sales</div></div>
+   <div class="simstat"><div class="num ${over?'over':''}" data-to="${Math.abs(n.remaining)}" data-pre="£" data-suf="m">£0m</div><div class="lab">${over?'OVER BUDGET':'Remaining'}</div></div></div>
+   <div class="simbar"><i style="width:${Math.min(100,Math.max(0,n.spent/(SIM.budget+n.income||1)*100))}%"></i></div>
+   <p class="note">Net spend <b>£${n.net}m</b>. ${over?'<span class="over">Over budget — sell more or drop a target.</span>':'Within budget — well managed, SD.'}</p>`;
+ const t=REF.transfers||{};
+ document.getElementById('simIn').innerHTML=(t.rumIn||[]).map(r=>{const fee=TARGETFEE[r.who]||40,on=SIM.signed[r.who];
+   return `<div class="simrow ${on?'on':''}">${av(r.who,'sm')}<div class="who"><b>${r.who}</b><span class="note">${r.meta}</span></div><span class="price">£${fee}m</span><button class="simtoggle ${on?'bought':'buy'}" data-sign="${esc(r.who)}">${on?'✓ Signed':'Sign'}</button></div>`;}).join("");
+ const sq=[...(REF.squad||[])].sort((a,b)=>valueOf(b.name)-valueOf(a.name));
+ document.getElementById('simOut').innerHTML=sq.map(p=>{const on=SIM.sold[p.name];
+   return `<div class="simrow sell ${on?'on sell':''}">${av(p.name,'sm')}<div class="who"><b>${surname(p.name)}</b><span class="note">${p.slot} · OVR ${ovrOf(p.name)}</span></div><span class="price">£${valueOf(p.name)}m</span><button class="simtoggle ${on?'sold':'sell'}" data-sell="${esc(p.name)}">${on?'✓ Sold':'Sell'}</button></div>`;}).join("");
+ document.querySelectorAll('#simIn [data-sign]').forEach(b=>b.onclick=()=>{const k=b.dataset.sign,was=SIM.signed[k];SIM.signed[k]=!was;if(!was)confetti();renderSim();});
+ document.querySelectorAll('#simOut [data-sell]').forEach(b=>b.onclick=()=>{const k=b.dataset.sell;SIM.sold[k]=!SIM.sold[k];renderSim();});
+ document.getElementById('simReset').onclick=()=>{SIM.signed={};SIM.sold={};renderSim();};
+ requestAnimationFrame(()=>document.querySelectorAll('#simBoard .num[data-to]').forEach(el=>countUp(el,+el.dataset.to,el.dataset.suf,el.dataset.pre)));
+ loadPhotos();
+}
+
 document.getElementById("tabnav").addEventListener("click",e=>{const b=e.target.closest("button");if(!b)return;
   document.querySelectorAll("nav.tabs button").forEach(x=>x.classList.remove("active"));b.classList.add("active");
   const tab=b.dataset.tab;document.querySelectorAll("section.panel").forEach(p=>p.classList.toggle("active",p.id===tab));
   if(tab==="analytics")renderCharts();
   if(tab==="squad")renderAgeValue();
+  if(tab==="compare")renderCompare();
+  if(tab==="simulator")renderSim();
   if(tab==="lineup"&&!Object.keys(lineup).length)initLineup();
   loadPhotos();});
 
