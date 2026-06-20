@@ -394,6 +394,7 @@ section.panel.active{animation:fadeIn .38s ease}
 <section class="panel" id="worldcup">
   <h2 class="sec">World Cup 2026 tracker</h2>
   <div class="callout" id="wcStatus"></div>
+  <div id="wcNews"></div>
   <h3 class="sub">Liverpool players at the tournament</h3><div class="wcgrid" id="wcAt"></div>
   <h3 class="sub">Transfer targets to monitor</h3>
   <p class="note" style="margin:-4px 0 10px">Every player Liverpool are linked with — tracked through the tournament. Click a name for stats &amp; fit.</p>
@@ -528,26 +529,18 @@ function makeSortable(id,data,rowFn){const t=document.getElementById(id);let asc
 function daysUntil(dstr){const d=new Date(dstr);if(isNaN(d))return null;return Math.ceil((d-new Date())/86400000);}
 function renderOverview(){
   const m=REF.meta||{};document.getElementById("subhead").textContent=m.season||"";
-  const results=REF.results||[];
-  const formPills=results.map(r=>`<span class="formpill res-bg-${r.r}" data-blurb="${esc(r.comp+' · '+r.opp+' '+r.score)}">${r.r}</span>`).join("")||'<span class="note">—</span>';
-  const fx=REF.fixtures||[];const nf=fx[0];let nextHTML='<span class="note">No upcoming fixtures.</span>';
-  if(nf){const du=daysUntil(nf.date);nextHTML=`<div style="font-weight:800;font-size:16px">${esc(nf.opp.replace(/^vs /,''))}</div><div class="note" style="margin-top:2px">${nf.date}${du!=null&&du>=0?` · in ${du} day${du===1?'':'s'}`:''}</div>`;}
+  const news=((NEWS&&NEWS.items)||[]).slice(0,6);
+  const rum=((NEWS&&NEWS.rumours)||deriveRumours(NEWS||{}));
+  let links=[...(rum.in||[]).map(r=>Object.assign({dir:'in'},r)),...(rum.out||[]).map(r=>Object.assign({dir:'out'},r))];
+  const active=links.filter(r=>r.active);links=(active.length?active:links).slice(0,6);
+  const newsHTML=news.length?news.map(n=>`<div class="news"><div class="rank">${n.rank||'•'}</div><div class="body"><div class="hl"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a></div><div class="meta"><span class="src">${n.source}</span><span class="cred" style="background:${credColor(n.credibility)}">${n.credibility}/10</span><span>· ${n.date}</span></div></div></div>`).join(""):'<div class="note">Headlines load from the daily feed — see the News tab.</div>';
+  const linkHTML=links.length?links.map(r=>`<div class="rumor ${r.active?'liveon':''}">${av(r.who,'sm')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)} <span class="badge ${r.dir}">${r.dir==='in'?'IN':'OUT'}</span>${r.active?' <span class="livedot"></span>':''}</div><div class="meta">${r.meta}</div></div><div class="right"><span class="badge ${r.p}">${r.p}</span></div></div>`).join(""):'<div class="note">No active transfer links right now.</div>';
   document.getElementById("overviewBody").innerHTML=`
-    <div class="callout"><b>State of play:</b> Liverpool finished <b>${m.league_finish}</b> in 2025/26. <b>${m.head_coach}</b> is head coach after Slot was sacked; major overhaul under way (Salah, Konaté, Robertson all left on frees). System: <b>${m.system||''}</b>.</div>
-    <div class="two" style="margin-bottom:4px">
-      <div class="card acc"><div class="lbl" style="margin-top:0">Recent form · end of 2025/26</div><div style="display:flex;gap:6px;margin-top:8px;flex-wrap:wrap">${formPills}</div><div class="note" style="margin-top:7px;font-size:11px">Final 6 league games (oldest → most recent). Season ended in May; next up is pre-season.</div></div>
-      <div class="card acc"><div class="lbl" style="margin-top:0">Next match</div><div style="margin-top:6px">${nextHTML}</div></div>
-    </div>
-    <h2 class="sec">${secIco()}Season 2025/26 at a glance</h2>
-    <div class="grid cards">
-      <div class="card acc"><div class="stat">${m.league_finish}</div><div class="lbl">Premier League</div></div>
-      <div class="card acc"><div class="stat">${m.points}<span class="unit">pts</span></div><div class="lbl">${(m.record||[]).join('-')} (W-D-L)</div></div>
-      <div class="card acc"><div class="stat">${m.pl_goals_for}<span class="unit">:${m.pl_goals_against}</span></div><div class="lbl">PL goals</div></div>
-      <div class="card acc"><div class="stat">QF</div><div class="lbl">Champions League</div></div>
-      <div class="card acc"><div class="stat">0</div><div class="lbl">Trophies</div></div>
-      <div class="card acc"><div class="stat">CL</div><div class="lbl">2026/27 qualified</div></div>
-    </div>
-    <div class="card acc" style="margin-top:16px"><div class="named">${av(m.head_coach||'Andoni Iraola','lg')}<div><div style="font-size:20px;font-weight:800">${m.head_coach}</div><div class="note">Head coach · appointed Jun 2026 from AFC Bournemouth.</div></div></div></div>`;
+    <div class="callout"><b>Today at Anfield —</b> ${m.head_coach||'Andoni Iraola'} is head coach and the summer window is in full swing (Víctor Muñoz in; Salah, Konaté, Robertson out). The latest news and transfer movement, refreshed through the day:</div>
+    <div class="two" style="align-items:start">
+      <div><h2 class="sec">${secIco()}Today's top headlines</h2>${newsHTML}<div style="margin-top:8px"><button class="simbtn" onclick="document.querySelector('[data-tab=news]').click()">All ranked news →</button></div></div>
+      <div><h2 class="sec">${secIco()}Latest transfer links</h2>${linkHTML}<div style="margin-top:8px"><button class="simbtn" onclick="document.querySelector('[data-tab=transfers]').click()">All transfers →</button></div></div>
+    </div>`;
 }
 
 function renderSquad(){
@@ -682,6 +675,10 @@ function renderInjuries(){
 }
 function renderWC(){
   const wc=REF.worldcup||{};document.getElementById("wcStatus").innerHTML=`<b>Status —</b> ${wc.status||''}`;
+  // live World Cup news from the daily feed
+  const wn=document.getElementById('wcNews');
+  if(wn){const items=((NEWS&&NEWS.items)||[]).filter(n=>/world cup|\bwc\b/i.test((n.headline||'')+' '+(n.summary||''))).slice(0,5);
+    wn.innerHTML=items.length?`<h3 class="sub">Latest World Cup news <span class="note" style="font-weight:400;text-transform:none;letter-spacing:0">— auto-updated</span></h3>`+items.map(n=>`<div class="news"><div class="rank">${n.rank||'•'}</div><div class="body"><div class="hl"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a></div><div class="meta"><span class="src">${n.source}</span><span>· ${n.date}</span></div></div></div>`).join(""):'';}
   const sq=REF.squad||[];const at=sq.filter(p=>p.wc&&p.wc.at);
   document.getElementById("wcAt").innerHTML=at.map(p=>`<div class="wccard">${av(p.name,'md')}<div><div class="t">${surname(p.name)}</div><div class="team">${p.wc.team}</div><div class="nt">${p.wc.note}</div></div></div>`).join("")||'<div class="note">None.</div>';
   const targets=(REF.transfers&&REF.transfers.rumIn||[]);
@@ -813,8 +810,14 @@ function renderPlayerReports(){
   loadPhotos();
 }
 function rbar(lab,v,max,disp){const w=Math.max(2,Math.min(100,v/max*100));return `<div class="rb"><span class="rl">${lab}</span><div class="rt"><i data-w="${w}"></i></div><span class="rv">${disp!=null?disp:v}</span></div>`;}
-function reportBars(p){const fitN={Excellent:4,Good:3,Average:2,Question:1}[p.fit]||0;const s=p.stats||{};
-  return `<div class="repbars">${rbar('Market value',valueOf(p.name),130,'£'+valueOf(p.name)+'m')}${rbar('Iraola fit',fitN,4,p.fit||'—')}${rbar('Goals 25/26',+(s.Goals||0),20)}${rbar('Assists 25/26',+(s.Assists||0),10)}${rbar('Appearances',+(s.Appearances||0),55)}</div>`;}
+function reportBars(p){const fitN={Excellent:4,Good:3,Average:2,Question:1}[p.fit]||0;const s=statsFor(p);
+  const head=`${rbar('Market value',valueOf(p.name),130,'£'+valueOf(p.name)+'m')}${rbar('Iraola fit',fitN,4,p.fit||'—')}`;
+  let body;
+  if(p.posGroup==='GK')body=`${rbar('Clean sheets',+(s['Clean sheets']||0),20)}${rbar('Save %',+(s['Save %']||0),100,(s['Save %']||0)+'%')}`;
+  else if(p.posGroup==='DEF')body=`${rbar('Tackles + int.',+(s['Tackles+Int']||0),120)}${rbar('Clearances',+(s['Clearances']||0),280)}`;
+  else if(p.posGroup==='MID')body=`${rbar('Pass %',+(s['Pass %']||0),100,(s['Pass %']||0)+'%')}${rbar('Key passes',+(s['Key passes']||0),80)}`;
+  else body=`${rbar('Goals 25/26',+(s.Goals||0),20)}${rbar('Assists 25/26',+(s.Assists||0),12)}`;
+  return `<div class="repbars">${head}${body}${rbar('Appearances',+(s.Appearances||0),55)}</div>`;}
 
 // Official club logo: drop an image at assets/lfc-logo.png and it is used here;
 // otherwise the generated badge is shown as a fallback.
@@ -848,7 +851,7 @@ function openPlayer(name){
   if(!p)return;
   const img=photoFor(name)||initialsURI(name);
   const positions=(p.slots||[p.slot]).filter(Boolean).map(s=>slotName[s]||s).join(', ')||'—';
-  const stats=p.stats||{};const statHTML=Object.keys(stats).length
+  const stats=statsFor(p);const statHTML=Object.keys(stats).length
     ? `<div class="statline">${Object.entries(stats).map(([k,v])=>`<div class="s"><div class="num">${v}</div><div class="lab">${k}</div></div>`).join("")}</div>`
     : `<p class="note">Detailed match stats not available for this player.</p>`;
   const kv=isTarget
@@ -917,7 +920,7 @@ function getComparable(name){
  const parts=(m.meta||'').split('·').map(s=>s.trim());
  const pos=(parts[0]||'').toUpperCase().replace(/[^A-Z]/g,'');
  const ageStr=parts.find(s=>/^\d{2}$/.test(s));
- return {name:m.who,slots:pos?[pos]:[],slot:pos,posGroup:slotGroup(pos),age:ageStr?+ageStr:null,nat:'',fit:null,stats:{},isTarget:true,meta:m.meta,fee:m.fee,photo:m.photo};
+ return Object.assign({slots:pos?[pos]:[],slot:pos,posGroup:slotGroup(pos),age:ageStr?+ageStr:null,nat:'',fit:null,stats:{}},m,{name:m.who,isTarget:true});
 }
 function cmpOptions(){
  const names=new Set((REF.squad||[]).map(p=>p.name));
