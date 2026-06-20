@@ -114,7 +114,7 @@ a{color:var(--red)}
 .bench .b.used{opacity:.4}
 .bench .b.dragging{opacity:.45;cursor:grabbing}
 .bench .b .bn{flex:1 1 auto;font-weight:600;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.bench .b .bovr{flex:0 0 auto;font-weight:800;font-size:11px;color:#fff;background:var(--red);border-radius:6px;padding:1px 6px}
+.bench .b .bfit{flex:0 0 auto;width:9px;height:9px;border-radius:50%;box-shadow:0 0 0 2px #fff,0 1px 2px rgba(0,0,0,.25)}
 .token{cursor:grab}
 .token.dragover .circle{outline:3px dashed var(--red);outline-offset:2px}
 .token.dragging{opacity:.5}
@@ -235,6 +235,28 @@ a{color:var(--red)}
 .wrap{position:relative}
 section.panel.active{animation:fadeIn .38s ease}
 @keyframes fadeIn{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+/* ---- richer interactivity & motion ---- */
+.pchip,.news,.buzzitem,.simrow,.fitrow,.orgcard,.bench .b,.result,.depthcol{transition:transform .14s ease,box-shadow .14s ease,border-color .14s ease}
+.pchip:hover,.news:hover,.buzzitem:hover,.simrow:hover,.fitrow:hover,.orgcard:hover,.bench .b:hover{transform:translateY(-2px);box-shadow:0 6px 16px rgba(0,0,0,.10)}
+.depthcol:hover{box-shadow:0 10px 24px rgba(200,16,46,.12)}
+.simbtn,.ftoggle,.formrow button,.simtoggle,nav.tabs button{transition:transform .1s ease,background .15s ease,color .15s ease,border-color .15s ease}
+.simbtn:active,.ftoggle:active,.formrow button:active,.simtoggle:active{transform:scale(.94)}
+.token .circle{transition:transform .15s ease,box-shadow .15s ease}
+.token:hover{z-index:5}
+.token:hover .circle{transform:scale(1.14);box-shadow:0 5px 16px rgba(0,0,0,.5)}
+.plink{background-image:linear-gradient(var(--red),var(--red));background-size:0% 1.5px;background-repeat:no-repeat;background-position:left 95%;transition:background-size .22s ease}
+.plink:hover{background-size:100% 1.5px}
+/* cascade content in when a tab opens */
+.panel.active .depthgrid .depthcol,.panel.active #newsList .news,.panel.active #buzz .buzzitem,.panel.active .wcgrid .wccard{animation:rise .45s ease both}
+.panel.active .depthgrid .depthcol:nth-child(2),.panel.active #newsList .news:nth-child(2),.panel.active #buzz .buzzitem:nth-child(2),.panel.active .wcgrid .wccard:nth-child(2){animation-delay:.05s}
+.panel.active .depthgrid .depthcol:nth-child(3),.panel.active #newsList .news:nth-child(3),.panel.active #buzz .buzzitem:nth-child(3),.panel.active .wcgrid .wccard:nth-child(3){animation-delay:.1s}
+.panel.active .depthgrid .depthcol:nth-child(4),.panel.active #newsList .news:nth-child(4),.panel.active #buzz .buzzitem:nth-child(4),.panel.active .wcgrid .wccard:nth-child(4){animation-delay:.15s}
+.panel.active .depthgrid .depthcol:nth-child(n+5),.panel.active #newsList .news:nth-child(n+5),.panel.active #buzz .buzzitem:nth-child(n+5){animation-delay:.2s}
+@keyframes rise{from{opacity:0;transform:translateY(12px)}to{opacity:1;transform:none}}
+/* animated sheen across the header */
+header.top::after{content:"";position:absolute;top:0;left:-60%;width:38%;height:100%;background:linear-gradient(100deg,transparent,rgba(255,255,255,.13),transparent);transform:skewX(-18deg);animation:sheen 7s ease-in-out infinite;pointer-events:none}
+@keyframes sheen{0%{left:-60%}55%{left:135%}100%{left:135%}}
+@media(prefers-reduced-motion:reduce){header.top::after{animation:none}.panel.active .depthcol,.panel.active .news,.panel.active .buzzitem,.panel.active .wccard{animation:none}}
 /* player report cards (analytics) */
 .repgrid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px}
 .repcard{display:flex;align-items:center;gap:10px;background:#fff;border:1px solid var(--line);border-radius:12px;padding:9px 11px;cursor:pointer;transition:transform .12s,box-shadow .12s,border-color .12s}
@@ -341,7 +363,7 @@ section.panel.active{animation:fadeIn .38s ease}
 
 <section class="panel" id="compare">
   <h2 class="sec">Player comparison</h2>
-  <p class="note">Pick any two players to compare overall rating, stats, fit and positions head-to-head.</p>
+  <p class="note">Pick any two players to compare stats, fit and positions head-to-head.</p>
   <div class="cmppick"><select id="cmpA"></select><span class="cmpvs">VS</span><select id="cmpB"></select><button id="cmpSwap" class="simbtn">⇄ Swap</button></div>
   <div id="cmpOut"></div>
 </section>
@@ -412,7 +434,7 @@ section.panel.active{animation:fadeIn .38s ease}
   </div>
   <div class="callout" id="cmpTakeaway" style="margin-top:14px"></div>
   <h3 class="sub" style="margin-top:26px">Player analytics reports</h3>
-  <p class="note">Tap any player for a one-page report — key stats, ratings, fit and outlook.</p>
+  <p class="note">Tap any player for a one-page report — key stats, fit and outlook.</p>
   <div id="playerReports" class="repgrid"></div>
 </section>
 
@@ -754,7 +776,7 @@ function renderBench(){
   bench.innerHTML=groups.map(([g,label])=>{
     const ps=all.filter(p=>p.posGroup===g).sort((a,b)=>(a.depth||9)-(b.depth||9));
     if(!ps.length)return '';
-    return `<div class="benchgrp"><div class="benchh">${label} · ${ps.length}</div><div class="benchlist">${ps.map(p=>`<div class="b ${used.has(p.name)?'used':''}${p.isTarget?' target':''}" draggable="true" data-n="${esc(p.name)}">${av(p.name,'sm')}<span class="bn">${surname(p.name)}</span>${p.isTarget?'<span class="ttag">NEW</span>':`<span class="bovr">${ovrOf(p.name)}</span>`}</div>`).join("")}</div></div>`;
+    return `<div class="benchgrp"><div class="benchh">${label} · ${ps.length}</div><div class="benchlist">${ps.map(p=>`<div class="b ${used.has(p.name)?'used':''}${p.isTarget?' target':''}" draggable="true" data-n="${esc(p.name)}">${av(p.name,'sm')}<span class="bn">${surname(p.name)}</span>${p.isTarget?'<span class="ttag">NEW</span>':`<span class="bfit" style="background:${fitColor[p.fit]||'#8a8a92'}" title="${esc(p.fit||'')} fit"></span>`}</div>`).join("")}</div></div>`;
   }).join("");
   bench.querySelectorAll(".b").forEach(b=>{
     b.addEventListener("click",()=>{if(activeSlot===null)return;placePlayer(b.dataset.n,activeSlot);});
@@ -801,7 +823,6 @@ function renderCharts(){
   if(!charts.done){charts.done=true;renderComparison();}
   renderPlayerReports();
 }
-function ovrTier(o){return o>=85?'#1f9d55':o>=80?'#3b82f6':o>=74?'#e08a00':'#8a8a92';}
 function renderPlayerReports(){
   const box=document.getElementById('playerReports');if(!box)return;
   const order={GK:0,DEF:1,MID:2,FWD:3};
@@ -884,7 +905,7 @@ document.addEventListener('click',e=>{const el=e.target.closest('.plink[data-pla
 document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
 document.querySelectorAll("h2.sec").forEach(h=>{if(!h.querySelector('.ico'))h.insertAdjacentHTML("afterbegin",secIco());});
 
-/* ====== RATINGS (overall + market value £m) for Compare & Simulator ====== */
+/* ====== Market values (£m) for Compare & Simulator — 2nd element is the value used ====== */
 const RATINGS={
  "Alisson Becker":[88,18],"Giorgi Mamardashvili":[80,28],"Armin Pécsi":[67,3],
  "Virgil van Dijk (c)":[88,10],"Jérémy Jacquet":[76,45],"Joe Gomez":[76,14],"Giovanni Leoni":[70,20],
@@ -895,7 +916,6 @@ const RATINGS={
  "Federico Chiesa":[80,12],"Rio Ngumoha":[72,24],"Kaide Gordon":[67,3],"Víctor Muñoz":[78,35]
 };
 const TARGETFEE={"Yan Diomande":112,"Ayyoub Bouaddi":45,"Gonçalo Inácio":50,"Bradley Barcola":70,"Francisco Trincão":42,"Alex Scott":50,"Darwin Núñez":25};
-function ovrOf(n){if(RATINGS[n])return RATINGS[n][0];const p=findPerson(n);return ({Excellent:84,Good:79,Average:72,Question:70})[p&&p.fit]||72;}
 function valueOf(n){return RATINGS[n]?RATINGS[n][1]:(TARGETFEE[n]||20);}
 function statOf(p,k){const s=p.stats||{};return +(s[k]||0);}
 function statsFor(p){return Object.assign({},p.stats||{},(REF.posStats||{})[p.name]||{});}
@@ -979,7 +999,7 @@ function renderSim(){
    return `<div class="simrow ${on?'on':''}">${av(r.who,'sm')}<div class="who"><b>${r.who}</b><span class="note">${r.meta}</span></div><span class="price">£${fee}m</span><button class="simtoggle ${on?'bought':'buy'}" data-sign="${esc(r.who)}">${on?'✓ Signed':'Sign'}</button></div>`;}).join("");
  const sq=[...(REF.squad||[])].sort((a,b)=>valueOf(b.name)-valueOf(a.name));
  document.getElementById('simOut').innerHTML=sq.map(p=>{const on=SIM.sold[p.name];
-   return `<div class="simrow sell ${on?'on sell':''}">${av(p.name,'sm')}<div class="who"><b>${surname(p.name)}</b><span class="note">${p.slot} · OVR ${ovrOf(p.name)}</span></div><span class="price">£${valueOf(p.name)}m</span><button class="simtoggle ${on?'sold':'sell'}" data-sell="${esc(p.name)}">${on?'✓ Sold':'Sell'}</button></div>`;}).join("");
+   return `<div class="simrow sell ${on?'on sell':''}">${av(p.name,'sm')}<div class="who"><b>${surname(p.name)}</b><span class="note">${slotName[p.slot]||p.slot} · age ${p.age}</span></div><span class="price">£${valueOf(p.name)}m</span><button class="simtoggle ${on?'sold':'sell'}" data-sell="${esc(p.name)}">${on?'✓ Sold':'Sell'}</button></div>`;}).join("");
  document.querySelectorAll('#simIn [data-sign]').forEach(b=>b.onclick=()=>{const k=b.dataset.sign;SIM.signed[k]=!SIM.signed[k];renderSim();});
  document.querySelectorAll('#simOut [data-sell]').forEach(b=>b.onclick=()=>{const k=b.dataset.sell;SIM.sold[k]=!SIM.sold[k];renderSim();});
  document.getElementById('simReset').onclick=()=>{SIM.signed={};SIM.sold={};renderSim();};
