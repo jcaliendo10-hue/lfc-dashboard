@@ -1,5 +1,5 @@
 {
-  "updated": "22 Jun 2026 22:02 UTC",
+  "updated": "23 Jun 2026 03:33 UTC",
   "count": 30,
   "items": [
     {
@@ -58,17 +58,6 @@
       "rank": 5
     },
     {
-      "headline": "World Cup: Florian Wirtz features as Germany book place in last 32 - Liverpool FC",
-      "summary": "World Cup: Florian Wirtz features as Germany book place in last 32 Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVdTY0dsS0dqeEcwaWMycnhXNWo5M0RscDRuT194ckdxUUxEeEJma2swSFdTQUFkSXNzNllGNTVLRWt2QkFtbTlzQkZTWmxoVWpseXZsdnJXdkY3UTVtbThGNXZxVDVMSGduRHpkWnh4REl1NWd0Q3dPcnpES1U2OHR6OTVaWEJ3bHdOUlNaYXhtY3Z0ZWlr0gGfAUFVX3lxTE82aVdzMi1EbFg5RnFrbGV2bmxIVlZjOTZnekJ5bmZLOTFWazZIZzZpb2hyYllDZmdISDJwZVIzVFEyTlRwcWpTTGUwa2swZzByMmtRc0U2dHlRemV6RG5tbkxfMU5oQk1mZWZHTmUyNE5VanNYR0p1LXQ5NmxhTWxWT3kxQ1NUTkEyX3c5Wll2OEotNDlqaUVHbkVUdEVSaw?oc=5",
-      "rank": 6
-    },
-    {
       "headline": "Cody Gakpo Tottenham Interest Confirmed As Liverpool Delay Transfer Decision - readliverpoolfc.com",
       "summary": "Cody Gakpo Tottenham Interest Confirmed As Liverpool Delay Transfer Decision readliverpoolfc.com",
       "source": "readliverpoolfc.com",
@@ -77,6 +66,17 @@
       "rank_score": 85.0,
       "date": "2026-06-22",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRmhFRk90ajR2WmowQUt1SUZGR3BaaXl0d2dmWW1aODV1NzhtakVfdVdYb01RcXZuZUg5T1ljdnhyR0VqeE9QSnkybmVNN1ZBWjlvc2piWWNSWWVRSzVmTVRmdkJTcG9XWmlINzRPNTU1MEhoR1czaC1yUGNjTmliSlkxZHY3OEpBeHljZHNacHhpWjBESkZFXw?oc=5",
+      "rank": 6
+    },
+    {
+      "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 87,
+      "rank_score": 82.2,
+      "date": "2026-06-19",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQdE1qcDlSZU1XZEJrM1lLQWYzRTVyQXJqNDdTMkE2QWJvTmdBLUlhRFhtWjFHYzNaRFBFWWVRb0JqR1RGclJ4SHVmb1pfRnJzdHBNa0JBMUl5UHpSeW1zZTE1Y3pJUnI3aGo5RXBldldTZk53R19vQkd5MXFGbzB5SEMxc1Rjb0lEN25rUE81eXotREFnYXZhQWRVQUVkc0FhY0ZRQVVneVdITjE4Zzl4OXJndENTQmFqNG10UmNkdlNSTDE1c1pTVjJpU1NsU2FPdzVRNUdteUpEM2E4d2NsWl85SWF1QlVKZnBhLTZlQWNCNERQVjNB?oc=5",
       "rank": 7
     },
     {
@@ -102,17 +102,6 @@
       "rank": 9
     },
     {
-      "headline": "Why is Cody Gakpo playing so much better for the Netherlands than he has been for Liverpool? - The Athletic - The New York Times",
-      "summary": "Why is Cody Gakpo playing so much better for the Netherlands than he has been for Liverpool? - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-06-20",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRmpIQVRud0E4aVE0SlB4akxuSDR6WkxWNXBJbHZLUWw2azBmeWRuZnZneDhqVGFPMTNvb1RuWXRTOXkzUDBDSy1HRUhfNTVuWmVIbU8tTXJYMG5TSkt4TDc3SzZ4SF9MaFVPNUEwd3k1eUg1VFZ4ZWxKSjhsR2JSX21vZzEwWE9NTWdBTDkzUm5WU2NZTjNXU3p3?oc=5",
-      "rank": 10
-    },
-    {
       "headline": "Andoni Iraola receives Yan Diomande transfer message from Jurgen Klopp during World Cup",
       "summary": "Jurgen Klopp has had his say on the Liverpool transfer target",
       "source": "Liverpool Echo",
@@ -121,7 +110,7 @@
       "rank_score": 79.3,
       "date": "2026-06-22",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-yan-diomande-jurgen-klopp-34160350",
-      "rank": 11
+      "rank": 10
     },
     {
       "headline": "Liverpool receive perfect Alexander Isak reminder at World Cup after new season announcements",
@@ -132,29 +121,7 @@
       "rank_score": 79.3,
       "date": "2026-06-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-alexander-isak-world-cup-34159423",
-      "rank": 12
-    },
-    {
-      "headline": "Yan Diomande transfer news: Liverpool interested in £86m deal - Paper Talk - Sky Sports",
-      "summary": "Yan Diomande transfer news: Liverpool interested in £86m deal - Paper Talk Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 82,
-      "rank_score": 77.5,
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQMGdNamRfQURKa1Nlck05LUx0aDJldGRZcVI1dThfRmJKajdodEtIVEY1Rl8zbFJLbmVtRVFMcG5HOXU3alZaSktLU2pvbEVrMlNURmVIYm8tQmJZdV9vWjEwU0xYNXRjcUhnUG5iUm80dmZlQmdiaGZCSG4taXBJQU9SYm9ER1dfa0ZoQVJ1VFdjVkpBWkxVem5RdFhBZXVMYW1ySmJVcXBFOTRJbDBfWWc4ejhrTUdHaERfVXZkV3l2MXc?oc=5",
-      "rank": 13
-    },
-    {
-      "headline": "Yan Diomande transfer update as Liverpool 'bid rejected' after £86.8m move made - Liverpool FC",
-      "summary": "Yan Diomande transfer update as Liverpool 'bid rejected' after £86.8m move made Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-06-18",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUUJhV1BGdnpENVNMTjVsUjdnR2UtZDB5d2w1YnUxOEpiSDdTS2l1bnRBUlNMZVR4VTJxRlpFT1d2X1ExQUdRSTlncG8yUHdKM2I4cEdaLU9HMjJtM2k1aER1M0UxUDNENDZXVWZuVHBObFFEVklBN3ZCcV80Slg3dGd4VjRXczR6VTVPWnNDWENYYjlBNlpIdWIyMTlIZF8zZ2JSR3owWjhsaG_SAbMBQVVfeXFMTmV5UXJSTUI5aVM0cW82Zkh5VE5tM3ZqY3cyN3kxWHpnRkQ5UjQ3dFloVGlPMG1zY280QnlGUjd6TE1DaXR0UVhXLXBNdFNqc0o4S21BcXFMZC1yc3l6dFNaZWNLN3gxcExYTF9DVGdvM0dGallzbVZSYzZxZFBZSVRqb0dleDBHOXFOdUk2RGlsMlZCc3lMR1ZDaXJId1NfYjVyRl9TSzAxVURTUXFRbjVnVHc?oc=5",
-      "rank": 14
+      "rank": 11
     },
     {
       "headline": "Alexander Isak set to face Liverpool teammates after Sweden dismiss injury concerns - readliverpoolfc.com",
@@ -165,7 +132,7 @@
       "rank_score": 77.0,
       "date": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFptVGZ6OExWelhaUmJJMVpSMU1VMmRLY0RNcjE2a1AwZy1sY1dxcWhYdnZjWklNcWlUOHg3Mll2OF9udWNxcmV4Y2VGZng5WHJ4TEg2LUxYNTdwTWV1VFdBcjVrT1Rkd0NvMG1EVGpDSG8xTjdTMUpvVS16bWl4dERqSHFuVHRjTnVLeXhndi1rcWc2dWc?oc=5",
-      "rank": 15
+      "rank": 12
     },
     {
       "headline": "Liverpool £34.5m transfer joy short-lived as Victor Munoz suffers instant World Cup disaster - readliverpoolfc.com",
@@ -176,7 +143,7 @@
       "rank_score": 77.0,
       "date": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZURkcU96a3BvbGMxM1h1bFVrTHd5OVRRcWpaUEV6R1NXZzBQRlRTSVRWaFlpYzdYWlFKcjBGNTlwSFVJR01kc0Y5WWNZUnp3MldnSGhIZkxnTGVONTcyR3V6SDBPcHNsV0dkTGNpUERFdU5aNFE5OFRZSVVOcmZDWW16REFRb0dabURfbHp4ci10bzVoQkdn?oc=5",
-      "rank": 16
+      "rank": 13
     },
     {
       "headline": "World Cup: Cody Gakpo scores twice as Reds meet in Netherlands v Sweden - Liverpool FC",
@@ -187,7 +154,18 @@
       "rank_score": 77.0,
       "date": "2026-06-20",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON1F0dnRxNXlSVjY5ekNXQ0JoVVlvNWlDZDdSNWlEZm1rWTFLbWFxZ0FSSFVpZkViamUway1ucWcteGh2ZFRBTFJqbHI4RUF4UFF3QV8td3V0VXpjN3pIamhJYUw5bGRNUUVtclRrSHdWOERmVlNUdUJsVDZHS0o3eGJOMVhPb09vSEdoT0c4UWhaYzMwQ0JlWGwwOGVsd9IBpgFBVV95cUxNa2VIQzZqQkREWHhrVVhvanI5bEFKbktqV2U0LXR5MFN5dGQwakRxVFdHUlp3UVJGbVlWTWF0NjZrY2tFdGNHZnhUa2ktVzFVTTlQbXNKaV9nZy02M2h4Y01lZi1EYkpURHhaOGY2X0o5Tkh1OU1pdmxoVlFtbUZPYmp5dXlSLV8yQ05oQ0RSTFdLV3hUNEJCV3UzSXVORDJxU0xXYWpn?oc=5",
-      "rank": 17
+      "rank": 14
+    },
+    {
+      "headline": "World Cup: Florian Wirtz features as Germany book place in last 32 - Liverpool FC",
+      "summary": "World Cup: Florian Wirtz features as Germany book place in last 32 Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-06-20",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeVdTY0dsS0dqeEcwaWMycnhXNWo5M0RscDRuT194ckdxUUxEeEJma2swSFdTQUFkSXNzNllGNTVLRWt2QkFtbTlzQkZTWmxoVWpseXZsdnJXdkY3UTVtbThGNXZxVDVMSGduRHpkWnh4REl1NWd0Q3dPcnpES1U2OHR6OTVaWEJ3bHdOUlNaYXhtY3Z0ZWlr0gGfAUFVX3lxTE82aVdzMi1EbFg5RnFrbGV2bmxIVlZjOTZnekJ5bmZLOTFWazZIZzZpb2hyYllDZmdISDJwZVIzVFEyTlRwcWpTTGUwa2swZzByMmtRc0U2dHlRemV6RG5tbkxfMU5oQk1mZWZHTmUyNE5VanNYR0p1LXQ5NmxhTWxWT3kxQ1NUTkEyX3c5Wll2OEotNDlqaUVHbkVUdEVSaw?oc=5",
+      "rank": 15
     },
     {
       "headline": "Liverpool news: 2026-27 Premier League fixtures - have your say - BBC",
@@ -198,7 +176,7 @@
       "rank_score": 77.0,
       "date": "2026-06-19",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1QSW4wYWJjZy1Uek5XQ2dLOV9JWGFTYTdJT29uX25qWHR5MzBvMGVMUXdHcHJnMTlVS1VPQXdLYnZNYWlKX1F2ajhQS19uTjdTUGRHWHNlR00yU01DUEoxWHVWaTZkTkJOWVE?oc=5",
-      "rank": 18
+      "rank": 16
     },
     {
       "headline": "Liverpool sign Víctor Muñoz for £34.5m in first arrival of Andoni Iraola era",
@@ -209,7 +187,7 @@
       "rank_score": 76.5,
       "date": "2026-06-18",
       "url": "https://www.theguardian.com/football/2026/jun/18/victor-munoz-liverpool-newcastle-andoni-iraola-transfer-news",
-      "rank": 19
+      "rank": 17
     },
     {
       "headline": "Iraola says YES to £112m Liverpool signing as talks accelerate to beat PSG to Yan Diomande - Liverpool FC",
@@ -220,7 +198,18 @@
       "rank_score": 76.0,
       "date": "2026-06-16",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWEI4cXVOOUpJRmdJMGFIMTM4Nmk2bmdkVHpnMzlnZnc4cFZKSWJBSTliRXg5bnc5bGNPcDNYMWhFNDE2Z0kwS2V3OXhXaXpqOEwyNWVRbmVSZUQwRGRXN3Q3endUUnhPaGtPaF9zeV9XVGJfLUJrdncxVzlUX1ZZNFFzOHJhaTNGRDZyU0xxMFYzX0JMb1B6dUhwQUF4WjRuOXhyMGYxZUxQR19fYWcxQXZB0gG6AUFVX3lxTE9XUW9hRzhTdXV1elBQSk4zWTZMQjVkb3VYRkZGRlRmcjVPU0FUMkVyZTM5XzdkeFgtcXdHZ0RJaUZYMHNVbDJnVWhIcW1YcmlSMzVDczhSdndsUjlCWjkwYko2ZHFVU1p6ZDVNdm9RYmE5Vm1zdzNBZW9IUV9pcXlwQlE5RmZMcUxGbzJNVE1TTnVlWmlhc3ktWFRPRlQyY09QWlFVb3VtekFtUC1FaGRlbDVtUmt5ekhiUQ?oc=5",
-      "rank": 20
+      "rank": 18
+    },
+    {
+      "headline": "Liverpool Transfer News: Victor Muñoz signs six-year deal after US medical - readliverpoolfc.com",
+      "summary": "Liverpool Transfer News: Victor Muñoz signs six-year deal after US medical readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 76,
+      "rank_score": 76.0,
+      "date": "2026-06-18",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGNKZjhPRzZaU3ZiQWpCZF9YTzViRHVTYjlpTDZEWjkzTVZidHRlUjhoNWg5bmNHYjI3Tkp1cHJqSjdZR244YzVpZlYtODhxZ2hFR3lwUC1JZTVKUzhZVjZNSWV0MUpxV3pUcXUwYzhpWDV5cmI2YmlFV3oxNUVLNDh3?oc=5",
+      "rank": 19
     },
     {
       "headline": "World Cup: Van Dijk Scores & Wirtz Shines for Germany - readliverpoolfc.com",
@@ -231,6 +220,17 @@
       "rank_score": 76.0,
       "date": "2026-06-15",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUWdTNEJ4VTRYdFd4U2VCNXdta3JlS0xqMldMbnBaQ2ZaUnJ5YzR0S0tVVm9vRjJOQVI0S2NBR3VzYlg3OGJDd3V3dW1HZXVQdE5kQlh0SzdialV3cEJycURmbm1taEwzZDl3MGpoWERfZzktZ0VlaTlUU2pEeXd4SVJzZ0JfazF1ZXdOTEhlVi1ob2RJ?oc=5",
+      "rank": 20
+    },
+    {
+      "headline": "Transfer rumors, news: Tottenham eye move for Liverpool's Gakpo - ESPN",
+      "summary": "Transfer rumors, news: Tottenham eye move for Liverpool's Gakpo ESPN",
+      "source": "ESPN",
+      "credibility": 8,
+      "relevance": 85,
+      "rank_score": 75.7,
+      "date": "2026-06-23",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYlo1NGNQeEp5U3hDME1uU0JHN050VjhUZTFPSk1lVk85QjVha2JvY3BqdGo5NE5IU0RaMUE0NTlJbERqaGRPQV9TakQ0UkplQlUzMEdHb01kTjRwVWt2cGotaEdWeWVvSXVzR2YtY3dpZE51SnRObDN4NGFrYmFTZGNjNmNHcm1WQ1l5cDUtTHR0WC1Bd1R2WDM5LXR3YS1QY19BaTBn?oc=5",
       "rank": 21
     },
     {
@@ -245,6 +245,17 @@
       "rank": 22
     },
     {
+      "headline": "Fabrizio Romano reveals whether Liverpool will sell Cody Gakpo to Tottenham - Football365",
+      "summary": "Fabrizio Romano reveals whether Liverpool will sell Cody Gakpo to Tottenham Football365",
+      "source": "Football365",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-06-22",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX2J6X01KNm0yYVFHWHNSMmdNRTc0Yk9zaVpyTmIycjByVGIxOXYxSy12Q0xEZWU1dHY1cVYyUjB4cTZRd2pwMVcwU2JoV1l1OWNjd0xDalhqbDYzb1lybVA5Qmc3UUNTcmpuN1QwbFNOLWJ1c0JqS1RkU2pZbWU1MHZhc3hOV0VBSUpjdEdkaHdYdGE3bGFYZmJR?oc=5",
+      "rank": 23
+    },
+    {
       "headline": "Fabrizio Romano confirms superstar Liverpool targets has made his mind-up - Anfield Watch",
       "summary": "Fabrizio Romano confirms superstar Liverpool targets has made his mind-up Anfield Watch",
       "source": "Anfield Watch",
@@ -253,7 +264,7 @@
       "rank_score": 75.6,
       "date": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOQzRUUTZRVHgzd2JsakpJUnJsMUE2ZXBUdk5NQU5kVlNOczkzY0ExTTg2eDZYcjJJbEpHQkV1OUZBVHloYmlqR3RoXzg3UUFfR2xBbkJqLWZjZXQ2cnRQZ2Radkpwd2d0aEs5SFlTNG5seU14d2xLOWhqZHBsMkxCNFFBdWt1N3YyNGhEZElWQmhZNkJfYXFDWGR6Z2xUTC1QLUtIZnJzV0F0ODBaM3k4TUFISEZ1bXAtd2dhYVl3UEc?oc=5",
-      "rank": 23
+      "rank": 24
     },
     {
       "headline": "Fabrizio Romano crushes Liverpool transfer rumour saying target is “completely untouchable” - Live4Liverpool.com",
@@ -264,7 +275,7 @@
       "rank_score": 75.6,
       "date": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQSFlkaXlpSy1PcDBiT0tiYS1NaUNkdFZsR2JpVV93MWtyU09DaWw1TkhIM3l3NThQRzRZaXR6eEVoMGJ3UVVmdFItRUNqcUR3YWVoWC1kM0RfUFA2YzdaaUZyenA0SWJUX0J6UGIwM0JoeUt1TzBKcW9kbTlBMTcxY1htZFBuclE1WnJzWkNOalMwdkZxRnBMcGR3TmlXMC1yWjJiVUMtZl9pZ0E?oc=5",
-      "rank": 24
+      "rank": 25
     },
     {
       "headline": "Fabrizio Romano reveals what Liverpool are doing 'behind the scenes' with Yan Diomande before tabling second bid - Rousing The Kop",
@@ -275,7 +286,7 @@
       "rank_score": 75.6,
       "date": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPbDF3YktuUGZIdUpwVW9rNkRITDF5cnlKaWRuY1JJV1l5bnBXMmFsMkYzT2llV3lSc2NYWlBJdHh0YXNzZkhwVWxMVTd4TVpUWkt0NHJCMllicHJiZkxDUlVqelRaRXJhOXpjQkdVYWZZVFQ0c3lGSkJONU1IWVU0cHNBZjE0SGJFdFRUSHlmS1ZQT09WY2pBd0ZSZlRLWklDQjE5ZnRPbEpxdFJPRmZhd1k5ZXo5VFZZQWVQaGgyTGU3R3hPZGdhSnMzRUhEeFdDNGRqc3ZJWlZvRndWMVJEbHlvVVdqZ2M?oc=5",
-      "rank": 25
+      "rank": 26
     },
     {
       "headline": "Fabrizio Romano says Liverpool “very aggressive” to “get deal done” at over €100m - Live4Liverpool.com",
@@ -286,7 +297,7 @@
       "rank_score": 75.6,
       "date": "2026-06-22",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdUFQRWJ3ZEg3YnFQamNnaC1YbGdQX3hVbGhJX1dnRWVkWU1wS29YVzVlWVBhZ091b1QzRVRpTVFUbzFJM1Jwd2tvck9VX3pzNTlHTnRiT2NsQzFaM08tTzZtY0FDLUM1TmNoNzg2QlRDam9DWTgxNlpqaTJXbmZsb01mOTNUcEVRd3J5enV0bjJIWDJQd1pzT0N0VWx1VWJzTjl0bGZpeloyRm9RaGxxeXhkZkZlQ0M4ODdxVUo4Ri0wdw?oc=5",
-      "rank": 26
+      "rank": 27
     },
     {
       "headline": "Fabrizio Romano: Liverpool set to come back again for star - anfieldindex.com",
@@ -297,17 +308,6 @@
       "rank_score": 75.6,
       "date": "2026-06-21",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNGlsMkFhS0Q2a0EtSVlWSDRTTzV1TUF6OUY4NEJZbmhnbDBBc2pUeURMdy04Q0tmdnk3SElkTUtjWm1fbFZFVi1fdjUzWXl6WVcxOC13d1lTd3pENEEyckJ3LVN4SHpJNmlZVUFUeWFFS280VVBINTR3VFh6THY5Ny05R25YVnlyc0dyVQ?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Fabrizio Romano confirms Liverpool’s interest in forward - anfieldindex.com",
-      "summary": "Fabrizio Romano confirms Liverpool’s interest in forward anfieldindex.com",
-      "source": "anfieldindex.com",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-06-22",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQN3Bhd3YtQW11dTBYbHpjN0xaRDRhZ19qZXNvaXBtWFJvcDRCUDNmTlQweE9iMjcxbkFQZHNlblEwVmJucXJLVDZzdko3eTFkd1pEVTkzeUtGbUJoMGtCdWU1VlJjVm5tMzVPUEd3OWROUW5kcTRBMnhTaWxIVlFpUmNTZGhjZGJXblRYY2R1NDBrWFhHZnc?oc=5",
       "rank": 28
     },
     {
@@ -340,7 +340,7 @@
         "meta": "RW · RB Leipzig · 19",
         "fee": "~€130m",
         "p": "High",
-        "mentions": 9,
+        "mentions": 7,
         "source": "Liverpool FC",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQYzlNSXBwbEJISnl6R2g0MVFMWmw4emNKN3ppNHJNcnFJeHk1UzA2OXhYTzJHTEFEZEpKcFNuRjJ5TUhoQ2tBNUNuczRjb1Z1Q1FYd0tacktydnJKT2Z5U1BqNnZWUzhsWnFzVnNCLVpJbWo0TzFNeUMwQk9haEVxT1VFNHloSzRGSklPOHZtakJqeUhCZ1YtdzZmbG02eHRQa2M2MWFkZlFCamV1MmJGMmdOTdIBuwFBVV95cUxPSmxyVDdJM202ZWJzSjBLeG9DZWsxMHdaR0xOczdzbW8xX3lPRXhXdFF2NjRyaHIwX3V0cG8zVFk5cHFNQ1JZRGtlU2RnMjBXbWV3ZDNMWjZ0WDlPOC1mZk1iM0QyYXBFZXViZmc1djJfeFd0OWF4OUlvRkV2dXpTSWpqRkJ2RlNlSGNpdzZFTUliZldIYmQ2Z3NER2hDUm1FRjBRaDI3T3VfSlBUNFNvMHFVREEwd2lpd0xV?oc=5",
         "date": "2026-06-21",
@@ -401,7 +401,7 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "High",
-        "mentions": 5,
+        "mentions": 6,
         "source": "The New York Times",
         "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZTN3V3BCeTlGMDdxWDBSblRhTjNzRnFpVC1Zc2RoaDNUbWpqR0FqclVxcC0zWk9Iem5qXzZQSThZWW8zQlhqOXZSUk9uVGhmZjl5aDNxb295eDNldWduWk8zLUcwbXExc1FfMElkSXBzWENuVTlCck95Y2F2TlJyaHNhZy1lUVhDbTF0eDNWT29lb1M3Q2YyUGQ3OWtOc1pqcDB3MDJ3?oc=5",
         "date": "2026-06-22",
