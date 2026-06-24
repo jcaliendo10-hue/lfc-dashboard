@@ -445,8 +445,10 @@ def _fold(s):
 def discover_rumours(items, squad_tokens, watch_aliases, limit=5):
     """Auto-detect NEW incoming links by extracting player-like names from the
     feed that aren't squad members or already on the watchlist. Unverified, so
-    flagged 'discovered' and rated Low — gives fresh names through the window."""
-    counts, meta = {}, {}
+    flagged 'discovered' and rated Low — gives fresh names through the window.
+    Only surfaces a name linked to LFC in 3+ articles across 2+ outlets, so a
+    one-off or single-site mention won't create a phantom target."""
+    counts, meta, srcs = {}, {}, {}
     for it in items:
         hay = (it["headline"] + " " + it.get("summary", "")).lower()
         if not any(k in hay for k in TRANSFER_KEYS):
@@ -461,15 +463,17 @@ def discover_rumours(items, squad_tokens, watch_aliases, limit=5):
             if any(any(t in _fold(a) or _fold(a) in t for a in watch_aliases) for t in toks):
                 continue
             counts[nm] = counts.get(nm, 0) + 1
+            srcs.setdefault(nm, set()).add(it["source"])
             if nm not in meta or it["credibility"] > meta[nm]["credibility"]:
                 meta[nm] = {"source": it["source"], "url": it["url"], "date": it["date"], "credibility": it["credibility"]}
     out = []
     for nm, c in sorted(counts.items(), key=lambda x: -x[1]):
-        if c < 2:   # require corroboration across at least two articles
+        outlets = len(srcs.get(nm, ()))
+        if c < 3 or outlets < 2:   # 3+ reports across 2+ outlets, all LFC-linked
             continue
         m = meta[nm]
-        out.append({"who": nm, "meta": "Emerging link · auto-detected from news", "fee": "undisclosed",
-                    "p": "Low", "mentions": c, "source": m["source"], "url": m["url"], "date": m["date"],
+        out.append({"who": nm, "meta": f"Emerging link · {c} reports across {outlets} outlets", "fee": "undisclosed",
+                    "p": "Low", "mentions": c, "outlets": outlets, "source": m["source"], "url": m["url"], "date": m["date"],
                     "active": True, "discovered": True})
         if len(out) >= limit:
             break
