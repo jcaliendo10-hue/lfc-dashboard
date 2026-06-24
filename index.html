@@ -675,7 +675,7 @@ function rumorCardLive(r){
   const fresh=r.active
     ? `<div class="note" style="margin-top:3px">🔗 ${r.mentions} recent link${r.mentions>1?'s':''} · <a href="${r.url}" target="_blank" rel="noopener">${r.source}</a> · ${r.date}</div>`
     : `<div class="note" style="margin-top:3px;opacity:.65">No fresh links right now</div>`;
-  return `<div class="rumor${r.active?' liveon':''}">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)}${r.active?' <span class="livedot" title="Actively linked in the latest news"></span>':''}</div><div class="meta">${r.meta}</div>${fresh}</div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee}</div></div></div>`;
+  return `<div class="rumor${r.active?' liveon':''}">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)}${r.discovered?' <span class="ttag">AUTO</span>':''}${r.active?' <span class="livedot" title="Actively linked in the latest news"></span>':''}</div><div class="meta">${r.meta}</div>${fresh}</div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee}</div></div></div>`;
 }
 function renderNews(payload){
   const items=(payload&&payload.items)||[];

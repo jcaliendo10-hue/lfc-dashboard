@@ -19,6 +19,7 @@ No API keys required — everything is public RSS.
 import json
 import re
 import sys
+import unicodedata
 import datetime as dt
 from pathlib import Path
 from html import unescape
@@ -400,6 +401,81 @@ def _likelihood(hay, cred):
     return p
 
 
+# Words/clubs/reporters that look like names but aren't transfer targets.
+_CLUBS = {"liverpool","anfield","newcastle","tottenham","spurs","arsenal","chelsea","manchester",
+    "united","city","real","madrid","atletico","atlético","barcelona","bayern","munich","psg","paris",
+    "juventus","inter","milan","napoli","roma","bournemouth","leipzig","sporting","lille","ajax",
+    "dortmund","borussia","galatasaray","hilal","ittihad","nassr","brighton","villa","aston","everton",
+    "fulham","wolves","leeds","sunderland","brentford","palace","crystal","forest","nottingham","bayer",
+    "leverkusen","frankfurt","eintracht","porto","benfica","monaco","marseille","valencia","osasuna","rennes"}
+_STOPWORDS = {"premier","league","champions","europa","world","cup","here","we","go","paper","talk",
+    "transfer","news","gossip","update","updates","deal","done","video","report","exclusive","official",
+    "the","kop","group","stage","fans","star","boss","manager","head","coach","sporting","director",
+    "loan","free","agent","release","clause","medical","bid","move","target","signing","summer","window",
+    "new","old","next","first","reds","fc","iraola","slot","klopp","fsg",
+    # transfer-headline vocabulary that the regex would otherwise pick up as fake names
+    "personal","terms","agreed","agree","agrees","agreement","for","sets","set","record","joy","disaster",
+    "instant","impact","statement","blueprint","dealsheet","latest","form","interests","interest","interested",
+    "verdict","stance","offer","way","must","pay","top","dream","watch","three","two","one","four","five",
+    "man","utd","york","times","athletic","guardian","sport","sports","sky","mirror","echo","express","mail",
+    "swoop","hijack","raid","eyes","eye","plan","plans","push","close","talks","links","linked","monitoring",
+    "tracking","chase","race","battle","edge","beat","beats","win","won","joins","join","return","returns",
+    "exit","future","decision","claim","claims","reveals","reveal","names","named","amid","after","before",
+    "says","said","makes","made","make","fresh","attempt","open","signs","ace","sources","source","confirms",
+    "confirm","confirmed","expected","prepares","preparing","ready","eyeing","weighing","considering","on",
+    "off","out","in","as","to","of","and","with","his","her","big","surprise","twist","blow","boost","hint",
+    "drops","drop","issues","issue","step","away","breaking","live","recap","round","key","dates","how","what",
+    "why","who","when","can","get","best","interest","wants","want","keen","stars","could","would","set",
+    "rumours","rumour","rumor","rumors","priority","alternative","replacement","contact","verbal","personal"}
+_REPORTERS = {"romano","ornstein","pearce","joyce","reddy","lynch","plettenberg","jacobs","bascombe","hughes","gorst"}
+_NAME_RE = re.compile(r"([A-ZÀ-Þ][\wÀ-ÿ'’\-]+ [A-ZÀ-Þ][\wÀ-ÿ'’\-]+)")
+
+
+def _fold(s):
+    """Lowercase, strip accents and a trailing possessive so 'Iraola's'→'iraola'
+    and 'Munoz'/'Muñoz' both fold to 'munoz' for reliable matching."""
+    s = "".join(c for c in unicodedata.normalize("NFKD", s) if not unicodedata.combining(c)).lower()
+    for suf in ("'s", "’s", "'", "’"):
+        if s.endswith(suf):
+            s = s[: -len(suf)]
+            break
+    return s
+
+
+def discover_rumours(items, squad_tokens, watch_aliases, limit=5):
+    """Auto-detect NEW incoming links by extracting player-like names from the
+    feed that aren't squad members or already on the watchlist. Unverified, so
+    flagged 'discovered' and rated Low — gives fresh names through the window."""
+    counts, meta = {}, {}
+    for it in items:
+        hay = (it["headline"] + " " + it.get("summary", "")).lower()
+        if not any(k in hay for k in TRANSFER_KEYS):
+            continue
+        for nm in _NAME_RE.findall(it["headline"] + " " + it.get("summary", "")):
+            toks = [_fold(t) for t in nm.split()]
+            if len(toks) != 2:
+                continue
+            # reject if EITHER token is a stopword/club/reporter/squad member, or too short
+            if any(t in _STOPWORDS or t in _CLUBS or t in _REPORTERS or t in squad_tokens or len(t) < 3 for t in toks):
+                continue
+            if any(any(t in _fold(a) or _fold(a) in t for a in watch_aliases) for t in toks):
+                continue
+            counts[nm] = counts.get(nm, 0) + 1
+            if nm not in meta or it["credibility"] > meta[nm]["credibility"]:
+                meta[nm] = {"source": it["source"], "url": it["url"], "date": it["date"], "credibility": it["credibility"]}
+    out = []
+    for nm, c in sorted(counts.items(), key=lambda x: -x[1]):
+        if c < 2:   # require corroboration across at least two articles
+            continue
+        m = meta[nm]
+        out.append({"who": nm, "meta": "Emerging link · auto-detected from news", "fee": "undisclosed",
+                    "p": "Low", "mentions": c, "source": m["source"], "url": m["url"], "date": m["date"],
+                    "active": True, "discovered": True})
+        if len(out) >= limit:
+            break
+    return out
+
+
 def build_rumours(items):
     out = {"in": [], "out": []}
     for dirn, lst in RUMOUR_WATCH.items():
@@ -421,7 +497,48 @@ def build_rumours(items):
                 card.update(p=w.get("p", "Low"), mentions=0, active=False)
             out[dirn].append(card)
         out[dirn].sort(key=lambda c: (c.get("active", False), _RANK.get(c["p"], 0), c.get("mentions", 0)), reverse=True)
+    # Auto-discover fresh names from the feed (incoming) and squad exits (outgoing).
+    ref = load_reference()
+    squad_tokens = squad_tokens_set(ref)
+    in_aliases = {a for w in RUMOUR_WATCH["in"] for a in w["aliases"]}
+    out["in"] += discover_rumours(items, squad_tokens, in_aliases)
+    out_aliases = {a for w in RUMOUR_WATCH["out"] for a in w["aliases"]}
+    out["out"] += discover_out(items, ref, out_aliases)
     return out
+
+
+def squad_tokens_set(ref):
+    toks = set()
+    for grp in (ref.get("squad", []), ref.get("loans", [])):
+        for p in grp:
+            nm = (p.get("name") or "").replace(" (c)", "").strip()
+            if nm:
+                toks.add(_fold(nm.split()[-1]))
+    return {t for t in toks if len(t) > 3}
+
+
+def discover_out(items, ref, watch_aliases, limit=4):
+    """Detect squad players linked with an exit who aren't already tracked."""
+    out, seen = [], set()
+    players = [(p.get("name", ""), p.get("name", "").replace(" (c)", "").split()[-1].lower())
+               for p in ref.get("squad", [])]
+    for it in items:
+        hay = (it["headline"] + " " + it.get("summary", "")).lower()
+        if not any(w in hay for w in OUT_WORDS):
+            continue
+        for full, sur in players:
+            if len(sur) <= 3 or sur in seen:
+                continue
+            if any(sur in a or a in sur for a in watch_aliases):
+                continue
+            if sur in hay:
+                seen.add(sur)
+                out.append({"who": full, "meta": "Exit link · auto-detected from news", "fee": "undisclosed",
+                            "p": "Low", "mentions": 1, "source": it["source"], "url": it["url"],
+                            "date": it["date"], "active": True, "discovered": True})
+        if len(out) >= limit:
+            break
+    return out[:limit]
 
 
 def main():
