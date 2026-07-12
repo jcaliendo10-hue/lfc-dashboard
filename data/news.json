@@ -1,5 +1,5 @@
 {
-  "updated": "12 Jul 2026 02:44 UTC",
+  "updated": "12 Jul 2026 06:32 UTC",
   "count": 30,
   "items": [
     {
@@ -32,7 +32,7 @@
       "relevance": 85,
       "rank_score": 85.0,
       "date": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQNmI3TlRaTTNKUDc0aHVOUHNuN1VfWHczRFBBUlhBVnJJYjdBbDVVcDY0M19Qel9OeUs0bmRBNEd0VmxXb1RscW4yY3VmQ1c5NVVSYWtfNDdZQnpSN3JfYkxnZXF3V1JRbGVWNkEtNmtxMnEwaDVfY2pwTXdfYUNEVEZ6Zy1BZF9sbkdIckpKNkJOTzJ2bkFfWDM2OGZTMWVFVnhNadIBpAFBVV95cUxQNmI3TlRaTTNKUDc0aHVOUHNuN1VfWHczRFBBUlhBVnJJYjdBbDVVcDY0M19Qel9OeUs0bmRBNEd0VmxXb1RscW4yY3VmQ1c5NVVSYWtfNDdZQnpSN3JfYkxnZXF3V1JRbGVWNkEtNmtxMnEwaDVfY2pwTXdfYUNEVEZ6Zy1BZF9sbkdIckpKNkJOTzJ2bkFfWDM2OGZTMWVFVnhNaQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZmpja0h4U2xtQU5NbDV0ZVU0blBKUEZjUWl1SVpiSUhTOFJTS3VTU09CX3dUSHloUjd3LWZBRE5sQTluOXI2bDgxeU5JWXV3R1BWMnpZTkt6Vzc5TVEtR1F2VGI1WTVGVG44OXJ0QUJBZ0RFRGI2M1FCM0RqUndxSENxSEczeDROUnYxTk5RWk51eVZwcW92QXdtdjDSAaQBQVVfeXFMUDZiN05UWk0zSlA3NGh1TlBzbjdVX1h3M0RQQVJYQVZySWI3QWw1VXA2NDNfUHpfTnlLNG5kQTRHdFZsV29UbHFuMmN1ZkNXOTVVUmFrXzQ3WUJ6UjdyX2JMZ2Vxd1dSUWxlVjZBLTZrcTJxMGg1X2NqcE13X2FDRFRGemctQWRfbG5HSHJKSjZCTk8ydm5BX1gzNjhmUzFlRVZ4TWk?oc=5",
       "rank": 3
     },
     {
@@ -58,14 +58,14 @@
       "rank": 5
     },
     {
-      "headline": "Michael Edwards’ exit leaves Liverpool mired in uncertainty. It’s a bad look for FSG - The Athletic - The New York Times",
-      "summary": "Michael Edwards’ exit leaves Liverpool mired in uncertainty. It’s a bad look for FSG - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMHphZXJWTHRtc0hKVFFPZHFlT19nM0dtZ21WRVdMV0J2Z3BVeG90QXkzRkd3T0RzS1BUVVd3c1A4OVQ2MmVvbm9yQTVlRU1EQ0Y5WXlPTEc4dzItVnVuY1UxUkRtaXJ0WXVRZ0NLcmFiRE5iQmgwN1dmcGs4UkJlWEpBVjJrMGNqLXRBeVQ0Umo?oc=5",
+      "headline": "Liverpool latest: Transfer update on World Cup star as contact made for £38m Brazilian",
+      "summary": "Liverpool are reportedly looking to bolster their squad ahead of the new Premier League season, with the Reds said to have made contact over a potential £38m signing",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-07-12",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-gakpo-gomes-34275993",
       "rank": 6
     },
     {
@@ -157,6 +157,17 @@
       "rank": 14
     },
     {
+      "headline": "Man Utd enter race with Liverpool to sign Joao Gomes - Liverpool FC",
+      "summary": "Man Utd enter race with Liverpool to sign Joao Gomes Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 75,
+      "rank_score": 75.0,
+      "date": "2026-07-11",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVZJYVNwVE5LQjNydW9jZTNNejA0UGlmenN3ZTZmTlY0RXFUaHVFdWpwWDdUdXJ3alh0ZF9naVcyMG8zTEh2amQ0a1ZlVWdYYjJSSWJ4UlBBZXJlVnBpbk1kMm4wbHRWejFEaTRfcTdDWTRaWF9RaTNCQ2VWaGVNVThsdEk4VVU2bktN0gGLAUFVX3lxTFBpVklhU3BUTktCM3J1b2NlM016MDRQaWZ6c3dlNmZOVjRFcVRodUV1anBYN1R1cndqWHRkX2dpVzIwbzNMSHZqZDRrVmVVZ1hiMlJJYnhSUEFlcmVWcGluTWQybjBsdFZ6MURpNF9xN0NZNFpYX1FpM0JDZVZoZU1VOGx0SThVVTZuS00?oc=5",
+      "rank": 15
+    },
+    {
       "headline": "All Red competition: Win a VIP weekend to watch Liverpool v Nottingham Forest - Liverpool FC",
       "summary": "All Red competition: Win a VIP weekend to watch Liverpool v Nottingham Forest Liverpool FC",
       "source": "Liverpool FC",
@@ -165,7 +176,7 @@
       "rank_score": 75.0,
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNalBxNFp5X3d1elFOZUg0Rzc4QW9pVk0yUS13U2tkQkhod3lnNm80b2RNeDBOYlVRbldWVXlhMzA2U01NMXdZRzZWemVLTlItRWx6LU9EZ0RhR2RNWFJKRDJYbW1PU2ljZlNEMVNFcHVUMFZqdExPOHpaLXZpeW9YRUthSlBTa2N0clAybGFpTjBVSzJHeDVrNEE5dkdhLTNsMUJaVkI4REVhTVV6eHlz0gGvAUFVX3lxTE1qUHE0Wnlfd3V6UU5lSDRHNzhBb2lWTTJRLXdTa2RCSGh3eWc2bzRvZE14ME5iVVFuV1ZVeWEzMDZTTU0xd1lHNlZ6ZUtOUi1FbHotT0RnRGFHZE1YUkpEMlhtbU9TaWNmU0QxU0VwdVQwVmp0TE84elotdml5b1hFS2FKUFNrY3RyUDJsYWlOMFVLMkd4NWs0QTl2R2EtM2wxQlpWQjhERWFNVXp4eXM?oc=5",
-      "rank": 15
+      "rank": 16
     },
     {
       "headline": "Michael Edwards steps down as Liverpool owner Fenway Sports Group’s CEO of football - The Athletic - The New York Times",
@@ -176,7 +187,7 @@
       "rank_score": 75.0,
       "date": "2026-07-10",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVUs5UGRZWWgwXzVCRTRBeFFRQml4blhoX0htZHFJcmt4XzVWVFIwTWJDendvU2otS2NMUDFRcTF5Z2lTMjJfZjVtUm1oMTdnd3V6YkZNWENOaVh2MkxrTUxZOGhhU20ydE83YVgxckdYMjBOYzFpWWd4d3NPbnp0UmdTajJzN3F0N0FCY1dtLUg?oc=5",
-      "rank": 16
+      "rank": 17
     },
     {
       "headline": "Journalist shares what he’s heard ‘internally’ about Cody Gakpo amid Liverpool transfer rumours",
@@ -187,7 +198,51 @@
       "rank_score": 72.8,
       "date": "2026-07-09",
       "url": "https://www.empireofthekop.com/2026/07/09/journalist-shares-what-hes-heard-internally-about-gakpo-amid-exit-rumours/",
-      "rank": 17
+      "rank": 18
+    },
+    {
+      "headline": "Liverpool’s chances of Barcola swoop may have increased amid reports of ‘agreement in principle’",
+      "summary": "Liverpool’s chances of a summer swoop for Bradley Barcola may just have been given a slight boost by reported developments elsewhere. With Yan Diomande indicating his preference to sign for Paris Saint-Germain, the current PSG winger has be",
+      "source": "Empire of the Kop",
+      "credibility": 9,
+      "relevance": 77,
+      "rank_score": 72.8,
+      "date": "2026-07-09",
+      "url": "https://www.empireofthekop.com/2026/07/09/barcola-liverpool-transfer-likelihood-arsenal-rogers-agreement/",
+      "rank": 19
+    },
+    {
+      "headline": "Liverpool transfer news: Fabrizio Romano confirms generational player is coming to Reds - Anfield Watch",
+      "summary": "Liverpool transfer news: Fabrizio Romano confirms generational player is coming to Reds Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 77,
+      "rank_score": 72.8,
+      "date": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVFBRXA2c3M4ODQyZ0RJYU02U1J4WnVUOXBWR2hRaUJsUHRYSGJJY2FvcW4wTE4tYkdNSXkxQjkwWjU2TGlDdjJ5UGFVTTcyaTRnTDZrU3c1eWNlSW5sTEltX2RUOFo3djhoQ1RTVWhvMG84dHFxYzJ4VWVTLTJZYkhIYUNLd3VoX0xTaDk5QV9zM3R4T01MdkQtaWR4Uk5oUW9VeTA1Yk44b0hqX0w4c0o1ek5SMk9LR0pB?oc=5",
+      "rank": 20
+    },
+    {
+      "headline": "Liverpool plan bid for Gambian winger as FSG learn record-breaking fee for Bradley Barcola - Liverpool FC",
+      "summary": "Liverpool plan bid for Gambian winger as FSG learn record-breaking fee for Bradley Barcola Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 72,
+      "rank_score": 72.0,
+      "date": "2026-07-09",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbU8wR3YyWDFodTMwOEcxNnU2VlpPT0VXM1JUc0pEaXVEeXNaY18xS3M0YXFjX0Z6Z1VJQTlKVmo3YURFRW9xMEI0dTB2Q25WbV9ldTNSSlBVWTNMWkhXTTItZGlsWDFDU3k0eXZsOFl0bk0ybklkdlNTWDFBcGkxY2NDWEJNRlJ5RWVjVThjRGhmdE95OE16cVRfdW05LTFSQlpFblR1NzRPYW13VjhCLVhB0gG6AUFVX3lxTFB2cGxSazBReS1DV1h6eGpZRkFqaHVzUW00MHlzSWJ3a1QzWkRGMkFZR0t2ejRaNjRVb3poZWp2a0FJQkd6Y0VVZXU1cV9IeVA5eGhLSi1qbXkwanZkVHJiSC04d0FYSFhlUWltMERpY3NDOWhIZW5PdE9SZW9Jazg0Q0hlYU5SWnhYcUdTZTlsSlByTEl0Q1p3RGxjMFN6RlVabzF3TGFHWlI5TmlXUllaZlNZQnQ3YzhSQQ?oc=5",
+      "rank": 21
+    },
+    {
+      "headline": "Barcelona battling Liverpool, Man Utd to sign superstar Australian teen after breakout World Cup - Liverpool FC",
+      "summary": "Barcelona battling Liverpool, Man Utd to sign superstar Australian teen after breakout World Cup Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 72,
+      "rank_score": 72.0,
+      "date": "2026-07-08",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNb2dJYXo0QTY2cW9xN3ZNdGE4OVV6VGZHdVRQaUVfQU9xMWNTaXRfOU1rTWx3TUNEb0kxUGk2OHZFMEFHNlVIekRVSTNhREVBcDM0MC1kYW4tN3QyX1psaWhDQTBFelU2ZDVGQVBVWjBIa2poSHhhdkdYMThTaGNNQlBXYVpMbUtfNU1tcThFbTN4aVpEQ1pQcHlHLTJndjNIQUFOcUJhX2Z3OWttQWxzU0hPaWt6WHM5SEkxQkp5czRlMTTSAcsBQVVfeXFMUHh6b1dpb2Q4WWY0RHpxZ2I3NC1DWW9xOXNfcjZCRnNkc2VrcXlZVjlhcDgycWp2bDhwSmsza1lvNEduMUtvX1VmcEwzdDJqcEVqWFpqdTZ1RHZWUWxwTXJGeGFjS1lUYk1IVElSdTBVOGxVT3BIck9sWWEzdkhYbnN4UlA5YzRVWTNXZU5OYk9SbzV6bVZ2cnlxNGlWQWJfc243Ync1RFRkdURoS2RBa0o1dGlYalJTVEFPU1Y2UTNoZ01kYVNpOTRvRTQ?oc=5",
+      "rank": 22
     },
     {
       "headline": "Photos: LFC U21s continue pre-season work as Andoni Iraola watches on - Liverpool FC",
@@ -198,7 +253,7 @@
       "rank_score": 72.0,
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXZlQ3hFMDY5ZklZNm1naEpzbHJNbksySEo5T25GczlVZXpBdXBLUGc3TVpVUTBvMGd0WkJQeG1LQTRnREF3RVF3eG9FZk96RjlDYmtuTmNHVG1vb205bGFNVGVoaUItTU4wRkpCelNnWHRmOGZpcjVWUkVvVlR4QnR4Yld4WGVIbFJRZ3pHSXlwVWRQYnpiSXU3c9IBowFBVV95cUxOM09LM19KNEZ6WU5YYTRsQXJoYk1Qb1BSaElHRkJ6X0xrRkZoSnFrWDhheDBfelBEcDFsS1p5bUEzVjhwTGZxS2dZSndnWjNEeHF1QzBXSmY5ZlFnLWR0dVFWeHNqVmZ0WURrcVE3N2dhbV9TdzNaNXpjTXJqOXdpOUJhNG90VnYtYUxXRVU0V1JZU2tZRlpMdzZJQWN2Qno1YXV3?oc=5",
-      "rank": 18
+      "rank": 23
     },
     {
       "headline": "Live on Monday: Watch Andoni Iraola's first Liverpool press conference - Liverpool FC",
@@ -209,7 +264,7 @@
       "rank_score": 72.0,
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNc2cwMW1OQl9YTDE0U1FSdW02YzNjMkpHaHRITTk0d0FlUTR0UVVxRWFvVTJ2Z09JWVBma1Zhd1phZklYZFZGVHFkZFZGZVRRczF3R3J3b3hPRzVXSVQzQVFIQmxNZnF0Zi1td2NCb2xhUWZfblhJY0xKZjVSSlpjUTNmYjZPamdhYllLWWNFOFl6UWxiOWFuNlc3MkNTN2vSAacBQVVfeXFMTlBaWXk1bTBiRG9zNEw3T3c5bDJPRllpakgya1dVYkhPNUpTd1gzU3RqX01JVjJPNGFkbUZ3RzR3TmVrcWZ0ZnhQdWg3T09SVnJnQ2stdkx4STBnSnhONkdsMzREdkdYWFNERGNELXZTNDVnUEw5RVBWay1fN1JGV1VELUNzVDZ1TmdKa18zS3JrWWFqMVhCcF82RDUyc3d6QXZkUlVnVkU?oc=5",
-      "rank": 19
+      "rank": 24
     },
     {
       "headline": "Liverpool news: What are the expectations for Andoni Iraola? - BBC",
@@ -220,7 +275,7 @@
       "rank_score": 72.0,
       "date": "2026-07-09",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tRUIwOHJSUU9pWk9HY2RGbGtxVnBwU0NkSHk0WEJ6WWtCeTJEcXRmeW5Wa3dNV3RiS2pzbjFiRk5KYV9yb0t0dmF5TG9aNGoweVE1YlBUamNvREQ2bmZxODV0V0tIUVI0eHc?oc=5",
-      "rank": 20
+      "rank": 25
     },
     {
       "headline": "Liverpool transfer rumours: Gilberto Mora, Dara Jikiemi - BBC",
@@ -231,7 +286,7 @@
       "rank_score": 72.0,
       "date": "2026-07-08",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBObmZvNXFZcGNyWFoycGhHZ1VzOGdVQmtMVXB4c0VQR0dWZWNpZGZYaVNEcGNad0VLRzk4ckdJRGM5RjAwdzJ4cmtmNkg3NXczMXk0Nk04aEMzQ0FvU1pKbGE0VnRLRkE?oc=5",
-      "rank": 21
+      "rank": 26
     },
     {
       "headline": "Milos Kerkez warned ahead of Andoni Iraola reunion at Liverpool - '100 miles per hour'",
@@ -242,7 +297,7 @@
       "rank_score": 71.0,
       "date": "2026-07-12",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/milos-kerkez-andoni-iraola-liverpool-34274142",
-      "rank": 22
+      "rank": 27
     },
     {
       "headline": "Curtis Jones responds to Liverpool transfer 'agreement' claim as midfielder takes to social media",
@@ -253,7 +308,7 @@
       "rank_score": 71.0,
       "date": "2026-07-11",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/curtis-jones-liverpool-transfer-forest-34276802",
-      "rank": 23
+      "rank": 28
     },
     {
       "headline": "Dominik Szoboszlai admits 'too much ego' as Liverpool midfielder fires X-rated response",
@@ -264,7 +319,7 @@
       "rank_score": 71.0,
       "date": "2026-07-11",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-admits-too-much-34275910",
-      "rank": 24
+      "rank": 29
     },
     {
       "headline": "Mohamed Salah replacement 'has enormous potential' as Liverpool transfer understood",
@@ -275,61 +330,6 @@
       "rank_score": 71.0,
       "date": "2026-07-10",
       "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/mohamed-salah-replacement-has-enormous-34268995",
-      "rank": 25
-    },
-    {
-      "headline": "England stars make shock claim over Jordan Henderson injury as updates emerges",
-      "summary": "Former Liverpool captain Jordan Henderson suffered a fractured arm following England's World Cup last-16 victory over Mexico at the Azteca Stadium",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-10",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jordan-henderson-injury-world-cup-34269237",
-      "rank": 26
-    },
-    {
-      "headline": "Alexander Isak receives Liverpool backing as goal prediction made - 'I can tell you now'",
-      "summary": "Alexander Isak has been backed to hit the goal trail at Liverpool this coming season under Andoni Iraola",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-10",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-receives-liverpool-backing-34268527",
-      "rank": 27
-    },
-    {
-      "headline": "Jurgen Klopp finally comes clean on Liverpool transfer meeting with Kylian Mbappe",
-      "summary": "Kylian Mbappe is currently lighting up the 2026 World Cup - and Jurgen Klopp has now revealed how Liverpool tried to sign him from Monaco back in 2017",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-10",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/kylian-mbappe-liverpool-transfer-klopp-34268280",
-      "rank": 28
-    },
-    {
-      "headline": "Liverpool offered answer to Florian Wirtz issue as Andoni Iraola faces major decision",
-      "summary": "Florian Wirtz had a steady if unspectacular first season at Liverpool following his £116m move from Bayer Leverkusen - but what should happen next?",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-10",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-offered-answer-florian-wirtz-34263652",
-      "rank": 29
-    },
-    {
-      "headline": "Liverpool make contact over deal to sign World Cup wonderkid - Liverpool FC",
-      "summary": "Liverpool make contact over deal to sign World Cup wonderkid Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 71,
-      "rank_score": 71.0,
-      "date": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWC1VblRJRjZqUUgzTzhKd0cwSmFPNnVkSGJveERQQUdJNFo5TTJDY1h4VmQzU3Jwa000REN6QUwwbUsteFVuYlp1WWljMG44X2lFZHRhazRqUDVqTjdYRFo1NGtYUmxaTUlPdW9nS0VXYk1TT0FUT3VWOVJzUlRZUU9hWEdDa3JEWWlRMUNjLWJTbHJF0gGcAUFVX3lxTE0zS3F0d0kzRGVQY2dXMUdpZ0JjY1o5bWg3Zmc3cUlHdk5kVktqSkdrdkRxT2lERUp1VnNUaHJfNXVEMVRzb19KOFJhMmdpMjZEMDh0b2drTHJQWlNBcmpzUmJrQVhyM19ZUlhlcFZaQ0ZZSEt1TUsySXQyVEtlelhpLWxBWXF3N21aNDQyS1pseDlYRG9ZQlNKUm1pSg?oc=5",
       "rank": 30
     }
   ],
@@ -339,20 +339,23 @@
         "who": "Bradley Barcola",
         "meta": "LW · PSG",
         "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/mohamed-salah-replacement-has-enormous-34268995",
-        "date": "2026-07-10",
+        "p": "Medium",
+        "mentions": 3,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbU8wR3YyWDFodTMwOEcxNnU2VlpPT0VXM1JUc0pEaXVEeXNaY18xS3M0YXFjX0Z6Z1VJQTlKVmo3YURFRW9xMEI0dTB2Q25WbV9ldTNSSlBVWTNMWkhXTTItZGlsWDFDU3k0eXZsOFl0bk0ybklkdlNTWDFBcGkxY2NDWEJNRlJ5RWVjVThjRGhmdE95OE16cVRfdW05LTFSQlpFblR1NzRPYW13VjhCLVhB0gG6AUFVX3lxTFB2cGxSazBReS1DV1h6eGpZRkFqaHVzUW00MHlzSWJ3a1QzWkRGMkFZR0t2ejRaNjRVb3poZWp2a0FJQkd6Y0VVZXU1cV9IeVA5eGhLSi1qbXkwanZkVHJiSC04d0FYSFhlUWltMERpY3NDOWhIZW5PdE9SZW9Jazg0Q0hlYU5SWnhYcUdTZTlsSlByTEl0Q1p3RGxjMFN6RlVabzF3TGFHWlI5TmlXUllaZlNZQnQ3YzhSQQ?oc=5",
+        "date": "2026-07-09",
         "active": true
       },
       {
         "who": "Yan Diomande",
         "meta": "RW · RB Leipzig · 19",
         "fee": "~€130m",
-        "p": "High",
-        "mentions": 0,
-        "active": false
+        "p": "Medium",
+        "mentions": 1,
+        "source": "Empire of the Kop",
+        "url": "https://www.empireofthekop.com/2026/07/09/barcola-liverpool-transfer-likelihood-arsenal-rogers-agreement/",
+        "date": "2026-07-09",
+        "active": true
       },
       {
         "who": "Ayyoub Bouaddi",
@@ -393,6 +396,19 @@
         "p": "Low",
         "mentions": 0,
         "active": false
+      },
+      {
+        "who": "Joao Gomes",
+        "meta": "Emerging link · 3 reports across 2 outlets",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 3,
+        "outlets": 2,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQaVZJYVNwVE5LQjNydW9jZTNNejA0UGlmenN3ZTZmTlY0RXFUaHVFdWpwWDdUdXJ3alh0ZF9naVcyMG8zTEh2amQ0a1ZlVWdYYjJSSWJ4UlBBZXJlVnBpbk1kMm4wbHRWejFEaTRfcTdDWTRaWF9RaTNCQ2VWaGVNVThsdEk4VVU2bktN0gGLAUFVX3lxTFBpVklhU3BUTktCM3J1b2NlM016MDRQaWZ6c3dlNmZOVjRFcVRodUV1anBYN1R1cndqWHRkX2dpVzIwbzNMSHZqZDRrVmVVZ1hiMlJJYnhSUEFlcmVWcGluTWQybjBsdFZ6MURpNF9xN0NZNFpYX1FpM0JDZVZoZU1VOGx0SThVVTZuS00?oc=5",
+        "date": "2026-07-11",
+        "active": true,
+        "discovered": true
       }
     ],
     "out": [
@@ -457,6 +473,18 @@
         "p": "Low",
         "mentions": 0,
         "active": false
+      },
+      {
+        "who": "Conor Bradley",
+        "meta": "Exit link · auto-detected from news",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbU8wR3YyWDFodTMwOEcxNnU2VlpPT0VXM1JUc0pEaXVEeXNaY18xS3M0YXFjX0Z6Z1VJQTlKVmo3YURFRW9xMEI0dTB2Q25WbV9ldTNSSlBVWTNMWkhXTTItZGlsWDFDU3k0eXZsOFl0bk0ybklkdlNTWDFBcGkxY2NDWEJNRlJ5RWVjVThjRGhmdE95OE16cVRfdW05LTFSQlpFblR1NzRPYW13VjhCLVhB0gG6AUFVX3lxTFB2cGxSazBReS1DV1h6eGpZRkFqaHVzUW00MHlzSWJ3a1QzWkRGMkFZR0t2ejRaNjRVb3poZWp2a0FJQkd6Y0VVZXU1cV9IeVA5eGhLSi1qbXkwanZkVHJiSC04d0FYSFhlUWltMERpY3NDOWhIZW5PdE9SZW9Jazg0Q0hlYU5SWnhYcUdTZTlsSlByTEl0Q1p3RGxjMFN6RlVabzF3TGFHWlI5TmlXUllaZlNZQnQ3YzhSQQ?oc=5",
+        "date": "2026-07-09",
+        "active": true,
+        "discovered": true
       }
     ]
   }
