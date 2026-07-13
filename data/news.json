@@ -1,18 +1,7 @@
 {
-  "updated": "13 Jul 2026 11:10 UTC",
+  "updated": "13 Jul 2026 14:33 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "‘Depends on…’ – Romano eases fears over potential Liverpool exit as transfer priority outlined",
-      "summary": "Fabrizio Romano has sought to ease fears over a potential big-name exit for Liverpool with an update over the past 24 hours. Last month, the Italian transfer reporter declared that Tottenham Hotspur are interested in signing Cody Gakpo, alt",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "relevance": 90,
-      "rank_score": 85.1,
-      "date": "2026-07-11",
-      "url": "https://www.empireofthekop.com/2026/07/11/romano-eases-fears-over-potential-liverpool-exit-transfer-priority-outlined/",
-      "rank": 1
-    },
     {
       "headline": "‘Great player’ – Alexis Mac Allister raves about Liverpool transfer target - readliverpoolfc.com",
       "summary": "‘Great player’ – Alexis Mac Allister raves about Liverpool transfer target readliverpoolfc.com",
@@ -22,7 +11,7 @@
       "rank_score": 85.0,
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPanVOYnNBenBUYjRIdDY1QmdVanUtRXdGS2IxM1liMHhnWUJjakJiVzNfWGctSExTQ2lsMVY1WHJDaVRrZUlZZmpFM3V4X0c1bEQtbUdpTl9sSWpvSUZNNXNCN1U0UlpVV3pmNDVxczI1dW8wNldYbDlWWGRWcE1XM2RvcEoyaXg0M2NCa05B?oc=5",
-      "rank": 2
+      "rank": 1
     },
     {
       "headline": "Andoni Iraola makes brutally honest confession on Liverpool’s transfer plans - readliverpoolfc.com",
@@ -33,6 +22,17 @@
       "rank_score": 85.0,
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qNmozS2ctWkxzV2dkdG5BdUx2Um1QTWVUM3B2dWxfTDBTaWUzcG14dHQ1UXlMTnR6ZHhGRmdQYm1MN090U2FEMENmM1JELUUxR05rQ2ZXd205bEIyV1R0NUlObzZaZUFpMFlpakZWREJsSDQ3OUZoUk01UQ?oc=5",
+      "rank": 2
+    },
+    {
+      "headline": "Fixture Switches Hand Iraola First Liverpool Rhythm Test - readliverpoolfc.com",
+      "summary": "Fixture Switches Hand Iraola First Liverpool Rhythm Test readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWHR1M0NZbHdPTmU5S3BXa3pab3JMX0huNldQUUVBbTBsbmZwRVRJZk1TMVJGbGxoZ0xvMUVLdzZFdkpSVG9vTThoNkpKZjhGTlhtR0dCQVNFZWE0eUNmbTdqRnUtMlpqZ3RKMXM3ZjFQTVRNU1hQVjNVMVJMRGNqNVBkS1Rndw?oc=5",
       "rank": 3
     },
     {
@@ -58,15 +58,59 @@
       "rank": 5
     },
     {
-      "headline": "Live at 11am BST: Watch Andoni Iraola's first Liverpool press conference - Liverpool FC",
-      "summary": "Live at 11am BST: Watch Andoni Iraola's first Liverpool press conference Liverpool FC",
+      "headline": "Fabrizio Romano: Liverpool set for major battle to sign World Cup star - anfieldindex.com",
+      "summary": "Fabrizio Romano: Liverpool set for major battle to sign World Cup star anfieldindex.com",
+      "source": "anfieldindex.com",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0JXSlJXNXpMVi1zYXhMQ3A2SnoyMzVKUEM4MHVFNTZIbmJNMjJpaWp1R2JWQXpYZlFpSllrSXVsZS1MSURGZ2pRQlZjTjVXRXpTT2tqT3p2ZjgxYkRBd0Z6VEl4VzdnWWU3U3pWVk9uUGdzbDFIUlQ0a1gtTk9sRXVmeGM5dXVTcklKaHFMdnFxNG9GU1RjNDJMcHVKbFVWRVJXX3pTX3g?oc=5",
+      "rank": 6
+    },
+    {
+      "headline": "Liverpool FC",
+      "summary": "Hear Andoni Iraola's first press conference as the new Liverpool head coach",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-13",
+      "url": "https://www.bbc.co.uk/sounds/play/p0nyjbly?at_medium=RSS&at_campaign=rss",
+      "rank": 7
+    },
+    {
+      "headline": "Watch in full: Andoni Iraola's first Liverpool press conference - Liverpool FC",
+      "summary": "Watch in full: Andoni Iraola's first Liverpool press conference Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVWtvVUFteERibXdkNUY5d3hkUVhacWJCRjRvTWVWUmtMak83MFNnb0hRU0c3clFPTFNkUnhPcVJ2TGhBbmRQVDhrQl9WU1lndmlLRzZvblRlODRBQVA1bjduVGlMYWxGNTVNVUJOYnR6Z0MteGtRRHcxbFJIaThySzdnSWFBUTNmbkt2UmxuMTA0Z0RvNUxDc2Fwa3NsdUg5WGfSAaoBQVVfeXFMT1QyQ2lUWmRfMnZDTGI3a3JBdE5oOXNVMzZQaUFWQXNMTW4yNk5pdEN6NXR2eHlaSzdmdl9leW50c1dSV2thTGk3WGstbTBxWnpVUFBIMnhkNkVCbUJVZVg4UG0zVFBqWkVva0FPRGloYklwcWdsRjF3TWlnMWVtUnFZZ1ljZTh2d0lfVlZ0bVAxVll5SGRvQXJfN2tRZ0tRVTVnSXFudEJRZ3c?oc=5",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "headline": "Every word from Andoni Iraola's first press conference at Liverpool - Liverpool FC",
+      "summary": "Every word from Andoni Iraola's first press conference at Liverpool Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPM2JhWmRQdWgwZ2trLVBfZ24wVHFGaXpoU0ZEcWgzTUNVZUtWSERVcXpRdGt6Z2FsYnBJeGFHQm9McmhSWjVkNFJHMFZqcEplVzVHQmo1WDE4NzlJSVRLeVItLUdpV2tDQzVTbk5NQ0toQ2dzQWNjX3FZWkxLay1NUWxnOVg4TWdSWmdQUzREbGM5bmFYTGfSAZ4BQVVfeXFMT1VjbjBTSkNyXzlmeUVXZlhDUERrcTBMLVpOVG54VkMyd3pEM3ZuNUh5aDlOQ3FqQ0dKUElTNXBXdG5mN1pIRmRiVTNKM2htOE81M3lkeDUwZkJQTC1fT0JPQmtaVF9WRU1JdXUxMHlEM0pNYkR2UWd5dnF6TWZOVHdwbm8yMDNHajh1aW0xNll0X1gzUmh2bl9BVDZDenc?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "In photos: Andoni Iraola's first press conference as Liverpool head coach - Liverpool FC",
+      "summary": "In photos: Andoni Iraola's first press conference as Liverpool head coach Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOR05CY0lhbldhbmdWSE1jNXRHeFh4QzRmVzZZNDA5cVJJSF9YZnRfTkJYX0hxdmFZUlJ6ckVYOXBENEp1SVdfUEtZQ1dmUkN4d2ZPZmhoR3NLVUtxUUFyVGNTT25wNnBPS0FuZF9zLWY0Q28zN0s4QlpRTzdwTjN4bmpFNXUzY3hodEN0U0lLeXhZSlI3RlN0eUtRLUVINXfSAacBQVVfeXFMT3B0WkppaHljV1BlbXJuakF3Q0F6dGQwZ1EtX2RyUkQ4UWlZbEhVOFpoZlg4RkVjUURKVE9FTDRMZ3BLa2JDS2dRNlhRWFZMSFhFMmJGbXFJdW9UR2R5Nm9RRDBtWi1rQTBrZ2k0R3NxWnJneTEzeGt1eWpjT21XZmtYTVJQQUMyZFFzMnYxdTR5VXlfd19vVVN2YllFWTdfOG4zRGRPQ1U?oc=5",
+      "rank": 10
     },
     {
       "headline": "Liverpool reignite interest in World Cup sensation as hijack of Man Utd target ON - Liverpool FC",
@@ -77,18 +121,40 @@
       "rank_score": 80.0,
       "date": "2026-07-12",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT0p1Z0FtREdPRk5IVmFSbzNYS1J6V1NfRFQxOGhLS2NqcTBwcF9HNHRVN2J1Y0QzWlJfTmw5X1BoNHJoR2Z3VDFzTlNzWGZrdk82aERVWW1fM1NzVWtrZ2lsTnhXQlNtY2tPU1N4NThGczlFQnNtVkhwVzd5YVBOQXg5RWdmY0ZjTzJWWDNlcFNMVmpNbTJpN2lsMHFnX21NWm00cdIBrAFBVV95cUxPUXFRU2RVWTMxYzhoQVZLajdrZDkwd29TTXlFdmVVSjJWaVZEZEU2Zm5FYUJoRWdENkxKcVBxNm1xNENlLXlySktiNjRlXzZKN1NhcFZyVjdUa3FGQjFubGozanB6WTNQZF9ORm5vX2swTGNsZzUxdmFOYm9ENFF5UXR0VEJxT3lkLWNQR2hxZnl0ZVRrcmRBcFl5dl92Mk56UTR0Nnprdktiek4w?oc=5",
-      "rank": 7
+      "rank": 11
     },
     {
-      "headline": "LIVE NOW: Watch Andoni Iraola's first Liverpool press conference - Liverpool FC",
-      "summary": "LIVE NOW: Watch Andoni Iraola's first Liverpool press conference Liverpool FC",
-      "source": "Liverpool FC",
+      "headline": "Liverpool ‘need more players’ for the 2026-27 season, new head coach Andoni Iraola says - The New York Times",
+      "summary": "Liverpool ‘need more players’ for the 2026-27 season, new head coach Andoni Iraola says The New York Times",
+      "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-07-13",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNQ2FTWnlPMDdlSmlHckliWWtVMVFxT3hNeGtMUFBpV2tnZTlsajdWcElVRHBDMEpHdE5YVFVaY2prelBiNlpsSlh4c21XOE8wZlg1V0hQei00YlVsNTdJQ0hpTUVzcmstZDRuWmUzdjNTZWJHSVgyNmZQTFJoOW5BMGt5YjFJdVA0eHgtZThfVmhtekJmUHFIamJkTkF2cjQxcWtN0gGjAUFVX3lxTE1DYVNaeU8wN2VKaUdySWJZa1UxUXFPeE14a0xQUGlXa2dlOWxqN1ZwSVVEcEMwSkd0TlhUVVpjamt6UGI2WmxKWHhzbVc4TzBmWDVXSFB6LTRiVWw1N0lDSGlNRXNyay1kNG5aZTN2M1NlYkdJWDI2ZlBMUmg5bkEwa3liMUl1UDR4eC1lOF9WaG16QmZQcUhqYmROQXZyNDFxa00?oc=5",
-      "rank": 8
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNelRrNE1LR1NmY2xUbnFvajE0UjZlNklqb0N3VDFQYlRjUUFSWEhCZ245ZjR2eVhDWnd1NVJ2WGpPS0R5UkJHRnpiU3JVQU0zVWJwcnNXRC00VGJ3NmE4emhIZnNRY3AwX1VaVS0tWExEVk1HajE1LXpyaHVkTGIwQVlrQ2tnbm9pRlpEck1fSVQxV3JWTFE?oc=5",
+      "rank": 12
+    },
+    {
+      "headline": "‘We need him’ – Andoni Iraola offers lifeline to Liverpool outcast - readliverpoolfc.com",
+      "summary": "‘We need him’ – Andoni Iraola offers lifeline to Liverpool outcast readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdzFqN3piMjlIYlRjUGZIdXdmenpHbTE1OEJzakVZSzJxYVFWc2NkRDBwZk5sNDdIRU9OSVJGbmcwS3JOMzNuSG13RVZ3Qm9hZ2JLSG1tTjhqcUY5ZUJUNXVSSkRzdHlRTU4zejFYd2Z0UEdGb2pSOHVBRHMyNFA5SGFBRXVib1VfbXd4S18yVQ?oc=5",
+      "rank": 13
+    },
+    {
+      "headline": "Why Liverpool’s Scholar Cap Tradition Gives Iraola A Quiet Academy Signal - readliverpoolfc.com",
+      "summary": "Why Liverpool’s Scholar Cap Tradition Gives Iraola A Quiet Academy Signal readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcmVmcldSeWV1YnBvd01oVU5nRHhEdllCMFhtU1dRVmJmMkpiUnBYQ0NSNDh3NjNQcUttbnFScTM2Qk1nb3ZCSmg3SDM1UHBoTTQ1dWxtaHhYektjZ2dBdGk1dkJ2V3dpS21jRmVycUl0SUxZUVRtd0s2RGJRMkNGbjBIUjgtdkQ1THdqYmFJaEVxLUR6d1E?oc=5",
+      "rank": 14
     },
     {
       "headline": "Fabrizio Romano provides important late-night Liverpool transfer update - readliverpoolfc.com",
@@ -99,7 +165,7 @@
       "rank_score": 80.0,
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcG9NOGZJNmFQZ3EzeFlZWkNsMWhvZUF3VzZieW9ZejBjZl9DdHY0OWppbXY0bTdjNkdDTGtlQm9UQzFNWEJmMTE1OFM1ekZSUkFUX1BCTHVBX3lrTDR1Mkx5SnZsQ2E4dmRkMGxWT3hrRG5RdnRQMzdJUTluMXU0Vl9sRTZnczJmQXVscm1uS250Y1E?oc=5",
-      "rank": 9
+      "rank": 15
     },
     {
       "headline": "Liverpool latest: Transfer update on World Cup star as contact made for £38m Brazilian",
@@ -110,7 +176,18 @@
       "rank_score": 79.3,
       "date": "2026-07-12",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-gakpo-gomes-34275993",
-      "rank": 10
+      "rank": 16
+    },
+    {
+      "headline": "Andoni Iraola tells Liverpool to back him in transfer market - The Telegraph",
+      "summary": "Andoni Iraola tells Liverpool to back him in transfer market The Telegraph",
+      "source": "The Telegraph",
+      "credibility": 8,
+      "relevance": 85,
+      "rank_score": 75.7,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVmg1YTFOejBQMXFIV2kzektfM0lkQ3NRUEZaTDZLZnA5ODVjeHpvUzEycFpIWlhFYWRYMmNJTnU4c1ZGcDdwUTNKT0tvRkJsMDhsa1lzejd0Mzdhb3JGRWpoRXozeGRjeFRVWlBaM2tIVUF6QXdFOUdXSjc4OW0yb2ctaUdtYlRCZHk0SjdxSzl4T3k5a3NhSXNnT0kwOElaWWdKZ252TUpJUQ?oc=5",
+      "rank": 17
     },
     {
       "headline": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
@@ -121,7 +198,7 @@
       "rank_score": 75.6,
       "date": "2026-07-01",
       "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "rank": 11
+      "rank": 18
     },
     {
       "headline": "‘There is Liverpool’ – Fabrizio Romano drops important late-night transfer update",
@@ -132,7 +209,7 @@
       "rank_score": 75.6,
       "date": "2026-07-13",
       "url": "https://www.empireofthekop.com/2026/07/13/there-is-liverpool-fabrizio-romano-drops-important-late-night-transfer-update/",
-      "rank": 12
+      "rank": 19
     },
     {
       "headline": "What Joao Gomes has said about signing for Liverpool",
@@ -143,7 +220,7 @@
       "rank_score": 75.6,
       "date": "2026-07-12",
       "url": "https://www.empireofthekop.com/2026/07/12/what-joao-gomes-has-said-about-signing-for-liverpool/",
-      "rank": 13
+      "rank": 20
     },
     {
       "headline": "Paul Joyce confirms reassuring Liverpool transfer news after Michael Edwards exit",
@@ -154,29 +231,40 @@
       "rank_score": 75.6,
       "date": "2026-07-11",
       "url": "https://www.empireofthekop.com/2026/07/11/paul-joyce-confirms-reassuring-liverpool-transfer-news-after-michael-edwards-exit/",
-      "rank": 14
+      "rank": 21
     },
     {
-      "headline": "Liverpool could complete £38m transfer imminently as Fabrizio Romano drops afternoon alert",
-      "summary": "Liverpool are reportedly looking at Joao Gomes to reinforce their midfield this summer. DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – STRAIGHT TO YOUR PHONE! ON APPLE & GOOGLE PLAY Felipe Silva, of ESPN",
-      "source": "Empire of the Kop",
+      "headline": "Andoni Iraola says Liverpool need to sign more players as he addresses questions over his style in first press conference - Sky Sports",
+      "summary": "Andoni Iraola says Liverpool need to sign more players as he addresses questions over his style in first press conference Sky Sports",
+      "source": "Sky Sports",
       "credibility": 9,
       "relevance": 80,
       "rank_score": 75.6,
-      "date": "2026-07-11",
-      "url": "https://www.empireofthekop.com/2026/07/11/liverpool-could-complete-38m-imminently-as-fabrizio-romano-drops-afternoon-alert/",
-      "rank": 15
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZGJoMlcyUWhocWc1NlRQZEhPVzJzdmpVeGFMOUpGdkVnV2Vtcll0cHczcDAwUnI2WGMxVUdQZmZBbkZ6MFZIcDIyS1hIRGNqN1A3ZUhIbC1paHhfV1hWMzhTUE5ORW1nb3RpcWhzRktheXZtMVNRQjV6X3ZsN1JDdzUxNndXZnd4bmhXclQ4SnAyNVZMaGRxYWVDVFR3Wmd0NW1DOWw1QnRLVEtoS0RPX3A3T0d4bEUyM0h3T0hlUlh5RUM5YkhpX3VkcDVkTXlEdkctc1VnNEpaamUwN2xnRGM2Mk1mZzg1UzBiQ3JfZm13RFRZZTM1Y0tDekRYQTRtdHhwZ2pibw?oc=5",
+      "rank": 22
     },
     {
-      "headline": "Andoni Iraola says he's keen to put his stamp on playing style at Liverpool and players will know his demands - Sky Sports",
-      "summary": "Andoni Iraola says he's keen to put his stamp on playing style at Liverpool and players will know his demands Sky Sports",
+      "headline": "Andoni Iraola: Best of Liverpool head coach's first press conference - Sky Sports",
+      "summary": "Andoni Iraola: Best of Liverpool head coach's first press conference Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-07-13",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOWWxZTkJGVFVTcUN5SWZlQ2JsaFlrcHplMzV1UDh6a2l6d293VHk2bno1NS1Cc1dLVW1qQ1FKYy0ta0V1MzdkTDQ3Q285RWl3ekhrMVFVQWxrcFN4OXRPQkp0M1RyUmlkRHJjQnlaVlF5MWhJdXh6cU1xb2hrSmZsdkEwX0NEN1VDOS1pOWZ2VmwzYlR6MTc5NG1ERFpaX3lmMzdyVUlGa2tZd1pIV1JWbWVGaG1FNG5UMlhlZVdiRQ?oc=5",
+      "rank": 23
+    },
+    {
+      "headline": "Andoni Iraola keen to put his own stamp on playing style at Liverpool - Sky Sports",
+      "summary": "Andoni Iraola keen to put his own stamp on playing style at Liverpool Sky Sports",
       "source": "Sky Sports",
       "credibility": 9,
       "relevance": 80,
       "rank_score": 75.6,
       "date": "2026-07-13",
       "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQakZGWVdRcHJkLS00akF5TXctWkdvazQ5czlpRVNhbWJkTXYxM3BybHdXaFZKNEFTSnhuMzY5Z1h3UEZRQzRXY1BRekVGbnNhMDlZRlFTUG93cXIzOEl0Z01ObHY4SXVvbUk4VlRpNzFnWWtqcWptdWx2STY3cXlNQ19mRkJxQ2lGLXNLLVpVRmlpZ0czeTFYTjFMT3kzVEtqaGJsTzFTbDFqOEUyWnZkUm84N3gyR3BKYlRMb2VYV2FoanV4eVh6cF8yVURGZEZvWkpvZjN0cWpJeDZZVjY1Ul94OWhQLXYtQzVpYW1PSVdQbmpiU2w0?oc=5",
-      "rank": 16
+      "rank": 24
     },
     {
       "headline": "‘Here we go’ – Fabrizio Romano reports Liverpool have secured long-term deal for centre-back - OneFootball",
@@ -187,7 +275,7 @@
       "rank_score": 75.6,
       "date": "2026-07-12",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQWVp6UEkzaTBsaU04bWFBWTJSdXFuZVE4WWVHM3N2NjZ0cnJqZmtkUElNbEtUVEhjWU9QME43VjNraHlMeDBNWkx4eGtLb0h6bTRUVEFCcmY4N0hBd0lub21BRV9ybDFYQ3ZycUlEQ05CMV9NM3VvcTZ2Z3lhMTlrUUptNUlyZ28xTE5jSldLOUZnMnJGTVBXNmpCdXhseWhEYnhhaHJjbDIyZDQ3M2pKQXMzajBDMHBUYzFUT090d2FDcjVvMnlMQjBxdm5kUQ?oc=5",
-      "rank": 17
+      "rank": 25
     },
     {
       "headline": "Fabrizio Romano provides update on Liverpool star’s potential exit - anfieldindex.com",
@@ -198,7 +286,7 @@
       "rank_score": 75.6,
       "date": "2026-07-12",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU2ZFc1NNODlhWmFBcWo3eC0zX20xUFRHTWRHZUJTa3J1SktZZmZGMFlQMWhIUUNCUUR2ZHdvUEk5MkxRbHVnUmRtMDhzUEhobmdmdmItQS1fX3BtWDU3OHI4RkVYYzc2bjFGQlIxMFVWRmtuR0M4OV8xOGpVMUp5SUl6R3hOZ05OQ3dHTjdrQVQzeXZPeWlxT2hRWFdIYjh0M0hF?oc=5",
-      "rank": 18
+      "rank": 26
     },
     {
       "headline": "Fabrizio Romano Offers Update On Spurs’ Chase For Liverpool Winger - anfieldindex.com",
@@ -209,7 +297,7 @@
       "rank_score": 75.6,
       "date": "2026-07-11",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX21BRm1JeUhnZWZsaXVPT3hxQ0xIQ2lFZzRRcFZFNlR1VW1MUW9EcTVQZGJ4ekxsZW0xOXJmN291MmdhaUFZc2RBOEY4QndKVW9jbTVDRVJ6Q3FFYXZ6WWdDS3liaXFlaE5pcnRwV2pWTXFEZ3BTUlc5UW1Iamh0WjQ1V3NwSkgyaHMtcW5CSXJMdGhhd2VDVWx6ZW9mWVpEdUNB?oc=5",
-      "rank": 19
+      "rank": 27
     },
     {
       "headline": "Inside Liverpool’s Decision To Appoint Andoni Iraola W/James Pearce Yungblud (JOvHQwSzMT) - Mshale",
@@ -220,7 +308,7 @@
       "rank_score": 75.6,
       "date": "2026-07-12",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GcFdsYjU1b0R5aFJXY05sc1hMRkJZSkJRcVFyUUI5ekpwYTQ3RWlTT2RVOWVDX1cwUm1jNWFQMTl6UVdTQ2RXREZBSGQ3dE53VndGLWF6cnJmRkE?oc=5",
-      "rank": 20
+      "rank": 28
     },
     {
       "headline": "Liverpool transfer news LIVE: Latest on Bradley Barcola, Iraola talks transfers and Alexis Mac Allister future",
@@ -231,7 +319,7 @@
       "rank_score": 75.2,
       "date": "2026-07-13",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-latest-34280097",
-      "rank": 21
+      "rank": 29
     },
     {
       "headline": "Dominik Szoboszlai makes Liverpool leadership statement as Virgil van Dijk role addressed",
@@ -242,94 +330,6 @@
       "rank_score": 75.2,
       "date": "2026-07-12",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-makes-liverpool-leadership-34277729",
-      "rank": 22
-    },
-    {
-      "headline": "Hugo Ekitike provides Liverpool injury update and shares honest World Cup hopes",
-      "summary": "Hugo Ekitike says he is at peace with the Achilles injury that ruined his Liverpool season and wrecked his World Cup dream with France",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-07-12",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/hugo-ekitike-provides-liverpool-injury-34277599",
-      "rank": 23
-    },
-    {
-      "headline": "Liverpool make contact to sign Brazilian star - Liverpool FC",
-      "summary": "Liverpool make contact to sign Brazilian star Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUnQ0VlB0dHNWcXYySE1EZW5MSnN6ZGV5RklHUGx6Y2Q2RUYwSDZianh0cTZqb3FRdHVmMUVpa2FPckVMcU91Mk1YaXNfZUl0ZkhZTkdUUHY3Wk5uSU95NzNQVXAyU0M1Q0E4TUhBamg5WVE5Z2VEbl9yelJJSlMyX9IBiAFBVV95cUxOTzlycmhOQVpCQWdYcWlnSnJVbnlHa3duNGpMV092NVpoTUdjVGhTS1FZaG5sUFJYNkR5c2cwMnJ6S2xTUUlBY3dTYjJYbjM1WnBtWS1ObmZjb1ZlbW9MZGRKaVNFMTg0N2ZOX1kzNnctSXhZckFpSXJ1MFFLME1RemxYX3M0S3Y0?oc=5",
-      "rank": 24
-    },
-    {
-      "headline": "Jürgen Klopp reveals failed private jet push to sign Kylian Mbappé for Liverpool",
-      "summary": "Plane flew in circles while talks with family took place‘The most expensive non-transfer we’ve ever made’Jürgen Klopp has revealed the impressive lengths Liverpool went to in their attempts to sign a teenage Kylian Mbappé from Monaco.Liverp",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 77,
-      "rank_score": 72.8,
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/jurgen-klopp-kylian-mbappe-sign-liverpool-private-jet",
-      "rank": 25
-    },
-    {
-      "headline": "Arsenal and Liverpool facing transfer battle for Netherlands defender - Liverpool FC",
-      "summary": "Arsenal and Liverpool facing transfer battle for Netherlands defender Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 72,
-      "rank_score": 72.0,
-      "date": "2026-07-11",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOX01WZXg3eWpNdFB0Y3lxeGRuNU9wSk12RERrTXFQcjdLeENpQURsczBIb214cmtBa2Q3OHpoMnI0T1d5Sk0yZFlTOG5IS1lTMjVXbjBZbW0wb0RkdUFNZ0xzQmtMRlNqNUhuTGJOUGhrcktZUUF5MWlNNFJERTFmb2FIOFNvSUYwMlFXeFpNRU5mT2U5aDVQQlpRYjBkLVVvUmZZQkpqONIBpwFBVV95cUxOX01WZXg3eWpNdFB0Y3lxeGRuNU9wSk12RERrTXFQcjdLeENpQURsczBIb214cmtBa2Q3OHpoMnI0T1d5Sk0yZFlTOG5IS1lTMjVXbjBZbW0wb0RkdUFNZ0xzQmtMRlNqNUhuTGJOUGhrcktZUUF5MWlNNFJERTFmb2FIOFNvSUYwMlFXeFpNRU5mT2U5aDVQQlpRYjBkLVVvUmZZQkpqOA?oc=5",
-      "rank": 26
-    },
-    {
-      "headline": "Photos: LFC U21s continue pre-season work as Andoni Iraola watches on - Liverpool FC",
-      "summary": "Photos: LFC U21s continue pre-season work as Andoni Iraola watches on Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 72,
-      "rank_score": 72.0,
-      "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPYXZlQ3hFMDY5ZklZNm1naEpzbHJNbksySEo5T25GczlVZXpBdXBLUGc3TVpVUTBvMGd0WkJQeG1LQTRnREF3RVF3eG9FZk96RjlDYmtuTmNHVG1vb205bGFNVGVoaUItTU4wRkpCelNnWHRmOGZpcjVWUkVvVlR4QnR4Yld4WGVIbFJRZ3pHSXlwVWRQYnpiSXU3c9IBowFBVV95cUxOM09LM19KNEZ6WU5YYTRsQXJoYk1Qb1BSaElHRkJ6X0xrRkZoSnFrWDhheDBfelBEcDFsS1p5bUEzVjhwTGZxS2dZSndnWjNEeHF1QzBXSmY5ZlFnLWR0dVFWeHNqVmZ0WURrcVE3N2dhbV9TdzNaNXpjTXJqOXdpOUJhNG90VnYtYUxXRVU0V1JZU2tZRlpMdzZJQWN2Qno1YXV3?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Liverpool news: What are the expectations for Andoni Iraola? - BBC",
-      "summary": "Liverpool news: What are the expectations for Andoni Iraola? BBC",
-      "source": "BBC",
-      "credibility": 10,
-      "relevance": 72,
-      "rank_score": 72.0,
-      "date": "2026-07-09",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5tRUIwOHJSUU9pWk9HY2RGbGtxVnBwU0NkSHk0WEJ6WWtCeTJEcXRmeW5Wa3dNV3RiS2pzbjFiRk5KYV9yb0t0dmF5TG9aNGoweVE1YlBUamNvREQ2bmZxODV0V0tIUVI0eHc?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Liverpool Transfer News: Fabrizio Romano confirms centre-back deal - Anfield Watch",
-      "summary": "Liverpool Transfer News: Fabrizio Romano confirms centre-back deal Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 76,
-      "rank_score": 71.8,
-      "date": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcm5vZno1OThka1ItaXhjTGtIcHh3NjAyVmkyeE1HWEh2bkF5WHBuSUEwckRyS0FsNnZ5SDFSUWFhX0hKanh1TGlOdHd2RjQtYWUtdkduWWx1WndNb2tRdHV2MTdEWGlwSV9hVzU1aFZDTFlSM0Fpek90T2xGSmEzNW9YS0swY18tNDN2bmZiOWRMTERvUkxWdTdyVEtyTXgyMHBzX3E0U0taRk95QXBTSHhnS2tYaUdzdWNQY1RoSU5EVEdrYUoySVhBME5ZV2JD?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Fabrizio Romano confirms Premier League rivals make Liverpool star their top transfer priority - Anfield Watch",
-      "summary": "Fabrizio Romano confirms Premier League rivals make Liverpool star their top transfer priority Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 76,
-      "rank_score": 71.8,
-      "date": "2026-07-07",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPQ1dTdkM5Yi1GQzdaM3E5LUtwbUxfZjEwYVpiaE5tU1EtM3BYUjVJWkRVVzBKNXcxT2hyY1ZfbzQ0ZS1ENERER2FXRG1tOGZUZlRtX2tzVjY4ZzVqZExsOVo4TGZnSzJzbkp5Z2JHSVpuTlBRU3dSOTdBWmN1eU4wdzYweXBsUmVFdC1FMkt1OGcxMFlSaTJkdTM1aUktaVhpVzJvUTNFelczV1JBRWM5ekFlVEM1dXRvOGRvSjg3a3IzTnEwcjFocTh3cUsyX3pGNTlyTFNTT3lzNDhH?oc=5",
       "rank": 30
     }
   ],
@@ -421,17 +421,6 @@
         "active": true
       },
       {
-        "who": "Cody Gakpo",
-        "meta": "LW · Tottenham interest",
-        "fee": "€45–85m",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Empire of the Kop",
-        "url": "https://www.empireofthekop.com/2026/07/11/romano-eases-fears-over-potential-liverpool-exit-transfer-priority-outlined/",
-        "date": "2026-07-11",
-        "active": true
-      },
-      {
         "who": "Virgil van Dijk",
         "meta": "CB · Galatasaray interest",
         "fee": "low/free",
@@ -441,6 +430,14 @@
         "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-makes-liverpool-leadership-34277729",
         "date": "2026-07-12",
         "active": true
+      },
+      {
+        "who": "Cody Gakpo",
+        "meta": "LW · Tottenham interest",
+        "fee": "€45–85m",
+        "p": "High",
+        "mentions": 0,
+        "active": false
       },
       {
         "who": "Curtis Jones",
