@@ -1,5 +1,5 @@
 {
-  "updated": "18 Jul 2026 06:05 UTC",
+  "updated": "18 Jul 2026 09:25 UTC",
   "count": 30,
   "items": [
     {
@@ -14,6 +14,28 @@
       "rank": 1
     },
     {
+      "headline": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic - The New York Times",
+      "summary": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 90,
+      "rank_score": 90.0,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYko3V0lmdVpVRnd6dkE1NmRHeExiam9rdHNXVUJsQVVNeUxDZmdtVzZJdkw0TFI1NkJ5ajVxbzFaQ0FwWmlzWFpMODJjbklKUEQzUThZU3Bnck52SUNyeWlNbVhUa2tUeklscmdHZ19IZXR1WkVkX1ZXbm9IQkRFNUVGazZQUmIzNkdrYUZfMUNWMnBrdmpvQ2pEVlhBWnJ1bFE?oc=5",
+      "rank": 2
+    },
+    {
+      "headline": "Fabrizio Romano confirms where contract deal puts Dominik Szoboszlai on Liverpool pay scale - Anfield Watch",
+      "summary": "Fabrizio Romano confirms where contract deal puts Dominik Szoboszlai on Liverpool pay scale Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 95,
+      "rank_score": 89.8,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2JobEw3YWJnZVcwSFVTdWVoM2hJdmRvY0FvMmRZVU5OaTJWdERhWm1NWFltR2w4VW82ZXgtakpBMWlyRkU2LTRvZUFicXd0YXZWSUJqRjUyLTFtbWNoeTN4Y1B2Q2NTY1FXRXFaMUVPWW4tcTFyNUJBdGZaNFBmQkhIRFBDTTFDSWJlSy0zV0gybXJ6MEtmQmxIYml2VnAtQ1lwazR4S0xseUZEdUk4WGJHVUhHcm9reEdJc0E1d3lPdXlGMTQxT2lETkpQY1RJX2xfM1BIc2Q?oc=5",
+      "rank": 3
+    },
+    {
       "headline": "Liverpool FC",
       "summary": "Liverpool fan and Spion Kop podcast host Peter Bolster on Dominik Szoboszlai's new deal",
       "source": "BBC Sport",
@@ -22,7 +44,29 @@
       "rank_score": 85.0,
       "date": "2026-07-17",
       "url": "https://www.bbc.co.uk/sounds/play/p0nzhd25?at_medium=RSS&at_campaign=rss",
-      "rank": 2
+      "rank": 4
+    },
+    {
+      "headline": "'Very hungry and ambitious' - Andoni Iraola on signing Victor Munoz - Liverpool FC",
+      "summary": "'Very hungry and ambitious' - Andoni Iraola on signing Victor Munoz Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTR0MjlnbXYwblF2SHlocmVRMlozVTBDZWxYdEJCUHRDM1FRc1JlQnpkNGZZWGtxUjVPZGZlQjBNOVY3U09laVgzSG5ONHJNOHRtU3FZRTFzRkwxdWpDamVNVFZfSDVSbjVNbkZWMzQtcGFqemw5WndqWEtlbFdLeDFZampSZlNVUE1Mc2FXdlNJb05adFR4NdIBoAFBVV95cUxONjgtWFp0OE40dUw2MkR3NENQTFFvMWZRckZEVlVTbjg4UW5XYW8xVDV2MEs5djhFUmhJcWVpYjlMNmFSUkJUWEZ3eUo0ck9yU1dvUmdTWDNkZWxtTmQ5b0VsSkJ1TzE2cmVoc1p2d1BNZlRfd2o4eHNyMjZvM2thd1hVV09DVXZJOTJzLUZjbUVFUUNSam0xeHFkUlJzeGVm?oc=5",
+      "rank": 5
+    },
+    {
+      "headline": "Ornstein reveals Premier League target to replace Mohamed Salah as next Liverpool transfer - readliverpoolfc.com",
+      "summary": "Ornstein reveals Premier League target to replace Mohamed Salah as next Liverpool transfer readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 82,
+      "rank_score": 82.0,
+      "date": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWI0NUItSGl4NVV5dlFRQkZqZGl3dUYyeklteUpkLXI1Mm85Vk85WExycXlyRTJ0c1NWc2dLeVlvdW1JalR0REFyTUxhb0prNURNUFNxRHR0ZDdRZmF0NTFyeXZYdTNpMS1UdFlfRThnZG9sQUNyU0ZnUkR5NDJWQ1BGMTdBZzdtSU5yUXdrVnFiYTB3dC1UcDcyMW5acWJ1QUEtU1dyZHB4RU0wU2NMYldkLWNfMzhHZjVQM0RYcHdBVTRueGVVNg?oc=5",
+      "rank": 6
     },
     {
       "headline": "‘Will leave PSG this summer’: Fabrizio Romano reveals exciting Liverpool transfer opportunity",
@@ -33,18 +77,128 @@
       "rank_score": 80.3,
       "date": "2026-07-17",
       "url": "https://www.empireofthekop.com/2026/07/17/will-leave-psg-this-summer-fabrizio-romano-reveals-exciting-liverpool-transfer-opportunity/",
-      "rank": 3
+      "rank": 7
     },
     {
-      "headline": "Liverpool transfer news LIVE: Jarrod Bowen signs contract, Mo Salah's next move and Manu Kone latest",
+      "headline": "Liverpool move closer to signing top transfer target after Fabrizio Romano update - OneFootball",
+      "summary": "Liverpool move closer to signing top transfer target after Fabrizio Romano update OneFootball",
+      "source": "OneFootball",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXdkb2pIaVI4V29pMnBjQjJCa2JQSGFaclNhbnkzbVd1enplWWpWVjh5eFhHb1Q2YWxGa203M0pSbVYyLWZzTGxmSTBXN21RVnc5a1dJRkZCTHBwMVhOM0hLRGJGSi1fX0VBVHpRRnVubC16aG5ialhsdThSOW1Ra3l0RTNpWW43ODhWSFpEQV94VWg0NkNGUXVPenU5T0dPblBFb1oyWEI0eU04ZllIQW9ucmVCT0xRYjFLVHdUZw?oc=5",
+      "rank": 8
+    },
+    {
+      "headline": "Fabrizio Romano confirms massive Liverpool deal signed in last few hours - Anfield Watch",
+      "summary": "Fabrizio Romano confirms massive Liverpool deal signed in last few hours Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWhoaXZVOEdCdUR3QmhRdDFiU3U5dW9XRzhOTlMzeXB1b29jQTQyemN4R050N2w4UEJ0R3k4Wk5ELVRueWgzTlZ1OVhsTzNfdzI4aW9HNTl5b294c3RJbHR6V0pKaEdwU21UenZ1SmhzR19JZGpyejNMWlRwWmN3MlM5OHVTQldlZHB1RWRweHhPWU55OUw5bUdaYnRDVUNSNDBCeEFUMVFjdXplQkFMdGlYNzBuWkIwd2Z1QlhLZw?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "Liverpool Transfer News: Fabrizio Romano confirms dream agreement takes giant step closer - Anfield Watch",
+      "summary": "Liverpool Transfer News: Fabrizio Romano confirms dream agreement takes giant step closer Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREdkY2hQamVNbXBFVWwyYkxMeUZkODl5U3ZPX001TEM2SFR3MHFjaC1YYUhXdGJHaXZjYW01bGN5VzhDZUF5VUlLU0tjUlI0U2k4MjloRHdnSnRGcldmTGJtVWNUeVcwYXg2bGIzLUx0VVZxYXBqcHBIRFl4RTlEV0pFZU85S2txd2E1UHc4SVdDcXBZVVhPN3NtUUFIV0N2S0xuOVZiTzF2SGMyOVFVY1RmN05SNUJqN01nd2RIQkwyODQ0VGpyZGlhMUtQY3JDWndRcQ?oc=5",
+      "rank": 10
+    },
+    {
+      "headline": "Liverpool Transfer News: Fabrizio Romano confirms amazing £35m midfielder news - Anfield Watch",
+      "summary": "Liverpool Transfer News: Fabrizio Romano confirms amazing £35m midfielder news Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnJaMVFoUmJhMElUb185X0IzVHpzdDg2WHEyS0lNSFA4Q2NtcEdaT3JfOGNGVW0wcmdkc2k4VTZvVGdJa2NkR1IwMUZxQU11MFRxQ3FEaGZncGxqSWVYZVUxSGJJTnR6S0xrVTVkRmZ4aUZhV2d1THAwbEN2b0ZwT181U19JakRxZ1RXOGVuMzBEUnBZWmNTb0VLcll3d1UteWFSU2NRVnZCVFlmSEY2bVJ2Wk5XS19SVlphWVdJYVh6VGNNcXpQbWRFXzZpVmF2ZnhsQmk3Q1BZSkFFSlVxQm02Wlg?oc=5",
+      "rank": 11
+    },
+    {
+      "headline": "Fabrizio Romano hands Liverpool the perfect transfer lifeline - Anfield Watch",
+      "summary": "Fabrizio Romano hands Liverpool the perfect transfer lifeline Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHJfaHZVejZEelB4RU5WZzYxRXJJUDF5QV9tSjFtQTVINWE3SG9PRHNOWDQ4RmZwTm41WTBleEVWcGZpRmdQbEo4c0tUMDBLTHZNZWY1TGZ2ZzFSclJvVUpkR2hodHNadTNOeXB6UjNaSXdONi1uVkdPM0RnRVZSbHdYTURja2JGWTNDa2ZGOUFpWnJCV0NvUzh6blVfenVvVjN4NC12TDA5LWpiOEFfNA?oc=5",
+      "rank": 12
+    },
+    {
+      "headline": "\"Agreement in place\" - Fabrizio Romano confirms Liverpool have secured five year deal for midfielder - anfieldindex.com",
+      "summary": "\"Agreement in place\" - Fabrizio Romano confirms Liverpool have secured five year deal for midfielder anfieldindex.com",
+      "source": "anfieldindex.com",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPcktSNzNyT2VTSzQ4ZUxoYlNTemx2aWV0bWxhYWIwX3lNZnlaOEdSVG1jWlhwM0ZPY09mRjdJeDNtUWlaTnRYR3M0QlNaLXdHTnYtY1hpeTY5RXRhaFdIc1lqdVAxbnNDM3JQMG1CS3pVZ2hsTTl5S1huVzY5QmRaWEUxYTVjdUt3aENCMUlIVlFEOHptMUdhNEd4OVhEbVVybmdtMHd2bE51U0dFUEhUOVBxYUc0Vk9lT18wUVFYLXB0dDF6Mm1MMGNqMzA?oc=5",
+      "rank": 13
+    },
+    {
+      "headline": "Szoboszlai to sign new Liverpool deal in boost for Iraola - The Telegraph",
+      "summary": "Szoboszlai to sign new Liverpool deal in boost for Iraola The Telegraph",
+      "source": "The Telegraph",
+      "credibility": 8,
+      "relevance": 90,
+      "rank_score": 80.1,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFVhMjBfUW1sZldkZVcxOTRsTGxqYkVxaUN2RUItaHYtTHUxTUw1UXl3N0U3WkYxZldnMFF2dFpuRzVPUnBxZ1MxOEgyRnFBdll1WkU0Q2gtYWNyb2ZXR2l0cWNLTFZWbzVMbmNHeTdCdlZrRUNvZjZIeEFjenkxdzRuOEhlV25rTEthbk5URm41bXhRNFZmLTVpamVyOEZwWmNrR3BrRk5wUQ?oc=5",
+      "rank": 14
+    },
+    {
+      "headline": "Andoni Iraola interview: Pre-season, implementing his style and fitness update - Liverpool FC",
+      "summary": "Andoni Iraola interview: Pre-season, implementing his style and fitness update Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVFvUVNoT3o5NXhPYXV1V0lfVDdPQnpxSE5tUzBQcGh5b2pEdkRXT3ZXZ01HVHVxOUNTeHNOU2tiSUtjaElMcGhGcjdlX1pPa1NUYWt5Sk1qcHhjeTZONG5XVHBPNTJGT0JvOTF4N3RtanNuVjFoSmI0ejd4bmFXaVJ2cHQtZTh6b3lEQTh6Z1hJcTVxVWpJZ3R1NnB2MVN5SEVodnRDRVJTbXdaLVHSAbYBQVVfeXFMTnMwbFQwSDhOZl9XUjhBVE04M0pQaFp3ejVTemY3ZkZUbmVYYjZCcUpfeExNV0REbXRfUF94TWpzd0t2UE5GNUQ3Q3lXVlQ0MEVxb3VhcE9RY01wS2tMT2VwT19TdkJiSFgyb2E4eVo5RVVYSUdjNUl1N0RoNnZXRV8zanBpakZJeGNSU2d4aGpYM1NjYU5GaVFFamNKWjFfaTNQUzlyMUR2S2hIMkdNbFlpOE52anc?oc=5",
+      "rank": 15
+    },
+    {
+      "headline": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more - Liverpool FC",
+      "summary": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEw4bEk1clQtREU0NXk3RWx1ZjJ6VzRPdjkyck1fWjVJSEtIcFVqYTROTXRtUnVoUjZtWjdtSXRfMlVsZGR5bVhsM3QxSEFxN1hMMTRYaWtaVUdBMk94RkZhQl83elhPajFndG1oOS1TMHRlcG5tTFltemdnQlVFMDVfLXJPcWhFVnN1WFpDVE1BWlFJQ1BZYlFycGlNR2VibHQwQXpUd045dnZLOGFFalJB0gG6AUFVX3lxTFA5Wnd3VldoVVhWS2xPYklldFEwMXllOHpFUVlwQUkyeGZIb3BHRUtWWDY2QzNPaFRpYzM3T01LZVZaY3dSTkpJZktqQVJIVjJJQjBEZ2RlRm9jYnVKV2ZLaHZqMkxlUEtKZzlKVkdRd2YxOUlaWVI2azJlU1lWc242TTBzUGZLVnd5WjN6VHMzUnBfRzBTWFlkYUNTQzk4Q2ZiZmtWeTc1eWdrZFJYaGMxa0JoMlpRemNnZw?oc=5",
+      "rank": 16
+    },
+    {
+      "headline": "Jacquet Shirt Number Confirmed: Liverpool Reveal Squad Details for Iraola Era - readliverpoolfc.com",
+      "summary": "Jacquet Shirt Number Confirmed: Liverpool Reveal Squad Details for Iraola Era readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nTmpEMXQ2SWdlTGhfN1owUVBfWmlobUtUdnJsRzljUDBDbVVlNUZuZGVtMjU1R040X1VwM0plUHRlT1BhbzR2WW5abzZhek9MX0NOTmJSSDE2a0xLT3JTcDZqa2EzU0h4VzAySGlYdnlHSXlJU19RY2lKbWVvc0U?oc=5",
+      "rank": 17
+    },
+    {
+      "headline": "Liverpool transfer news recap: Jarrod Bowen signs contract, Mo Salah's next move and Manu Kone latest",
       "summary": "All the latest Liverpool transfer news and gossip as the Reds continue to be linked with various targets, including Bradley Barcola, Rayan and Manu Kone",
       "source": "Liverpool Echo",
       "credibility": 7,
       "relevance": 95,
       "rank_score": 79.3,
-      "date": "2026-07-17",
+      "date": "2026-07-18",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-latest-34280097",
-      "rank": 4
+      "rank": 18
     },
     {
       "headline": "Liverpool have new contract question to answer as one signed and another nears",
@@ -55,7 +209,40 @@
       "rank_score": 79.3,
       "date": "2026-07-17",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-new-contract-question-answer-34301073",
-      "rank": 5
+      "rank": 19
+    },
+    {
+      "headline": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola - The Independent",
+      "summary": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola The Independent",
+      "source": "The Independent",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc09uTVJhY0JJRmJPeDFjb0x6MUQ2ak9VQjBRLUtFdUIwdkRCRERONmFtY3lZRjlJWkdkcDE1RDhnejFHY0ltOUFFdDNKUzV0b3lWTTJEejF0UzlzVlJydmJrcXkwTG1pYmdYclhsbmJFaGczSE5xLUhCRkJQYmttdzVfeVZBR1J4ay1WZkdIcmsyNzlHU1F6N0hzc2JaOHlKOFV5Mk9uNkF0bDN4TGRN?oc=5",
+      "rank": 20
+    },
+    {
+      "headline": "David Lynch On Big Andoni Iraola Transfer Plan! Liverpool FC Transfer & Contract Update! Arthur Fils (n0DjxKgfIZ) - Mshale",
+      "summary": "David Lynch On Big Andoni Iraola Transfer Plan! Liverpool FC Transfer & Contract Update! Arthur Fils (n0DjxKgfIZ) Mshale",
+      "source": "Mshale",
+      "credibility": 9,
+      "relevance": 82,
+      "rank_score": 77.5,
+      "date": "2026-07-15",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tdmprTnkxdXQtWXpUb0Z5M2xaQlVraUFiVmJOdXBMYmdDRFktN05Vc0dKT1V0cUNWQUxRSDRqY1YxOU1VY0M2MGczNGg4S3lsMmpzVTA5S0pweXM?oc=5",
+      "rank": 21
+    },
+    {
+      "headline": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+      "summary": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-07-14",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOSTZqS3RJUklXWk5icW1DaDZ5bEx0LTVDV29FemdSZER4bnc3d2Y4Nmg4NjFLQnNwalV2eEVKVGhNcVNEUWQ2UzFXbzdyV2ZITmVxTFZaUzRVYnlzcjBQRHV6bTUtRDQtTG9SNjltUllsVHRqcjFVTmJLMGt4MmE0Sks2VkZKd3dLaWk4TzJwZFg1SE9nM2d5R0FQRTZubXhvNjZGMUxia2UwNVZaWXBWOWVnY0VweTk0TUF1UlM3a0Qtc0p4YmpaNmRLZw?oc=5",
+      "rank": 22
     },
     {
       "headline": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
@@ -66,7 +253,7 @@
       "rank_score": 75.6,
       "date": "2026-07-01",
       "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "rank": 6
+      "rank": 23
     },
     {
       "headline": "‘Talks already advanced’: Liverpool could get next signing rapidly after Fabrizio Romano update",
@@ -77,7 +264,40 @@
       "rank_score": 75.6,
       "date": "2026-07-17",
       "url": "https://www.empireofthekop.com/2026/07/17/talks-already-advanced-liverpool-could-get-next-signing-rapidly-after-fabrizio-romano-update/",
-      "rank": 7
+      "rank": 24
+    },
+    {
+      "headline": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer - MSN",
+      "summary": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer MSN",
+      "source": "MSN",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxQRkVQbTFtcGktTVAwRHNhajl4QjNZUWNrdHhrbWpNUVJmMWloT1pHd3lmNHRZTjZZSDk4ZzVUM1d0Yi00RFYxSWFHeUdxa0liNlg2RExoMjVvN2NfY09FbUktcFpKeTFUQ0lLUzA4enp2MXV4VkhlRF9xNHRwWjVFTVNDSlV1aDRjWmRhdi1UTEVVUlNiVU5lQzNIb1pmZkZDOFQzdE1TRzd2d1BHT25ScGx0NGE4QmlTdi1fNzhnM0FyWlp6N3N6OXFlX29td2lSTk01M1VZWkNYQnBnT3RwYlhWWm9oYldxd3puMU1Uc2RpYUFZdHZzV21jRzV0ZmNQbmNncFU3OHRlQjNWUlROZlJlTlhqWl9MNVdmYlNR?oc=5",
+      "rank": 25
+    },
+    {
+      "headline": "Fabrizio Romano Transfer News: Barcola to Arsenal truth, Liverpool agreement, Alvarez latest - footballtransfers.com",
+      "summary": "Fabrizio Romano Transfer News: Barcola to Arsenal truth, Liverpool agreement, Alvarez latest footballtransfers.com",
+      "source": "footballtransfers.com",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbDkzdkVNdFlFZ0V1V2JSa1hxeFNBRE1FZHVtMjNsYWw3OUNEWVlnQktkMzRKajlHbXZOWkEwcTBmOUxJcnRPUnJDcHZ3T1RFd3loZEZoSjhaUXdmdVFLX3hybUVBS0ZfN3RzUmlJQklVNlRVeC1TN3J1R3I2Ykd5N3o0ZEZib3FZMy0xMEU2TDE4SHZqNThZZ1Z1TzdaZlp5V0JCWFNQcWJEYy1lbEdBZHprTFkxVG9sc0cxUEtSdUtHMDVtdGxUakptNTFHczZ6eGw5V0MySXQxVmZxc3FLdV9URjlxdDN2VFpEMWhLTjctLUhxMUxQajJkUndrOEw1N2hKNWNaSWZEY2xUU0diR09B?oc=5",
+      "rank": 26
+    },
+    {
+      "headline": "Liverpool have the chance to sign PSG forward as Fabrizio Romano confirms exit - anfieldindex.com",
+      "summary": "Liverpool have the chance to sign PSG forward as Fabrizio Romano confirms exit anfieldindex.com",
+      "source": "anfieldindex.com",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNWmx4WDBMT1ZBLXYzMmxNd1dHbjV0U2YwWlpIRDdkRWRpbWQ5c2NzVlZJYlY3enZXZ3JlVVhMYkt2RHhTM1dDUjlOQXZFYmZ2U3Nja1VxWmc4amhMWi1PUzlheHdXc3A2eFZscmFuMFdSZ0ZVOWJFb1ZCTTk1Qm5CZ0NKRGNOODREWDRObXpkMVZWakFfMExlSm9makVyTTljX0FXYUM1MmI4RkJ3RHFXalY4Yjc?oc=5",
+      "rank": 27
     },
     {
       "headline": "Liverpool latest: Andoni Iraola issues transfer confirmation as Mo Salah's agent gives update",
@@ -88,7 +308,7 @@
       "rank_score": 75.2,
       "date": "2026-07-18",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-mo-salah-iraola-34310959",
-      "rank": 8
+      "rank": 28
     },
     {
       "headline": "Michael Olise takes action to complete stunning transfer as Liverpool truth clear",
@@ -99,7 +319,7 @@
       "rank_score": 75.2,
       "date": "2026-07-17",
       "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/michael-olise-real-madrid-bayern-34306976",
-      "rank": 9
+      "rank": 29
     },
     {
       "headline": "Dominik Szoboszlai signs new long-term Liverpool contract",
@@ -110,226 +330,6 @@
       "rank_score": 75.2,
       "date": "2026-07-17",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-dominik-szoboszlai-signs-new-34306184",
-      "rank": 10
-    },
-    {
-      "headline": "Michael Olise 'stuns Bayern Munich' as Liverpool make contingency plan for winger transfer",
-      "summary": "Liverpool are on the lookout for a Mohamed Salah replacement during the transfer window with links to Michael Olise, Yan Diomande and Bradley Barcola.",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-07-16",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/michael-olise-liverpool-winger-transfer-34304377",
-      "rank": 11
-    },
-    {
-      "headline": "Andoni Iraola confirms major Liverpool injury news ahead of 2026/27 season",
-      "summary": "Andoni Iraola has signposted that Jeremy Jacquet is ready to be Virgil van Dijk’s defensive partner this coming season, with the player “fully fit”. DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – STRAIGH",
-      "source": "Empire of the Kop",
-      "credibility": 5,
-      "relevance": 100,
-      "rank_score": 72.5,
-      "date": "2026-07-17",
-      "url": "https://www.empireofthekop.com/2026/07/17/andoni-iraola-confirms-major-liverpool-injury-news-ahead-of-2026-27-season/",
-      "rank": 12
-    },
-    {
-      "headline": "Liverpool given double transfer demand as £100m deal dismissed",
-      "summary": "Former Liverpool defender Jason McAteer believes his former club must revamp their right wing during the transfer window",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-18",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-given-double-transfer-demand-34306841",
-      "rank": 13
-    },
-    {
-      "headline": "Liverpool have been given World Cup hint behind Andoni Iraola change",
-      "summary": "In the latest Blood Red column, Ian Doyle looks at the World Cup and what Liverpool could take from the controversial competition",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-18",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-been-given-world-cup-34307187",
-      "rank": 14
-    },
-    {
-      "headline": "Wataru Endo giving Liverpool only one option as transfer decision nears",
-      "summary": "Wataru Endo is one of many Liverpool players in the final year of their contract - but would it be wise of the Reds to attempt to cash in this summer?",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-18",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/wataru-endo-giving-liverpool-only-34307154",
-      "rank": 15
-    },
-    {
-      "headline": "Liverpool transfer news - Mohamed Salah new club latest as 'contact made' over replacement",
-      "summary": "Today's Liverpool FC transfer round-up column looks at claims the Reds are moving for a new right-winger as decision on Mohamed Salah's next club looms",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-transfer-news-mohamed-salah-34308636",
-      "rank": 16
-    },
-    {
-      "headline": "Dominik Szoboszlai on new Liverpool role, learning from mistakes and being 'never happy'",
-      "summary": "Dominik Szoboszlai has spoken after putting pen to paper on a new five-year contract at Liverpool",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-new-liverpool-role-34309660",
-      "rank": 17
-    },
-    {
-      "headline": "Andoni Iraola confirms Liverpool winger move as transfer talk continues - 'we need someone'",
-      "summary": "Liverpool head coach Andoni Iraola has addressed what could be expected from the transfer window this summer",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-confirms-liverpool-winger-34305584",
-      "rank": 18
-    },
-    {
-      "headline": "Mohamed Salah agent gives transfer update after emotional Liverpool exit",
-      "summary": "Ramy Abbas Issa, Mohamed Salah's agent, has taken to social media to give an update on his client's future after his departure from Liverpool",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/mohamed-salah-agent-gives-transfer-34305662",
-      "rank": 19
-    },
-    {
-      "headline": "Liverpool transfer latest: Ex-Reds star chooses next club as Mo Salah question answered",
-      "summary": "Liverpool's transfer window has yet to really kick into gear with the club's pre-season tour now on the horizon",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/liverpool-mohamed-salah-next-club-34302393",
-      "rank": 20
-    },
-    {
-      "headline": "Alexis Mac Allister faces question three other Liverpool players must also answer",
-      "summary": "Alexis Mac Allister is one of several players to have improved during the World Cup compared to the final weeks of their previous season with Liverpool",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexis-mac-allister-faces-question-34301102",
-      "rank": 21
-    },
-    {
-      "headline": "Andoni Iraola issues Liverpool injury update as head coach explains 'worst news'",
-      "summary": "New Liverpool head coach Andoni Iraola is now working properly with his players on the training pitch at Kirkby",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-16",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-issues-liverpool-injury-34302382",
-      "rank": 22
-    },
-    {
-      "headline": "Dominik Szoboszlai contract latest after Liverpool agreement claim made",
-      "summary": "Liverpool continue to be in talks with Dominik Szoboszlai and his representatives over a new long-term contract",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-16",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-contract-latest-after-34300957",
-      "rank": 23
-    },
-    {
-      "headline": "Jeremy Jacquet squad number confirmed as Liverpool drop centre-back hint",
-      "summary": "New £60m Liverpool signing Jeremy Jacquet has been given his squad number for the season under new head coach Andoni Iraola",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 85,
-      "rank_score": 71.0,
-      "date": "2026-07-16",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jeremy-jacquet-squad-number-confirmed-34299377",
-      "rank": 24
-    },
-    {
-      "headline": "‘Agreement in place’ – Dominik Szoboszlai set to pen bumper new contract at Liverpool",
-      "summary": "Dominik Szoboszlai is reportedly close to signing a new long-term contract at Liverpool, according to reports which emerged on Thursday. The 25-year-old is just over 60% of the way through the five-year deal that he penned upon joining the ",
-      "source": "Empire of the Kop",
-      "credibility": 5,
-      "relevance": 95,
-      "rank_score": 68.9,
-      "date": "2026-07-16",
-      "url": "https://www.empireofthekop.com/2026/07/16/dominik-szoboszlai-set-to-pen-bumper-new-contract-at-liverpool/",
-      "rank": 25
-    },
-    {
-      "headline": "Medical imminent: Liverpool set to be dealt £35m transfer blow which could infuriate Iraola",
-      "summary": "Liverpool look set to miss out on one reported midfield target who instead seems destined to join a direct Premier League rival. Last week, there were reports from Brazil that the Reds and Manchester United had both made contact with Wolves",
-      "source": "Empire of the Kop",
-      "credibility": 5,
-      "relevance": 95,
-      "rank_score": 68.9,
-      "date": "2026-07-16",
-      "url": "https://www.empireofthekop.com/2026/07/16/liverpool-dealt-35m-transfer-blow-which-could-infuriate-iraola/",
-      "rank": 26
-    },
-    {
-      "headline": "Stephen Warnock urges Andoni Iraola to ‘demand’ one signing from FSG as an ‘absolute priority’",
-      "summary": "Stephen Warnock has told Liverpool head coach Andoni Iraola what his ‘first demand’ to the hierarchy should be this summer in terms of incoming transfer activity. The Reds have added Victor Munoz and Jeremy Jacquet to their squad during the",
-      "source": "Empire of the Kop",
-      "credibility": 5,
-      "relevance": 95,
-      "rank_score": 68.9,
-      "date": "2026-07-16",
-      "url": "https://www.empireofthekop.com/2026/07/16/stephen-warnock-urges-iraola-to-demand-priority-signing-from-fsg/",
-      "rank": 27
-    },
-    {
-      "headline": "‘I need to prove I belong here’: Andoni Iraola stays humble in new Liverpool era",
-      "summary": "Head coach has no illusions as to the scale of the task and wants to start by reconnecting the team and supportersIt was Andoni Iraola’s humility that made the biggest impression at his unveiling as Liverpool’s new head coach on Monday. Wit",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 71,
-      "rank_score": 67.1,
-      "date": "2026-07-13",
-      "url": "https://www.theguardian.com/football/2026/jul/13/andoni-iraola-liverpool-manager-michael-edwards-transfers-richard-hughes",
-      "rank": 28
-    },
-    {
-      "headline": "Jürgen Klopp reveals failed private jet push to sign Kylian Mbappé for Liverpool",
-      "summary": "Plane flew in circles while talks with family took place‘The most expensive non-transfer we’ve ever made’Jürgen Klopp has revealed the impressive lengths Liverpool went to in their attempts to sign a teenage Kylian Mbappé from Monaco.Liverp",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 71,
-      "rank_score": 67.1,
-      "date": "2026-07-10",
-      "url": "https://www.theguardian.com/football/2026/jul/10/jurgen-klopp-kylian-mbappe-sign-liverpool-private-jet",
-      "rank": 29
-    },
-    {
-      "headline": "Graeme Souness questions £100m England stars Elliot Anderson and Declan Rice - 'I don't see them'",
-      "summary": "The Liverpool legend was critical of the England midfielders, in the wake of the World Cup semi-final defeat to Argentina, asking whether Declan Rice was really a centre-back",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 80,
-      "rank_score": 66.8,
-      "date": "2026-07-17",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/graeme-souness-questions-100m-england-34306173",
       "rank": 30
     }
   ],
@@ -341,8 +341,8 @@
         "fee": "undisclosed",
         "p": "High",
         "mentions": 2,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-latest-34280097",
+        "source": "footballtransfers.com",
+        "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNbDkzdkVNdFlFZ0V1V2JSa1hxeFNBRE1FZHVtMjNsYWw3OUNEWVlnQktkMzRKajlHbXZOWkEwcTBmOUxJcnRPUnJDcHZ3T1RFd3loZEZoSjhaUXdmdVFLX3hybUVBS0ZfN3RzUmlJQklVNlRVeC1TN3J1R3I2Ykd5N3o0ZEZib3FZMy0xMEU2TDE4SHZqNThZZ1Z1TzdaZlp5V0JCWFNQcWJEYy1lbEdBZHprTFkxVG9sc0cxUEtSdUtHMDVtdGxUakptNTFHczZ6eGw5V0MySXQxVmZxc3FLdV9URjlxdDN2VFpEMWhLTjctLUhxMUxQajJkUndrOEw1N2hKNWNaSWZEY2xUU0diR09B?oc=5",
         "date": "2026-07-17",
         "active": true
       },
@@ -350,12 +350,9 @@
         "who": "Yan Diomande",
         "meta": "RW · RB Leipzig · 19",
         "fee": "~€130m",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/michael-olise-liverpool-winger-transfer-34304377",
-        "date": "2026-07-16",
-        "active": true
+        "p": "High",
+        "mentions": 0,
+        "active": false
       },
       {
         "who": "Ayyoub Bouaddi",
@@ -396,31 +393,22 @@
         "p": "Low",
         "mentions": 0,
         "active": false
+      },
+      {
+        "who": "Mohamed Salah",
+        "meta": "Emerging link · 5 reports across 3 outlets",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 5,
+        "outlets": 3,
+        "source": "readliverpoolfc.com",
+        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWI0NUItSGl4NVV5dlFRQkZqZGl3dUYyeklteUpkLXI1Mm85Vk85WExycXlyRTJ0c1NWc2dLeVlvdW1JalR0REFyTUxhb0prNURNUFNxRHR0ZDdRZmF0NTFyeXZYdTNpMS1UdFlfRThnZG9sQUNyU0ZnUkR5NDJWQ1BGMTdBZzdtSU5yUXdrVnFiYTB3dC1UcDcyMW5acWJ1QUEtU1dyZHB4RU0wU2NMYldkLWNfMzhHZjVQM0RYcHdBVTRueGVVNg?oc=5",
+        "date": "2026-07-15",
+        "active": true,
+        "discovered": true
       }
     ],
     "out": [
-      {
-        "who": "Virgil van Dijk",
-        "meta": "CB · Galatasaray interest",
-        "fee": "low/free",
-        "p": "High",
-        "mentions": 1,
-        "source": "Empire of the Kop",
-        "url": "https://www.empireofthekop.com/2026/07/17/andoni-iraola-confirms-major-liverpool-injury-news-ahead-of-2026-27-season/",
-        "date": "2026-07-17",
-        "active": true
-      },
-      {
-        "who": "Alexis Mac Allister",
-        "meta": "CM · Real/Atlético links",
-        "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexis-mac-allister-faces-question-34301102",
-        "date": "2026-07-17",
-        "active": true
-      },
       {
         "who": "Cody Gakpo",
         "meta": "LW · Tottenham interest",
@@ -438,10 +426,26 @@
         "active": false
       },
       {
+        "who": "Alexis Mac Allister",
+        "meta": "CM · Real/Atlético links",
+        "fee": "undisclosed",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
         "who": "Federico Chiesa",
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
         "mentions": 0,
         "active": false
       },
