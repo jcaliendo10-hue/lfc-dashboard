@@ -1,18 +1,7 @@
 {
-  "updated": "19 Jul 2026 13:16 UTC",
+  "updated": "19 Jul 2026 16:57 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "Dominik Szoboszlai signs Liverpool deal as Aston Villa go for João Gomes",
-      "summary": "Contract to 2031 one of his ‘top three’ life momentsLeeds close to signing centre-back MuharemovicDominik Szoboszlai has given Liverpool and their head coach, Andoni Iraola, a significant boost by signing a new contract to 2031. The midfiel",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 100,
-      "rank_score": 94.5,
-      "date": "2026-07-17",
-      "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest",
-      "rank": 1
-    },
     {
       "headline": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks - Anfield Watch",
       "summary": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks Anfield Watch",
@@ -22,7 +11,7 @@
       "rank_score": 89.8,
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkF4bGpOUmlBeld6VVpSelpqM2JWSXZ3RkJhQTBxTHVwd2FWUFZtZVF6eVdhUVVqb3NaUjhycVg2QWp6MWMwMldQVFBhVmNSaTNBNUNmZ19nZERkZmI0ajRXZEpwa1pDZUd2dUgtREx1RU50aDZXUHJJaXAzSE1DckJKMmQxYkJ1OEhrd3djQXVGWHB4U3JnM0xIMm5fR3Q5djZROGpVMTlZbmlLR3NPTmJiSm1ZcFhKQldRcFZyRFRmT2h5MlBNQjdaTkI?oc=5",
-      "rank": 2
+      "rank": 1
     },
     {
       "headline": "Fabrizio Romano confirms where contract deal puts Dominik Szoboszlai on Liverpool pay scale - Anfield Watch",
@@ -33,6 +22,17 @@
       "rank_score": 89.8,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2JobEw3YWJnZVcwSFVTdWVoM2hJdmRvY0FvMmRZVU5OaTJWdERhWm1NWFltR2w4VW82ZXgtakpBMWlyRkU2LTRvZUFicXd0YXZWSUJqRjUyLTFtbWNoeTN4Y1B2Q2NTY1FXRXFaMUVPWW4tcTFyNUJBdGZaNFBmQkhIRFBDTTFDSWJlSy0zV0gybXJ6MEtmQmxIYml2VnAtQ1lwazR4S0xseUZEdUk4WGJHVUhHcm9reEdJc0E1d3lPdXlGMTQxT2lETkpQY1RJX2xfM1BIc2Q?oc=5",
+      "rank": 2
+    },
+    {
+      "headline": "Dominik Szoboszlai signs Liverpool deal as Aston Villa go for João Gomes",
+      "summary": "Contract to 2031 one of his ‘top three’ life momentsLeeds close to signing centre-back MuharemovicDominik Szoboszlai has given Liverpool and their head coach, Andoni Iraola, a significant boost by signing a new contract to 2031. The midfiel",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 92,
+      "rank_score": 86.9,
+      "date": "2026-07-17",
+      "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest",
       "rank": 3
     },
     {
@@ -91,6 +91,17 @@
       "rank": 8
     },
     {
+      "headline": "Fabrizio Romano confirms 'deal proceeding' and it's music to Liverpool ears - Anfield Watch",
+      "summary": "Fabrizio Romano confirms 'deal proceeding' and it's music to Liverpool ears Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdS1sNU1IYWhVdWNKQUFNVHhRbHM3YTBKUU9jcHk1NmdoaXB2a3RuVERXckhjQ29QZ1FkN0FnVGE2b3J4WE9Rb0dkc0JRbnI4enRJRkMwYlVQVU9QR1VsY192VUwzUjlWeGxMOVVVc2pCWkhYUjlPam92eHRKZWk2TXpGckUxMk9ZR3diM3hNRDZiSkY5aTctdlZJcFNISGxJYkVubjg3LWlvVGZBQnY1bnE4cEVQUkJDc05lUlIydw?oc=5",
+      "rank": 9
+    },
+    {
       "headline": "Liverpool Transfer News: Fabrizio Romano confirms dream agreement takes giant step closer - Anfield Watch",
       "summary": "Liverpool Transfer News: Fabrizio Romano confirms dream agreement takes giant step closer Anfield Watch",
       "source": "Anfield Watch",
@@ -99,7 +110,7 @@
       "rank_score": 80.3,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREdkY2hQamVNbXBFVWwyYkxMeUZkODl5U3ZPX001TEM2SFR3MHFjaC1YYUhXdGJHaXZjYW01bGN5VzhDZUF5VUlLU0tjUlI0U2k4MjloRHdnSnRGcldmTGJtVWNUeVcwYXg2bGIzLUx0VVZxYXBqcHBIRFl4RTlEV0pFZU85S2txd2E1UHc4SVdDcXBZVVhPN3NtUUFIV0N2S0xuOVZiTzF2SGMyOVFVY1RmN05SNUJqN01nd2RIQkwyODQ0VGpyZGlhMUtQY3JDWndRcQ?oc=5",
-      "rank": 9
+      "rank": 10
     },
     {
       "headline": "Inside Iraola's first week at Liverpool and big decisions he faces - BBC",
@@ -109,18 +120,7 @@
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1KVzFuWnZXeFh0QnVGeFZmX2J0UXlTRTA4N0tKeHNwU1RnalVlZkota1ZpckU0UGZHWEU5alFHOVJIZG5NdHVuNTNHZTJVRzFwQmdud0JzT2pHcHh3aU9JY2g0SFM1b1BLQnc?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more - Liverpool FC",
-      "summary": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEw4bEk1clQtREU0NXk3RWx1ZjJ6VzRPdjkyck1fWjVJSEtIcFVqYTROTXRtUnVoUjZtWjdtSXRfMlVsZGR5bVhsM3QxSEFxN1hMMTRYaWtaVUdBMk94RkZhQl83elhPajFndG1oOS1TMHRlcG5tTFltemdnQlVFMDVfLXJPcWhFVnN1WFpDVE1BWlFJQ1BZYlFycGlNR2VibHQwQXpUd045dnZLOGFFalJB0gG6AUFVX3lxTFA5Wnd3VldoVVhWS2xPYklldFEwMXllOHpFUVlwQUkyeGZIb3BHRUtWWDY2QzNPaFRpYzM3T01LZVZaY3dSTkpJZktqQVJIVjJJQjBEZ2RlRm9jYnVKV2ZLaHZqMkxlUEtKZzlKVkdRd2YxOUlaWVI2azJlU1lWc242TTBzUGZLVnd5WjN6VHMzUnBfRzBTWFlkYUNTQzk4Q2ZiZmtWeTc1eWdrZFJYaGMxa0JoMlpRemNnZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wMDh5Mm16SHh1RDlSaTBoUm4zZ0pNZGlUdmJidzRseHhEdW9XVmV3eWZlVmNMdXY4VDdxYmdORko5eGhnVVFjUnlWSGdVNVFJaXpra1VvdjJYaWJsWTMtWktwcGp4emc?oc=5",
       "rank": 11
     },
     {
@@ -135,6 +135,17 @@
       "rank": 12
     },
     {
+      "headline": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more - Liverpool FC",
+      "summary": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEw4bEk1clQtREU0NXk3RWx1ZjJ6VzRPdjkyck1fWjVJSEtIcFVqYTROTXRtUnVoUjZtWjdtSXRfMlVsZGR5bVhsM3QxSEFxN1hMMTRYaWtaVUdBMk94RkZhQl83elhPajFndG1oOS1TMHRlcG5tTFltemdnQlVFMDVfLXJPcWhFVnN1WFpDVE1BWlFJQ1BZYlFycGlNR2VibHQwQXpUd045dnZLOGFFalJB0gG6AUFVX3lxTFA5Wnd3VldoVVhWS2xPYklldFEwMXllOHpFUVlwQUkyeGZIb3BHRUtWWDY2QzNPaFRpYzM3T01LZVZaY3dSTkpJZktqQVJIVjJJQjBEZ2RlRm9jYnVKV2ZLaHZqMkxlUEtKZzlKVkdRd2YxOUlaWVI2azJlU1lWc242TTBzUGZLVnd5WjN6VHMzUnBfRzBTWFlkYUNTQzk4Q2ZiZmtWeTc1eWdrZFJYaGMxa0JoMlpRemNnZw?oc=5",
+      "rank": 13
+    },
+    {
       "headline": "Liverpool 'crazy' transfer move questioned after Real Madrid intervention",
       "summary": "Former Liverpool defender Glen Johnson was surprised to see Ibrahima Konate leave Anfield but is convinced Andoni Iraola can change the fortunes of the Reds",
       "source": "Liverpool Echo",
@@ -143,7 +154,7 @@
       "rank_score": 79.3,
       "date": "2026-07-18",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-crazy-transfer-move-questioned-34312330",
-      "rank": 13
+      "rank": 14
     },
     {
       "headline": "Liverpool transfer news recap: Jarrod Bowen signs contract, Mo Salah's next move and Manu Kone latest",
@@ -154,17 +165,6 @@
       "rank_score": 79.3,
       "date": "2026-07-18",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-latest-34280097",
-      "rank": 14
-    },
-    {
-      "headline": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola - The Independent",
-      "summary": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola The Independent",
-      "source": "The Independent",
-      "credibility": 7,
-      "relevance": 95,
-      "rank_score": 79.3,
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc09uTVJhY0JJRmJPeDFjb0x6MUQ2ak9VQjBRLUtFdUIwdkRCRERONmFtY3lZRjlJWkdkcDE1RDhnejFHY0ltOUFFdDNKUzV0b3lWTTJEejF0UzlzVlJydmJrcXkwTG1pYmdYclhsbmJFaGczSE5xLUhCRkJQYmttdzVfeVZBR1J4ay1WZkdIcmsyNzlHU1F6N0hzc2JaOHlKOFV5Mk9uNkF0bDN4TGRN?oc=5",
       "rank": 15
     },
     {
@@ -201,28 +201,6 @@
       "rank": 18
     },
     {
-      "headline": "Liverpool could complete £38m transfer imminently as Fabrizio Romano drops afternoon alert - OneFootball",
-      "summary": "Liverpool could complete £38m transfer imminently as Fabrizio Romano drops afternoon alert OneFootball",
-      "source": "OneFootball",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMVNOanRfbGNGa2JRVDNsamd4MUYxa01xNXJNNE1DMWNLdkQtYWRxSEZXUno0Vkt4OFItc0NtbWFDOFh6SjV0MjJxRG9pZGpyc3BOVzdVNzNjeHFIM2U0Rk1KVkU4dk5CRkVtWm5wRzRkTUJ5NVJ5el9KOERMZ2dORXA0X0pWbkZrWXRqblBKa090NkhjNjdkR05xVUpKRklFRk9wNzBGbW9NdTcxaXZfMXJ0ZFFtbGo4UGhPbnJ5cFNnQ1hteDFDZmpObzBFazA?oc=5",
-      "rank": 19
-    },
-    {
-      "headline": "Fabrizio Romano confirms 'deal proceeding' and it's music to Liverpool ears - Yahoo Sports",
-      "summary": "Fabrizio Romano confirms 'deal proceeding' and it's music to Liverpool ears Yahoo Sports",
-      "source": "Yahoo Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaVM2a2RPaDRjRy1ycGxpMGlzZVFHRXg3dmJzYmw3ZzdPVFVTQ2xOS0c4Um13MC1KTzZMQ3JmRmZrLWpqN3JjOXhGSXJGSE4zNnNsdGdSa0k2c3hzcFBPbFEwbWtPb1hvOWMxc3VOTWtOamVRNXhweWtzUE9fSnJsejR2MmNxSl9xS01FUWplQm0zMkE?oc=5",
-      "rank": 20
-    },
-    {
       "headline": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer - MSN",
       "summary": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer MSN",
       "source": "MSN",
@@ -231,7 +209,18 @@
       "rank_score": 75.6,
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVm1uTldtSFNhYi1KeWFrWDllVWNwd2JiU2dQa0EzNmhZOERzc3d1bFpRNkFjNHV2Nkt2Tm52a0d4RmVwZk5LSUFWWEJkZmNKV1VRUS0zbFZkQmpUamVxOVhpU0tLZ1ZXd1pzcVlpR2FFeV9ZVXFXZlpGOUVHajg5WG04S3F6NElLdW8wd0lKQnE2NmYwdTRYd0VaQzk0eVIxbFNtR1JKTFNfU2xHWkpSek0za2tPTW5JMVh3MnZNRENwbm5wZUhsQnRFRXNlY2dKRGRPcEg2X0JtWDA?oc=5",
-      "rank": 21
+      "rank": 19
+    },
+    {
+      "headline": "Dominik Szoboszlai backed for big Liverpool role as Andoni Iraola set to make crucial decision",
+      "summary": "Former Liverpool goalkeeper David James believes Dominik Szoboszlai could become the club's captain after Virgil van Dijk",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 90,
+      "rank_score": 75.2,
+      "date": "2026-07-19",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
+      "rank": 20
     },
     {
       "headline": "Liverpool latest: Reds beat rivals to signing as Andoni Iraola sent double transfer demand",
@@ -242,7 +231,7 @@
       "rank_score": 75.2,
       "date": "2026-07-19",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfers-latest-andoni-iraola-34313204",
-      "rank": 22
+      "rank": 21
     },
     {
       "headline": "Liverpool latest: Andoni Iraola issues transfer confirmation as Mo Salah's agent gives update",
@@ -253,6 +242,17 @@
       "rank_score": 75.2,
       "date": "2026-07-18",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-mo-salah-iraola-34310959",
+      "rank": 22
+    },
+    {
+      "headline": "Liverpool set to sign Samuel Martinez from Atletico Nacional for around £750k - The Athletic - The New York Times",
+      "summary": "Liverpool set to sign Samuel Martinez from Atletico Nacional for around £750k - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 75,
+      "rank_score": 75.0,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3dscDNKNEtoTWVhQjd5a0VSR190b0d3bi1fN3BiSTdtcGVfSnFhS1JqOWpzamg5UDRyMVhfS1N3MnZ2WFJMMk9wTThVWHR1Z2kweS12MGhWRXBiMEdndUlWMVhpRDE3QTJ2VUFwYUJYYzFaa21lMjJvSmp3dm41c1RmMndjOENVMFFkM3BmRmZVMmZlTTlTb3cwTHlEanZ5ck1CMlNQclI?oc=5",
       "rank": 23
     },
     {
@@ -267,17 +267,6 @@
       "rank": 24
     },
     {
-      "headline": "Liverpool set to sign Samuel Martinez from Atletico Nacional for around £750k - The Athletic - The New York Times",
-      "summary": "Liverpool set to sign Samuel Martinez from Atletico Nacional for around £750k - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3dscDNKNEtoTWVhQjd5a0VSR190b0d3bi1fN3BiSTdtcGVfSnFhS1JqOWpzamg5UDRyMVhfS1N3MnZ2WFJMMk9wTThVWHR1Z2kweS12MGhWRXBiMEdndUlWMVhpRDE3QTJ2VUFwYUJYYzFaa21lMjJvSmp3dm41c1RmMndjOENVMFFkM3BmRmZVMmZlTTlTb3cwTHlEanZ5ck1CMlNQclI?oc=5",
-      "rank": 25
-    },
-    {
       "headline": "Szoboszlai to sign new Liverpool deal in boost for Iraola - The Telegraph",
       "summary": "Szoboszlai to sign new Liverpool deal in boost for Iraola The Telegraph",
       "source": "The Telegraph",
@@ -286,7 +275,7 @@
       "rank_score": 73.0,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFVhMjBfUW1sZldkZVcxOTRsTGxqYkVxaUN2RUItaHYtTHUxTUw1UXl3N0U3WkYxZldnMFF2dFpuRzVPUnBxZ1MxOEgyRnFBdll1WkU0Q2gtYWNyb2ZXR2l0cWNLTFZWbzVMbmNHeTdCdlZrRUNvZjZIeEFjenkxdzRuOEhlV25rTEthbk5URm41bXhRNFZmLTVpamVyOEZwWmNrR3BrRk5wUQ?oc=5",
-      "rank": 26
+      "rank": 25
     },
     {
       "headline": "Liverpool move closer to signing top transfer target after Fabrizio Romano update - OneFootball",
@@ -297,7 +286,7 @@
       "rank_score": 72.8,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXdkb2pIaVI4V29pMnBjQjJCa2JQSGFaclNhbnkzbVd1enplWWpWVjh5eFhHb1Q2YWxGa203M0pSbVYyLWZzTGxmSTBXN21RVnc5a1dJRkZCTHBwMVhOM0hLRGJGSi1fX0VBVHpRRnVubC16aG5ialhsdThSOW1Ra3l0RTNpWW43ODhWSFpEQV94VWg0NkNGUXVPenU5T0dPblBFb1oyWEI0eU04ZllIQW9ucmVCT0xRYjFLVHdUZw?oc=5",
-      "rank": 27
+      "rank": 26
     },
     {
       "headline": "Fabrizio Romano hands Liverpool the perfect transfer lifeline - Anfield Watch",
@@ -308,7 +297,7 @@
       "rank_score": 72.8,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHJfaHZVejZEelB4RU5WZzYxRXJJUDF5QV9tSjFtQTVINWE3SG9PRHNOWDQ4RmZwTm41WTBleEVWcGZpRmdQbEo4c0tUMDBLTHZNZWY1TGZ2ZzFSclJvVUpkR2hodHNadTNOeXB6UjNaSXdONi1uVkdPM0RnRVZSbHdYTURja2JGWTNDa2ZGOUFpWnJCV0NvUzh6blVfenVvVjN4NC12TDA5LWpiOEFfNA?oc=5",
-      "rank": 28
+      "rank": 27
     },
     {
       "headline": "Fabrizio Romano confirms massive Liverpool deal signed in last few hours - Anfield Watch",
@@ -319,7 +308,7 @@
       "rank_score": 72.8,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWhoaXZVOEdCdUR3QmhRdDFiU3U5dW9XRzhOTlMzeXB1b29jQTQyemN4R050N2w4UEJ0R3k4Wk5ELVRueWgzTlZ1OVhsTzNfdzI4aW9HNTl5b294c3RJbHR6V0pKaEdwU21UenZ1SmhzR19JZGpyejNMWlRwWmN3MlM5OHVTQldlZHB1RWRweHhPWU55OUw5bUdaYnRDVUNSNDBCeEFUMVFjdXplQkFMdGlYNzBuWkIwd2Z1QlhLZw?oc=5",
-      "rank": 29
+      "rank": 28
     },
     {
       "headline": "Liverpool Transfer News: Fabrizio Romano confirms amazing £35m midfielder news - Anfield Watch",
@@ -330,6 +319,17 @@
       "rank_score": 72.8,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnJaMVFoUmJhMElUb185X0IzVHpzdDg2WHEyS0lNSFA4Q2NtcEdaT3JfOGNGVW0wcmdkc2k4VTZvVGdJa2NkR1IwMUZxQU11MFRxQ3FEaGZncGxqSWVYZVUxSGJJTnR6S0xrVTVkRmZ4aUZhV2d1THAwbEN2b0ZwT181U19JakRxZ1RXOGVuMzBEUnBZWmNTb0VLcll3d1UteWFSU2NRVnZCVFlmSEY2bVJ2Wk5XS19SVlphWVdJYVh6VGNNcXpQbWRFXzZpVmF2ZnhsQmk3Q1BZSkFFSlVxQm02Wlg?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola - The Independent",
+      "summary": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola The Independent",
+      "source": "The Independent",
+      "credibility": 7,
+      "relevance": 87,
+      "rank_score": 72.6,
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc09uTVJhY0JJRmJPeDFjb0x6MUQ2ak9VQjBRLUtFdUIwdkRCRERONmFtY3lZRjlJWkdkcDE1RDhnejFHY0ltOUFFdDNKUzV0b3lWTTJEejF0UzlzVlJydmJrcXkwTG1pYmdYclhsbmJFaGczSE5xLUhCRkJQYmttdzVfeVZBR1J4ay1WZkdIcmsyNzlHU1F6N0hzc2JaOHlKOFV5Mk9uNkF0bDN4TGRN?oc=5",
       "rank": 30
     }
   ],
@@ -423,6 +423,17 @@
     ],
     "out": [
       {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
+        "date": "2026-07-19",
+        "active": true
+      },
+      {
         "who": "Cody Gakpo",
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
@@ -451,14 +462,6 @@
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Medium",
-        "mentions": 0,
-        "active": false
-      },
-      {
-        "who": "Virgil van Dijk",
-        "meta": "CB · Galatasaray interest",
-        "fee": "low/free",
-        "p": "Low",
         "mentions": 0,
         "active": false
       },
