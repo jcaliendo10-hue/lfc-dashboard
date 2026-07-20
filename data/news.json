@@ -1,5 +1,5 @@
 {
-  "updated": "19 Jul 2026 20:48 UTC",
+  "updated": "20 Jul 2026 02:54 UTC",
   "count": 30,
   "items": [
     {
@@ -91,17 +91,6 @@
       "rank": 8
     },
     {
-      "headline": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more - Liverpool FC",
-      "summary": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEw4bEk1clQtREU0NXk3RWx1ZjJ6VzRPdjkyck1fWjVJSEtIcFVqYTROTXRtUnVoUjZtWjdtSXRfMlVsZGR5bVhsM3QxSEFxN1hMMTRYaWtaVUdBMk94RkZhQl83elhPajFndG1oOS1TMHRlcG5tTFltemdnQlVFMDVfLXJPcWhFVnN1WFpDVE1BWlFJQ1BZYlFycGlNR2VibHQwQXpUd045dnZLOGFFalJB0gG6AUFVX3lxTFA5Wnd3VldoVVhWS2xPYklldFEwMXllOHpFUVlwQUkyeGZIb3BHRUtWWDY2QzNPaFRpYzM3T01LZVZaY3dSTkpJZktqQVJIVjJJQjBEZ2RlRm9jYnVKV2ZLaHZqMkxlUEtKZzlKVkdRd2YxOUlaWVI2azJlU1lWc242TTBzUGZLVnd5WjN6VHMzUnBfRzBTWFlkYUNTQzk4Q2ZiZmtWeTc1eWdrZFJYaGMxa0JoMlpRemNnZw?oc=5",
-      "rank": 9
-    },
-    {
       "headline": "'He has all the tools' - Andoni Iraola's admiration for Jeremy Jacquet - Liverpool FC",
       "summary": "'He has all the tools' - Andoni Iraola's admiration for Jeremy Jacquet Liverpool FC",
       "source": "Liverpool FC",
@@ -110,6 +99,17 @@
       "rank_score": 80.0,
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOazk2NlJjNElPSG01aXpkWU1ldTFjNjJicDNSOFh4Tm1CQVM5eDNZOC1qcGMxaVpRcy1RR0luQk9mOHZ0UVdwa2t2QUJlYlh4ZDdodi1zT0FvTWhaMHRadk9aSnQyUDUzekhJQzVKN2RCX05FdzVjc251MG9xdF9UOE9DYUJMSllNUkRYbklrTEJGcHVQ0gGcAUFVX3lxTE01LWYyNTZoV3FoMjV4ZHpEZGJKaXhWcXpvaVRqb3ZkZ2J3eURwUHhIY2IxRkpOWVV4elRrNGZhaktTMFpGS09ZTm9nX2Qzc1dtc25YdEZwaEFma081QTBrUWp1SnJfdmVySWNPeWFTaDFEV3dILW9MUnUyVDNHQi1GWElRX2NVT3FudkRKR0dLbGZMbTlnc01IdzM2bQ?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more - Liverpool FC",
+      "summary": "'We're all hungry and excited to go' - Joe Gomez on pre-season, Iraola impressions and more Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWEw4bEk1clQtREU0NXk3RWx1ZjJ6VzRPdjkyck1fWjVJSEtIcFVqYTROTXRtUnVoUjZtWjdtSXRfMlVsZGR5bVhsM3QxSEFxN1hMMTRYaWtaVUdBMk94RkZhQl83elhPajFndG1oOS1TMHRlcG5tTFltemdnQlVFMDVfLXJPcWhFVnN1WFpDVE1BWlFJQ1BZYlFycGlNR2VibHQwQXpUd045dnZLOGFFalJB0gG6AUFVX3lxTFA5Wnd3VldoVVhWS2xPYklldFEwMXllOHpFUVlwQUkyeGZIb3BHRUtWWDY2QzNPaFRpYzM3T01LZVZaY3dSTkpJZktqQVJIVjJJQjBEZ2RlRm9jYnVKV2ZLaHZqMkxlUEtKZzlKVkdRd2YxOUlaWVI2azJlU1lWc242TTBzUGZLVnd5WjN6VHMzUnBfRzBTWFlkYUNTQzk4Q2ZiZmtWeTc1eWdrZFJYaGMxa0JoMlpRemNnZw?oc=5",
       "rank": 10
     },
     {
@@ -186,7 +186,7 @@
       "relevance": 80,
       "rank_score": 75.6,
       "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOVm1uTldtSFNhYi1KeWFrWDllVWNwd2JiU2dQa0EzNmhZOERzc3d1bFpRNkFjNHV2Nkt2Tm52a0d4RmVwZk5LSUFWWEJkZmNKV1VRUS0zbFZkQmpUamVxOVhpU0tLZ1ZXd1pzcVlpR2FFeV9ZVXFXZlpGOUVHajg5WG04S3F6NElLdW8wd0lKQnE2NmYwdTRYd0VaQzk0eVIxbFNtR1JKTFNfU2xHWkpSek0za2tPTW5JMVh3MnZNRENwbm5wZUhsQnRFRXNlY2dKRGRPcEg2X0JtWDA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0Y4bjZ2SUtfMkRTNGdMT1U4MmRKMnY5RWx3ZFNjZ3NnNXFIdnhwalRHbnlpTkxHZXFxVTh6WXNHejk3VDIyd290dEk2R2MzOUtqdU9Rd3lOMzc2bzFkcW1XX25zLWZ4YmtBLUl4UXFPbmNlVVBjMlVPajlpbmEzUXphaHphRjJkTW5FX2pSbWRxdk83azI1ZXhXVGFGUHA5VDF4ZHFPcC10MDRKUlFpQVdVTmdodGVZcG54cUxGd0QyLWpFUm5tRnJlWUpDdUhETTBSSUZIYw?oc=5",
       "rank": 17
     },
     {
@@ -245,17 +245,6 @@
       "rank": 22
     },
     {
-      "headline": "Szoboszlai to sign new Liverpool deal in boost for Iraola - The Telegraph",
-      "summary": "Szoboszlai to sign new Liverpool deal in boost for Iraola The Telegraph",
-      "source": "The Telegraph",
-      "credibility": 8,
-      "relevance": 82,
-      "rank_score": 73.0,
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTFVhMjBfUW1sZldkZVcxOTRsTGxqYkVxaUN2RUItaHYtTHUxTUw1UXl3N0U3WkYxZldnMFF2dFpuRzVPUnBxZ1MxOEgyRnFBdll1WkU0Q2gtYWNyb2ZXR2l0cWNLTFZWbzVMbmNHeTdCdlZrRUNvZjZIeEFjenkxdzRuOEhlV25rTEthbk5URm41bXhRNFZmLTVpamVyOEZwWmNrR3BrRk5wUQ?oc=5",
-      "rank": 23
-    },
-    {
       "headline": "‘Will leave PSG this summer’: Fabrizio Romano reveals exciting Liverpool transfer opportunity",
       "summary": "Ibrahim Mbaye is expected to leave PSG in the summer transfer window. DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – STRAIGHT TO YOUR PHONE! ON APPLE & GOOGLE PLAY Transfer news expert Fabrizio Romano re",
       "source": "Empire of the Kop",
@@ -264,7 +253,7 @@
       "rank_score": 72.8,
       "date": "2026-07-17",
       "url": "https://www.empireofthekop.com/2026/07/17/will-leave-psg-this-summer-fabrizio-romano-reveals-exciting-liverpool-transfer-opportunity/",
-      "rank": 24
+      "rank": 23
     },
     {
       "headline": "Liverpool move closer to signing top transfer target after Fabrizio Romano update - OneFootball",
@@ -275,7 +264,7 @@
       "rank_score": 72.8,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLXdkb2pIaVI4V29pMnBjQjJCa2JQSGFaclNhbnkzbVd1enplWWpWVjh5eFhHb1Q2YWxGa203M0pSbVYyLWZzTGxmSTBXN21RVnc5a1dJRkZCTHBwMVhOM0hLRGJGSi1fX0VBVHpRRnVubC16aG5ialhsdThSOW1Ra3l0RTNpWW43ODhWSFpEQV94VWg0NkNGUXVPenU5T0dPblBFb1oyWEI0eU04ZllIQW9ucmVCT0xRYjFLVHdUZw?oc=5",
-      "rank": 25
+      "rank": 24
     },
     {
       "headline": "Fabrizio Romano hands Liverpool the perfect transfer lifeline - Anfield Watch",
@@ -286,7 +275,7 @@
       "rank_score": 72.8,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHJfaHZVejZEelB4RU5WZzYxRXJJUDF5QV9tSjFtQTVINWE3SG9PRHNOWDQ4RmZwTm41WTBleEVWcGZpRmdQbEo4c0tUMDBLTHZNZWY1TGZ2ZzFSclJvVUpkR2hodHNadTNOeXB6UjNaSXdONi1uVkdPM0RnRVZSbHdYTURja2JGWTNDa2ZGOUFpWnJCV0NvUzh6blVfenVvVjN4NC12TDA5LWpiOEFfNA?oc=5",
-      "rank": 26
+      "rank": 25
     },
     {
       "headline": "Fabrizio Romano confirms massive Liverpool deal signed in last few hours - Anfield Watch",
@@ -297,7 +286,7 @@
       "rank_score": 72.8,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWhoaXZVOEdCdUR3QmhRdDFiU3U5dW9XRzhOTlMzeXB1b29jQTQyemN4R050N2w4UEJ0R3k4Wk5ELVRueWgzTlZ1OVhsTzNfdzI4aW9HNTl5b294c3RJbHR6V0pKaEdwU21UenZ1SmhzR19JZGpyejNMWlRwWmN3MlM5OHVTQldlZHB1RWRweHhPWU55OUw5bUdaYnRDVUNSNDBCeEFUMVFjdXplQkFMdGlYNzBuWkIwd2Z1QlhLZw?oc=5",
-      "rank": 27
+      "rank": 26
     },
     {
       "headline": "Liverpool Transfer News: Fabrizio Romano confirms dream agreement takes giant step closer - Anfield Watch",
@@ -308,7 +297,7 @@
       "rank_score": 72.8,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREdkY2hQamVNbXBFVWwyYkxMeUZkODl5U3ZPX001TEM2SFR3MHFjaC1YYUhXdGJHaXZjYW01bGN5VzhDZUF5VUlLU0tjUlI0U2k4MjloRHdnSnRGcldmTGJtVWNUeVcwYXg2bGIzLUx0VVZxYXBqcHBIRFl4RTlEV0pFZU85S2txd2E1UHc4SVdDcXBZVVhPN3NtUUFIV0N2S0xuOVZiTzF2SGMyOVFVY1RmN05SNUJqN01nd2RIQkwyODQ0VGpyZGlhMUtQY3JDWndRcQ?oc=5",
-      "rank": 28
+      "rank": 27
     },
     {
       "headline": "Liverpool Transfer News: Fabrizio Romano confirms amazing £35m midfielder news - Anfield Watch",
@@ -319,7 +308,7 @@
       "rank_score": 72.8,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnJaMVFoUmJhMElUb185X0IzVHpzdDg2WHEyS0lNSFA4Q2NtcEdaT3JfOGNGVW0wcmdkc2k4VTZvVGdJa2NkR1IwMUZxQU11MFRxQ3FEaGZncGxqSWVYZVUxSGJJTnR6S0xrVTVkRmZ4aUZhV2d1THAwbEN2b0ZwT181U19JakRxZ1RXOGVuMzBEUnBZWmNTb0VLcll3d1UteWFSU2NRVnZCVFlmSEY2bVJ2Wk5XS19SVlphWVdJYVh6VGNNcXpQbWRFXzZpVmF2ZnhsQmk3Q1BZSkFFSlVxQm02Wlg?oc=5",
-      "rank": 29
+      "rank": 28
     },
     {
       "headline": "Dominik Szoboszlai signs new Liverpool contract in boost to Andoni Iraola - The Independent",
@@ -330,6 +319,17 @@
       "rank_score": 72.6,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc09uTVJhY0JJRmJPeDFjb0x6MUQ2ak9VQjBRLUtFdUIwdkRCRERONmFtY3lZRjlJWkdkcDE1RDhnejFHY0ltOUFFdDNKUzV0b3lWTTJEejF0UzlzVlJydmJrcXkwTG1pYmdYclhsbmJFaGczSE5xLUhCRkJQYmttdzVfeVZBR1J4ay1WZkdIcmsyNzlHU1F6N0hzc2JaOHlKOFV5Mk9uNkF0bDN4TGRN?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Andoni Iraola interview: Pre-season, implementing his style and fitness update - Liverpool FC",
+      "summary": "Andoni Iraola interview: Pre-season, implementing his style and fitness update Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 72,
+      "rank_score": 72.0,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWVFvUVNoT3o5NXhPYXV1V0lfVDdPQnpxSE5tUzBQcGh5b2pEdkRXT3ZXZ01HVHVxOUNTeHNOU2tiSUtjaElMcGhGcjdlX1pPa1NUYWt5Sk1qcHhjeTZONG5XVHBPNTJGT0JvOTF4N3RtanNuVjFoSmI0ejd4bmFXaVJ2cHQtZTh6b3lEQTh6Z1hJcTVxVWpJZ3R1NnB2MVN5SEVodnRDRVJTbXdaLVHSAbYBQVVfeXFMTnMwbFQwSDhOZl9XUjhBVE04M0pQaFp3ejVTemY3ZkZUbmVYYjZCcUpfeExNV0REbXRfUF94TWpzd0t2UE5GNUQ3Q3lXVlQ0MEVxb3VhcE9RY01wS2tMT2VwT19TdkJiSFgyb2E4eVo5RVVYSUdjNUl1N0RoNnZXRV8zanBpakZJeGNSU2d4aGpYM1NjYU5GaVFFamNKWjFfaTNQUzlyMUR2S2hIMkdNbFlpOE52anc?oc=5",
       "rank": 30
     }
   ],
