@@ -1,5 +1,5 @@
 {
-  "updated": "20 Jul 2026 13:37 UTC",
+  "updated": "20 Jul 2026 13:42 UTC",
   "count": 30,
   "items": [
     {
@@ -278,17 +278,6 @@
       "rank": 25
     },
     {
-      "headline": "Alejandro Rosalen, First-team goalkeeping coach - Liverpool FC",
-      "summary": "Alejandro Rosalen, First-team goalkeeping coach Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdmd3SEJtbWU4LU1CTVljSm9nQXRCdzdsWllQcGEzbXB3THpkQ2lOckJxNGUyMzkta0ZKaEpXbjVlVFE2RlczVjZwRUpTUmJpSTlVRXE5RklzVVFJb2FmekIxYkx6bkhpTG5ONnl3?oc=5",
-      "rank": 26
-    },
-    {
       "headline": "Liverpool confirm new goalkeeping coach - Liverpool FC",
       "summary": "Liverpool confirm new goalkeeping coach Liverpool FC",
       "source": "Liverpool FC",
@@ -297,6 +286,17 @@
       "rank_score": 75.0,
       "date": "2026-07-20",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11X01RQzQ3MjlBa1NlUVV5bzRyS1MzZ0IzNEFsdUE2anJkMEtjWm80ZkxOUHZ6djR0SXBlOVNCejI5NnFZMW9aTjBvZ1pGYm1lNG9KdUZlalRvc0Y1TVJZR1dFekdTY1RBSGRzcXFBdkczVWJUNHpvSEJPWjjSAYQBQVVfeXFMTlZTalFJRGNTaExyb2JfRy1wSklGVVNhSGhpLTlnZWg1dDFiZjBwczY5VTdmaVVIZlI0RXRzZU03TXQ5RmJjdTktM2pDWGM1c3NFSHIzRzkyYmdyYjJTNDRhcWxBelk0TEhlMFR1WkF5NGZpM0p6a01lVTJoM3N5djBDbWVM?oc=5",
+      "rank": 26
+    },
+    {
+      "headline": "Alejandro Rosalen, First-team goalkeeping coach - Liverpool FC",
+      "summary": "Alejandro Rosalen, First-team goalkeeping coach Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 75,
+      "rank_score": 75.0,
+      "date": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdmd3SEJtbWU4LU1CTVljSm9nQXRCdzdsWllQcGEzbXB3THpkQ2lOckJxNGUyMzkta0ZKaEpXbjVlVFE2RlczVjZwRUpTUmJpSTlVRXE5RklzVVFJb2FmekIxYkx6bkhpTG5ONnl3?oc=5",
       "rank": 27
     },
     {
@@ -311,8 +311,8 @@
       "rank": 28
     },
     {
-      "headline": "Liverpool appoint Alejandro Rosalen as new goalkeeping coach - The New York Times",
-      "summary": "Liverpool appoint Alejandro Rosalen as new goalkeeping coach The New York Times",
+      "headline": "Liverpool appoint Alejandro Rosalen as new goalkeeping coach - The Athletic - The New York Times",
+      "summary": "Liverpool appoint Alejandro Rosalen as new goalkeeping coach - The Athletic The New York Times",
       "source": "The New York Times",
       "credibility": 10,
       "relevance": 75,
