@@ -391,7 +391,7 @@ header.top::after{content:"";position:absolute;top:0;left:-60%;width:38%;height:
   <div id="budgetBox"></div>
   <h3 class="sub">Confirmed in</h3><div id="confIn"></div>
   <h3 class="sub">Confirmed out</h3><div id="confOut"></div>
-  <h3 class="sub">Rumours <span class="note" style="font-weight:400;text-transform:none;letter-spacing:0">— auto-updated from the latest links</span></h3>
+  <h3 class="sub">Rumours <span class="note" style="font-weight:400;text-transform:none;letter-spacing:0">— curated from verified reporting</span></h3>
   <div id="rumNote" class="note" style="margin:-4px 0 10px"></div>
   <div class="two"><div><h3 class="sub">Incoming rumours</h3><div id="rumIn"></div></div>
   <div><h3 class="sub">Outgoing rumours</h3><div id="rumOut"></div></div></div>
@@ -552,11 +552,13 @@ function daysUntil(dstr){const d=new Date(dstr);if(isNaN(d))return null;return M
 function renderOverview(){
   const m=REF.meta||{};document.getElementById("subhead").textContent=m.season||"";
   const news=((NEWS&&NEWS.items)||[]).slice(0,6);
-  const rum=((NEWS&&NEWS.rumours)||deriveRumours(NEWS||{}));
-  let links=[...(rum.in||[]).map(r=>Object.assign({dir:'in'},r)),...(rum.out||[]).map(r=>Object.assign({dir:'out'},r))];
-  const active=links.filter(r=>r.active);links=(active.length?active:links).slice(0,6);
+  const tr=REF.transfers||{};const RANK={High:3,Medium:2,Low:1};
+  const byRank=(a,b)=>(RANK[b.p]||0)-(RANK[a.p]||0);
+  const inL=(tr.rumIn||[]).map(r=>Object.assign({dir:'in'},r)).sort(byRank).slice(0,4);
+  const outL=(tr.rumOut||[]).map(r=>Object.assign({dir:'out'},r)).sort(byRank).slice(0,2);
+  const links=[...inL,...outL];
   const newsHTML=news.length?news.map(n=>`<div class="news"><div class="rank">${n.rank||'•'}</div><div class="body"><div class="hl"><a href="${n.url}" target="_blank" rel="noopener">${n.headline}</a></div><div class="meta"><span class="src">${n.source}</span><span class="cred" style="background:${credColor(n.credibility)}">${n.credibility}/10</span><span>· ${n.date}</span></div></div></div>`).join(""):'<div class="note">Headlines load from the daily feed — see the News tab.</div>';
-  const linkHTML=links.length?links.map(r=>`<div class="rumor ${r.active?'liveon':''}">${av(r.who,'sm')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)} <span class="badge ${r.dir}">${r.dir==='in'?'IN':'OUT'}</span>${r.active?' <span class="livedot"></span>':''}</div><div class="meta">${r.meta}</div></div><div class="right"><span class="badge ${r.p}">${r.p}</span></div></div>`).join(""):'<div class="note">No active transfer links right now.</div>';
+  const linkHTML=links.length?links.map(r=>`<div class="rumor">${av(r.who,'sm')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)} <span class="badge ${r.dir}">${r.dir==='in'?'IN':'OUT'}</span></div><div class="meta">${r.meta}</div></div><div class="right"><span class="badge ${r.p}">${r.p}</span></div></div>`).join(""):'<div class="note">No transfer links right now.</div>';
   document.getElementById("overviewBody").innerHTML=`
     <div class="callout"><b>Today at Anfield —</b> ${m.head_coach||'Andoni Iraola'} is head coach and the summer window is in full swing (Víctor Muñoz in; Salah, Konaté, Robertson out). The latest news and transfer movement, refreshed through the day:</div>
     <div class="two" style="align-items:start">
@@ -614,12 +616,9 @@ function renderTransfers(){
   const t=REF.transfers||{};
   document.getElementById("confIn").innerHTML=(t.in||[]).map(c=>confCard(c,'in')).join("");
   document.getElementById("confOut").innerHTML=(t.out||[]).map(c=>confCard(c,'out')).join("");
-  const rum=(NEWS&&NEWS.rumours)||deriveRumours(NEWS||{});
-  const ri=(rum.in&&rum.in.length)?rum.in:(t.rumIn||[]);
-  const ro=(rum.out&&rum.out.length)?rum.out:(t.rumOut||[]);
-  document.getElementById("rumIn").innerHTML=ri.map(rumorCardLive).join("");
-  document.getElementById("rumOut").innerHTML=ro.map(rumorCardLive).join("");
-  const rn=document.getElementById('rumNote');if(rn)rn.innerHTML='Likelihood is recalculated from the latest reporting each time the data refreshes'+((NEWS&&NEWS.updated)?` · last refresh ${NEWS.updated}`:'')+'. <span class="livedot"></span> = actively linked now.';
+  document.getElementById("rumIn").innerHTML=(t.rumIn||[]).map(rumorCardStatic).join("");
+  document.getElementById("rumOut").innerHTML=(t.rumOut||[]).map(rumorCardStatic).join("");
+  const rn=document.getElementById('rumNote');if(rn)rn.innerHTML='Likelihood reflects the latest verified reporting, curated with each data refresh'+((REF.meta&&REF.meta.as_of)?` · as of ${REF.meta.as_of}`:'')+'.';
   document.getElementById("results").innerHTML=(REF.results||[]).map(r=>`<div class="result"><span class="comp">${r.comp}</span><span>${r.opp}</span><span class="res-${r.r}" style="margin-left:auto;font-weight:700">${r.score}</span></div>`).join("");
   document.getElementById("fixtures").innerHTML=(REF.fixtures||[]).map(f=>`<div class="result"><span class="comp">${f.date}</span><span>${f.opp}</span></div>`).join("");
 }
@@ -633,49 +632,8 @@ function renderBudget(){
     <div class="callout" style="margin-top:12px"><b>Verdict —</b> ${b.verdict}</div>
     <p class="note">${b.note}</p>`;
 }
-const RUMOUR_WATCH={
-  in:[
-    {who:"Yan Diomande",meta:"RW · RB Leipzig · 19",fee:"~€130m",p:"High",aliases:["diomande"]},
-    {who:"Ayyoub Bouaddi",meta:"DM · Lille",fee:"undisclosed",p:"Medium",aliases:["bouaddi"]},
-    {who:"Gonçalo Inácio",meta:"CB · Sporting CP",fee:"~£55m clause",p:"Medium",aliases:["inacio","inácio"]},
-    {who:"Bradley Barcola",meta:"LW · PSG",fee:"undisclosed",p:"Medium",aliases:["barcola"]},
-    {who:"Alex Scott",meta:"CM · Bournemouth · Iraola reunion",fee:"~£50m",p:"Low",aliases:["alex scott"]},
-    {who:"Francisco Trincão",meta:"RW · Sporting CP",fee:"~£50m clause",p:"Low",aliases:["trincao","trincão"]},
-    {who:"Darwin Núñez",meta:"ST · Al-Hilal · return talk",fee:"~£25m",p:"Low",aliases:["nunez","núñez"]}
-  ],
-  out:[
-    {who:"Cody Gakpo",meta:"LW · Tottenham interest",fee:"€45–85m",p:"High",aliases:["gakpo"]},
-    {who:"Curtis Jones",meta:"CM · Inter Milan",fee:"~£35m",p:"Medium",aliases:["curtis jones"]},
-    {who:"Alexis Mac Allister",meta:"CM · Real/Atlético links",fee:"undisclosed",p:"Medium",aliases:["mac allister"]},
-    {who:"Federico Chiesa",meta:"RW · seeking minutes",fee:"undisclosed",p:"Medium",aliases:["chiesa"]},
-    {who:"Virgil van Dijk",meta:"CB · Galatasaray interest",fee:"low/free",p:"Low",aliases:["van dijk"]},
-    {who:"Rio Ngumoha",meta:"RW · Bayern keen",fee:"undisclosed",p:"Low",aliases:["ngumoha"]},
-    {who:"Kostas Tsimikas",meta:"LB · exit weighed",fee:"undisclosed",p:"Low",aliases:["tsimikas"]}
-  ]
-};
-function deriveRumours(news){
-  const items=(news&&news.items)||[];
-  const HI=["here we go","confirmed","completes","done deal","agreed","sealed","medical","unveiled","announce","signed","triggered","joins"];
-  const MED=["close to","advanced","in talks","verbal","bid","submitted","negotiat","accept","agreement","personal terms","offer"];
-  const RANK={High:3,Medium:2,Low:1};
-  const lk=(hay,cred)=>{let p=HI.some(w=>hay.includes(w))?'High':MED.some(w=>hay.includes(w))?'Medium':'Low';if((cred||0)<5&&p==='High')p='Medium';return p;};
-  const out={in:[],out:[]};
-  ['in','out'].forEach(d=>{RUMOUR_WATCH[d].forEach(w=>{
-    const matches=items.filter(it=>{const hay=((it.headline||'')+' '+(it.summary||'')).toLowerCase();return w.aliases.some(a=>hay.includes(a));});
-    const card={who:w.who,meta:w.meta,fee:w.fee};
-    if(matches.length){matches.sort((a,b)=>(b.credibility-a.credibility)||(String(b.date)>String(a.date)?1:-1));
-      let best='Low';matches.forEach(it=>{const p=lk(((it.headline||'')+' '+(it.summary||'')).toLowerCase(),it.credibility);if(RANK[p]>RANK[best])best=p;});
-      const top=matches[0];Object.assign(card,{p:best,mentions:matches.length,source:top.source,url:top.url,date:top.date,active:true});}
-    else Object.assign(card,{p:w.p,mentions:0,active:false});
-    out[d].push(card);});
-    out[d].sort((a,b)=>(b.active-a.active)||(RANK[b.p]-RANK[a.p])||(b.mentions-a.mentions));});
-  return out;
-}
-function rumorCardLive(r){
-  const fresh=r.active
-    ? `<div class="note" style="margin-top:3px">🔗 ${r.mentions} recent link${r.mentions>1?'s':''} · <a href="${r.url}" target="_blank" rel="noopener">${r.source}</a> · ${r.date}</div>`
-    : `<div class="note" style="margin-top:3px;opacity:.65">No fresh links right now</div>`;
-  return `<div class="rumor${r.active?' liveon':''}">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)}${r.discovered?' <span class="ttag">AUTO</span>':''}${r.active?' <span class="livedot" title="Actively linked in the latest news"></span>':''}</div><div class="meta">${r.meta}</div>${fresh}</div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee}</div></div></div>`;
+function rumorCardStatic(r){
+  return `<div class="rumor">${av(r.who,'md')}<div style="flex:1 1 auto"><div class="who">${nameTag(r.who,true)}</div><div class="meta">${r.meta||''}</div></div><div class="right"><span class="badge ${r.p}">${r.p}</span><div class="fee">${r.fee||''}</div></div></div>`;
 }
 function renderNews(payload){
   const items=(payload&&payload.items)||[];
