@@ -1,5 +1,5 @@
 {
-  "updated": "20 Jul 2026 10:51 UTC",
+  "updated": "20 Jul 2026 13:22 UTC",
   "count": 30,
   "items": [
     {
@@ -14,17 +14,6 @@
       "rank": 1
     },
     {
-      "headline": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks - Anfield Watch",
-      "summary": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 95,
-      "rank_score": 89.8,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkF4bGpOUmlBeld6VVpSelpqM2JWSXZ3RkJhQTBxTHVwd2FWUFZtZVF6eVdhUVVqb3NaUjhycVg2QWp6MWMwMldQVFBhVmNSaTNBNUNmZ19nZERkZmI0ajRXZEpwa1pDZUd2dUgtREx1RU50aDZXUHJJaXAzSE1DckJKMmQxYkJ1OEhrd3djQXVGWHB4U3JnM0xIMm5fR3Q5djZROGpVMTlZbmlLR3NPTmJiSm1ZcFhKQldRcFZyRFRmT2h5MlBNQjdaTkI?oc=5",
-      "rank": 2
-    },
-    {
       "headline": "Dominik Szoboszlai signs Liverpool deal as Aston Villa go for João Gomes",
       "summary": "Contract to 2031 one of his ‘top three’ life momentsLeeds close to signing centre-back MuharemovicDominik Szoboszlai has given Liverpool and their head coach, Andoni Iraola, a significant boost by signing a new contract to 2031. The midfiel",
       "source": "The Guardian",
@@ -33,7 +22,7 @@
       "rank_score": 86.9,
       "date": "2026-07-17",
       "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest",
-      "rank": 3
+      "rank": 2
     },
     {
       "headline": "Andoni Iraola has already delivered Illia Zabarnyi verdict after Liverpool transfer links - readliverpoolfc.com",
@@ -44,6 +33,17 @@
       "rank_score": 85.0,
       "date": "2026-07-20",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kZXhJblhjeTZyTXNYOUlsenh6REl0cndZWGM0ZV90R3hmN1c1T2dlUWFlT01DQXBhOVkwM3hUak1QNm91bklNeFBndXM0cC1HXzZCMHBRYWdjQlZhWXJQdUdQV2IxUTMxMTF5dHZGZVVON0ktYldGWjBKNHFkUQ?oc=5",
+      "rank": 3
+    },
+    {
+      "headline": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks - Anfield Watch",
+      "summary": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 87,
+      "rank_score": 82.2,
+      "date": "2026-07-18",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkF4bGpOUmlBeld6VVpSelpqM2JWSXZ3RkJhQTBxTHVwd2FWUFZtZVF6eVdhUVVqb3NaUjhycVg2QWp6MWMwMldQVFBhVmNSaTNBNUNmZ19nZERkZmI0ajRXZEpwa1pDZUd2dUgtREx1RU50aDZXUHJJaXAzSE1DckJKMmQxYkJ1OEhrd3djQXVGWHB4U3JnM0xIMm5fR3Q5djZROGpVMTlZbmlLR3NPTmJiSm1ZcFhKQldRcFZyRFRmT2h5MlBNQjdaTkI?oc=5",
       "rank": 4
     },
     {
@@ -58,14 +58,14 @@
       "rank": 5
     },
     {
-      "headline": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic - The New York Times",
-      "summary": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic The New York Times",
-      "source": "The New York Times",
+      "headline": "Liverpool midfielder Szoboszlai signs new five-year deal - BBC",
+      "summary": "Liverpool midfielder Szoboszlai signs new five-year deal BBC",
+      "source": "BBC",
       "credibility": 10,
       "relevance": 82,
       "rank_score": 82.0,
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYko3V0lmdVpVRnd6dkE1NmRHeExiam9rdHNXVUJsQVVNeUxDZmdtVzZJdkw0TFI1NkJ5ajVxbzFaQ0FwWmlzWFpMODJjbklKUEQzUThZU3Bnck52SUNyeWlNbVhUa2tUeklscmdHZ19IZXR1WkVkX1ZXbm9IQkRFNUVGazZQUmIzNkdrYUZfMUNWMnBrdmpvQ2pEVlhBWnJ1bFE?oc=5",
+      "date": "2026-07-17",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8yRnZwbGxYRUNFWlpMQXNZTVdWck9mLWRiWnZvZGVyMHZVS3JaRWZ0Mmh4enNkTExXVHMxcXY4Vl9tNThqVHgzbGVMRnZ3RURVMzhFR05HNmVsVlN1Vmh3LTFuZHdkRDQ?oc=5",
       "rank": 6
     },
     {
@@ -135,6 +135,17 @@
       "rank": 12
     },
     {
+      "headline": "Liverpool’s U.S. tour: What it means to fans Stateside as club look to harness World Cup effect - The Athletic - The New York Times",
+      "summary": "Liverpool’s U.S. tour: What it means to fans Stateside as club look to harness World Cup effect - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaHlna0dnQ2tRbXl4NVYyRk9WcjhrbUo4RFZhWlhoVTdjeFhOTnhkR1RWbU8wamtnWVBXV1JBRmtkOGVxVFNZQnBHSlFucFVSWXotcW96THJ0VWJrTktTa0Y0WmdfTlZsZmdOTXNZS0kxR0lQWnZ4V3lBME8tZGFEY0JTVkZWeEZybDFXYXdYMUxOd0ZHUEpkMktTNGE4ZFBrcFdLck40S2VMXzJObXQ3X3JvQ1hDNmExU2JkSVI0dVJ0TDh0V0FfemVmWkZIM2FlNHNQalhIMGZhSUY2S0E?oc=5",
+      "rank": 13
+    },
+    {
       "headline": "Liverpool FC",
       "summary": "Liverpool fan and Spion Kop podcast host Peter Bolster on Dominik Szoboszlai's new deal",
       "source": "BBC Sport",
@@ -143,7 +154,7 @@
       "rank_score": 77.0,
       "date": "2026-07-17",
       "url": "https://www.bbc.co.uk/sounds/play/p0nzhd25?at_medium=RSS&at_campaign=rss",
-      "rank": 13
+      "rank": 14
     },
     {
       "headline": "'Very hungry and ambitious' - Andoni Iraola on signing Victor Munoz - Liverpool FC",
@@ -154,7 +165,7 @@
       "rank_score": 77.0,
       "date": "2026-07-16",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQLTR0MjlnbXYwblF2SHlocmVRMlozVTBDZWxYdEJCUHRDM1FRc1JlQnpkNGZZWGtxUjVPZGZlQjBNOVY3U09laVgzSG5ONHJNOHRtU3FZRTFzRkwxdWpDamVNVFZfSDVSbjVNbkZWMzQtcGFqemw5WndqWEtlbFdLeDFZampSZlNVUE1Mc2FXdlNJb05adFR4NdIBoAFBVV95cUxONjgtWFp0OE40dUw2MkR3NENQTFFvMWZRckZEVlVTbjg4UW5XYW8xVDV2MEs5djhFUmhJcWVpYjlMNmFSUkJUWEZ3eUo0ck9yU1dvUmdTWDNkZWxtTmQ5b0VsSkJ1TzE2cmVoc1p2d1BNZlRfd2o4eHNyMjZvM2thd1hVV09DVXZJOTJzLUZjbUVFUUNSam0xeHFkUlJzeGVm?oc=5",
-      "rank": 14
+      "rank": 15
     },
     {
       "headline": "‘Worst news’ – Andoni Iraola confirms crushing Liverpool injury blow - readliverpoolfc.com",
@@ -165,7 +176,7 @@
       "rank_score": 77.0,
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkJmcGQ4bk9qZTM4czhnSF9zODA4ZjE5RGhYS0VCN3VsZjBaemVFMTg1UzVGMTZMeWV6cndlajgyQktDVXlrM1hENENhRGJSenJzZ0JRTllObFRTSjI0X2ZpUERrRjVQaEp3b3RWbDNuLURtNG80dDJzdmhBWGlGNUc2Uk9sdE1YTXdXNjBTS1BmNEx6NE9VTzg5STdkWEVHX0ZTaXotQQ?oc=5",
-      "rank": 15
+      "rank": 16
     },
     {
       "headline": "Ornstein reveals Premier League target to replace Mohamed Salah as next Liverpool transfer - readliverpoolfc.com",
@@ -176,7 +187,18 @@
       "rank_score": 76.0,
       "date": "2026-07-15",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWI0NUItSGl4NVV5dlFRQkZqZGl3dUYyeklteUpkLXI1Mm85Vk85WExycXlyRTJ0c1NWc2dLeVlvdW1JalR0REFyTUxhb0prNURNUFNxRHR0ZDdRZmF0NTFyeXZYdTNpMS1UdFlfRThnZG9sQUNyU0ZnUkR5NDJWQ1BGMTdBZzdtSU5yUXdrVnFiYTB3dC1UcDcyMW5acWJ1QUEtU1dyZHB4RU0wU2NMYldkLWNfMzhHZjVQM0RYcHdBVTRueGVVNg?oc=5",
-      "rank": 16
+      "rank": 17
+    },
+    {
+      "headline": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic - The New York Times",
+      "summary": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 76,
+      "rank_score": 76.0,
+      "date": "2026-07-16",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYko3V0lmdVpVRnd6dkE1NmRHeExiam9rdHNXVUJsQVVNeUxDZmdtVzZJdkw0TFI1NkJ5ajVxbzFaQ0FwWmlzWFpMODJjbklKUEQzUThZU3Bnck52SUNyeWlNbVhUa2tUeklscmdHZ19IZXR1WkVkX1ZXbm9IQkRFNUVGazZQUmIzNkdrYUZfMUNWMnBrdmpvQ2pEVlhBWnJ1bFE?oc=5",
+      "rank": 18
     },
     {
       "headline": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
@@ -187,7 +209,7 @@
       "rank_score": 75.6,
       "date": "2026-07-01",
       "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "rank": 17
+      "rank": 19
     },
     {
       "headline": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer - MSN",
@@ -198,7 +220,7 @@
       "rank_score": 75.6,
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPR0Y4bjZ2SUtfMkRTNGdMT1U4MmRKMnY5RWx3ZFNjZ3NnNXFIdnhwalRHbnlpTkxHZXFxVTh6WXNHejk3VDIyd290dEk2R2MzOUtqdU9Rd3lOMzc2bzFkcW1XX25zLWZ4YmtBLUl4UXFPbmNlVVBjMlVPajlpbmEzUXphaHphRjJkTW5FX2pSbWRxdk83azI1ZXhXVGFGUHA5VDF4ZHFPcC10MDRKUlFpQVdVTmdodGVZcG54cUxGd0QyLWpFUm5tRnJlWUpDdUhETTBSSUZIYw?oc=5",
-      "rank": 18
+      "rank": 20
     },
     {
       "headline": "Liverpool latest: Transfer green light received for PSG star as next signing nears completion",
@@ -209,7 +231,7 @@
       "rank_score": 75.2,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-summer-transfer-signings-psg-34316471",
-      "rank": 19
+      "rank": 21
     },
     {
       "headline": "Liverpool transfer problem exposed by Chelsea as FSG change considered",
@@ -220,7 +242,7 @@
       "rank_score": 75.2,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-problem-exposed-chelsea-34315878",
-      "rank": 20
+      "rank": 22
     },
     {
       "headline": "Dominik Szoboszlai backed for big Liverpool role as Andoni Iraola set to make crucial decision",
@@ -231,7 +253,7 @@
       "rank_score": 75.2,
       "date": "2026-07-19",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
-      "rank": 21
+      "rank": 23
     },
     {
       "headline": "Liverpool latest: Reds beat rivals to signing as Andoni Iraola sent double transfer demand",
@@ -242,7 +264,7 @@
       "rank_score": 75.2,
       "date": "2026-07-19",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfers-latest-andoni-iraola-34313204",
-      "rank": 22
+      "rank": 24
     },
     {
       "headline": "Liverpool set to sign Samuel Martinez from Atletico Nacional for around £750k - The Athletic - The New York Times",
@@ -253,7 +275,7 @@
       "rank_score": 75.0,
       "date": "2026-07-18",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPc3dscDNKNEtoTWVhQjd5a0VSR190b0d3bi1fN3BiSTdtcGVfSnFhS1JqOWpzamg5UDRyMVhfS1N3MnZ2WFJMMk9wTThVWHR1Z2kweS12MGhWRXBiMEdndUlWMVhpRDE3QTJ2VUFwYUJYYzFaa21lMjJvSmp3dm41c1RmMndjOENVMFFkM3BmRmZVMmZlTTlTb3cwTHlEanZ5ck1CMlNQclI?oc=5",
-      "rank": 23
+      "rank": 25
     },
     {
       "headline": "Trey Nyoni interview: 'Pre-season tour is an opportunity - I want to show what I can do' - Liverpool FC",
@@ -264,7 +286,18 @@
       "rank_score": 75.0,
       "date": "2026-07-19",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2RkUHF5eWpyRjloaHgzbjAzUk1GWG56Y3BaMWlDeXNJazZJYm1xUk1rYzkwUmtOaUZkOWtfWTZoTjlHVWV5RWd4Mm5yLTlkWjM4NWJ0djRaVnFYdHAtbjJNbmhEV1VDVHpLQjJyTThRLTJjMUItaUNpUXNYT0g1T3JPVUtjd3dpWG9lX3MxdUZyVnZqb3RvQTNPUHVzWVlJeWhFNVUtUEM2WlnSAbMBQVVfeXFMTlZlb1lzUG9yemFkRDhsNXFxNmFianR5MDRsR1BrRW1RS3A5YnRKZm05VmhhelFJVS1mYW1QVGUxUFJDci1kU2JPb1NDMDdnZTlDLTBBWmI1SmV2TU0wUm1GbzVyTzNLXzluS1dVaEVpbklXQ3Z4LVJldHdaak5CN05DeG9SbWJQY2RzdmxnTWN4Y1dkR250VnNUTTFlUVVINjd4X29hSkszbk9IcHJoUkRLR2M?oc=5",
-      "rank": 24
+      "rank": 26
+    },
+    {
+      "headline": "Alejandro Rosalen, First-team goalkeeping coach - Liverpool FC",
+      "summary": "Alejandro Rosalen, First-team goalkeeping coach Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 75,
+      "rank_score": 75.0,
+      "date": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdmd3SEJtbWU4LU1CTVljSm9nQXRCdzdsWllQcGEzbXB3THpkQ2lOckJxNGUyMzkta0ZKaEpXbjVlVFE2RlczVjZwRUpTUmJpSTlVRXE5RklzVVFJb2FmekIxYkx6bkhpTG5ONnl3?oc=5",
+      "rank": 27
     },
     {
       "headline": "‘Clubs keep calling’ – Fabrizio Romano’s overnight update is good news for Liverpool - readliverpoolfc.com",
@@ -275,40 +308,18 @@
       "rank_score": 75.0,
       "date": "2026-07-20",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONWpOUXAxMUVuSUZnbDFBbTh1WmRiMlNhNlhsZV8xeGFySmFYeUNORkY4cVk0N1VlTjJCT21KdFNobkVRS1R1YVVNbFJxYlpIdExyMzY2WVk4QklyTDFaUHI2cDFMbmMzd2hKdVdiclFtek1FWERKbmRGOTJTQk9jVk1rcXhDdE9sM0E?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "‘Will leave PSG this summer’: Fabrizio Romano reveals exciting Liverpool transfer opportunity",
-      "summary": "Ibrahim Mbaye is expected to leave PSG in the summer transfer window. DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – STRAIGHT TO YOUR PHONE! ON APPLE & GOOGLE PLAY Transfer news expert Fabrizio Romano re",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "relevance": 77,
-      "rank_score": 72.8,
-      "date": "2026-07-17",
-      "url": "https://www.empireofthekop.com/2026/07/17/will-leave-psg-this-summer-fabrizio-romano-reveals-exciting-liverpool-transfer-opportunity/",
-      "rank": 26
-    },
-    {
-      "headline": "Fabrizio Romano hands Liverpool the perfect transfer lifeline - Anfield Watch",
-      "summary": "Fabrizio Romano hands Liverpool the perfect transfer lifeline Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 77,
-      "rank_score": 72.8,
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUHJfaHZVejZEelB4RU5WZzYxRXJJUDF5QV9tSjFtQTVINWE3SG9PRHNOWDQ4RmZwTm41WTBleEVWcGZpRmdQbEo4c0tUMDBLTHZNZWY1TGZ2ZzFSclJvVUpkR2hodHNadTNOeXB6UjNaSXdONi1uVkdPM0RnRVZSbHdYTURja2JGWTNDa2ZGOUFpWnJCV0NvUzh6blVfenVvVjN4NC12TDA5LWpiOEFfNA?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Fabrizio Romano confirms massive Liverpool deal signed in last few hours - Anfield Watch",
-      "summary": "Fabrizio Romano confirms massive Liverpool deal signed in last few hours Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 77,
-      "rank_score": 72.8,
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxORWhoaXZVOEdCdUR3QmhRdDFiU3U5dW9XRzhOTlMzeXB1b29jQTQyemN4R050N2w4UEJ0R3k4Wk5ELVRueWgzTlZ1OVhsTzNfdzI4aW9HNTl5b294c3RJbHR6V0pKaEdwU21UenZ1SmhzR19JZGpyejNMWlRwWmN3MlM5OHVTQldlZHB1RWRweHhPWU55OUw5bUdaYnRDVUNSNDBCeEFUMVFjdXplQkFMdGlYNzBuWkIwd2Z1QlhLZw?oc=5",
       "rank": 28
+    },
+    {
+      "headline": "Liverpool appoint Alejandro Rosalen as new goalkeeping coach - The New York Times",
+      "summary": "Liverpool appoint Alejandro Rosalen as new goalkeeping coach The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 75,
+      "rank_score": 75.0,
+      "date": "2026-07-20",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX2NxUktmcXJmVXRBOGs5Z2hNMC1IbDZqRnJZc1Jjd3VNT2dWODNDWllrUnhwZmxaZ1Y4S1NfbTJGU0NXM0tfdENGOEhfWTdkRWc3aDFDVkRnanBtU1czYzJrdzlLUVBuUkZiMEtUV3RGeHFwUkttTm5pWW5Jem1aOXY0UTB3SEE3R0hDbERnVVJRZnk1SnhKVTdyWFVIY2NQQ1ZRYVFZYw?oc=5",
+      "rank": 29
     },
     {
       "headline": "Liverpool Transfer News: Fabrizio Romano confirms dream agreement takes giant step closer - Anfield Watch",
@@ -319,17 +330,6 @@
       "rank_score": 72.8,
       "date": "2026-07-17",
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPREdkY2hQamVNbXBFVWwyYkxMeUZkODl5U3ZPX001TEM2SFR3MHFjaC1YYUhXdGJHaXZjYW01bGN5VzhDZUF5VUlLU0tjUlI0U2k4MjloRHdnSnRGcldmTGJtVWNUeVcwYXg2bGIzLUx0VVZxYXBqcHBIRFl4RTlEV0pFZU85S2txd2E1UHc4SVdDcXBZVVhPN3NtUUFIV0N2S0xuOVZiTzF2SGMyOVFVY1RmN05SNUJqN01nd2RIQkwyODQ0VGpyZGlhMUtQY3JDWndRcQ?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Liverpool Transfer News: Fabrizio Romano confirms amazing £35m midfielder news - Anfield Watch",
-      "summary": "Liverpool Transfer News: Fabrizio Romano confirms amazing £35m midfielder news Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 77,
-      "rank_score": 72.8,
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQTnJaMVFoUmJhMElUb185X0IzVHpzdDg2WHEyS0lNSFA4Q2NtcEdaT3JfOGNGVW0wcmdkc2k4VTZvVGdJa2NkR1IwMUZxQU11MFRxQ3FEaGZncGxqSWVYZVUxSGJJTnR6S0xrVTVkRmZ4aUZhV2d1THAwbEN2b0ZwT181U19JakRxZ1RXOGVuMzBEUnBZWmNTb0VLcll3d1UteWFSU2NRVnZCVFlmSEY2bVJ2Wk5XS19SVlphWVdJYVh6VGNNcXpQbWRFXzZpVmF2ZnhsQmk3Q1BZSkFFSlVxQm02Wlg?oc=5",
       "rank": 30
     }
   ],
@@ -407,6 +407,19 @@
         "source": "readliverpoolfc.com",
         "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWI0NUItSGl4NVV5dlFRQkZqZGl3dUYyeklteUpkLXI1Mm85Vk85WExycXlyRTJ0c1NWc2dLeVlvdW1JalR0REFyTUxhb0prNURNUFNxRHR0ZDdRZmF0NTFyeXZYdTNpMS1UdFlfRThnZG9sQUNyU0ZnUkR5NDJWQ1BGMTdBZzdtSU5yUXdrVnFiYTB3dC1UcDcyMW5acWJ1QUEtU1dyZHB4RU0wU2NMYldkLWNfMzhHZjVQM0RYcHdBVTRueGVVNg?oc=5",
         "date": "2026-07-15",
+        "active": true,
+        "discovered": true
+      },
+      {
+        "who": "Alejandro Rosalen",
+        "meta": "Emerging link · 4 reports across 2 outlets",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 4,
+        "outlets": 2,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdmd3SEJtbWU4LU1CTVljSm9nQXRCdzdsWllQcGEzbXB3THpkQ2lOckJxNGUyMzkta0ZKaEpXbjVlVFE2RlczVjZwRUpTUmJpSTlVRXE5RklzVVFJb2FmekIxYkx6bkhpTG5ONnl3?oc=5",
+        "date": "2026-07-20",
         "active": true,
         "discovered": true
       },
