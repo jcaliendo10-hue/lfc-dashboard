@@ -1,5 +1,5 @@
 {
-  "updated": "21 Jul 2026 10:26 UTC",
+  "updated": "21 Jul 2026 13:50 UTC",
   "count": 30,
   "items": [
     {
@@ -14,6 +14,17 @@
       "rank": 1
     },
     {
+      "headline": "‘Contract formalised’ for £80m transfer in major Bradley Barcola to Liverpool boost",
+      "summary": "Chelsea are finalising a £117m deal with Aston Villa to sign Morgan Rogers this summer. DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – STRAIGHT TO YOUR PHONE! ON APPLE & GOOGLE PLAY Ben Jacobs confirmed ",
+      "source": "Empire of the Kop",
+      "credibility": 9,
+      "relevance": 90,
+      "rank_score": 85.1,
+      "date": "2026-07-21",
+      "url": "https://www.empireofthekop.com/2026/07/21/contract-formalised-for-80m-transfer-in-major-bradley-barcola-to-liverpool-boost/",
+      "rank": 2
+    },
+    {
       "headline": "A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary",
       "summary": "The former England manager may be remembered by many for his ‘I’d love it’ rant in 1996, but that should not obscure the remarkable nature of his football careerKevin Keegan, who has died aged 75, is the only British player to win the Ballo",
       "source": "The Guardian",
@@ -22,7 +33,7 @@
       "rank_score": 75.6,
       "date": "2026-07-20",
       "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-tribute-pioneer-superstar-liverpool-newcastle-hamburg-england",
-      "rank": 2
+      "rank": 3
     },
     {
       "headline": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
@@ -33,7 +44,7 @@
       "rank_score": 75.6,
       "date": "2026-07-01",
       "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "rank": 3
+      "rank": 4
     },
     {
       "headline": "“Held formal talks” – Liverpool target zeroing in on £55m summer transfer",
@@ -44,7 +55,18 @@
       "rank_score": 75.6,
       "date": "2026-07-20",
       "url": "https://www.empireofthekop.com/2026/07/20/held-formal-talks-liverpool-target-zeroing-in-on-55m-summer-transfer/",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "headline": "Alexis Mac Allister's dad responds to Liverpool star's World Cup transfer 'admission'",
+      "summary": "Alexis Mac Allister will now have a break before returning to Liverpool ahead of the new season",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 90,
+      "rank_score": 75.2,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/alexis-mac-allisters-dad-responds-34326295",
+      "rank": 6
     },
     {
       "headline": "Premier League rule means Liverpool can only make one more specific signing",
@@ -55,7 +77,7 @@
       "rank_score": 75.2,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-window-home-grown-34319605",
-      "rank": 5
+      "rank": 7
     },
     {
       "headline": "Liverpool latest: Transfer green light received for PSG star as next signing nears completion",
@@ -66,28 +88,6 @@
       "rank_score": 75.2,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-summer-transfer-signings-psg-34316471",
-      "rank": 6
-    },
-    {
-      "headline": "Liverpool transfer problem exposed by Chelsea as FSG change considered",
-      "summary": "Morgan Rogers is becoming the latest £100m transfer in the Premier League and that will impact Liverpool's market business",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-07-20",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-problem-exposed-chelsea-34315878",
-      "rank": 7
-    },
-    {
-      "headline": "Dominik Szoboszlai backed for big Liverpool role as Andoni Iraola set to make crucial decision",
-      "summary": "Former Liverpool goalkeeper David James believes Dominik Szoboszlai could become the club's captain after Virgil van Dijk",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-07-19",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
       "rank": 8
     },
     {
@@ -102,6 +102,17 @@
       "rank": 9
     },
     {
+      "headline": "Dominik Szoboszlai’s agent admits talks over new Liverpool contract were ‘long and complicated’",
+      "summary": "Dominik Szoboszlai settled any lingering doubts over his future last Friday when signing a long-term contract extension at Liverpool, although his agent has revealed that the journey to that point was ‘quite long and complicated’. The 25-ye",
+      "source": "Empire of the Kop",
+      "credibility": 5,
+      "relevance": 100,
+      "rank_score": 72.5,
+      "date": "2026-07-21",
+      "url": "https://www.empireofthekop.com/2026/07/21/agent-admits-szoboszlai-contract-talks-were-complicated/",
+      "rank": 10
+    },
+    {
       "headline": "Liverpool transfer news LIVE: Yan Diomande U-turn, Bradley Barcola latest, Ferran Torres pursuit",
       "summary": "All the latest Liverpool transfer news and gossip at it happens",
       "source": "Liverpool Echo",
@@ -110,7 +121,7 @@
       "rank_score": 71.0,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-yan-34324385",
-      "rank": 10
+      "rank": 11
     },
     {
       "headline": "Liverpool close on two more deals as transfer business intensifies",
@@ -121,7 +132,7 @@
       "rank_score": 71.0,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-close-two-more-deals-34324914",
-      "rank": 11
+      "rank": 12
     },
     {
       "headline": "Liverpool transfer news: Rayan move, Bradley Barcola latest, deal agreed for Bayern target",
@@ -132,7 +143,7 @@
       "rank_score": 71.0,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-34317750",
-      "rank": 12
+      "rank": 13
     },
     {
       "headline": "Liverpool latest: Club release new arrival statement and Yan Diomande transfer 'update' emerges",
@@ -143,7 +154,7 @@
       "rank_score": 71.0,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-yan-diomande-psg-34322089",
-      "rank": 13
+      "rank": 14
     },
     {
       "headline": "Liverpool told they can replace midfielder with Adam Wharton as ideal winger identified",
@@ -154,7 +165,7 @@
       "rank_score": 71.0,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-told-can-replace-midfielder-34318506",
-      "rank": 14
+      "rank": 15
     },
     {
       "headline": "Liverpool World Cup player ratings as Cody Gakpo change clear and £250m duo pose questions",
@@ -165,7 +176,7 @@
       "rank_score": 71.0,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-player-ratings-cody-gakpo-34318331",
-      "rank": 15
+      "rank": 16
     },
     {
       "headline": "Kevin Keegan obituary",
@@ -176,7 +187,7 @@
       "rank_score": 70.9,
       "date": "2026-07-20",
       "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-obituary",
-      "rank": 16
+      "rank": 17
     },
     {
       "headline": "Kevin Keegan, Liverpool legend and former Newcastle manager, dies aged 75",
@@ -187,7 +198,7 @@
       "rank_score": 70.9,
       "date": "2026-07-20",
       "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-liverpool-legend-and-former-newcastle-manager-dies-aged-75",
-      "rank": 17
+      "rank": 18
     },
     {
       "headline": "‘I need to prove I belong here’: Andoni Iraola stays humble in new Liverpool era",
@@ -198,7 +209,18 @@
       "rank_score": 67.1,
       "date": "2026-07-13",
       "url": "https://www.theguardian.com/football/2026/jul/13/andoni-iraola-liverpool-manager-michael-edwards-transfers-richard-hughes",
-      "rank": 18
+      "rank": 19
+    },
+    {
+      "headline": "Alex Scott backed for Liverpool move after rejecting Bournemouth contract",
+      "summary": "Former Liverpool striker Emile Heskey wants to see his old club move for Bournemouth midfielder Alex Scott",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alex-scott-backed-liverpool-move-34325660",
+      "rank": 20
     },
     {
       "headline": "Liverpool midfielder sent transfer message as Man United comparison made - 'we had no idea'",
@@ -209,7 +231,7 @@
       "rank_score": 66.8,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfielder-sent-transfer-message-34319700",
-      "rank": 19
+      "rank": 21
     },
     {
       "headline": "Andoni Iraola is about to discover what every Liverpool boss learns",
@@ -220,7 +242,7 @@
       "rank_score": 66.8,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-discover-what-every-34323930",
-      "rank": 20
+      "rank": 22
     },
     {
       "headline": "How Kevin Keegan became Liverpool's first modern superstar and the ultimate self-made great",
@@ -231,7 +253,7 @@
       "rank_score": 66.8,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/how-kevin-keegan-became-liverpools-34322145",
-      "rank": 21
+      "rank": 23
     },
     {
       "headline": "Victor Munoz gives Liverpool exactly what Andoni Iraola wants after World Cup triumph",
@@ -242,7 +264,7 @@
       "rank_score": 66.8,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/victor-munoz-gives-liverpool-exactly-34320788",
-      "rank": 22
+      "rank": 24
     },
     {
       "headline": "Liverpool youngster close to completing loan transfer to Austria",
@@ -253,7 +275,7 @@
       "rank_score": 66.8,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-youngster-close-completing-loan-34320497",
-      "rank": 23
+      "rank": 25
     },
     {
       "headline": "Liverpool confirm new appointment as goalkeeper coach arrives",
@@ -264,18 +286,7 @@
       "rank_score": 66.8,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-confirm-new-appointment-goalkeeper-34320761",
-      "rank": 24
-    },
-    {
-      "headline": "Six Liverpool players face defining period as Andoni Iraola prepares for big reveal",
-      "summary": "Liverpool are ready to fly out to the United States to begin their three-game tour under new head coach Andoni Iraola",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 80,
-      "rank_score": 66.8,
-      "date": "2026-07-20",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/six-liverpool-players-face-defining-34315776",
-      "rank": 25
+      "rank": 26
     },
     {
       "headline": "‘There has been talk…’ – Liverpool touted to potentially ruin Man Utd’s transfer plans for 25y/o",
@@ -286,7 +297,7 @@
       "rank_score": 65.3,
       "date": "2026-07-20",
       "url": "https://www.empireofthekop.com/2026/07/20/liverpool-touted-to-potentially-ruin-man-united-transfer-plans-for-25y-o/",
-      "rank": 26
+      "rank": 27
     },
     {
       "headline": "Tributes pour in for Kevin Keegan after death aged 75 - recap",
@@ -297,7 +308,7 @@
       "rank_score": 62.6,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/kevin-keegan-dead-live-updates-34322129",
-      "rank": 27
+      "rank": 28
     },
     {
       "headline": "Kevin Keegan was football's first modern superstar - but most of all he showed us the value of humility",
@@ -308,7 +319,7 @@
       "rank_score": 62.6,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/news/news-opinion/kevin-keegan-footballs-first-modern-34322486",
-      "rank": 28
+      "rank": 29
     },
     {
       "headline": "Liverpool FC's tribute to 'indomitable' Kevin Keegan after he dies aged 75",
@@ -319,17 +330,6 @@
       "rank_score": 62.6,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-fcs-tribute-indomitable-kevin-34322628",
-      "rank": 29
-    },
-    {
-      "headline": "Kevin Keegan dies aged 75",
-      "summary": "The former Liverpool player was battling stage-four cancer",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 75,
-      "rank_score": 62.6,
-      "date": "2026-07-20",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/kevin-keegan-dies-aged-75-34322008",
       "rank": 30
     }
   ],
@@ -340,9 +340,9 @@
         "meta": "LW · PSG",
         "fee": "undisclosed",
         "p": "High",
-        "mentions": 2,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-yan-34324385",
+        "mentions": 3,
+        "source": "Empire of the Kop",
+        "url": "https://www.empireofthekop.com/2026/07/21/contract-formalised-for-80m-transfer-in-major-bradley-barcola-to-liverpool-boost/",
         "date": "2026-07-21",
         "active": true
       },
@@ -354,6 +354,17 @@
         "mentions": 2,
         "source": "Liverpool Echo",
         "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-yan-34324385",
+        "date": "2026-07-21",
+        "active": true
+      },
+      {
+        "who": "Alex Scott",
+        "meta": "CM · Bournemouth · Iraola reunion",
+        "fee": "~£50m",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alex-scott-backed-liverpool-move-34325660",
         "date": "2026-07-21",
         "active": true
       },
@@ -370,14 +381,6 @@
         "meta": "CB · Sporting CP",
         "fee": "~£55m clause",
         "p": "Medium",
-        "mentions": 0,
-        "active": false
-      },
-      {
-        "who": "Alex Scott",
-        "meta": "CM · Bournemouth · Iraola reunion",
-        "fee": "~£50m",
-        "p": "Low",
         "mentions": 0,
         "active": false
       },
@@ -422,29 +425,29 @@
         "active": true
       },
       {
-        "who": "Virgil van Dijk",
-        "meta": "CB · Galatasaray interest",
-        "fee": "low/free",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
-        "date": "2026-07-19",
-        "active": true
-      },
-      {
         "who": "Alexis Mac Allister",
         "meta": "CM · Real/Atlético links",
         "fee": "undisclosed",
-        "p": "Medium",
-        "mentions": 0,
-        "active": false
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/transfer-news/alexis-mac-allisters-dad-responds-34326295",
+        "date": "2026-07-21",
+        "active": true
       },
       {
         "who": "Federico Chiesa",
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
         "mentions": 0,
         "active": false
       },
