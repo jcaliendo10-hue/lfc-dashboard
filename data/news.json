@@ -1,18 +1,7 @@
 {
-  "updated": "21 Jul 2026 06:27 UTC",
+  "updated": "21 Jul 2026 10:26 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "‘Agreed personal terms’ – Fabrizio hints at surprise Liverpool transfer twist on Monday morning",
-      "summary": "PSG and RB Leipzig have yet to strike a deal over the signing of Yan Diomande this summer. DOWNLOAD THE OFFICIAL EMPIRE OF THE KOP APP FOR ALL THE LATEST & BREAKING UPDATES – STRAIGHT TO YOUR PHONE! ON APPLE & GOOGLE PLAY Despite the French",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "relevance": 95,
-      "rank_score": 89.8,
-      "date": "2026-07-20",
-      "url": "https://www.empireofthekop.com/2026/07/20/agreed-personal-terms-fabrizio-hints-at-surprise-liverpool-transfer-twist-on-monday-morning/",
-      "rank": 1
-    },
     {
       "headline": "Dominik Szoboszlai signs Liverpool deal as Aston Villa go for João Gomes",
       "summary": "Contract to 2031 one of his ‘top three’ life momentsLeeds close to signing centre-back MuharemovicDominik Szoboszlai has given Liverpool and their head coach, Andoni Iraola, a significant boost by signing a new contract to 2031. The midfiel",
@@ -22,150 +11,7 @@
       "rank_score": 86.9,
       "date": "2026-07-17",
       "url": "https://www.theguardian.com/football/2026/jul/16/dominik-szoboszlai-agrees-new-liverpool-contract-andoni-iraola-transfer-latest",
-      "rank": 2
-    },
-    {
-      "headline": "Andoni Iraola has already delivered Illia Zabarnyi verdict after Liverpool transfer links - readliverpoolfc.com",
-      "summary": "Andoni Iraola has already delivered Illia Zabarnyi verdict after Liverpool transfer links readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5kZXhJblhjeTZyTXNYOUlsenh6REl0cndZWGM0ZV90R3hmN1c1T2dlUWFlT01DQXBhOVkwM3hUak1QNm91bklNeFBndXM0cC1HXzZCMHBRYWdjQlZhWXJQdUdQV2IxUTMxMTF5dHZGZVVON0ktYldGWjBKNHFkUQ?oc=5",
-      "rank": 3
-    },
-    {
-      "headline": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks - Anfield Watch",
-      "summary": "Liverpool FC News: Fabrizio Romano confirms Mohamed Salah contract deal talks Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 87,
-      "rank_score": 82.2,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSkF4bGpOUmlBeld6VVpSelpqM2JWSXZ3RkJhQTBxTHVwd2FWUFZtZVF6eVdhUVVqb3NaUjhycVg2QWp6MWMwMldQVFBhVmNSaTNBNUNmZ19nZERkZmI0ajRXZEpwa1pDZUd2dUgtREx1RU50aDZXUHJJaXAzSE1DckJKMmQxYkJ1OEhrd3djQXVGWHB4U3JnM0xIMm5fR3Q5djZROGpVMTlZbmlLR3NPTmJiSm1ZcFhKQldRcFZyRFRmT2h5MlBNQjdaTkI?oc=5",
-      "rank": 4
-    },
-    {
-      "headline": "Fabrizio Romano confirms where contract deal puts Dominik Szoboszlai on Liverpool pay scale - Anfield Watch",
-      "summary": "Fabrizio Romano confirms where contract deal puts Dominik Szoboszlai on Liverpool pay scale Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 87,
-      "rank_score": 82.2,
-      "date": "2026-07-17",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNa2JobEw3YWJnZVcwSFVTdWVoM2hJdmRvY0FvMmRZVU5OaTJWdERhWm1NWFltR2w4VW82ZXgtakpBMWlyRkU2LTRvZUFicXd0YXZWSUJqRjUyLTFtbWNoeTN4Y1B2Q2NTY1FXRXFaMUVPWW4tcTFyNUJBdGZaNFBmQkhIRFBDTTFDSWJlSy0zV0gybXJ6MEtmQmxIYml2VnAtQ1lwazR4S0xseUZEdUk4WGJHVUhHcm9reEdJc0E1d3lPdXlGMTQxT2lETkpQY1RJX2xfM1BIc2Q?oc=5",
-      "rank": 5
-    },
-    {
-      "headline": "LFC Women complete signing of Mao Itamura from Feyenoord - Liverpool FC",
-      "summary": "LFC Women complete signing of Mao Itamura from Feyenoord Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTDdJaFlvSVgybjd2VEg5Tm80VGtzcE91dVdPanktYjZ3aVZPLUZzQk5OSl9DQW0yb2ZmUXFMSDI0N29STHduNWljMGM0RFRvdEIydVMwaUo3dEd4b1FMNkttU2U1SFdJZTVkRkgxUVF3NkNFWi1FVVI1RFRGOTV0MW9hWXFpZld00gGQAUFVX3lxTE1VODhMQ0Nzc0h2T0dLWHctWVhUR21KYmYwc2JDV3dfUWZwUmNwYkVUZ0EzYVZjSXQ1Z19NU1JDQXRRUmNfZ3p2NVUzNjFvdkxsc1c2R25vNEh5ODhtM2pYekxOSF8tQUJtcjJCUVVwb1AxeV9zYUpiSEFrcVlUMlpoU2J3NVFQSDZrMnl4Tnhhcw?oc=5",
-      "rank": 6
-    },
-    {
-      "headline": "Three positions Liverpool need to target in the 2026/27 transfer market - readliverpoolfc.com",
-      "summary": "Three positions Liverpool need to target in the 2026/27 transfer market readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVXYyV0RjR2xxY0JMd0V2cGJxNzh3eGQ5T0JaLWtPMzk5Nkw4cWdxMDdBMmMybjhvVjlEaVJBWUhEcV9reGc4VUk1cjhZaHd2S3VuR3pJQUh6ckc5T2ZpZWZLUE1QdjB4WDRUZF9xc2d6b3NYWmZReFcwNzdaX1JheDI4RDZ0cmd5TEZFdjRzUFVDSkxhSTdFVk55Qlg1Vk9qTkFhYkNma3drQ2EwSFRj?oc=5",
-      "rank": 7
-    },
-    {
-      "headline": "Liverpool man omitted from USA pre-season tour as transfer edges closer - readliverpoolfc.com",
-      "summary": "Liverpool man omitted from USA pre-season tour as transfer edges closer readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWMmRCU0RWZ0d5N3JacGlPREhKanFjMlRkcW9VZEx6QUZsaXlEUVFiYWEyVXhmbFdNVnc3LUlxMjlwQ0U2czBuZW9yd3VvVk9udWIyWkRPV3lPalcxdmdmM045ZVdCMENHTXU5WW52UzJUYTAwX0xzdA?oc=5",
-      "rank": 8
-    },
-    {
-      "headline": "Liverpool target arrives for medical as pictures of ‘historic’ transfer emerge - readliverpoolfc.com",
-      "summary": "Liverpool target arrives for medical as pictures of ‘historic’ transfer emerge readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYllGb2FBQjRDZ3pYSnQ1dVJ6cy1pQS1KSlBDRldJd3VGS3dWTXNfSmptSEZwVFk1bURib3Z5cG5OdXFTc2ZmMHpvVEJPTXhCZk83NVhaU09kSmxUQlpGVFdic3ZYQ1hMRU1UdnVHZEdhUmRMbXlTdTBzWDJXNXdiQmZBLWxOaFhr?oc=5",
-      "rank": 9
-    },
-    {
-      "headline": "Liverpool attacker left out of USA pre-season tour after hamstring injury - readliverpoolfc.com",
-      "summary": "Liverpool attacker left out of USA pre-season tour after hamstring injury readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZbmVpZXlOblBhVm1VNHF4ZmFMVjB5Rm5ELXFjMmRxUXJObEdiNXdBUnZ0ZnAxaFFJR0lCN0hkRkVSY1BzUjlsS3Y5WG1samdrSW9yQUR5aWNPcmRJRzh1bWRZXy1xbTlsTE1FaTRBeHd1ejlaSWdHZ3pR?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "Liverpool dealt fresh Bradley Barcola blow as price tag confirmed - readliverpoolfc.com",
-      "summary": "Liverpool dealt fresh Bradley Barcola blow as price tag confirmed readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWlEcDNrZ3h2dFFhemV2OWVUaUNCNnNESXB5QzZTS3pQb3RWRFZmb1lVenRDQlpaY2I0TEM3R05TdWhhT2tNeDFOZlRnWDR2ekJBXy1QWEF6aDF5QUxyb3NKUlV4UzJYZmNMYVBUeUY2aGJDWTg3enBmTk16QjV4Wm0wdGcyNVl5ZjdHbHhJMDMta3JhSFB3ektR?oc=5",
-      "rank": 11
-    },
-    {
-      "headline": "Liverpool’s U.S. tour: What it means to fans Stateside as club look to harness World Cup effect - The Athletic - The New York Times",
-      "summary": "Liverpool’s U.S. tour: What it means to fans Stateside as club look to harness World Cup effect - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOaHlna0dnQ2tRbXl4NVYyRk9WcjhrbUo4RFZhWlhoVTdjeFhOTnhkR1RWbU8wamtnWVBXV1JBRmtkOGVxVFNZQnBHSlFucFVSWXotcW96THJ0VWJrTktTa0Y0WmdfTlZsZmdOTXNZS0kxR0lQWnZ4V3lBME8tZGFEY0JTVkZWeEZybDFXYXdYMUxOd0ZHUEpkMktTNGE4ZFBrcFdLck40S2VMXzJObXQ3X3JvQ1hDNmExU2JkSVI0dVJ0TDh0V0FfemVmWkZIM2FlNHNQalhIMGZhSUY2S0E?oc=5",
-      "rank": 12
-    },
-    {
-      "headline": "‘Worst news’ – Andoni Iraola confirms crushing Liverpool injury blow - readliverpoolfc.com",
-      "summary": "‘Worst news’ – Andoni Iraola confirms crushing Liverpool injury blow readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-07-18",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPMkJmcGQ4bk9qZTM4czhnSF9zODA4ZjE5RGhYS0VCN3VsZjBaemVFMTg1UzVGMTZMeWV6cndlajgyQktDVXlrM1hENENhRGJSenJzZ0JRTllObFRTSjI0X2ZpUERrRjVQaEp3b3RWbDNuLURtNG80dDJzdmhBWGlGNUc2Uk9sdE1YTXdXNjBTS1BmNEx6NE9VTzg5STdkWEVHX0ZTaXotQQ?oc=5",
-      "rank": 13
-    },
-    {
-      "headline": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic - The New York Times",
-      "summary": "Dominik Szoboszlai signs new five-year Liverpool contract - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-07-16",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYko3V0lmdVpVRnd6dkE1NmRHeExiam9rdHNXVUJsQVVNeUxDZmdtVzZJdkw0TFI1NkJ5ajVxbzFaQ0FwWmlzWFpMODJjbklKUEQzUThZU3Bnck52SUNyeWlNbVhUa2tUeklscmdHZ19IZXR1WkVkX1ZXbm9IQkRFNUVGazZQUmIzNkdrYUZfMUNWMnBrdmpvQ2pEVlhBWnJ1bFE?oc=5",
-      "rank": 14
-    },
-    {
-      "headline": "Ornstein reveals Premier League target to replace Mohamed Salah as next Liverpool transfer - readliverpoolfc.com",
-      "summary": "Ornstein reveals Premier League target to replace Mohamed Salah as next Liverpool transfer readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-07-15",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWI0NUItSGl4NVV5dlFRQkZqZGl3dUYyeklteUpkLXI1Mm85Vk85WExycXlyRTJ0c1NWc2dLeVlvdW1JalR0REFyTUxhb0prNURNUFNxRHR0ZDdRZmF0NTFyeXZYdTNpMS1UdFlfRThnZG9sQUNyU0ZnUkR5NDJWQ1BGMTdBZzdtSU5yUXdrVnFiYTB3dC1UcDcyMW5acWJ1QUEtU1dyZHB4RU0wU2NMYldkLWNfMzhHZjVQM0RYcHdBVTRueGVVNg?oc=5",
-      "rank": 15
+      "rank": 1
     },
     {
       "headline": "A pioneer and a superstar, Kevin Keegan’s achievements were extraordinary",
@@ -176,7 +22,7 @@
       "rank_score": 75.6,
       "date": "2026-07-20",
       "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-tribute-pioneer-superstar-liverpool-newcastle-hamburg-england",
-      "rank": 16
+      "rank": 2
     },
     {
       "headline": "Liverpool complete £60m Jacquet deal as Chelsea tie up £47m Palestra move",
@@ -187,7 +33,7 @@
       "rank_score": 75.6,
       "date": "2026-07-01",
       "url": "https://www.theguardian.com/football/2026/jul/01/liverpool-sign-jeremy-jacquet-rennes",
-      "rank": 17
+      "rank": 3
     },
     {
       "headline": "“Held formal talks” – Liverpool target zeroing in on £55m summer transfer",
@@ -198,51 +44,7 @@
       "rank_score": 75.6,
       "date": "2026-07-20",
       "url": "https://www.empireofthekop.com/2026/07/20/held-formal-talks-liverpool-target-zeroing-in-on-55m-summer-transfer/",
-      "rank": 18
-    },
-    {
-      "headline": "Liverpool transfer: Reds 'officially submit bid' for Barcola as Ornstein reveals huge Arsenal update - 'in driver's seat' - Football365",
-      "summary": "Liverpool transfer: Reds 'officially submit bid' for Barcola as Ornstein reveals huge Arsenal update - 'in driver's seat' Football365",
-      "source": "Football365",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-07-21",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSkVYN2tQWTVXMTdIVTFoM04wNkNRWTk2UVYtV0lHVEZzWFhldkZnNlVycVpqR1k2VkZNMV9Jek42QnR0Z21lVVZxckFSQnBRMm1WdnI0RS1mTTdON0VvWVNRamduLXN1R3ZvNlFsazFhbXo2ZzdQWDRKUE02MUw5c2RXUEZZR0l0cHZXdFdhYU1JQTh1TXZzaFRZMnF6TVZxbzZrU0tfMVVZbDBremNIZ3pPWlYyckxjM1E?oc=5",
-      "rank": 19
-    },
-    {
-      "headline": "Liverpool could be set for transfer bombshell after Fabrizio Romano hint - OneFootball",
-      "summary": "Liverpool could be set for transfer bombshell after Fabrizio Romano hint OneFootball",
-      "source": "OneFootball",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQX1pVWGplaHY2d3d4YzRJTll4TWN3cFJmMDJLWHRld3JkX2ZoN0FrMTBaSE5FajljZWhvb3RHVUlCdnlDR2VZcmUxU0o4aDBOcFZGaFJaS25JMXRqZnEzYlN6OFZnSzdfb2I1eVdkT0NiS3ZVV3NtOThxR2JVQmJKTlMxTEdrTG14QXg3V0ZSaDNXQ1FKTEJOTXc4c3h5dlR0TmpsQlFwVDF0a0U2eFNKcGk1TnR2dE4t?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer - MSN",
-      "summary": "Liverpool: Fabrizio Romano reveals truth on Mohamed Salah agreement after Euro giants offer MSN",
-      "source": "MSN",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMirwNBVV95cUxQWFAwcng1NVJUdld6M3dkQjdrWm80dnlzSkIzQS0zZy0wZlRxenpmd0NHRThUWjZqNXluZWNoVUZHZndmUjM0WkVWSzdXZ1RCUmJkV25JWnZMTVVTdzE1c3lJcjZiaGVMX3V3aTZpTERfRmI2THM4NGlUaFZ0UUVVZFFXYzZLZjB5U1h0SE1MbEsxWGRyeWJVaWdadEM3SGY4MksySnZmYjFhdWQ0VG9iN0h4VmN0NUhSMHR4MUgzWlQxRFF5SHFOYlF5dXYwYzBnc3I4QkI1OEhlUWozQWdHTVBxbzEta2V2SW9kbDBPbHhHV1RjT2ZmYkp6ZlJIdGlGc0locVA0VnRGZ1pvLTlLUE5VTy12WDdtUWtMRzl3R01udmotSHJSb1lFQ1FiMlhsVkVVY0Utd1czWkpFVnVtalhOZl94TlFMT1hPSmQyNDRZbWNfTHV5Tk9veW5lU1lTSkNLZGxDT2lGRE9zdXpoLWtlMU9obFBTcmM0WGxWSG5faDQtVjA3a09NWHF6Mm1Tcjk4QXlyWFF3RkRpSXhha25rS0ZKWTNtQjRQYlE5NA?oc=5",
-      "rank": 21
-    },
-    {
-      "headline": "Superb £86m Liverpool swoop boosted by Fabrizio Romano as rival deal collapses - MSN",
-      "summary": "Superb £86m Liverpool swoop boosted by Fabrizio Romano as rival deal collapses MSN",
-      "source": "MSN",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUEU2RUVZMDV3bWtCZjY3U0s1cEFnMTB4dm1kMFFVOUJYR3ZBN29fRE1ZaXJEQ0wtUVhJYmxHUy1HSGU2ZlotcW5mUUVkaURDNDRkRGk4RWxhM3VGRDZaak5UTjVmTVdnTXU2dy1uVER0aG9jWnVuNjdYb0ZnTGR6cUF6bHF4Q09xSWNndmlyRU93UUVHQjJtRWUtUmxMcVRMNFVTMm9RX1Q3MkR5SHFMZXA3QnFJb003ckg1a3VwUkl0bUwtYXFnSzczaw?oc=5",
-      "rank": 22
+      "rank": 4
     },
     {
       "headline": "Premier League rule means Liverpool can only make one more specific signing",
@@ -253,7 +55,7 @@
       "rank_score": 75.2,
       "date": "2026-07-21",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-window-home-grown-34319605",
-      "rank": 23
+      "rank": 5
     },
     {
       "headline": "Liverpool latest: Transfer green light received for PSG star as next signing nears completion",
@@ -264,7 +66,7 @@
       "rank_score": 75.2,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-summer-transfer-signings-psg-34316471",
-      "rank": 24
+      "rank": 6
     },
     {
       "headline": "Liverpool transfer problem exposed by Chelsea as FSG change considered",
@@ -275,7 +77,7 @@
       "rank_score": 75.2,
       "date": "2026-07-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-problem-exposed-chelsea-34315878",
-      "rank": 25
+      "rank": 7
     },
     {
       "headline": "Dominik Szoboszlai backed for big Liverpool role as Andoni Iraola set to make crucial decision",
@@ -286,7 +88,7 @@
       "rank_score": 75.2,
       "date": "2026-07-19",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
-      "rank": 26
+      "rank": 8
     },
     {
       "headline": "Liverpool FC",
@@ -297,39 +99,237 @@
       "rank_score": 75.0,
       "date": "2026-07-20",
       "url": "https://www.bbc.co.uk/sounds/play/p0nzx2v4?at_medium=RSS&at_campaign=rss",
+      "rank": 9
+    },
+    {
+      "headline": "Liverpool transfer news LIVE: Yan Diomande U-turn, Bradley Barcola latest, Ferran Torres pursuit",
+      "summary": "All the latest Liverpool transfer news and gossip at it happens",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 85,
+      "rank_score": 71.0,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-yan-34324385",
+      "rank": 10
+    },
+    {
+      "headline": "Liverpool close on two more deals as transfer business intensifies",
+      "summary": "Liverpool are continuing to assess their Academy options for the season with a number of loan moves and permanent departures",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 85,
+      "rank_score": 71.0,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-close-two-more-deals-34324914",
+      "rank": 11
+    },
+    {
+      "headline": "Liverpool transfer news: Rayan move, Bradley Barcola latest, deal agreed for Bayern target",
+      "summary": "All the latest Liverpool transfer news and gossip at it happens",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 85,
+      "rank_score": 71.0,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-34317750",
+      "rank": 12
+    },
+    {
+      "headline": "Liverpool latest: Club release new arrival statement and Yan Diomande transfer 'update' emerges",
+      "summary": "Today's Liverpool news centres around RB Leipzig winger Yan Diomande while the Reds release statement",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 85,
+      "rank_score": 71.0,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-yan-diomande-psg-34322089",
+      "rank": 13
+    },
+    {
+      "headline": "Liverpool told they can replace midfielder with Adam Wharton as ideal winger identified",
+      "summary": "Former Liverpool striker Emile Heskey had some words of advice for his old club in the transfer market",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 85,
+      "rank_score": 71.0,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-told-can-replace-midfielder-34318506",
+      "rank": 14
+    },
+    {
+      "headline": "Liverpool World Cup player ratings as Cody Gakpo change clear and £250m duo pose questions",
+      "summary": "There were eight Liverpool players at the World Cup and here the ECHO runs the rule over their performances in the tournament",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 85,
+      "rank_score": 71.0,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-player-ratings-cody-gakpo-34318331",
+      "rank": 15
+    },
+    {
+      "headline": "Kevin Keegan obituary",
+      "summary": "One of football’s greats who played for Liverpool, Newcastle and England, later going on to manage the national sideThe apotheosis of Kevin Keegan, who has died aged 75 of cancer, came in the minutes after his final appearance as a professi",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 75,
+      "rank_score": 70.9,
+      "date": "2026-07-20",
+      "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-obituary",
+      "rank": 16
+    },
+    {
+      "headline": "Kevin Keegan, Liverpool legend and former Newcastle manager, dies aged 75",
+      "summary": "Keegan revealed in June 2026 he had stage four cancerStarred for Liverpool, Hamburg, Newcastle and EnglandKevin Keegan, the former England and Newcastle manager who was twice named European Footballer of the Year, has died aged 75. As a pla",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 75,
+      "rank_score": 70.9,
+      "date": "2026-07-20",
+      "url": "https://www.theguardian.com/football/2026/jul/20/kevin-keegan-liverpool-legend-and-former-newcastle-manager-dies-aged-75",
+      "rank": 17
+    },
+    {
+      "headline": "‘I need to prove I belong here’: Andoni Iraola stays humble in new Liverpool era",
+      "summary": "Head coach has no illusions as to the scale of the task and wants to start by reconnecting the team and supportersIt was Andoni Iraola’s humility that made the biggest impression at his unveiling as Liverpool’s new head coach on Monday. Wit",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 71,
+      "rank_score": 67.1,
+      "date": "2026-07-13",
+      "url": "https://www.theguardian.com/football/2026/jul/13/andoni-iraola-liverpool-manager-michael-edwards-transfers-richard-hughes",
+      "rank": 18
+    },
+    {
+      "headline": "Liverpool midfielder sent transfer message as Man United comparison made - 'we had no idea'",
+      "summary": "Liverpool midfielder Curtis Jones has been a transfer target for a number of clubs this summer",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfielder-sent-transfer-message-34319700",
+      "rank": 19
+    },
+    {
+      "headline": "Andoni Iraola is about to discover what every Liverpool boss learns",
+      "summary": "Paul Gorst previews Liverpool's two-week tour of America, where Andoni Iraola is about to discover the true size of the club he now manages",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-discover-what-every-34323930",
+      "rank": 20
+    },
+    {
+      "headline": "How Kevin Keegan became Liverpool's first modern superstar and the ultimate self-made great",
+      "summary": "Anfield legend Kevin Keegan has died at the age of 75. Our Chief Liverpool FC Correspondent Ian Doyle looks back on a life and career of a Reds great",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-21",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/how-kevin-keegan-became-liverpools-34322145",
+      "rank": 21
+    },
+    {
+      "headline": "Victor Munoz gives Liverpool exactly what Andoni Iraola wants after World Cup triumph",
+      "summary": "Victor Munoz didn't play a minute for Spain as he recovered from an injury but leaves with a World Cup winner's medal and valuable experience",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/victor-munoz-gives-liverpool-exactly-34320788",
+      "rank": 22
+    },
+    {
+      "headline": "Liverpool youngster close to completing loan transfer to Austria",
+      "summary": "Liverpool goalkeeper Armin Pecsi is poised to agree a season-long loan move to Austria",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-youngster-close-completing-loan-34320497",
+      "rank": 23
+    },
+    {
+      "headline": "Liverpool confirm new appointment as goalkeeper coach arrives",
+      "summary": "Liverpool have continued to bolster Andoni Iraola's coaching staff with another appointment",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-confirm-new-appointment-goalkeeper-34320761",
+      "rank": 24
+    },
+    {
+      "headline": "Six Liverpool players face defining period as Andoni Iraola prepares for big reveal",
+      "summary": "Liverpool are ready to fly out to the United States to begin their three-game tour under new head coach Andoni Iraola",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 80,
+      "rank_score": 66.8,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/six-liverpool-players-face-defining-34315776",
+      "rank": 25
+    },
+    {
+      "headline": "‘There has been talk…’ – Liverpool touted to potentially ruin Man Utd’s transfer plans for 25y/o",
+      "summary": "One transfer insider has claimed that Liverpool could potentially scupper Manchester United’s plans to bring in a midfielder who impressed at the World Cup. When the Merseysiders were going through a major overhaul of their midfield options",
+      "source": "Empire of the Kop",
+      "credibility": 5,
+      "relevance": 90,
+      "rank_score": 65.3,
+      "date": "2026-07-20",
+      "url": "https://www.empireofthekop.com/2026/07/20/liverpool-touted-to-potentially-ruin-man-united-transfer-plans-for-25y-o/",
+      "rank": 26
+    },
+    {
+      "headline": "Tributes pour in for Kevin Keegan after death aged 75 - recap",
+      "summary": "The former Liverpool player, nicknamed King Kev, died following a battle with cancer",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 75,
+      "rank_score": 62.6,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/kevin-keegan-dead-live-updates-34322129",
       "rank": 27
     },
     {
-      "headline": "Trey Nyoni interview: 'Pre-season tour is an opportunity - I want to show what I can do' - Liverpool FC",
-      "summary": "Trey Nyoni interview: 'Pre-season tour is an opportunity - I want to show what I can do' Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
+      "headline": "Kevin Keegan was football's first modern superstar - but most of all he showed us the value of humility",
+      "summary": "As the football world mourns the death of the Liverpool legend, many could learn from his approach to life",
+      "source": "Liverpool Echo",
+      "credibility": 7,
       "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-07-19",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQT2RkUHF5eWpyRjloaHgzbjAzUk1GWG56Y3BaMWlDeXNJazZJYm1xUk1rYzkwUmtOaUZkOWtfWTZoTjlHVWV5RWd4Mm5yLTlkWjM4NWJ0djRaVnFYdHAtbjJNbmhEV1VDVHpLQjJyTThRLTJjMUItaUNpUXNYT0g1T3JPVUtjd3dpWG9lX3MxdUZyVnZqb3RvQTNPUHVzWVlJeWhFNVUtUEM2WlnSAbMBQVVfeXFMTlZlb1lzUG9yemFkRDhsNXFxNmFianR5MDRsR1BrRW1RS3A5YnRKZm05VmhhelFJVS1mYW1QVGUxUFJDci1kU2JPb1NDMDdnZTlDLTBBWmI1SmV2TU0wUm1GbzVyTzNLXzluS1dVaEVpbklXQ3Z4LVJldHdaak5CN05DeG9SbWJQY2RzdmxnTWN4Y1dkR250VnNUTTFlUVVINjd4X29hSkszbk9IcHJoUkRLR2M?oc=5",
+      "rank_score": 62.6,
+      "date": "2026-07-20",
+      "url": "https://www.liverpoolecho.co.uk/news/news-opinion/kevin-keegan-footballs-first-modern-34322486",
       "rank": 28
     },
     {
-      "headline": "Liverpool confirm new goalkeeping coach - Liverpool FC",
-      "summary": "Liverpool confirm new goalkeeping coach Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
+      "headline": "Liverpool FC's tribute to 'indomitable' Kevin Keegan after he dies aged 75",
+      "summary": "The Liverpool legend made 230 appearances for the club",
+      "source": "Liverpool Echo",
+      "credibility": 7,
       "relevance": 75,
-      "rank_score": 75.0,
+      "rank_score": 62.6,
       "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE11X01RQzQ3MjlBa1NlUVV5bzRyS1MzZ0IzNEFsdUE2anJkMEtjWm80ZkxOUHZ6djR0SXBlOVNCejI5NnFZMW9aTjBvZ1pGYm1lNG9KdUZlalRvc0Y1TVJZR1dFekdTY1RBSGRzcXFBdkczVWJUNHpvSEJPWjjSAYQBQVVfeXFMTlZTalFJRGNTaExyb2JfRy1wSklGVVNhSGhpLTlnZWg1dDFiZjBwczY5VTdmaVVIZlI0RXRzZU03TXQ5RmJjdTktM2pDWGM1c3NFSHIzRzkyYmdyYjJTNDRhcWxBelk0TEhlMFR1WkF5NGZpM0p6a01lVTJoM3N5djBDbWVM?oc=5",
+      "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-fcs-tribute-indomitable-kevin-34322628",
       "rank": 29
     },
     {
-      "headline": "Alejandro Rosalen, First-team goalkeeping coach - Liverpool FC",
-      "summary": "Alejandro Rosalen, First-team goalkeeping coach Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
+      "headline": "Kevin Keegan dies aged 75",
+      "summary": "The former Liverpool player was battling stage-four cancer",
+      "source": "Liverpool Echo",
+      "credibility": 7,
       "relevance": 75,
-      "rank_score": 75.0,
+      "rank_score": 62.6,
       "date": "2026-07-20",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBOdmd3SEJtbWU4LU1CTVljSm9nQXRCdzdsWllQcGEzbXB3THpkQ2lOckJxNGUyMzkta0ZKaEpXbjVlVFE2RlczVjZwRUpTUmJpSTlVRXE5RklzVVFJb2FmekIxYkx6bkhpTG5ONnl3?oc=5",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/kevin-keegan-dies-aged-75-34322008",
       "rank": 30
     }
   ],
@@ -341,20 +341,20 @@
         "fee": "undisclosed",
         "p": "High",
         "mentions": 2,
-        "source": "readliverpoolfc.com",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOOWlEcDNrZ3h2dFFhemV2OWVUaUNCNnNESXB5QzZTS3pQb3RWRFZmb1lVenRDQlpaY2I0TEM3R05TdWhhT2tNeDFOZlRnWDR2ekJBXy1QWEF6aDF5QUxyb3NKUlV4UzJYZmNMYVBUeUY2aGJDWTg3enBmTk16QjV4Wm0wdGcyNVl5ZjdHbHhJMDMta3JhSFB3ektR?oc=5",
-        "date": "2026-07-20",
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-yan-34324385",
+        "date": "2026-07-21",
         "active": true
       },
       {
         "who": "Yan Diomande",
         "meta": "RW · RB Leipzig · 19",
         "fee": "~€130m",
-        "p": "High",
-        "mentions": 1,
-        "source": "Empire of the Kop",
-        "url": "https://www.empireofthekop.com/2026/07/20/agreed-personal-terms-fabrizio-hints-at-surprise-liverpool-transfer-twist-on-monday-morning/",
-        "date": "2026-07-20",
+        "p": "Low",
+        "mentions": 2,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-transfer-news-live-yan-34324385",
+        "date": "2026-07-21",
         "active": true
       },
       {
@@ -396,22 +396,31 @@
         "p": "Low",
         "mentions": 0,
         "active": false
-      },
-      {
-        "who": "Mohamed Salah",
-        "meta": "Emerging link · 6 reports across 3 outlets",
-        "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 6,
-        "outlets": 3,
-        "source": "readliverpoolfc.com",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMWI0NUItSGl4NVV5dlFRQkZqZGl3dUYyeklteUpkLXI1Mm85Vk85WExycXlyRTJ0c1NWc2dLeVlvdW1JalR0REFyTUxhb0prNURNUFNxRHR0ZDdRZmF0NTFyeXZYdTNpMS1UdFlfRThnZG9sQUNyU0ZnUkR5NDJWQ1BGMTdBZzdtSU5yUXdrVnFiYTB3dC1UcDcyMW5acWJ1QUEtU1dyZHB4RU0wU2NMYldkLWNfMzhHZjVQM0RYcHdBVTRueGVVNg?oc=5",
-        "date": "2026-07-15",
-        "active": true,
-        "discovered": true
       }
     ],
     "out": [
+      {
+        "who": "Cody Gakpo",
+        "meta": "LW · Tottenham interest",
+        "fee": "€45–85m",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-player-ratings-cody-gakpo-34318331",
+        "date": "2026-07-20",
+        "active": true
+      },
+      {
+        "who": "Curtis Jones",
+        "meta": "CM · Inter Milan",
+        "fee": "~£35m",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-midfielder-sent-transfer-message-34319700",
+        "date": "2026-07-21",
+        "active": true
+      },
       {
         "who": "Virgil van Dijk",
         "meta": "CB · Galatasaray interest",
@@ -422,22 +431,6 @@
         "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-backed-big-liverpool-34316213",
         "date": "2026-07-19",
         "active": true
-      },
-      {
-        "who": "Cody Gakpo",
-        "meta": "LW · Tottenham interest",
-        "fee": "€45–85m",
-        "p": "High",
-        "mentions": 0,
-        "active": false
-      },
-      {
-        "who": "Curtis Jones",
-        "meta": "CM · Inter Milan",
-        "fee": "~£35m",
-        "p": "Medium",
-        "mentions": 0,
-        "active": false
       },
       {
         "who": "Alexis Mac Allister",
