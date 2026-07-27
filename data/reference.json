@@ -1,7 +1,7 @@
 {
   "meta": {
     "season": "2025/26 review & Summer 2026 window",
-    "as_of": "22 Jul 2026",
+    "as_of": "27 Jul 2026",
     "head_coach": "Andoni Iraola",
     "system": "4-2-3-1 · high hybrid press · vertical, transition-heavy",
     "league_finish": "5th",
@@ -28,7 +28,7 @@
 
     {"num": 4, "name": "Virgil van Dijk (c)", "posGroup": "DEF", "slot": "CB", "slots": ["CB"], "depth": 1, "age": 34, "nat": "NED", "contract": 2027, "fit": "Excellent", "fitNote": "Perfect as the line-breaking ball-playing CB ('Senesi role'); the only question is sustaining pace behind a very high line at 34.", "blurb": "Captain and defensive leader; reads the game, starts attacks with raking passes.", "outlook": "Remains the on-pitch leader; managing his minutes and the high line are the season's balancing act.", "stats": {"Appearances": 51, "Goals": 6, "Assists": 2}, "injury": null, "wc": {"team": "Netherlands", "at": false, "note": "Netherlands OUT — beaten by Morocco on penalties (1-1) in the Round of 32; Van Dijk captained throughout. Tournament over."}, "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p97032.png"},
     {"num": 99, "name": "Jérémy Jacquet", "posGroup": "DEF", "slot": "CB", "slots": ["CB"], "depth": 2, "age": 20, "nat": "FRA", "contract": 2031, "fit": "Good", "fitNote": "Athletic, front-foot CB who can also cover RB — suits the aggressive stepping the system asks of defenders.", "blurb": "New £55m centre-back from Rennes; quick, aggressive and comfortable defending space.", "outlook": "Arrives as a long-term CB; back in full training after shoulder surgery and could push Gomez for the No.2 CB spot.", "injury": null, "wc": null, "new": true, "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Jacquet_asse_srfc_2425.png"},
-    {"num": 2, "name": "Joe Gomez", "posGroup": "DEF", "slot": "CB", "slots": ["CB", "RB", "LB"], "depth": 3, "age": 29, "nat": "ENG", "contract": 2027, "fit": "Average", "fitNote": "Genuinely versatile (CB, RB, even LB) and athletic, but his injury record makes him valuable depth rather than a system cornerstone.", "blurb": "Versatile defender who covers all across the back line; pace is his asset.", "outlook": "Squad utility piece across the back four — value depends on staying fit.", "injury": null, "wc": {"team": "England", "at": false, "note": "Not selected"}, "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171287.png"},
+    {"num": 2, "name": "Joe Gomez", "posGroup": "DEF", "slot": "CB", "slots": ["CB", "RB", "LB"], "depth": 3, "age": 29, "nat": "ENG", "contract": 2027, "fit": "Average", "fitNote": "Genuinely versatile (CB, RB, even LB) and athletic, but his injury record makes him valuable depth rather than a system cornerstone.", "blurb": "Versatile defender who covers all across the back line; pace is his asset.", "outlook": "Squad utility piece across the back four — value depends on staying fit.", "injury": "Muscle injury (v Sunderland, 25 Jul 2026) — went off after 8 mins; Iraola called it the 'worst news', awaiting scan results in Chicago", "wc": {"team": "England", "at": false, "note": "Not selected"}, "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p171287.png"},
     {"num": 15, "name": "Giovanni Leoni", "posGroup": "DEF", "slot": "CB", "slots": ["CB", "RB"], "depth": 4, "age": 19, "nat": "ITA", "contract": 2031, "fit": "Average", "fitNote": "Composed, progressive young CB who can cover right-back; profile fits but he is unproven at this intensity.", "blurb": "Highly rated teenage centre-back signed from Parma; ball-playing defender.", "outlook": "Development depth; minutes in cups or a loan likely once fit.", "injury": "ACL rupture (right knee, surgery Oct 2025) — late-stage rehab, back in outdoor work at the AXA and nearing a return", "wc": null, "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p647681.png"},
     {"num": 30, "name": "Jeremie Frimpong", "posGroup": "DEF", "slot": "RB", "slots": ["RB", "RW"], "depth": 1, "age": 25, "nat": "NED", "contract": 2030, "fit": "Good", "fitNote": "Best as an attacking RB but can play RW; blistering pace and run-timing are tailor-made for the role, with balance/injury the caveat.", "blurb": "Flying right-back/wing-back; relentless overlaps and runs in behind.", "outlook": "First-choice attacking RB; his pace is central to Iraola's wide overloads if he stays fit.", "injury": null, "wc": {"team": "Netherlands", "at": false, "note": "Left out of NED squad (injury record)"}, "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p216094.png"},
     {"num": 12, "name": "Conor Bradley", "posGroup": "DEF", "slot": "RB", "slots": ["RB"], "depth": 2, "age": 22, "nat": "NIR", "contract": 2029, "fit": "Good", "fitNote": "More defensively sound RB (can fill in at LB); high work-rate and pace fit the press and give balance when Frimpong flies forward.", "blurb": "Energetic two-way full-back; defensively reliable with a good engine.", "outlook": "Rotates with Frimpong and offers a more balanced option; fitness after a knee issue is the watch.", "injury": "Knee (Jan 2026) — recovery monitored into pre-season", "wc": {"team": "N. Ireland", "at": false, "note": "Did not qualify"}, "photo": "https://resources.premierleague.com/premierleague/photos/players/250x250/p492777.png"},
@@ -95,14 +95,15 @@
     ]
   },
   "injuries": [
-    {"player": "Hugo Ekitiké", "issue": "Ruptured Achilles (surgery)", "status": "Long-term — travelling on the USA tour to continue rehab but won't feature; reportedly hopeful of playing again by the end of 2026", "severity": "Severe"},
-    {"player": "Stefan Bajcetic", "issue": "Recurring muscular setbacks", "status": "Reported for preparatory work at the AXA but set to miss the start of pre-season; not yet cleared for team training", "severity": "Ongoing"},
-    {"player": "Conor Bradley", "issue": "Knee (sustained vs Arsenal, 8 Jan 2026)", "status": "Travelling on the USA tour to continue rehab but won't feature in the tour games; targeting a return around the start of the campaign", "severity": "Moderate"},
-    {"player": "Wataru Endo", "issue": "Left ankle/foot ligament injury (Feb 2026 surgery, aggravated in May)", "status": "Out of action; withdrew from Japan's World Cup squad and retired internationally (11 Jun)", "severity": "Ongoing"},
-    {"player": "Jérémy Jacquet", "issue": "Shoulder surgery (Mar 2026)", "status": "Deal official (joined 1 Jul); back in team training and fit for pre-season", "severity": "Resolved"},
-    {"player": "Giovanni Leoni", "issue": "ACL rupture (right knee, surgery Oct 2025)", "status": "Late-stage rehab — resumed running at the AXA and reckoned the closest of the injured group to returning; travelling on the USA tour but not yet available", "severity": "Recovering"},
+    {"player": "Joe Gomez", "issue": "Muscle injury (sustained v Sunderland, 25 Jul 2026)", "status": "Went off after 8 minutes on the USA tour; Iraola called it the 'worst news' and Gomez returned to the club's Chicago base for scans to determine the extent — 8th player on the treatment table", "severity": "Moderate"},
+    {"player": "Hugo Ekitiké", "issue": "Ruptured Achilles (surgery, Apr 2026)", "status": "Long-term — travelled on the USA tour to continue rehab but reported 'way off' a return (ESPN); won't feature vs Sunderland, Wrexham or Leeds", "severity": "Severe"},
+    {"player": "Stefan Bajcetic", "issue": "Recurring muscular setbacks (hamstring)", "status": "Returned to team training in late July after more than a year out; being carefully managed on the USA tour", "severity": "Recovering"},
+    {"player": "Conor Bradley", "issue": "Knee (surgery; sustained vs Arsenal, 8 Jan 2026)", "status": "Travelling on the USA tour to continue rehab but reported 'way off' a return (ESPN); won't feature vs Sunderland, Wrexham or Leeds", "severity": "Moderate"},
+    {"player": "Wataru Endo", "issue": "Left ankle/foot ligament injury (Feb 2026 surgery, aggravated in May)", "status": "Expected to build up during the USA tour; withdrew from Japan's World Cup squad and retired internationally (11 Jun)", "severity": "Ongoing"},
+    {"player": "Jérémy Jacquet", "issue": "Shoulder surgery (Mar 2026)", "status": "Back in ball work/small-sided games with the U21s after four months out; set to miss Wrexham but expected to feature in the final USA tour game vs Leeds", "severity": "Recovering"},
+    {"player": "Giovanni Leoni", "issue": "ACL rupture (right knee, surgery Oct 2025)", "status": "Late-stage rehab — resumed running and reckoned the closest of the injured group to returning; travelling on the USA tour but won't feature vs Sunderland, Wrexham or Leeds", "severity": "Recovering"},
     {"player": "Jayden Danns", "issue": "Hamstring (torn Sep 2025, recurrence Mar 2026)", "status": "Left out of the USA pre-season tour squad after a fresh hamstring injury blow; missed the start of pre-season", "severity": "Recovering"},
-    {"player": "Alexander Isak", "issue": "Ankle/fibula fracture (Dec 2025)", "status": "Recovered — back training and played at the World Cup", "severity": "Resolved"}
+    {"player": "Alexander Isak", "issue": "Ankle/fibula fracture (Dec 2025)", "status": "Recovered — played at the World Cup and back in Liverpool pre-season training", "severity": "Resolved"}
   ],
   "worldcup": {
     "status": "TOURNAMENT OVER — Spain are 2026 World Cup champions, beating Argentina 1-0 after extra time in the final (19 Jul, New York/New Jersey; Ferran Torres 106'). Argentina had stunned England 2-1 in the semi (15 Jul) with Alexis Mac Allister outstanding — the last Liverpool man standing, ending as a runner-up. Spain had beaten France 2-0 in the other semi. Netherlands (Van Dijk, Gakpo, Gravenberch) and Sweden (Isak) fell in the Round of 32 and Germany (Wirtz) went out early.",
@@ -135,7 +136,7 @@
       {"who": "Darwin Núñez", "meta": "ST · Al-Hilal · return talk", "fee": "~£25m", "p": "Low", "blurb": "Former Liverpool striker now at Al-Hilal, linked with an Anfield return; explosive pace and movement, with finishing consistency the long-standing question.", "photo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg/330px-Darwin_N%C3%BA%C3%B1ez_%28cropped%29.jpg", "posGroup": "FWD", "slot": "ST", "slots": ["ST", "LW"], "age": 26, "nat": "URU", "fit": "Average", "stats": {"Appearances": 16, "Goals": 6, "Assists": 4, "Shots on target": 23}, "fitNote": "Relentless runner who stretches a high line and presses hard — suited to the transition game — but his finishing inconsistency is the question mark for a first-choice No.9.", "outlook": "A speculative reunion; his pace fits the system, though a return would be a gamble on end product.", "target": true, "wc": {"team": "Uruguay", "at": false, "note": "Uruguay are out — did not reach the semi-finals. Tournament over."}}
     ],
     "rumOut": [
-      {"who": "Cody Gakpo", "meta": "LW · Tottenham keen; LFC not sanctioning exit", "fee": "~£60m+", "p": "Medium", "blurb": "Tottenham remain keen, but Liverpool are not opening the door and are planning for next season with Gakpo in Iraola's squad."},
+      {"who": "Cody Gakpo", "meta": "LW · Tottenham keen; LFC won't sanction exit", "fee": "~£60m+", "p": "Low", "blurb": "Tottenham remain keen, but Fabrizio Romano reports the 'door remains closed' — Liverpool are planning for 2026/27 with Gakpo in Iraola's squad as they focus incomings on the wide areas."},
       {"who": "Curtis Jones", "meta": "CM · Inter Milan · multiple bids rejected", "fee": "LFC want ~£40m", "p": "Medium", "blurb": "Inter Milan have had bids worth roughly £17.3m, £21.7m and €35m all rejected and are weighing another; Liverpool value Jones around £40m and Iraola has said he wants to keep him 'not only for this year', so a deal isn't close."},
       {"who": "Virgil van Dijk", "meta": "CB · Galatasaray interest; LFC won't sell", "fee": "low/free", "p": "Low", "blurb": "Galatasaray interest reported, but Liverpool have no intention of selling their captain."},
       {"who": "Rio Ngumoha", "meta": "RW · Bayern keen on the teenager", "fee": "undisclosed", "p": "Low", "blurb": "Bayern admire the teenager; Liverpool resisting."},
@@ -168,15 +169,14 @@
     "note": "Projection built from public revenue figures, reported bids and likely outgoings. Not an official club budget."
   },
   "results": [
-    {"comp": "PL", "opp": "Everton (A)", "score": "2–1", "r": "W"},
     {"comp": "PL", "opp": "Crystal Palace (H)", "score": "3–1", "r": "W"},
     {"comp": "PL", "opp": "Man United (A)", "score": "2–3", "r": "L"},
     {"comp": "PL", "opp": "Chelsea (H)", "score": "1–1", "r": "D"},
     {"comp": "PL", "opp": "Aston Villa (A)", "score": "2–4", "r": "L"},
-    {"comp": "PL", "opp": "Brentford (H)", "score": "1–1", "r": "D"}
+    {"comp": "PL", "opp": "Brentford (H)", "score": "1–1", "r": "D"},
+    {"comp": "PSF", "opp": "Sunderland (N) — Nashville", "score": "4–2", "r": "W"}
   ],
   "fixtures": [
-    {"date": "25 Jul 2026", "opp": "vs Sunderland — Nashville (pre-season)"},
     {"date": "29 Jul 2026", "opp": "vs Wrexham — New York (pre-season)"},
     {"date": "2 Aug 2026", "opp": "vs Leeds United — Chicago (pre-season)"},
     {"date": "9 Aug 2026", "opp": "vs AS Monaco (H) — pre-season"},
