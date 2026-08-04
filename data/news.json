@@ -1,5 +1,5 @@
 {
-  "updated": "04 Aug 2026 02:29 UTC",
+  "updated": "04 Aug 2026 06:27 UTC",
   "count": 30,
   "items": [
     {
@@ -135,9 +135,9 @@
       "rank": 12
     },
     {
-      "headline": "Andoni Iraola press conference: Liverpool boss on Wirtz, wingers and Isak - bbc.com",
-      "summary": "Andoni Iraola press conference: Liverpool boss on Wirtz, wingers and Isak bbc.com",
-      "source": "bbc.com",
+      "headline": "Andoni Iraola press conference: Liverpool boss on Wirtz, wingers and Isak - BBC",
+      "summary": "Andoni Iraola press conference: Liverpool boss on Wirtz, wingers and Isak BBC",
+      "source": "BBC",
       "credibility": 10,
       "relevance": 82,
       "rank_score": 82.0,
@@ -289,17 +289,6 @@
       "rank": 26
     },
     {
-      "headline": "Florian Wirtz confirms Andoni Iraola talks over Liverpool role as feelings made clear on last season",
-      "summary": "Florian Wirtz, along with Ryan Gravenberch and Alexander Isak, are all set to feature in Liverpool's friendly against Leeds United in Chicago tonight",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 95,
-      "rank_score": 79.3,
-      "date": "2026-08-02",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/florian-wirtz-andoni-iraola-liverpool-34391634",
-      "rank": 27
-    },
-    {
       "headline": "Faster, faster: Iraola in a rush to plug Liverpool gaps before Premier League starts",
       "summary": "New head coach needs to use the transfer market with defensive cover vital as injuries hamper US pre-season tour“Faster, faster,” bellowed Andoni Iraola throughout the open training session Liverpool held in Chicago on Friday. His first pre",
       "source": "The Guardian",
@@ -308,7 +297,7 @@
       "rank_score": 77.5,
       "date": "2026-08-01",
       "url": "https://www.theguardian.com/football/2026/aug/01/liverpool-premier-league-andoni-iraola-leeds",
-      "rank": 28
+      "rank": 27
     },
     {
       "headline": "Inter make new approach to Liverpool for Curtis Jones with £30m offer likely",
@@ -319,7 +308,7 @@
       "rank_score": 77.5,
       "date": "2026-07-31",
       "url": "https://www.theguardian.com/football/2026/jul/31/inter-liverpool-curtis-jones-football-transfer-window",
-      "rank": 29
+      "rank": 28
     },
     {
       "headline": "Andoni Iraola reveals return dates for Victor Munoz, Alisson Becker and Alexis Mac Allister - Liverpool FC",
@@ -330,6 +319,17 @@
       "rank_score": 77.0,
       "date": "2026-08-01",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLVF4X1lvWkxMZWhPdjhscGFRNWgtNzl0bVlqY1lBaDV5eHowRUs0a2pFbDdvVXlTbUwtM2h3anJxYl9rQ0NXcDRtQk9aMG1tRUQtTnpDTjRhbnBBSVdBejdNYU5KOG82R3RwNlAwYXFWRW91SktxNUF5Z09NcGdISnR3a01IY2FqZzBYRGM4amVJUllObkMzV0d0UWhjTjVzTy1pM2VGeDlTUFJBdjl2R1Q1REFqVm9mbU1J0gHDAUFVX3lxTE9qblFyYXNfcXRmdFBzSGdfRTdHaDVPR1M4djd1VTNZZWRBR1NTV1lPT0UxWnFPcFZNSFF4SU83N0pNX21JWHI5MlBjTnRQRW0tM1pNd3E0OEprcE1SSlFFOFZhSHRmT3RKamluSHVZZ0d6a3lTLTFkUS00MzY2Vzg0NFNsMW50MDRWc3VpbVFNc2ZPVWNTdEtMaDg2ZThrcnpEdE5OOFNVUTlJemdaTkV3b3VnR3U5V1BOMnFrTHBTMTZkNA?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Liverpool prepare opening offer for Paris Saint-Germain’s Bradley Barcola",
+      "summary": "23-year-old open to Premier League movePSG value Barcola in the region of £145mLiverpool are preparing an opening offer for Bradley Barcola after talks with the Paris Saint-Germain forward’s representatives.Barcola is a leading target for L",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 81,
+      "rank_score": 76.5,
+      "date": "2026-07-29",
+      "url": "https://www.theguardian.com/football/2026/jul/29/liverpool-prepare-opening-offer-for-paris-saint-germains-bradley-barcola",
       "rank": 30
     }
   ],
@@ -339,8 +339,8 @@
         "who": "Bradley Barcola",
         "meta": "LW · PSG",
         "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 2,
+        "p": "Medium",
+        "mentions": 3,
         "source": "readliverpoolfc.com",
         "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQNWlQem5BcFdJUXBtamZSRThxemlJYjVScUdxLXZoMDY3eEd1ZVVuUXVhRU9GVDhYVE13MWdtd21GYnZqOUJhbjYwMDNLdlQ4TjdENzhCSnJaSU5aVkJFVjI0ZVYtTWYtUm5vSTJZWEtySHcya1VKVDZEUE90QkIxaFhfdlJtNXBoY3lmMEJmblRuQ1BXLW9vbng1cHlVSl9kUW5lVk5GMlNRSjRZUWx0N3V6MnVsN1UtaWtlMlExV1VrNTFUYzZ1MUN6cUc?oc=5",
         "date": "2026-08-03",
@@ -460,6 +460,18 @@
         "p": "Low",
         "mentions": 0,
         "active": false
+      },
+      {
+        "who": "Conor Bradley",
+        "meta": "Exit link · auto-detected from news",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 1,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/jul/29/liverpool-prepare-opening-offer-for-paris-saint-germains-bradley-barcola",
+        "date": "2026-07-29",
+        "active": true,
+        "discovered": true
       }
     ]
   }
