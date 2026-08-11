@@ -1,5 +1,5 @@
 {
-  "updated": "11 Aug 2026 13:03 UTC",
+  "updated": "11 Aug 2026 16:56 UTC",
   "count": 30,
   "items": [
     {
@@ -21,7 +21,7 @@
       "relevance": 90,
       "rank_score": 90.0,
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5LUHgta3RpUWFwZ1BOd00yRjJSZWF6N2RxcHlOWVp6dmx5cTRXT0NONjV4VG9oZE54dFd5MkxVMUhydmVtNUtQTm5JakFvQ1hLbWIwTVg5VUZLVFFXXzMzMjdUNHhSU2M?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPa19LT2hXai1MRjlucG1hTjlkajAzT0UxZzVoMW9xR3Z0VzNWVC1mUUxYdGNQdGhtd05jX25Oa1FtY0xrbU9hQlQ3MGYzcDhVbnFaVVAxWExVeW5RcElGaVBjdUlUU21XWmxISndpMjF4TWctTGZWMzRuZklMekNTOEhPVVJIaGFDMV95S3YwM1VhNDVkQkRJZTJHUmxBNWRkWlc2bWMxRmFlMF9lWkRFQjhGZXVXT1loYWxhQVYtTEFQMmhONjkxSlNfcWhLaFVtVXF0SGJtQXBXRUhuUEI4T2ZMQUxKbnJLbG9UcS1TakM?oc=5",
       "rank": 2
     },
     {
@@ -102,9 +102,9 @@
       "rank": 9
     },
     {
-      "headline": "Andoni Iraola reaction: Liverpool 2-3 Monaco, fitness update, Anfield reception and more - Liverpool FC",
-      "summary": "Andoni Iraola reaction: Liverpool 2-3 Monaco, fitness update, Anfield reception and more Liverpool FC",
-      "source": "Liverpool FC",
+      "headline": "Andoni Iraola reaction: Liverpool 2-3 Monaco, fitness update, Anfield reception and more - liverpoolfc.com",
+      "summary": "Andoni Iraola reaction: Liverpool 2-3 Monaco, fitness update, Anfield reception and more liverpoolfc.com",
+      "source": "liverpoolfc.com",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
@@ -113,9 +113,9 @@
       "rank": 10
     },
     {
-      "headline": "'The Reaction' podcast: Iraola, Isak and more analyse Monaco friendly - Liverpool FC",
-      "summary": "'The Reaction' podcast: Iraola, Isak and more analyse Monaco friendly Liverpool FC",
-      "source": "Liverpool FC",
+      "headline": "'The Reaction' podcast: Iraola, Isak and more analyse Monaco friendly - liverpoolfc.com",
+      "summary": "'The Reaction' podcast: Iraola, Isak and more analyse Monaco friendly liverpoolfc.com",
+      "source": "liverpoolfc.com",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
@@ -124,26 +124,15 @@
       "rank": 11
     },
     {
-      "headline": "Alexander Isak: I feel good and it was really nice to be back at Anfield - Liverpool FC",
-      "summary": "Alexander Isak: I feel good and it was really nice to be back at Anfield Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNWpiVXpldkdhazRHUTVSMzNwTDYyN2dMV210cDNDYzZHTktzeUZQaTMyaHJUSlQ3dlJvc014dWVBNzJBd0dDOUdPSF9PNVFEbGp5VjREX0xXSEhNZGdmdTY1UHNudFBUaVpRZXJ5eDJ4WlR1YXR5NFlCOUowdThqLWZHMjFWZkFWR1pQRFZiMjB1cE9SVFhfa2VqVDNJTk3SAacBQVVfeXFMUHNKbWpBck93WFRUSjJIMXF2WjRXVWVSbHBqQVZrYnFEbU5kVGRkZE4wckJIVDB1QVkwT1FCZFByS1V1OHduRzlPZGNDZzhpZXlUYXNRcFRGTThmRjc2TmxYX3JlY2h4VUpkQWFLQ0hiX2UtTFRuTl9Tb29DZGt1REtOWGhHOF9YUlFqVjBqMFFPTVlING5lLWJMNzJsblIzaHFXOXg0NTQ?oc=5",
-      "rank": 12
-    },
-    {
-      "headline": "Inside Anfield: Behind the scenes of Andoni Iraola's first Liverpool home game - Liverpool FC",
-      "summary": "Inside Anfield: Behind the scenes of Andoni Iraola's first Liverpool home game Liverpool FC",
-      "source": "Liverpool FC",
+      "headline": "Inside Anfield: Behind the scenes of Andoni Iraola's first Liverpool home game - liverpoolfc.com",
+      "summary": "Inside Anfield: Behind the scenes of Andoni Iraola's first Liverpool home game liverpoolfc.com",
+      "source": "liverpoolfc.com",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
       "date": "2026-08-11",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcTJRTVYxd25oRjA4WnlVN0QyM1J6N2wyTHJ4MGRzbnphZkEzTnFYNUdmT19RNjZfQXZuVl9RcUNZMUp0ZjNqcFlvRy1nbGZiMzRNZFZ1WDE3aFRBd0dORmZLNTJnNjRfUDZvdGZpTW5SNjY0SjByUVowdnBtbTVCSEdPR0VkY3BUOTJvZWJBMG10SUsyVnlkX1NySHIxOVF2MW0yT1BoY0FWUmxS0gGsAUFVX3lxTE9xMlFNVjF3bmhGMDhaeVU3RDIzUno3bDJMcngwZHNuemFmQTNOcVg1R2ZPX1E2Nl9Bdm5WX1FxQ1kxSnRmM2pwWW9HLWdsZmIzNE1kVnVYMTdoVEF3R05GZks1Mmc2NF9QNm90ZmlNblI2NjRKMHJRWjB2cG1tNUJIR09HRWRjcFQ5Mm9lYkEwbXRJSzJWeWRfU3JIcjE5UXYxbTJPUGhjQVZSbFI?oc=5",
-      "rank": 13
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUFNaNkhObnJGNndCOXp3THFNd3dJMlRwSXE1NDVhYUlSRmxGSTZrbnpNVk5LVENBWkV6OWFoVkJfLU5rRGJRZjZYbmpncGRCcG9oOTJIRDRfa2FHU1lGNU9jeVJ6Z2wzWW1jZk5JZ2ZaWXpDVkV2MzRQZzJLY1dTWXZhRndMRXFSZ3N1VkNqWG85YVJweEFzby1UUmdoQTFjc1BkQtIBrAFBVV95cUxPcTJRTVYxd25oRjA4WnlVN0QyM1J6N2wyTHJ4MGRzbnphZkEzTnFYNUdmT19RNjZfQXZuVl9RcUNZMUp0ZjNqcFlvRy1nbGZiMzRNZFZ1WDE3aFRBd0dORmZLNTJnNjRfUDZvdGZpTW5SNjY0SjByUVowdnBtbTVCSEdPR0VkY3BUOTJvZWJBMG10SUsyVnlkX1NySHIxOVF2MW0yT1BoY0FWUmxS?oc=5",
+      "rank": 12
     },
     {
       "headline": "Liverpool news: Van Dijk on Iraola and summer break - BBC",
@@ -154,18 +143,7 @@
       "rank_score": 85.0,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaGpoUzRBc3d4V3FyNjFoWGUxVGNoazRlQ1lYZmZpeHlWT1FuYWVpbFpTNWhzTWtNLURhcDkxZVlpbDBQdVZjTUFnUno5TnE4ZW5pVkF1UkxkR29pVmJjOG94QmczWVFNZWRpcU5mQVlaVVdGaExLV1RndnNrWldndFVleW92X1NqUnRuLWo4eDdFTGVtRWUyU09hYmlzaHFSNV80T2Z3X1pfWTBGS29mVnI4OWdkRXZOQ3JwZXFpekt3VzRTVWY2NkhkTWx4Y1dsSWJhVU9ERHpjTl9DaXpFVVp3T1BHbXVIX3lHM01tcHdHNjg?oc=5",
-      "rank": 14
-    },
-    {
-      "headline": "'Something wrong' - Andoni Iraola provides double Liverpool injury update after Monaco defeat - readliverpoolfc.com",
-      "summary": "'Something wrong' - Andoni Iraola provides double Liverpool injury update after Monaco defeat readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSS1UOU5ibkdmZHpBS1QtX1dzbkxPaktFeXNYQnJ1OGs2TlpBX2tadjQ0bm1IVV8xQlQ5cE9qRlB2enlDVlltUWNGZVpxcDVDc05weklwdjN6c2gyTzFTeWg3LWVYcFg3TGZBQ2J4T1RPSjRldFZ1QTdTNk9qTzhuZUVMdWF0WFI5Qzc3aDNadFNhcDlLOVVCUEdkYUl4eHN4UWk5d280SmtsVFNfTlByOE5JZmo3OHo2cU8xUmp5N3I?oc=5",
-      "rank": 15
+      "rank": 13
     },
     {
       "headline": "Liverpool’s Florian Wirtz eyeing consistent No 10 role under Andoni Iraola - The New York Times",
@@ -176,7 +154,7 @@
       "rank_score": 85.0,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0lLUlVtVVhFZng3WUVVMjFBYko2NEt1cmZ4XzNlZlJqOENpVkhMZmNMX1dnbFRQNjBGNi1fMUZ5VENuSGl6ZjY5b2l4b3hLT2VkZXYxV1BRMm5GQWNzUnVhLU9HZ2JZNXFkVUpMbFRScFFiREdIY3RONkZiN0tTY1VuNVh0TGF5WlNGUFRDRTAtb1NVaUpN?oc=5",
-      "rank": 16
+      "rank": 14
     },
     {
       "headline": "Liverpool news: Reds beaten by Monaco in Iraola's first game at Anfield - BBC",
@@ -187,7 +165,7 @@
       "rank_score": 85.0,
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JVHpUYVp4YnNyUmlzT041M185dG5xTHk4YldBaFhPNEFMZGI1MzNzU2p2eDdVU2NzZmRhU1hyZUlMUGFSX0d1X1pQNjNTU1NCSkpSTTBsb1lXd0gzdVJJUUt3OUNrOEE?oc=5",
-      "rank": 17
+      "rank": 15
     },
     {
       "headline": "Liverpool bolster injury-hit defence with loan signing of Barca's Araujo - Reuters",
@@ -198,29 +176,7 @@
       "rank_score": 85.0,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1IyVENqb3VsYURFd3VKLVNId3JsVEkzdGVpcmp5UnFrUXRzWm1GUGtBWGJoOHlFUWxlSXM0Y1FqSHZtTWdhLTZpSzhDWDNpRFFUN0pkS2tQSGVrcXJDQTc0NWtQVktaVHR5VlZjU1VQcmZqSWtydG9zWGkyWE11YzB2WnR3aGtBaXlsbjFVWDl2dnFjbEhVWXNHaWhieHlnY0VUWUVxaHM5clFHOFFNMVNnelFsTWdUQnc?oc=5",
-      "rank": 18
-    },
-    {
-      "headline": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress - BBC",
-      "summary": "Liverpool 2-3 Monaco: How players rated as Isak and Wirtz impress BBC",
-      "source": "BBC",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2bU1VVEVHaTVjNVIzZmpMNk94R0hkdlZzWWE3VDJNVndwLVNMM09MeVpJWnExeFNYd3JBUEpKOWlGOFNzT1NxSll2dFROazU5a0ZLancyS3RWVjVOOW0yTFNLLXNhQQ?oc=5",
-      "rank": 19
-    },
-    {
-      "headline": "Liverpool beaten by Monaco but are Isak and Wirtz finally clicking as a partnership? - The Athletic - The New York Times",
-      "summary": "Liverpool beaten by Monaco but are Isak and Wirtz finally clicking as a partnership? - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-09",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONkktc2ZXVURMSXNyV2xnVWJkX2tVeExVdDZJYXJ2aTBhdm9xWGVYNGYtTm9PSXZHNFVJZ1RKdDcxcFFlcm94bWVDUUIwZ1FTcXBLby1raHluSGlTVGNxNlI2M3ZlZVZyNjdRTVU4aVJRd1VZOHhYTkRneUdYWFZxU09aZFZ1MEhLX25nRGdB?oc=5",
-      "rank": 20
+      "rank": 16
     },
     {
       "headline": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
@@ -231,7 +187,7 @@
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group",
-      "rank": 21
+      "rank": 17
     },
     {
       "headline": "Ronald Araujo transfer news: Liverpool complete deal to sign Barcelona defender on loan with option to buy - Sky Sports",
@@ -242,40 +198,40 @@
       "rank_score": 80.3,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQU9pSnNqWlBqaGxkRjF3QVl4MzRsQ1d3QURXem1ETlQ0S2ItM3E4UXJ3Z1hLd0taeTdIeVgwZGVYLXBTNUxQaGd5QWFuM0tFUERrQmt6R2x1X3hCRHc2ZmRhaVd6OXM0Q0UzU1BqTWdXT0lVVnJycDVoLVBFX1NVTHdMazlLdGNHRUpWd2tZNjJpTjVDTnYtMEp2UElKRlZ1YkJJRzB2aHlUY3VnN19RZFV4djl6bW1XRGV0MC1obkpXd0g3d1VaZm5vZkVmM2RYZ0IyRzRJTDJIYklwczBPLWUyRGt1bVZZYUprQUtRLVZaZw?oc=5",
-      "rank": 22
+      "rank": 18
     },
     {
-      "headline": "DEAL FINALLY DONE! SKY SPORTS ANNOUNCED! LIVERPOOL NEWS Fabrizio Romano Transfer Trevor Rogers (7kecspmbcZ) - mshale.com",
-      "summary": "DEAL FINALLY DONE! SKY SPORTS ANNOUNCED! LIVERPOOL NEWS Fabrizio Romano Transfer Trevor Rogers (7kecspmbcZ) mshale.com",
-      "source": "mshale.com",
+      "headline": "🤩 FABRIZIO ROMANO SURPRISED EVERYONE! ALEXANDER ISAK 100% DONE TO LIVERPOOL TRANSFER NEWS TODAY ✅ Sga (9EdopFmNhr) - Mshale",
+      "summary": "🤩 FABRIZIO ROMANO SURPRISED EVERYONE! ALEXANDER ISAK 100% DONE TO LIVERPOOL TRANSFER NEWS TODAY ✅ Sga (9EdopFmNhr) Mshale",
+      "source": "Mshale",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02eHM5ZDE1b2NrM2dmdkhlbE95R1pTaWhuS3N4dVQtVl85YTNyMjEyN0RfVkhwWFJvd3pOSkxDNndMbmFrYlM5YnZVbkFFRW1nSzlrLTRYUEUzU1k?oc=5",
-      "rank": 23
+      "date": "2026-08-11",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UaVpUSmM5dEtmLWRTX3AzVVY0VXB4ZTFjUVo2TkhlY2J5SnZOcU9xUUFrcndMVjdIUTFZdFdLbmpBTE5RTk9JR0hJVDVmdWZfSnlDOFlxRFV5dlk?oc=5",
+      "rank": 19
     },
     {
-      "headline": "Fabrizio Romano Provides MASSIVE SigninG For Star Juventus + Liverpool Transfer News! Resignation (jTvX0kL84t) - mshale.com",
-      "summary": "Fabrizio Romano Provides MASSIVE SigninG For Star Juventus + Liverpool Transfer News! Resignation (jTvX0kL84t) mshale.com",
-      "source": "mshale.com",
+      "headline": "Fabrizio Romano Provides MASSIVE SigninG For Star Juventus + Liverpool Transfer News! Resignation (jTvX0kL84t) - Mshale",
+      "summary": "Fabrizio Romano Provides MASSIVE SigninG For Star Juventus + Liverpool Transfer News! Resignation (jTvX0kL84t) Mshale",
+      "source": "Mshale",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94dGNMTVNERndUMWFGRWZlZUozZG5aSEVEQktwT1lPUzktZU5pdXhaMlJkSWRYVk9IWmlyRkw5WGpCMEc0SFZXVEJmbDZPV1NmYVBoeFRNamJWWWc?oc=5",
-      "rank": 24
+      "rank": 20
     },
     {
-      "headline": "Fabrizio Romano Provides MASSIVE Salah Move Away + Liverpool Transfer News! Oleksandr Usyk (Goq15LJSV2) - mshale.com",
-      "summary": "Fabrizio Romano Provides MASSIVE Salah Move Away + Liverpool Transfer News! Oleksandr Usyk (Goq15LJSV2) mshale.com",
-      "source": "mshale.com",
+      "headline": "Fabrizio Romano Provides MASSIVE Salah Move Away + Liverpool Transfer News! Oleksandr Usyk (Goq15LJSV2) - Mshale",
+      "summary": "Fabrizio Romano Provides MASSIVE Salah Move Away + Liverpool Transfer News! Oleksandr Usyk (Goq15LJSV2) Mshale",
+      "source": "Mshale",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVXBjeUF0V19lVm9ybmZ0amNUX09TeU9SNjZJUE1Cd0JzRk5HaU5Ba0NwTzRiUzlEOGZJaXhPUU4tX1dJUXI2NUE3UWMwaFNVRl85MmozWTk2bkU?oc=5",
-      "rank": 25
+      "rank": 21
     },
     {
       "headline": "What did we learn from Andoni Iraola’s first Liverpool game at Anfield? - The Times",
@@ -286,18 +242,18 @@
       "rank_score": 80.3,
       "date": "2026-08-09",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOG1NX1hBX3dnbmZoZ0hyT3NGZGpJenlnaVo0X3Q3NlAyTFBhX05nakE3TTlxTi1RYnZhbXd0c2xZcExwTVByWlJLb2x5U05WUkhUcWVqam9iU0ZTa3FZSFJUMXo5dlg1dk1HQzBoRHFDZ184RWs4MENvbUhCTFM0LTk2VHBWYXZiZVRKajZvTWxLNU9C?oc=5",
-      "rank": 26
+      "rank": 22
     },
     {
-      "headline": "Liverpool agree deal to sign Ronald Araujo on loan - Liverpool FC",
-      "summary": "Liverpool agree deal to sign Ronald Araujo on loan Liverpool FC",
-      "source": "Liverpool FC",
+      "headline": "Liverpool agree deal to sign Ronald Araujo on loan - liverpoolfc.com",
+      "summary": "Liverpool agree deal to sign Ronald Araujo on loan liverpoolfc.com",
+      "source": "liverpoolfc.com",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnM0UmVLazllckJDcVExd3dtZElrWC05OFJWa1g5cGZhWjNVOXEydjB1MXJlYk9yUHlqR0FlUUZET1FrMldnT3FWWjdNMVNWLXBHNDZpQzhZazBDMWY3dWZick1lMnQwXzk5YUFoM1M4YldKM3lSaUIwQXJNd3RPRldtUdIBiwFBVV95cUxNa1d1d2tUeVFtcnhaMno5bm95SHRpRUNxVU1qYkxKbTExTHhWcFZOeWJTNGZ4alZoYVpWY05OYS1QYzZFY3ZOOFpqdDh0YmRYRUQ3WVdPTnlETDBpSXFNTUpVWm1EVUZwdllYaklJdkNKU0JmWlp4SFRIOF9DUnBETm5udVB0S1JwX25N?oc=5",
-      "rank": 27
+      "rank": 23
     },
     {
       "headline": "Liverpool transfer news as big Bradley Barcola and Ibrahim Mbaye updates emerge - readliverpoolfc.com",
@@ -308,18 +264,7 @@
       "rank_score": 80.0,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3NEekZyU0dqNUdBSmdiMGl2S2MzcjZQYWpoaUttSURpVWxsMWFFamxBMjJULTFmbTBtVTV3dU84TEppODZUY2dCZWhCTTl4dVhDck05aHJIVWVEUU5YdTdMellZaFhWTlVoQm9lelRiUmxFcG5XMjdYOUYyNWRIdTBoWHhvT0xmUE5FSzFaeHZxZzhpYzRpcVZ1TmxTTURWbXBTOTRoUzY3Z0JCczhCYXM4NA?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "‘Everything signed’ – Fabrizio Romano confirms early-morning Liverpool transfer boost - readliverpoolfc.com",
-      "summary": "‘Everything signed’ – Fabrizio Romano confirms early-morning Liverpool transfer boost readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy1oY0hKSVpKa2s3TzNYX1NfSXBVQ3pDc1RqT09nMmx2UnpIeUpRdldveUJZWHZLb3kyTjE5ZGUxTVNEWUxjc2tBLVZaSXowZmY3cFVMamlIcEwyRXlRWC1McE5hbHB4NHlIVzRNVy1jdUJQRUxTby1YSjF0UVp4M1BDeVJCRVNqMTBaeTF0bjNuaEtFZVNtRE9WRlVuUmY4TU1IdjJKSmVRMWxHRlZiRXkwbTFYUQ?oc=5",
-      "rank": 29
+      "rank": 24
     },
     {
       "headline": "Liverpool transfer news as £240k-per-week defender’s rejection confirmed - readliverpoolfc.com",
@@ -330,6 +275,61 @@
       "rank_score": 80.0,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXZTTTc3WHRTSDhzeklsWWYzTzdLTlJDbEw4TXBoQXpJczFLSEFyWTlOQWRBN2lMZmJ2RWRTYXhfRk04aUtQbW1nZkJDLTluZnVqN1ZtV0pWZVVfRlRaZ2otYV9yLUVMbk5uNVQzZU00X25EcmZsY3pfZ3BLRUZVUV9oOHBIQQ?oc=5",
+      "rank": 25
+    },
+    {
+      "headline": "‘Everything signed’ – Fabrizio Romano confirms early-morning Liverpool transfer boost - readliverpoolfc.com",
+      "summary": "‘Everything signed’ – Fabrizio Romano confirms early-morning Liverpool transfer boost readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMy1oY0hKSVpKa2s3TzNYX1NfSXBVQ3pDc1RqT09nMmx2UnpIeUpRdldveUJZWHZLb3kyTjE5ZGUxTVNEWUxjc2tBLVZaSXowZmY3cFVMamlIcEwyRXlRWC1McE5hbHB4NHlIVzRNVy1jdUJQRUxTby1YSjF0UVp4M1BDeVJCRVNqMTBaeTF0bjNuaEtFZVNtRE9WRlVuUmY4TU1IdjJKSmVRMWxHRlZiRXkwbTFYUQ?oc=5",
+      "rank": 26
+    },
+    {
+      "headline": "Andoni Iraola: What we have learned from Liverpool's start under new boss - BBC",
+      "summary": "Andoni Iraola: What we have learned from Liverpool's start under new boss BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBVOW16UGNPMnR1dG5oTl9mRElwVE96RWQzZXFmSUVYZlRmNlk2UDlwSllzRDRKMGpid0U5NENRRU4zREstMWt1VzJnMzUteHVPT1VQTi1STmhQU2lRUnBjYzl3NHpjX0E?oc=5",
+      "rank": 27
+    },
+    {
+      "headline": "Liverpool news: Andoni Iraola's style of play already clear to see - BBC",
+      "summary": "Liverpool news: Andoni Iraola's style of play already clear to see BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBteHhNbm1QbmVLY3lCaUJiejhrWXRVTmI5UEIyV1k0QzdUcV9feXdkM3VaRnQyOFFjVFhteVJMX1dqUTlGUlM3OTBnbmtWTkozVkdSdVNwWFhTdy1rbnFfLWJYSjc5ZG9Ta0E?oc=5",
+      "rank": 28
+    },
+    {
+      "headline": "'Can't sustain' - Andoni Iraola's post-match comments prove he's unhappy with Liverpool squad - readliverpoolfc.com",
+      "summary": "'Can't sustain' - Andoni Iraola's post-match comments prove he's unhappy with Liverpool squad readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQWHBkb19CbVB5RzR4VWhVVk10RWZOWnJLMWVaQ0MzREx3QWFZbWhVUkxRMmpUWG53OGRqaGVuNU5WLU9kUkEzdDVURGFpQ1FHdUI1TE91YWlBQUN3bGVwUTgtbGh0VnJKNklyQnJfMzVWeUVicGF0akRZT0JaTWVNWTljSmFXRUNMMjhyZlU2X1U0TnoycXRmT01aMEFGbHlndkJvVG5ubDZOZTBuWkhETDFmazRoclFzLWp0Wg?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Liverpool: Reds 'cannot sustain level', says Andoni Iraola - BBC",
+      "summary": "Liverpool: Reds 'cannot sustain level', says Andoni Iraola BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-09",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5UaVdmcms4V3kzR1RhWjFNcFYtWk01dFZpZUpyeUtLUUs0UU8teW82czFGQVF3UjFjUUZBY25FeXdQemljWW5vaHljWFpFeTh2Z09VRjI2Ymc4ZXVrRWhETElnUktQelk?oc=5",
       "rank": 30
     }
   ],
@@ -401,7 +401,7 @@
         "p": "Low",
         "mentions": 5,
         "outlets": 3,
-        "source": "Liverpool FC",
+        "source": "liverpoolfc.com",
         "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnM0UmVLazllckJDcVExd3dtZElrWC05OFJWa1g5cGZhWjNVOXEydjB1MXJlYk9yUHlqR0FlUUZET1FrMldnT3FWWjdNMVNWLXBHNDZpQzhZazBDMWY3dWZick1lMnQwXzk5YUFoM1M4YldKM3lSaUIwQXJNd3RPRldtUdIBiwFBVV95cUxNa1d1d2tUeVFtcnhaMno5bm95SHRpRUNxVU1qYkxKbTExTHhWcFZOeWJTNGZ4alZoYVpWY05OYS1QYzZFY3ZOOFpqdDh0YmRYRUQ3WVdPTnlETDBpSXFNTUpVWm1EVUZwdllYaklJdkNKU0JmWlp4SFRIOF9DUnBETm5udVB0S1JwX25N?oc=5",
         "date": "2026-08-10",
         "active": true,
