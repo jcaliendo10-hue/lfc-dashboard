@@ -1,5 +1,5 @@
 {
-  "updated": "12 Aug 2026 09:10 UTC",
+  "updated": "12 Aug 2026 13:07 UTC",
   "count": 30,
   "items": [
     {
@@ -91,28 +91,6 @@
       "rank": 8
     },
     {
-      "headline": "Liverpool news: Van Dijk on Iraola and summer break - BBC",
-      "summary": "Liverpool news: Van Dijk on Iraola and summer break BBC",
-      "source": "BBC",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaGpoUzRBc3d4V3FyNjFoWGUxVGNoazRlQ1lYZmZpeHlWT1FuYWVpbFpTNWhzTWtNLURhcDkxZVlpbDBQdVZjTUFnUno5TnE4ZW5pVkF1UkxkR29pVmJjOG94QmczWVFNZWRpcU5mQVlaVVdGaExLV1RndnNrWldndFVleW92X1NqUnRuLWo4eDdFTGVtRWUyU09hYmlzaHFSNV80T2Z3X1pfWTBGS29mVnI4OWdkRXZOQ3JwZXFpekt3VzRTVWY2NkhkTWx4Y1dsSWJhVU9ERHpjTl9DaXpFVVp3T1BHbXVIX3lHM01tcHdHNjg?oc=5",
-      "rank": 9
-    },
-    {
-      "headline": "Liverpool bolster injury-hit defence with loan signing of Barca's Araujo - reuters.com",
-      "summary": "Liverpool bolster injury-hit defence with loan signing of Barca's Araujo reuters.com",
-      "source": "reuters.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-10",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1IyVENqb3VsYURFd3VKLVNId3JsVEkzdGVpcmp5UnFrUXRzWm1GUGtBWGJoOHlFUWxlSXM0Y1FqSHZtTWdhLTZpSzhDWDNpRFFUN0pkS2tQSGVrcXJDQTc0NWtQVktaVHR5VlZjU1VQcmZqSWtydG9zWGkyWE11YzB2WnR3aGtBaXlsbjFVWDl2dnFjbEhVWXNHaWhieHlnY0VUWUVxaHM5clFHOFFNMVNnelFsTWdUQnc?oc=5",
-      "rank": 10
-    },
-    {
       "headline": "Liverpool’s Florian Wirtz eyeing consistent No 10 role under Andoni Iraola - The New York Times",
       "summary": "Liverpool’s Florian Wirtz eyeing consistent No 10 role under Andoni Iraola The New York Times",
       "source": "The New York Times",
@@ -121,7 +99,18 @@
       "rank_score": 85.0,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPV0lLUlVtVVhFZng3WUVVMjFBYko2NEt1cmZ4XzNlZlJqOENpVkhMZmNMX1dnbFRQNjBGNi1fMUZ5VENuSGl6ZjY5b2l4b3hLT2VkZXYxV1BRMm5GQWNzUnVhLU9HZ2JZNXFkVUpMbFRScFFiREdIY3RONkZiN0tTY1VuNVh0TGF5WlNGUFRDRTAtb1NVaUpN?oc=5",
-      "rank": 11
+      "rank": 9
+    },
+    {
+      "headline": "Liverpool bolster injury-hit defence with loan signing of Barca's Araujo - Reuters",
+      "summary": "Liverpool bolster injury-hit defence with loan signing of Barca's Araujo Reuters",
+      "source": "Reuters",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-08-10",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR1IyVENqb3VsYURFd3VKLVNId3JsVEkzdGVpcmp5UnFrUXRzWm1GUGtBWGJoOHlFUWxlSXM0Y1FqSHZtTWdhLTZpSzhDWDNpRFFUN0pkS2tQSGVrcXJDQTc0NWtQVktaVHR5VlZjU1VQcmZqSWtydG9zWGkyWE11YzB2WnR3aGtBaXlsbjFVWDl2dnFjbEhVWXNHaWhieHlnY0VUWUVxaHM5clFHOFFNMVNnelFsTWdUQnc?oc=5",
+      "rank": 10
     },
     {
       "headline": "Liverpool owners close to £1.35bn sale of 30% stake to consortium including Jeff Bezos",
@@ -132,7 +121,7 @@
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://www.theguardian.com/football/2026/aug/10/liverpool-sale-stake-consortium-jeff-bezos-amazon-fenway-sports-group",
-      "rank": 12
+      "rank": 11
     },
     {
       "headline": "Liverpool transfer update: Will Andoni Iraola's side continue to pursue Bradley Barcola? - Sky Sports",
@@ -143,7 +132,7 @@
       "rank_score": 80.3,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWFozeUZicE0xcDFQQ2hHVkhVQUNJVjRNUzVUQlgyRG53Vk9tSjVTMUZ2RFB5Sk9NWUZYemZPTFlVVHY2ZlViVWpSZmlLTmk4NGM4cTdPS2NlU3JNVHpTUExQaFYtUW9aRFB2OU1wMVFhVzhneEJFU3FnaDlsenY2RmdyZ0hwRnlUdTZ0MlFvRE0yWW1DMWROM2h3YndOV3hmaGZ2Mm1kdlNlUU1tWlpqM0RoRG1XSVlMZC1uSEhaS2NIMXpNemhNeDdFUi1TbkJkVVI1NWZfMmc?oc=5",
-      "rank": 13
+      "rank": 12
     },
     {
       "headline": "Ronald Araujo transfer news: Liverpool complete deal to sign Barcelona defender on loan with option to buy - Sky Sports",
@@ -154,7 +143,7 @@
       "rank_score": 80.3,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQU9pSnNqWlBqaGxkRjF3QVl4MzRsQ1d3QURXem1ETlQ0S2ItM3E4UXJ3Z1hLd0taeTdIeVgwZGVYLXBTNUxQaGd5QWFuM0tFUERrQmt6R2x1X3hCRHc2ZmRhaVd6OXM0Q0UzU1BqTWdXT0lVVnJycDVoLVBFX1NVTHdMazlLdGNHRUpWd2tZNjJpTjVDTnYtMEp2UElKRlZ1YkJJRzB2aHlUY3VnN19RZFV4djl6bW1XRGV0MC1obkpXd0g3d1VaZm5vZkVmM2RYZ0IyRzRJTDJIYklwczBPLWUyRGt1bVZZYUprQUtRLVZaZw?oc=5",
-      "rank": 14
+      "rank": 13
     },
     {
       "headline": "🤩 FABRIZIO ROMANO SURPRISED EVERYONE! ALEXANDER ISAK 100% DONE TO LIVERPOOL TRANSFER NEWS TODAY ✅ Sga (9EdopFmNhr) - Mshale",
@@ -165,7 +154,7 @@
       "rank_score": 80.3,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UaVpUSmM5dEtmLWRTX3AzVVY0VXB4ZTFjUVo2TkhlY2J5SnZOcU9xUUFrcndMVjdIUTFZdFdLbmpBTE5RTk9JR0hJVDVmdWZfSnlDOFlxRFV5dlk?oc=5",
-      "rank": 15
+      "rank": 14
     },
     {
       "headline": "DEAL FINALLY DONE! SKY SPORTS ANNOUNCED! LIVERPOOL NEWS Fabrizio Romano Transfer Trevor Rogers (7kecspmbcZ) - Mshale",
@@ -176,7 +165,7 @@
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02eHM5ZDE1b2NrM2dmdkhlbE95R1pTaWhuS3N4dVQtVl85YTNyMjEyN0RfVkhwWFJvd3pOSkxDNndMbmFrYlM5YnZVbkFFRW1nSzlrLTRYUEUzU1k?oc=5",
-      "rank": 16
+      "rank": 15
     },
     {
       "headline": "Fabrizio Romano Provides MASSIVE SigninG For Star Juventus + Liverpool Transfer News! Resignation (jTvX0kL84t) - Mshale",
@@ -187,7 +176,7 @@
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE94dGNMTVNERndUMWFGRWZlZUozZG5aSEVEQktwT1lPUzktZU5pdXhaMlJkSWRYVk9IWmlyRkw5WGpCMEc0SFZXVEJmbDZPV1NmYVBoeFRNamJWWWc?oc=5",
-      "rank": 17
+      "rank": 16
     },
     {
       "headline": "Fabrizio Romano Provides MASSIVE Salah Move Away + Liverpool Transfer News! Oleksandr Usyk (Goq15LJSV2) - Mshale",
@@ -198,7 +187,7 @@
       "rank_score": 80.3,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sVXBjeUF0V19lVm9ybmZ0amNUX09TeU9SNjZJUE1Cd0JzRk5HaU5Ba0NwTzRiUzlEOGZJaXhPUU4tX1dJUXI2NUE3UWMwaFNVRl85MmozWTk2bkU?oc=5",
-      "rank": 18
+      "rank": 17
     },
     {
       "headline": "Liverpool agree deal to sign Ronald Araujo on loan - Liverpool FC",
@@ -209,7 +198,7 @@
       "rank_score": 80.0,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOdnM0UmVLazllckJDcVExd3dtZElrWC05OFJWa1g5cGZhWjNVOXEydjB1MXJlYk9yUHlqR0FlUUZET1FrMldnT3FWWjdNMVNWLXBHNDZpQzhZazBDMWY3dWZick1lMnQwXzk5YUFoM1M4YldKM3lSaUIwQXJNd3RPRldtUdIBiwFBVV95cUxNa1d1d2tUeVFtcnhaMno5bm95SHRpRUNxVU1qYkxKbTExTHhWcFZOeWJTNGZ4alZoYVpWY05OYS1QYzZFY3ZOOFpqdDh0YmRYRUQ3WVdPTnlETDBpSXFNTUpVWm1EVUZwdllYaklJdkNKU0JmWlp4SFRIOF9DUnBETm5udVB0S1JwX25N?oc=5",
-      "rank": 19
+      "rank": 18
     },
     {
       "headline": "Liverpool transfer news as big Bradley Barcola and Ibrahim Mbaye updates emerge - readliverpoolfc.com",
@@ -220,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3NEekZyU0dqNUdBSmdiMGl2S2MzcjZQYWpoaUttSURpVWxsMWFFamxBMjJULTFmbTBtVTV3dU84TEppODZUY2dCZWhCTTl4dVhDck05aHJIVWVEUU5YdTdMellZaFhWTlVoQm9lelRiUmxFcG5XMjdYOUYyNWRIdTBoWHhvT0xmUE5FSzFaeHZxZzhpYzRpcVZ1TmxTTURWbXBTOTRoUzY3Z0JCczhCYXM4NA?oc=5",
-      "rank": 20
+      "rank": 19
     },
     {
       "headline": "Liverpool face competition from Manchester United and Arsenal for £75 million transfer - readliverpoolfc.com",
@@ -231,7 +220,7 @@
       "rank_score": 80.0,
       "date": "2026-08-12",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQamQ5dXE0UDVVb3BjS3NWSFQxSV9Rekhkd0hFNFNLTVFzdE5xWFY4dkpmRGpIaGhYdTZUbmlpdGdiM3JFUlJhTUI4MG9RelZhWWxDSEtKMEJBWm5yQmRCaE94cmphQVkzWkNsQVFFNVNISDhKMjhHQmZsMHlQWWhlTDdfZVNod1k0QXJ2cDBsV0RKUU9GZElRemJOcGdkSjBWQXlpVE5BSl8tWk85cVAyS1RacXVCeTlKYjJwOE9rLUowQQ?oc=5",
-      "rank": 21
+      "rank": 20
     },
     {
       "headline": "Liverpool transfer news as £240k-per-week defender’s rejection confirmed - readliverpoolfc.com",
@@ -242,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-08-11",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXZTTTc3WHRTSDhzeklsWWYzTzdLTlJDbEw4TXBoQXpJczFLSEFyWTlOQWRBN2lMZmJ2RWRTYXhfRk04aUtQbW1nZkJDLTluZnVqN1ZtV0pWZVVfRlRaZ2otYV9yLUVMbk5uNVQzZU00X25EcmZsY3pfZ3BLRUZVUV9oOHBIQQ?oc=5",
-      "rank": 22
+      "rank": 21
     },
     {
       "headline": "Liverpool news: Andoni Iraola's style of play already clear to see - BBC",
@@ -253,6 +242,17 @@
       "rank_score": 80.0,
       "date": "2026-08-10",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBteHhNbm1QbmVLY3lCaUJiejhrWXRVTmI5UEIyV1k0QzdUcV9feXdkM3VaRnQyOFFjVFhteVJMX1dqUTlGUlM3OTBnbmtWTkozVkdSdVNwWFhTdy1rbnFfLWJYSjc5ZG9Ta0E?oc=5",
+      "rank": 22
+    },
+    {
+      "headline": "‘Here we go soon’ – Fabrizio Romano confirms big Liverpool transfer blow - readliverpoolfc.com",
+      "summary": "‘Here we go soon’ – Fabrizio Romano confirms big Liverpool transfer blow readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-12",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNVc0U1pVc3Qya1hpc3UyVzJwOGlZa3dDQUgyTzhzenprNGdLZjIxd2R2enY1bE0xUU8yR3VEaE44OHdFV0dqNWtMbmgzQVVLUi0tUThBcUdOeExfY0dWQ216RE5vQllXSXJYVDNpczZ3S0RraG90RzFrTmtMZEFwekNnOEVjVEw0TS1idUp4UE90Z0c4QlNOU2RndmhpLTl6X0NhNg?oc=5",
       "rank": 23
     },
     {
@@ -414,9 +414,9 @@
         "meta": "CB · Galatasaray interest",
         "fee": "low/free",
         "p": "High",
-        "mentions": 2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNaGpoUzRBc3d4V3FyNjFoWGUxVGNoazRlQ1lYZmZpeHlWT1FuYWVpbFpTNWhzTWtNLURhcDkxZVlpbDBQdVZjTUFnUno5TnE4ZW5pVkF1UkxkR29pVmJjOG94QmczWVFNZWRpcU5mQVlaVVdGaExLV1RndnNrWldndFVleW92X1NqUnRuLWo4eDdFTGVtRWUyU09hYmlzaHFSNV80T2Z3X1pfWTBGS29mVnI4OWdkRXZOQ3JwZXFpekt3VzRTVWY2NkhkTWx4Y1dsSWJhVU9ERHpjTl9DaXpFVVp3T1BHbXVIX3lHM01tcHdHNjg?oc=5",
+        "mentions": 1,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/aug/10/virgil-van-dijk-ronald-araujo-liverpool",
         "date": "2026-08-10",
         "active": true
       },
