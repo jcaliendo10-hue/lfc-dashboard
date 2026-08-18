@@ -1,5 +1,5 @@
 {
-  "updated": "18 Aug 2026 08:35 UTC",
+  "updated": "18 Aug 2026 12:43 UTC",
   "count": 30,
   "items": [
     {
@@ -14,6 +14,17 @@
       "rank": 1
     },
     {
+      "headline": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+      "summary": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLWFPWTJyWXVkSGRBZl85dlR4NGprSW9adTdjdVlEUkRSdlVJb3Z2eDN4SG9zcGNIOFk0RmM5SkJTeF95MGdKeDRJZW9yVXJ0YmxIZUJ5YXE2SEM3QUkxcUFCcWM3djBOdXVmWi13RUtxWjY1MURPSUJOQW5OOU5LaTFYUWlNX0FCXzdWYmw4azVQVDQxRnJ5RVNLN2dlcVBiUHh1dzhuek9TeDlpaERfbnRILS0zdw?oc=5",
+      "rank": 2
+    },
+    {
       "headline": "Gakpo and Jacquet score as Liverpool close pre-season with Anfield win over Como - Liverpool FC",
       "summary": "Gakpo and Jacquet score as Liverpool close pre-season with Anfield win over Como Liverpool FC",
       "source": "Liverpool FC",
@@ -22,7 +33,7 @@
       "rank_score": 85.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNXRxVE5MWmM3Z081Z21HRE5uOUYtODgya1I0dzBqa2EzZUN5bmhTMEsxMFFNVDdXNnY3aU00aTFKN19fMnJXcm5UX25kUlVlMTNQWS1YZTdzQU5JWDhKSE1uZzA1ZElIUGJqV05jZGI2UkstXzZwczh0OGd2WG8yTEZOV1dETUdTbzZSaVJjRWctLW9Oa2I2clZtQnRKVVNMUTk4eWtmajfSAbABQVVfeXFMTlN0OEsxdy00VTkzY1o2UXFZSW9nRnpaRG9LVi1UbmR2aVppLWxyRmlJdEFzWlZvaldDM2JHWUFKbVgxb2RlTjNaekZSbGtzcC1ORTdGZTBwWDhLdEozaHJ2czBpaDBockJZN3A3UURCeVUzZm1ablZiLTkyeUZ4UEZvQWZVNk5zQUFpeW9WNHhfTGxCU0hxcTBFNW1nN1V4QzNtamRkTE1tUlZZVlMxbHE?oc=5",
-      "rank": 2
+      "rank": 3
     },
     {
       "headline": "Ryan Gravenberch delivers Liverpool new signings verdict and explains Andoni Iraola difference",
@@ -33,7 +44,7 @@
       "rank_score": 83.5,
       "date": "2026-08-17",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/ryan-gravenberch-delivers-liverpool-new-34470303",
-      "rank": 3
+      "rank": 4
     },
     {
       "headline": "Araújo joins Liverpool on loan and Van Dijk hopes for more arrivals before new season",
@@ -44,7 +55,18 @@
       "rank_score": 81.3,
       "date": "2026-08-10",
       "url": "https://www.theguardian.com/football/2026/aug/10/virgil-van-dijk-ronald-araujo-liverpool",
-      "rank": 4
+      "rank": 5
+    },
+    {
+      "headline": "Premier League 2026-27 preview No 14: Liverpool",
+      "summary": "Andoni Iraola has his hands full – replacing Mo Salah and restoring faith at Anfield – and will hope big name investors bring stability not disharmonyGuardian writers’ predicted position: 4th (NB: this is not necessarily Andy Hunter’s predi",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-08-18",
+      "url": "https://www.theguardian.com/football/2026/aug/18/premier-league-2026-27-preview-no-14-liverpool",
+      "rank": 6
     },
     {
       "headline": "‘Close to 0% chance…’ – Respected journalist’s Liverpool transfer claim could horrify Reds fans",
@@ -55,7 +77,7 @@
       "rank_score": 80.3,
       "date": "2026-08-17",
       "url": "https://www.empireofthekop.com/2026/08/17/lynch-jones-transfer-claim-could-horrify-liverpool-fans/",
-      "rank": 5
+      "rank": 7
     },
     {
       "headline": "Fabrizio Romano: ‘New bid anticipated’ for Liverpool player who ‘wants’ out of Anfield",
@@ -66,7 +88,7 @@
       "rank_score": 80.3,
       "date": "2026-08-17",
       "url": "https://www.empireofthekop.com/2026/08/17/romano-new-bid-anticipated-for-liverpool-player-who-wants-out/",
-      "rank": 6
+      "rank": 8
     },
     {
       "headline": "Fabrizio Romano confirms talks are underway over potential exit of Liverpool midfielder",
@@ -77,7 +99,7 @@
       "rank_score": 80.3,
       "date": "2026-08-17",
       "url": "https://www.empireofthekop.com/2026/08/17/romano-talks-underway-over-potential-exit-of-liverpool-midfielder/",
-      "rank": 7
+      "rank": 9
     },
     {
       "headline": "Liverpool 2-0 Como: Jeremy Jacquet scores on debut to add to Cody Gakpo goal as Reds win at Anfield - Sky Sports",
@@ -88,7 +110,7 @@
       "rank_score": 80.3,
       "date": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbDJoOFdRNFBNV0R2MFRMbTdmSVVEMVJ2TGhGVXEzODJiZXBJbG95NWpiSXRDTWtKT2paaXd1RnV4UERJUm1MSWw4djVETGNpVG0wRE5Fa19UN1VKWGhfRUJwN1Q3UDl1cV9HaDAydU1DOTZ0OUw0RUdWSXNpNndLUTBySkdHWmVHMWtsX0Q5Y1VEbFJwRTZaRnFIckdGelhma1FBWWZTbllsMjBXT0h2OHRxNzFDbkozNzktUnl6R3NLV1p4b3ZpNWhXRmtvbV9Ra0pHU2NhTC1wYVVHRnUzSDVKVmlrMDR1?oc=5",
-      "rank": 8
+      "rank": 10
     },
     {
       "headline": "David Lynch: Andoni Iraola’s tactics could be about to expose this Liverpool star - anfieldindex.com",
@@ -99,7 +121,7 @@
       "rank_score": 80.3,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPOUpiRW00c0Q2eVRtVGl4dWdBV0VQOHZLWGRFWVFkcUhVOUJ6aFB1TGVCM0lyNFhpZVduLWw1aHBkSktEZEhiSHV1WENpT2VzdU90dkdtOUpQREV3N2Y1Zkp1bjNLZFlxZlVjME91VzRGZGtSTFpqTjhqdUt0YVlfemMtVUdHQTBYVzJyX25vRFFTSVdKSzhqRTFId2Q1ZVlqVURIV1lRVnBVQi03YzItT3JmX09RZw?oc=5",
-      "rank": 9
+      "rank": 11
     },
     {
       "headline": "Liverpool FC",
@@ -110,18 +132,7 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://www.bbc.co.uk/sounds/play/p0p4zb9q?at_medium=RSS&at_campaign=rss",
-      "rank": 10
-    },
-    {
-      "headline": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim - readliverpoolfc.com",
-      "summary": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0hJek1CSXMtcW5ST0ZRM0ZEdHdoQWlxeklxdW9xMXpZd0Q4MThheUVSTWpwV0Q2S2E1WmRCRzQxajNTTkgxbF9NcUUtaXJhZUtGV3BPbjNvUTRaYU9oRHRoY3RNaWhneS03MERmS2RNeXNzWmxrVG9ZdzBBM1c1SHlhOXhydUNMcUE4bzctT3Z4RlAyN1RINF8yNDJMazhhcDB2Uw?oc=5",
-      "rank": 11
+      "rank": 12
     },
     {
       "headline": "Luis Enrique promises Bradley Barcola 'solution' as Liverpool eye PSG transfer raid - Liverpool FC",
@@ -132,7 +143,29 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaThjUGtVaWowYU9ZS2t4R0N3SDgxTU9aVFFqbkVhNEFLTVAzVmgwUnRpaml4ZjRwc2E4b2FnV1dQb0oxSHJvN19lRmZ4YVU3WTl4OW41OFIxSkk2MlBKRG1zWFVTRVNNUk9vaHdVWEtBRGRvV1RSdENNYndzREVrbVNNQ0p2OE0yYXoxV3F3TU81aUR4Y0thbGNrTHcwUURpTU5QTWFPOE1fT293eVpuSNIBuAFBVV95cUxNaEt4WVNISS1HYXZHMmExdU85Rm9rdC1QbkVHTmgzVUNuMUtycUd3UWJ4TEhQaFM1dVR5YWNuRlMxNDVsNnRMT1ZXdnh6LTRUUTNhd2RLN1FoQ09rcUxXcFR1MTdkRUJTZTZIQWM3eEd0NFk5RHdDdFdPRDFTNzlyMmQtR05uSFlxaXdKWmVlMjBoUkJuQlVmUFFQQ0E2dk9CbThremZneWE4bHhRUlpxYklGcHFFTGRS?oc=5",
-      "rank": 12
+      "rank": 13
+    },
+    {
+      "headline": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim - readliverpoolfc.com",
+      "summary": "‘Official proposal’ – Fabrizio Romano makes big Liverpool transfer claim readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-17",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOc0hJek1CSXMtcW5ST0ZRM0ZEdHdoQWlxeklxdW9xMXpZd0Q4MThheUVSTWpwV0Q2S2E1WmRCRzQxajNTTkgxbF9NcUUtaXJhZUtGV3BPbjNvUTRaYU9oRHRoY3RNaWhneS03MERmS2RNeXNzWmxrVG9ZdzBBM1c1SHlhOXhydUNMcUE4bzctT3Z4RlAyN1RINF8yNDJMazhhcDB2Uw?oc=5",
+      "rank": 14
+    },
+    {
+      "headline": "Liverpool transfer target set to be left out from squad in positive update for Liverpool - readliverpoolfc.com",
+      "summary": "Liverpool transfer target set to be left out from squad in positive update for Liverpool readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQaUlJS3liNGZ5NFVRTUt2SmxkVVF6X0NCV2FvcjNvMFdCa3VlZ25ENDltVExDTC12M0lHVTNIMlpNeG93eDFFeTdpaGJjMjNXbnN6c1Y0Z1BpcHNaanlteDU1N2VOMUJyRnUwOWhWMHlWRVBGTlc4WHV5UmdSNVY1UGdHNmJxaWxMaEFMZ2wxOTVlN0FzS3Z4cEtXczhaN3JTc1VETkpnZUtQa3YxRWtFV1ltS2Q2M1NETnFXZmhTVXJIZkFBclE?oc=5",
+      "rank": 15
     },
     {
       "headline": "Liverpool transfer target will not play again until his future his resolved - readliverpoolfc.com",
@@ -143,7 +176,7 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjB6TWhlWUVYd2lCNDNGSmthSVNCUEFCTWxJRk50aDhPMEFpTjFLN3lCUldyUEdHUzZIX2xvQjdVaHVtcXlwS1BCRXE3ZmJoektsVUh5cHBWY3VUOGx4UVZabmpEdEcwdWloQURGeHdlYW5qX3dpWGxxNHNlMzdseUVvYzlKTm1PUHhkMVAzRS0xaFphTjlyeU92a2VvQnpqQkdVb1FPa2F2ektxcmc?oc=5",
-      "rank": 13
+      "rank": 16
     },
     {
       "headline": "‘Outstanding’ midfielder teases Liverpool transfer after recent contact made - readliverpoolfc.com",
@@ -154,7 +187,18 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTk04b0MzVmVtcEl3azE5TFZmVTVqUEYxMHNIbUI4bU1BZWhjS3h5TFZBT2x6dlRXVEdTZzhZYzduN2ZmaEtHZ1JVM3pWbVlnUHBDLUZMbXFYbU9sekR2X2ZCYVM5eG1TQXc3ZUhESmlKd2h2NUEybzAxazczcm0zVTdEVENxMnRwY09GZFlmX3FFQUxNRzNkTjhBZGNiQ0xUdHpzMThsRzltaGxI?oc=5",
-      "rank": 14
+      "rank": 17
+    },
+    {
+      "headline": "Liverpool currently not in negotiations over winger transfer - readliverpoolfc.com",
+      "summary": "Liverpool currently not in negotiations over winger transfer readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-18",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PQXJvbkZDT0MtdTV0ZTI5QTRKRlJLdDBKM1BYTW9XR2tJNVY4UHBmV2E4Tnk1cVBtcjYwSmc0M21fcUlXcFpsWk05aVlac0RvLTJhaThKaGhESEFNUWEyU0U4bWFHZWdiT2ZF?oc=5",
+      "rank": 18
     },
     {
       "headline": "Jorunalist offers Liverpool transfer update with HUGE \"0% chance\" claim - readliverpoolfc.com",
@@ -165,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-08-18",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JXzh5ZU5nRXl4VkRscmRBWHBDQnI3LXRkSVNOZnJqRmg2SDJRZm5zRkpnTGZ6cTh4bl9UaDBtNlpjOGRJV21PWEhRNmFHaEJFSVBfN1F6RE9SRW01SUxnSWhBWE5NcExn?oc=5",
-      "rank": 15
+      "rank": 19
     },
     {
       "headline": "Andoni Iraola reaction: Liverpool 2-0 Como, Jacquet, Araujo and season prep - Liverpool FC",
@@ -176,7 +220,7 @@
       "rank_score": 80.0,
       "date": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZnBFTWxCWEU5N0NHbFU1dGJGLWJHenJaTnRrcVY5RElMTVZpLWZtakctM045VWFJTDFFUzE5bEpqMWhSaEVCckpDdXhlcEliOVByYTFoaEZuOENvUWdTdnFTZnFZTVZvcHJLOEtrdXNWTnFWbEJSQnRNX2FpT0Rmd1E0dG90dnQ3TC13Q3lPMm9kSTI2ZG81OWtPQ0JUa1ZoaEFadklZWUvSAbABQVVfeXFMUHJKWkd5N3J6cTZkWFFPNzVhd2Fpdk1DSnlUUnlUa0NKVHhuWDg1OXIyUGJnUGxlWXB4RmpvNEtoM0ZPTkl3WmZ2dkZFRXNkX0lYVzNEYkxrUGdVcFRzSlVGZ1JuWEdYTWhwbW1nMEMzdko0enZuaXVVLVRvNUFXTzV1MnJZMHF0X3VKb2J3ZXVDemlqeVdkRmZwWG5LM1JxY2IzblZ6dDNJNTNoM2ozQ2Y?oc=5",
-      "rank": 16
+      "rank": 20
     },
     {
       "headline": "'No top team plays like that' - Jamie Carragher names big Liverpool weakness under Andoni Iraola - readliverpoolfc.com",
@@ -187,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZFlPbVQ2amc1MUFrMjEzN1d4WTY2UGpsbVhHNnctckpMWE55ZDc0Y3BCcG93bmVtOHlpMDBjYWt1dGtmSmo0ZzBBdkFiZ0Z2OU9HOXhZVUhKQ2pMVEt4ZG1wMkpiZGotWkdnQ1JmRUJlRGhjT2lxZmgxMkVtNnZ2dXQxblNQY1o4UVRqMlowbjZsaFFGdUFjRXB1SmJ4TExfaEl3eFdmSE9Td1FtRVJURmFVQ3pOUUxibXRJMWFNU3F1U1NI?oc=5",
-      "rank": 17
+      "rank": 21
     },
     {
       "headline": "‘Very good’ – Andoni Iraola seriously impressed by three Liverpool players vs Como - readliverpoolfc.com",
@@ -198,7 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQWGJlWTNKZVJGRXAtWmgxXzd5ZXVJdUlaOHAyQ2hHS3FPc0ZTRy1ub2Z0eE1Vei0yeXJPTkZTZ3A1VmRraWdlOXkwbHRkQkRsNzc0bXVhVWN6SHkwUHIwdHNmbkdDVnVUMmZBQnU4TWNsNUFqMFNwN0xUSHJjVVVhdzZtR3lOakp6YW1PWUdrdlZ6SU1PU1BwTnc2OEROLVYyRkZrbWU1NFNPS0Y4V0U2N0pR?oc=5",
-      "rank": 18
+      "rank": 22
     },
     {
       "headline": "Liverpool defender drops massive injury return hint on social media - readliverpoolfc.com",
@@ -209,7 +253,7 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVjVuM1E0Yno2SFgtOTdpZVBGWHBvS3RISzl6aW5qWGJtNW5UZVJtVkgzYmV0RUp5dXJBZXlpNE1qMDZWZVZrbGRpNzJIeGZWX2FhbURPOWhPQ05fSzJ1NmNkazE1UHp2WVUtSnplX29LVGdvalIwU29wRU42MXZFSUJ0YjdHVDNjZXNDM1IzdllmT1ZSWlBaN3NNNkNmLUUzdlJv?oc=5",
-      "rank": 19
+      "rank": 23
     },
     {
       "headline": "Confirmed Liverpool line-up for Anfield friendly with Como - Liverpool FC",
@@ -220,18 +264,7 @@
       "rank_score": 80.0,
       "date": "2026-08-16",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMWxQSTBBa0wzWktWTk80aWh3b0NVTVlQZ3I3bnJKSldJRFlSaVl5MFpNYllOOGJ0UzBfX3VwYW5JVGtsQlpvbmdwMWYyQkNyXzNvQk1qREZJMDJsNHUwSUUteU51eUVhdkJkWDQ4cWNEVnU2TnRmeFdJaGNZSXk2elp0RkZKZ9IBjgFBVV95cUxPV3BZOXBPQkY5blIwRG1JcnVNNGZmaU96dWF5YlZ1eC1KUDB1Q1FrXzF3MUY4VW4xU1lxMkJtRWUzWHRVeHN0dmVTam1UbmJVYTFxcWV4VnNrYTR0VXRIWmVGNXZYaWFrRFU1RlJkUG9qTFd4QXFmaTB4U3ZIWENKLXNOVWNRdFVyNFJ3bV9R?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "Fabrizio Romano confirms Liverpool player left out of squad after reports of a transfer - readliverpoolfc.com",
-      "summary": "Fabrizio Romano confirms Liverpool player left out of squad after reports of a transfer readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmJ2MlhVMnNKRnJhTzVkRlVPSjFnYzRWRTdKTGkxaDh3REdTV1EzTVlRY2dYX1JvQVN1SzFUc2wwclQzRUdKVkVKT2g0SEtMUW1NUWxEUmNFWTRoRjl6NUlfc3ZMN1dxZ3hiWW1TbGZhQ01WZGw0YjRYNVB6M014bUQwNXZoUjBZX3RRWVlOSllhcm8zaU5rMEgwNllmSjZRVWdjSTZWc0JfcFY3QjNmY09VT0g5Uld2VUE2N1NB?oc=5",
-      "rank": 21
+      "rank": 24
     },
     {
       "headline": "Liverpool agree personal terms for huge £195m double deal - readliverpoolfc.com",
@@ -242,7 +275,18 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNRU1FQVN1aXBkWmYwbmtHWjQ5M0dQV3paRzNxVEtBTk1peUZiNzVSMm9nRU5TU21BT3YwVmZlclI5bmQ1ZXYySTV6eWdsLWVfUHNFWk9GdWp1aVZJZEtVNWh2SndIYlJEbmd5TklURHpiR0NOaFEyM18ta3dqSFVoaHFaX3VlekZPV0hDV0htTjlfZXBt?oc=5",
-      "rank": 22
+      "rank": 25
+    },
+    {
+      "headline": "Fabrizio Romano confirms Liverpool player left out of squad after reports of a transfer - readliverpoolfc.com",
+      "summary": "Fabrizio Romano confirms Liverpool player left out of squad after reports of a transfer readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-16",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNNmJ2MlhVMnNKRnJhTzVkRlVPSjFnYzRWRTdKTGkxaDh3REdTV1EzTVlRY2dYX1JvQVN1SzFUc2wwclQzRUdKVkVKT2g0SEtMUW1NUWxEUmNFWTRoRjl6NUlfc3ZMN1dxZ3hiWW1TbGZhQ01WZGw0YjRYNVB6M014bUQwNXZoUjBZX3RRWVlOSllhcm8zaU5rMEgwNllmSjZRVWdjSTZWc0JfcFY3QjNmY09VT0g5Uld2VUE2N1NB?oc=5",
+      "rank": 26
     },
     {
       "headline": "Breaking: Liverpool agree five-year deal to sign Ibrahim Mbaye - readliverpoolfc.com",
@@ -253,7 +297,18 @@
       "rank_score": 80.0,
       "date": "2026-08-17",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcndrdzR6elRRcFRJTjBaX2haUlJfd0hfVExhSUdrNEZReU1adnVrbHozalVTNV9fLThENWwtbkN5b1RnRmppbGRTUkdUc3B3RE9pNXRORnV2MDBGRi01dUFQbnc5bnUyaUtBQnYxZkZaWE1KZERfSTJNa0w0ZGJIWk52TVVfZldyZDN3LXZoSWxJb2wybXNDRUM2cw?oc=5",
-      "rank": 23
+      "rank": 27
+    },
+    {
+      "headline": "Alexander Isak $175M DEAL LIVERPOOL 😱 Liverpool Transfer News Fabrizio Romano #liverpool Ruvo Di Puglia Basket - Pistoia (jqbgw3cFx6) - Mshale",
+      "summary": "Alexander Isak $175M DEAL LIVERPOOL 😱 Liverpool Transfer News Fabrizio Romano #liverpool Ruvo Di Puglia Basket - Pistoia (jqbgw3cFx6) Mshale",
+      "source": "Mshale",
+      "credibility": 9,
+      "relevance": 82,
+      "rank_score": 77.5,
+      "date": "2026-08-15",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1U1B2b3BuV0YwWG5aWkpoS01ZS1B5eEpvOHVVZDVnb1EzSFNUa1hVVDJPSC1qMTU5YUxJekxJLU9DSWp3a3psWGJLMlRDMzdGS0hLS2NiUENQMjQ?oc=5",
+      "rank": 28
     },
     {
       "headline": "Liverpool news as £60m deal ‘99% done’ after transfer request - readliverpoolfc.com",
@@ -264,7 +319,7 @@
       "rank_score": 77.0,
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbzVXM2Fxdk9TMU5BS2o5NjBSNEdBUFJUekFxTUZNelp3NTZ3N0c5SUE1ZlVwN3JqWHlYc3R2NXgwNHNxQWROcnZ3dHVOOHgwUHNpeEp5eGtTLU1VTnl3Yl9WeWlpaC0zNHZLSkxBTFdzdGtNSTllWU9uekxneWdBNnB0LXB0RDdLcldaMjdtOXdvVGlrR1E?oc=5",
-      "rank": 24
+      "rank": 29
     },
     {
       "headline": "Andoni Iraola on Liverpool v Como, pre-season progress and Ronald Araujo signing - Liverpool FC",
@@ -275,61 +330,6 @@
       "rank_score": 77.0,
       "date": "2026-08-15",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNa1d0OEw4b2VOakxXUTdZdjJycE40Y0FwX0hiRE9ES25tWGg1a29sN0hLT1B3QVphellHb0wyQU54NHNjQUNrR2xab0Eyb25iY21pQ01mRmZpYnd2WnlJQWpndXMyTTZIa1k2Rzk4eWJ5cEp2Z0t6NjV0N3hRWnlxY2xhemJDc2R6YjB4M2xfeXphZjNOQ2pNV055NnF2MEtMMzJ0aTRuRE9XaXhvLXfSAbYBQVVfeXFMTmRBc2N3RHE3SDdQSlhHQjJuMnp1QU9kczJTNkwtOTY2Y1dzRnZZNUgzcjdNOXZVMlFmOHNmNGdmY0dXSXBYVjBVU1BaVHhhbzBaSVhfRncxLVUyTGhrY0tNNnU1cHVSVWg1aXFBbUxHeWxGeDVpVEpDSkloekZ6ZjRsb05ha1RTaFZNOTZJaVdNYWZERVZTeEs4VXlrVHZ1R2VSeTNSNm5USFRKV2w3THlrbGhFeXc?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
-      "summary": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWEJaQTBxNXFqZ21HSkdXRlB3WTdhNFlFWl90MFJoUUM5UERvdW5fWTJHbE5sMXJ4UVo5dk1aZ3dXbFJ3UFN1aFVFQm9UUW96MGNXZnl5ZHVnaWhpYml4YnJHLU9YaUlKYThuRS1LUHQ0b1EyUDROc2paZFJ0ZXVjb3VNZ1hTVXRTMmJmRS1tUHBUV0FYRnV3MTRXWTFTcXRyRFVBVmZJVl95Q3FXMEZoMXc0cVJaYzN4UXlmaGlwNE9jbFhBa01IZHI5ckcyMUlOc20zLXBLdTNTc2M?oc=5",
-      "rank": 26
-    },
-    {
-      "headline": "Florian Wirtz on his clearer role under Iraola and the partnership he is building with Alexander Isak - readliverpoolfc.com",
-      "summary": "Florian Wirtz on his clearer role under Iraola and the partnership he is building with Alexander Isak readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-08-12",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWnBzZHdHUUx0a3o5LWJubmJlbnJ1ejBac3N3S0dkdWt5ZnViQW1kdXY1bmpkUUVVZXR6RjZkcDdNUlJUbFhYd2Z1c3NuMkhmZUNtdzlXSFdKMlByYkNqaHdaVUpyMzlRamZVSVVYUmxORGZVV0h3WWFaRW9ZSWlveGl3ZjZodmdHSzVQRl9UcnlQb0I1UHpCVEtwdXBzWVRXUHJiUUpaQThZdzZwa2Noc0JLOWdFUDlzYy1vcDl4bnhFeXFiQW5MRWY2SFRVeUpw?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "‘Player wants the move’ – Fabrizio Romano shares intriguing Liverpool transfer update after star’s absence - LiveScore",
-      "summary": "‘Player wants the move’ – Fabrizio Romano shares intriguing Liverpool transfer update after star’s absence LiveScore",
-      "source": "LiveScore",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-08-16",
-      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOc0hEMlJNUFZkbC0ySUVYV1RIWTV0Vi1LVmVDZHhPOFZDT1RLWTF0TGRSdEZBN3BaLUNBazYyLTM3eW5kR0pFdDVwX0JVVXZrOWZONFB2bTA2cldFTjlCaUd4QjVoZGFFRXlDZi05ZUxOTmRQRWozUjluN1l1YkhxZTRqOVkyT1dOdzRxd3Z6amhBb2duRWlVbkMyLXQyeHJub0NXOUhWemY3bzJZdHp3NUtDdGFkdEFocmtiWUhCdE1LVlZCeTZLZXlKYWJOZEgwc0RmOTdmUG1nUGtWQ1VvaVZ5enZnaHFITFliVUdORGJFZG1hZ0ludU9nMG9fNncwaklURA?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Inside Liverpool’s Decision To Appoint Andoni Iraola W/James Pearce Yungblud (JOvHQwSzMT) - mshale.com",
-      "summary": "Inside Liverpool’s Decision To Appoint Andoni Iraola W/James Pearce Yungblud (JOvHQwSzMT) mshale.com",
-      "source": "mshale.com",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9aT0czeEFEd296ZlRsNFhfZ1RXeVgzdW9FNE1SN1RnR0lZYURHZWNhQ0FGOFU4bGVnczZsYmw0aUpRYU9UdFd5YTlkeW12NkxlZ1BrZnlXZ1RyQ2VERzJSUA?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "David Lynch makes bold prediction ahead of Liverpool’s clash with Newcastle United - anfieldindex.com",
-      "summary": "David Lynch makes bold prediction ahead of Liverpool’s clash with Newcastle United anfieldindex.com",
-      "source": "anfieldindex.com",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-08-17",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQbThuSHhJX1lhYkpoWHdFOGg5SWxGX3NZclNfV2pEb24wMW1qYklTLVJadTBtMm02dmNqQkhiYjNqMzJrMTExcjdOM3ZJOW9XZEdMUnZJNFFObzNoSDg3Um1HdTI3RGJmeTIzS0tTSnVzN2t3ZlRMWkgyVjFYY3BUVVdXbmpPQ0VEWFlJQ3J3cmx6NUdHbEdlWXJ0UnNCR3d6TzZrNXYxNS1URmZ1aGRnQWh6T2RqcDJn?oc=5",
       "rank": 30
     }
   ],
