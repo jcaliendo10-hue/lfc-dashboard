@@ -1,5 +1,5 @@
 {
-  "updated": "23 Aug 2026 08:28 UTC",
+  "updated": "23 Aug 2026 12:37 UTC",
   "count": 30,
   "items": [
     {
@@ -80,6 +80,28 @@
       "rank": 7
     },
     {
+      "headline": "Liverpool can compete despite need for more signings, says Iraola - Reuters",
+      "summary": "Liverpool can compete despite need for more signings, says Iraola Reuters",
+      "source": "Reuters",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM2VucE9ocFBYM0s5dEtaTklKSjI1MEVjNDNVakZjcVBDTGEtMUJDUmxEVmoxY0FTTWJESTktdGpHcnMtaU5MNURUQ0ptZUhvZ3ZsQmF1di0yZFNQX0J0eHh6NV9wQW9Vc252Vkd1MHdJckJXOTVkS1BKMDIzRkRaSmIzU09EUjJuTmNuTnppeGdBVEZMMXVyTDNrT0dMaVAxMDBNc1YySTZEeTVFemFB?oc=5",
+      "rank": 8
+    },
+    {
+      "headline": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+      "summary": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPVlZiMkFvS3hVa3JXYVNxa3plUTlwZklaTElpM0J6Sm84ZmZQNVFGelpyb3IwTGJMdHZkSVUyeUpYNWRLSjJEU3RKTXFiblN4WWkzZjRCaV9FYWc2ajJwOHJ6S2NNbXJmZjZ5Z2ZjOHl2UENIRnZpTTJkLTlZMHVraGJZWlJHWmVNTmt1OWpsWTFQZWlHLUg3UEVpYjJXNUhTaFE5angxWHJObnpRSG5ZQTAycnJkMnp6SFIxMzU2S3BESl9YeU5DM1RnXzR2THhaLTF5bGt0ZmNOWUt0LUdqaw?oc=5",
+      "rank": 9
+    },
+    {
       "headline": "Fabrizio Romano confirms £50m deal that exposes massive Liverpool problem",
       "summary": "Ezri Konsa has completed a £50m transfer (plus £5m in add-ons) for Ezri Konsa from Aston Villa. Fabrizio Romano confirmed the update on X (formerly Twitter) on Friday afternoon. Meanwhile, Liverpool have bolstered their backline with the lo",
       "source": "Empire of the Kop",
@@ -88,7 +110,7 @@
       "rank_score": 80.3,
       "date": "2026-08-21",
       "url": "https://www.empireofthekop.com/2026/08/21/fabrizio-romano-confirms-50m-deal-that-exposes-massive-liverpool-problem/",
-      "rank": 8
+      "rank": 10
     },
     {
       "headline": "Bombshell Liverpool transfer update as Fabrizio Romano relays major Friday decision",
@@ -99,7 +121,7 @@
       "rank_score": 80.3,
       "date": "2026-08-21",
       "url": "https://www.empireofthekop.com/2026/08/21/bombshell-liverpool-transfer-update-as-fabrizio-romano-relays-major-friday-decision/",
-      "rank": 9
+      "rank": 11
     },
     {
       "headline": "Curtis Jones transfer news: Inter Milan sign midfielder from Liverpool in £30m deal with sell-on clause included - Sky Sports",
@@ -110,7 +132,18 @@
       "rank_score": 80.3,
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQWgwX0g0Q1ZhY2VEUVp6Q1E2eXRFQjZWTkhKQ3Y2YlUwWmdwVnVGX2x1aXExdmsySnd4c0kzQ21jV1N1VFM4SWg2U3l0VWs3RXZEUDBfdHNkbEJfckg0dndsNUtyT0FHZ21ybTJIaVpBSXBFSUMxVHRRZ25KZk9rcjdKSGQzM3FQel96TlN2UWRZVUwyUlpHTFdjSXpRTEY4ejAwQVotTmVkMnhGbVdibTJIWDd0TWpEZnNqWVZVOVM0UEdKU3RvYk5vMC1rUEtHZUQxQk8xdVctazJiXy1sQVNYRzQ4S3VlMnhTV3lkaVpnRVlzLUJGbUF2SQ?oc=5",
-      "rank": 10
+      "rank": 12
+    },
+    {
+      "headline": "Andoni Iraola: New Liverpool boss explains his coaching philosophy ahead of Premier League opener at Newcastle - Sky Sports",
+      "summary": "Andoni Iraola: New Liverpool boss explains his coaching philosophy ahead of Premier League opener at Newcastle Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-08-21",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNejFUd2EwVkJjYVhrWEp6ZFh5WWlXTDBEV2FmdzhxNnVfTm9ZSklicWEzeDVFVW5HdDRTVWsyWnpRMkdtWUJ3YUMwdDVJS3k0WmdCRG1yVUtZR01OWVNST2pDUGdoQW9BalFBUjZPam1KWWgxeVA0YVhYdFJfbUt2MzMzanY1ZzA3bzdScnh2MEEzSUI3SFBLYXpVOU1LdHFLcTJmZlhxbFA2S1ZXZmhDajE3WGpIZDFpUFNKZVRPcUpqMGF1YmIydXdhNFlYbERtQklMQUhQMmZ2alpZVWxJUmRiUXpiajN1aE0yd1MtbGRJMXd5Q29B?oc=5",
+      "rank": 13
     },
     {
       "headline": "Premier League news: Iraola warns against writing off Liverpool title hopes - The Guardian",
@@ -121,18 +154,7 @@
       "rank_score": 80.3,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWl91WVJ4Y3RZX0x0WnBmMmk0ZzN4NHl2c05jaDZBQ3ptMV91bzZ4QnE3TzFXME9JM2p4Q3ZDd0RNdkpMa0VhOUpkQi0wa3JjeV9hWTFYVG1TbkFjejF0dVY1ZGdjTHk0aGt6SnRvUlRTR0dZZTZ0NG45ckxXWDM4SG9fZ3ZNeTMyTHNsZHBfdWRKbi14ZnVrRXJWckVZQTVTVFZfblVB?oc=5",
-      "rank": 11
-    },
-    {
-      "headline": "Andoni Iraola: New Liverpool boss explains his coaching philosophy ahead of Premier League opener at Newcastle - Sky Sports",
-      "summary": "Andoni Iraola: New Liverpool boss explains his coaching philosophy ahead of Premier League opener at Newcastle Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPS1RmNFRMdTdVWmZOOGxQSW1vYVZhODBwaFJIektkWE82OEF4Tzd6cVhFWlJLYkhZdGdSSU5hRGREVElUeU15aDluakFNOElLY1E2ZUZPNUNOOTdiN2lYanBNQnY2SFo4TlhuRXpVNEU3SlRkcEVEU2t6WXN4MTJUYzJ0c0tVdVZmZjBFVnBXVTMxWl9TcGFzRWRzNXdhT1FYSG4tbnEyYkl6d29VZlA3U0JVX1gxNWJyY3cyVFVrbGRXZXY3WXFvUkYyM0FkX1kzc202QTZ6LVdEZDJoSUh6U3FWMlJMbHl0eU1hWlZBUThQMkVQV3FB?oc=5",
-      "rank": 12
+      "rank": 14
     },
     {
       "headline": "🚨 DONE DEAL? LIVERPOOL FINALLY AGREE £109.2M TRANSFER! FABRIZIO ROMANO CONFIRMS HUGE UPDATE Perkins (BCtm0aKGiL) - Mshale",
@@ -143,7 +165,7 @@
       "rank_score": 80.3,
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5qeDluZFc1b2JFNlpYaVRUOVpPZTd5eXh1aGJnTllYU1YyOGpDa0w5NnFXOEpOZF9TdDh0eHU3aTlMM3RFRzZSWFBpczdKTVlFcU5oV3lBSU9sZUk?oc=5",
-      "rank": 13
+      "rank": 15
     },
     {
       "headline": "Fabrizio Romano confirms Liverpool are days away from £72m forward deal - Anfield Watch",
@@ -154,7 +176,18 @@
       "rank_score": 80.3,
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNUzlnQllmSXlwcFVucE05alB6V2pLamNIUWI3MDhmX1ZpZXRwYkRVUldiYzhRNXhjMGRHYkxrY1FpLUFNaE12R2dGUUpqMkJTVEJ5bVdRa2ZBNk9zdUpXREdjRnBuUVllRnB0LUFqbXdhZ01qa3pnQjNFVmkwTEpZOVJrUWE3VVVlWkd1NFFLVzQ3emhBM3lfbHpqb19jQ1hKVTJGdnM0WjZGajNNT0JJNjRXZWNzaVNQeVdIYV80M29WdGxvbDVPOVpocVJTVE1nS2Q4VGlxSzhrU0NaV2h3SjUzZFV0eFhy?oc=5",
-      "rank": 14
+      "rank": 16
+    },
+    {
+      "headline": "Liverpool transfer news: Fabrizio Romano confirms African star has agreed to join Reds - Anfield Watch",
+      "summary": "Liverpool transfer news: Fabrizio Romano confirms African star has agreed to join Reds Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-08-22",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQW1IT05NeTduYlFRYjBSWmtNX1kyOVZfamVYNktKanJJVm1QTFVSQU56QzJJZ3NLSlJRVUh0QjZqem9sdEtXaXg1TEdGVlFQUHcwdGFyOVZxM3ViN0hxbkVQeUgwVk5LZ29sMGM0RmdyNGItbFRsbUV1cEtJSFJGM1paczR3Z0NMTnpRckNZUnNUV2hUX19GeV9KQ2Fkd2dtZEhsbDM4S0pXNlhZTkQ3WXc5dl9FQWs?oc=5",
+      "rank": 17
     },
     {
       "headline": "Liverpool could keep Cody Gakpo if Barcola deal fails and consider Minteh alternative if Brighton hold firm on valuation - David Ornstein - Tribuna.com",
@@ -165,7 +198,7 @@
       "rank_score": 80.3,
       "date": "2026-08-23",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZVJBVEtFdnQ4VjktbjhzTzVwWW9CUG83M3ZqTzlrNTNxT2NZMjV2NGhVSlZiUVFBcThndmMxaGhETlBPWFBTbjB5TFo4RllLejRmTldabWpycjVBQmt0ZFVhaXRLVFlFZ3hoVTc3S3FXdkM1RFBQZkNLelZkb1NNYjZPVmgtM2hVSGZ3ejhNNFNueDdUeUFFcjJOaW5rNXl6RHV2d2FjWXBXb3ZHYi1LTmNwU0YwVmdEQi1jZWJyaG5IbVdvMXBZ0gHMAUFVX3lxTFBpWjNrc0pzMFMxLWI4WjhnbTc4bi02akNEZXNZYV9XNzc5dUNxQzFLcWM4OWhkVWtOaEFwOFpHbWMxa2lEUklDa0pSY3FxZFBzdm5iYVlzRXVtTVo5cWJyWlRDRWw2eXZlaTRSazZzQlFPYnB2aFpkTU05NWktZXlYUUFWN1hhWVV1QmNWQ3VyYVVNYkJYeUZtbk11NWtkb0s1b2ViN3hUZ1B5WFRLc2NScGN2bGdLM3ZpNzhaeFdzdFBFZ2NhSjZMV3dwTA?oc=5",
-      "rank": 15
+      "rank": 18
     },
     {
       "headline": "Curtis Jones completes permanent transfer to Internazionale - Liverpool FC",
@@ -176,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPYU55VkpIWFVZbFRKT1F1SjNvTDVSdmJoNGM1bElmeVMzdHpoWkZndnR2QVN6Qm9HaklyMHU4blFSZTV0djNsNl9XSDJIbTB1cktwS1p6Y2NjQ0pvcUZNZzM1MDRrNDQzOEtYMklxNnlhRUNNRGY3NWo0aTMxekR4bTNTYmdFTXV5NHBWZjdlWU1fVGfSAZsBQVVfeXFMTXZXOTJGakVjWUpHZzFMMkVsTWNlU1NWdTA5QkhJTi14LUhqc0Rwd1VhTnZBZnVpTEhkLV83bkhfcGI2RDR3NnpDejBWbWhwT1NUWG9aYUd0VEJGcHdPa1JmNmxLWEZVMDNVM2NPV2ZuNnF6WGM5UjVYMGthUEF6OE4ySkVXNkt5U1RhX0hFcGFhNkRVM0pXM24yeGM?oc=5",
-      "rank": 16
+      "rank": 19
     },
     {
       "headline": "Liverpool's 'next offer' to trigger Bradley Barcola transfer with price set as PSG informed - Liverpool FC",
@@ -187,7 +220,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWk9DOEN4ZG9sakZkSjUzOTBwRmVhNWh3X1JEVUNPdFhOOVNnTWdZVGVjUnFtUmcxUHdvY192X0FhM3R0dDc2djBCczFSeEJXMnEtaEh4VE9SbVFmdGZDVWQ2dGRCUFNwZGtIdTFQNEp1OV9iVGdzX3MyT0tKRGNGQl9YeDFabkFQT29meThfMXJ5bHQyNmZYNG1lMlFGMmtiZ3YxOGUxVnBhYThkbFBn0gG3AUFVX3lxTFA4R3BLVE5lbTVEUFN4UlFZSVppT1FPMnE4QjJGOTR2RktfYzZKZVl6bXdhQzlUOHNGazF5ZE9jcTRhMzh5VnFCLVhybUJQckdnaHFfWG5rVjlQSnFPb0tDYXFNSE8wM3RLWnhieWNoRmFpSUFyWDhoNG16dVdCNlAwN1huNFduanNUX3ZlWFctRnZkLWJZOHpJSkJqUzR5UWFtMjIwMUZiTXpmcHIyYTlUSGRhUG9waw?oc=5",
-      "rank": 17
+      "rank": 20
     },
     {
       "headline": "Brighton send Liverpool 'clear' transfer message over Yankuba Minteh - Liverpool FC",
@@ -198,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWEtaF9JbThsRV9vTkxkMFhSNDQzR0pBTkpjTlE2LWY1bnhFTzBraGVCc25rNzNybGxKNFNIekVMaVkxMld6clBYb3lJV0tGQlNhMWxISkZweU1NYm9tc202MFFNSHFuUU1Od3IzTzAxLUhhUE9QdU8wSl9wRkNCUTc0UmdhS1NSUEFSbHdxeHF6TUFFX1Z4b045YXdfbWpP0gGoAUFVX3lxTE9BdnpHcnZDQnlYdUFlS2ktRG9PaF9SRFBlenFqeFVibTR4bEdkMGp2LU5hOUpjWjRLUS1nejhEcGstakhWeFhic19YMllzcGRuSkFab1Noa1NBenQzV2hRV2JJM1dwMHJKdW1KUXZRZXFwT09vMkFpTU1rNXJ0eU14bHRoNWFUQnhVcFhsb19jc2FrMkQyRENkZ0w3MS1uWlZ3emdUUGVFTA?oc=5",
-      "rank": 18
+      "rank": 21
     },
     {
       "headline": "David Ornstein provides massive Liverpool transfer update - readliverpoolfc.com",
@@ -209,7 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZmxsUER0UjhOdDR0aS1PeGE1dWZqUzVTMGNsaUlXSDJFOVRRUnUzd2ZtU04zdlJkQWZKMktyVFl5UEF0emJndTVpSlVaM2ZwVHpMWWdnMzZ4YVNYdzAtNnBPZWV5MlI4Y1lsS3BiaU9jYXZYTENEYTBBOFVKN21XY25lOTB2RXlfdm1PbWQxQURrMzc3Nmc?oc=5",
-      "rank": 19
+      "rank": 22
     },
     {
       "headline": "Liverpool learn Yankuba Minteh price tag after Brighton reject second transfer bid - Liverpool FC",
@@ -220,7 +253,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSWowaGNjWV9Ld3FSbEVRMmJ1NGRxYmJPV2xfMXVTUFM1OEVSWUU3SGxmNHNwRXVta013RjlDNXFwSWJUXzM2T2p4c0YzZ0JkMWIyZmhmNUhpdlZjbkFuNm5COEhBMXQzZG9BSy0zcG1YTGhjSHlHWTdkZW45cVpiYkRBUm5QZkFRQ1JYYzdjYzQ3NlY1Q3otMWdjbnhqZzByemEyT3hURWFpOTZVcm1iaFMxOUQ5Z9IBvgFBVV95cUxQRHdrTlMySGtZdVVOWlpaM1lFamZTSlBrZU1EaFdIT3pvTW1VSlJrN0ZYd1BwU1ZoSXh1MlF4ekRGTjV0Z2lGWXQydVR5Mm1LYjE0MzB2V1pQcVRCZTNmWm1WZWJKNmZQWDVwZjlCbU1nRXRJX2xzZ0tuSy13S0JFTXRqeXN3RFdILUt0THNaVUpCUEJ6TGRKb0MtODlRVGotbDlwOGpleS10Q0pudDlUcGhNcmVNejhzaEtrcFZn?oc=5",
-      "rank": 20
+      "rank": 23
     },
     {
       "headline": "Liverpool see £60m transfer offer for Yankuba Minteh rejected by Brighton - The Athletic - The New York Times",
@@ -229,9 +262,9 @@
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-08-21",
+      "date": "2026-08-23",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeXYwOFlMUXNJcXlNcEFnTVFVTWFVcmQxb0ZXenJhMU9NRkkyS0JXVnJrRnFZbXNCd2hNMGNrWkk2cEtibkIxa1ZTbmNadUxMTVYwSW5wRE55VDdnUFlKNTZMZ1ZUWTFfSFJqQjRnOWI0aThCMll5aFg4c05URmY2SHAzM1BoTERpZ2M3OEs5VFc1ckxRMFNSVmNqVEZXV2FW?oc=5",
-      "rank": 21
+      "rank": 24
     },
     {
       "headline": "€70m-rated Liverpool transfer target has demanded to leave after refusing to play - readliverpoolfc.com",
@@ -242,7 +275,7 @@
       "rank_score": 80.0,
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNUtYc1NmYXBBOXdEYjN3SldUV3JyMDVtYTBObG16YlRqU2ZtalJTR214U3JFRVV3YjFneEtfeDBORTh5RENsdGM1ekttUXNMSlZuZ3ppQklHb283dFF6NkZQdFc1dlVlbXZCUHFpcVN5Y1Q3MjhPcFlGTkZmLVVsUi1qZDlGZ0lrRW4wdHJ6c0JPTHRKRXJJX0gtWWtnVENkTGhTbXo3dUJudTd5aXA5ZWJFeENwQQ?oc=5",
-      "rank": 22
+      "rank": 25
     },
     {
       "headline": "‘I hear’ – David Ornstein says Liverpool could walk away from £70m transfer - readliverpoolfc.com",
@@ -253,7 +286,7 @@
       "rank_score": 80.0,
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTEdNQWZYRDVTbWI5dHpuX0dqWFYxSGxZMnQ0NXJ2SzMtOVNZTFU2dGVTeE5FVGpwZkhibkZXeFVVUW1tM2dwNS1qZExpN1p1b2RhR1RkTG5jQ0pWNy1rSGh6V2xvUklfOHdTc2ZUNnM3UldEeFFTQ0tCNVg4eFVnVFByVkFmcVktMjFUMVlQZHdaT2tMVHpZczRzd0lJQUJHVk5FaUFoUQ?oc=5",
-      "rank": 23
+      "rank": 26
     },
     {
       "headline": "Watch Andoni Iraola's Newcastle v Liverpool press conference on demand - Liverpool FC",
@@ -264,7 +297,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObUNWN05sQjEzZXBHZWd5OXdvNnRXOTV5R19YZFFwRlFYV29MN2hOVDN5bXpHS2thTFVldkZkMmx5MDFMY1RjZXN1OTVIWUo1MlljZVZwY2Z0c0dGWVM2RGtIV0QwNVlTaUJGaFB6c3JuRzBGWHMwU2pYSGYza3I0R0Vad1dWNXhUXzlxZllkeGxXeklfcFQ1cXBmXzk2N3Zm0gGoAUFVX3lxTE9zY2k1bHlib2ZVZXlYN2pTUU1WUXB5Y1l1cGE1T3V5UWtpTlM1bnlkNmp6YjMyLS04VlhfUkpFNEo5UDdFdm94S2lZdlhabG1EOWhhTmxpZXMxb1NST2dRMHM4NmZnUlFOVHZPZXItZzRaSnBHbG9VeHdwc1Q0eDVjcVZsTWhRbjYwYXNjbG9ETzV2NXVuTURZeFNDTktxbWVpMWFEOS1MWQ?oc=5",
-      "rank": 24
+      "rank": 27
     },
     {
       "headline": "Andoni Iraola reveals Liverpool vice-captains for 2026-27 - Liverpool FC",
@@ -275,7 +308,7 @@
       "rank_score": 80.0,
       "date": "2026-08-21",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOdnNMVGVRRmlZNFQ1RGt0MzhtM2ZiWldid29vYTFxSHA5MlZIN1RXQ2RMRG1ZYVJLTmhDZjc1eG9TQ3ZVX3ViYllqYmd4U29aUjJGdHo3YmtWbkQwZ3NYNHZDRVRIS2pudVF5M3owdXZzNkRITE05ck9mRFQzU0Z6bmt5R3hNNTI5SG5pajNkb9IBlwFBVV95cUxPSTdJcXJjQVBZdmphTlFnMFhXVS1JdmZQWnpfQUZQVXB6dW5Wclc1MnBNeDlzOU5hVnFjSEdxNDNHbWk3cGJMSk53aXctTnltcXhuZndiMEI1NWRKNG5ZSFBJT09aakFWeEpCbS0wb1FCNXhCVFpWUkdUbklHWDhNMzlmY1FTMkJveVo3VjU2cGNRU0UxLW9F?oc=5",
-      "rank": 25
+      "rank": 28
     },
     {
       "headline": "Milos Kerkez interview: Newcastle opener, second-season aims and Andoni Iraola's system - Liverpool FC",
@@ -286,50 +319,17 @@
       "rank_score": 80.0,
       "date": "2026-08-22",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPd3UtbEJEM3V3UThkeWVvUWllWk5jS2tVMG5QckNtXzZWRlhLRUR3aWtLMVF2Q29YYzkteW5CRUJJQ3hFOFIxUjg4VVEta2VnRmhUTEp0V2NGZ1ZfM01nOE9qZktxNE43eVhNZzY0REViNXdEaml3NWtfeUZxT1RZeFgwZjhmNEJaR2ZfdndVejB4Nk5hTUdOYkZUcmoxX21sM0l0eXRDaWZsdlFIa01QUGxDVXRhbktw0gHAAUFVX3lxTE5IaHBEaEM5RXhUQWNfOUlDM2VDMzBkQXFycjBGeUF5a1daX3lNSVdGSmdBcWZERWRyd1Y3eXJpdUJWald6UER2b3NHa3JiYVJ4aV9saWVKZThiYlJZTVpIbE02emlzU0tqNDJQVmwwXzNZVHBGaFdoZkFVQnc4Q1NJOUN2N0lzOEktTlZaS0xiS0k4bS1uY3Q5MzBzNldYY2JHdlBGVXVzSWcwUF82dU5RNjZ0WG1VRURublczTDdNbA?oc=5",
-      "rank": 26
+      "rank": 29
     },
     {
-      "headline": "NOW: Watch Andoni Iraola's Newcastle v Liverpool press conference - Liverpool FC",
-      "summary": "NOW: Watch Andoni Iraola's Newcastle v Liverpool press conference Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOeVpKUVduOXVGMnBydF9uaWVkeVloNEVaZDdsOTh2bjMzbHAyVkVBOHdnODRKS2hYcTk5NGdYeExJbUExTnRlOG01NTVjN2gxMGJwNlVtV1JfQzYtaEdaSi1XTFVPYXppVlhqdExyT2RKSjQ5U2lONFRlZHF5cFExLVlFX0xuYXhfbm1ORzh4UWk0amdwUmVQV1g5ZXBhRTcxay16QtIBpAFBVV95cUxOeVpKUVduOXVGMnBydF9uaWVkeVloNEVaZDdsOTh2bjMzbHAyVkVBOHdnODRKS2hYcTk5NGdYeExJbUExTnRlOG01NTVjN2gxMGJwNlVtV1JfQzYtaEdaSi1XTFVPYXppVlhqdExyT2RKSjQ5U2lONFRlZHF5cFExLVlFX0xuYXhfbm1ORzh4UWk0amdwUmVQV1g5ZXBhRTcxay16Qg?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Andoni Iraola’s impact at Liverpool: Leading training sessions, Formby home and fewer meetings - The New York Times",
-      "summary": "Andoni Iraola’s impact at Liverpool: Leading training sessions, Formby home and fewer meetings The New York Times",
+      "headline": "Andoni Iraola’s impact at Liverpool: Leading training sessions, Formby home and fewer meetings - The Athletic - The New York Times",
+      "summary": "Andoni Iraola’s impact at Liverpool: Leading training sessions, Formby home and fewer meetings - The Athletic The New York Times",
       "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-08-23",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNT2tIWWplcWJ2MWN2ZWtQWmpUQVZJZ2M4aUZsM3dIOGNhZWVQNGpIQm5zZS1tcGN0Y2Q3ZkxiaFdEWktXLXEzUnVTNkdVX0NrbE5XM1VxOFR3NlpWMXVXdC1VaWVObGtMb1BPUTRqbkYzcFNQQWg3bl92cFYzZEJRd1d2SzJabFIwbVc1dzRn?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "‘Dangerous’ – Andoni Iraola blown away by ‘special’ Liverpool player - readliverpoolfc.com",
-      "summary": "‘Dangerous’ – Andoni Iraola blown away by ‘special’ Liverpool player readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOV0xsNFhWUUJqZ0xuakh0c28xNExfSlZMNVpNVG9PazZqMHc0b00tMUI0eGpfa25lWkZFcVdHbkl0MW93ZFZrM3ZBa0ZOUmJHTnJvQTlHeTdxemVsQzZWLXh0S0ZRbXdGcU1OeDdBTmlYZkp2NElkazVUcFo4MEl6cC04dy01VUtfb0xvRlhzVTkxeE1QMHVaQTN4NkY?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Andoni Iraola press conference: Newcastle United vs Liverpool - BBC",
-      "summary": "Andoni Iraola press conference: Newcastle United vs Liverpool BBC",
-      "source": "BBC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-21",
-      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1ocGRJeU96OE1GbWJXYmk4b1d0elF2bWJFdlJpWnk1a1Q3azczbFNTcGw3ZW9IOG1vanZvQXM1anNQZ21uOUlaYkZnbWE2bTNMc0Z3TVlpY1lkMmk1T1ptTF9wanUyaHI3ZFE?oc=5",
       "rank": 30
     }
   ],
