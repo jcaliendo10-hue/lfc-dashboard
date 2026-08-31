@@ -1,5 +1,5 @@
 {
-  "updated": "30 Aug 2026 22:25 UTC",
+  "updated": "31 Aug 2026 03:57 UTC",
   "count": 30,
   "items": [
     {
@@ -102,6 +102,17 @@
       "rank": 9
     },
     {
+      "headline": "Liverpool 2-2 Nottingham Forest: What Iraola and Isak said - BBC",
+      "summary": "Liverpool 2-2 Nottingham Forest: What Iraola and Isak said BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KRGIwcjhaTTBIMk1RY2MyYTJ1Z202TklvY0xBVEdkeGJrOFR3RVFINVdJSHhjc0g2VHhFUmJlZXBSS0dOdkJpbXN3QUFTVzEyQUZ0LVl0MEdvMG1uUWJyX0hqX0pjRFU?oc=5",
+      "rank": 10
+    },
+    {
       "headline": "Cody Gakpo transfer news: Manchester City open talks with Liverpool - BBC",
       "summary": "Cody Gakpo transfer news: Manchester City open talks with Liverpool BBC",
       "source": "BBC",
@@ -110,17 +121,6 @@
       "rank_score": 85.0,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53bUVqYzBTcERIM3RSdFJIeFN6c3VUNGUwMWFkbGs2YU1jR2k3QXkweG03S3VrMzh3S3pqdVRXSUFEVURNYVQtUTNrNWd3SXdDRmdxdGNxSFdxX3hQZm5BU0p6cnlNNzJJaGc?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "Andoni Iraola on Cody Gakpo’s Liverpool future: ‘You cannot guarantee anything’ - The Athletic - The New York Times",
-      "summary": "Andoni Iraola on Cody Gakpo’s Liverpool future: ‘You cannot guarantee anything’ - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVM5ZGJsUEFSSGxUanNtVS1xLW53Z0w3WEFtTGgwYUxPVTllbU9oWU5aUEhCOTFvS1lDNEpwMEo2NkFwem04aUxwYk9zVFBDWVQ4NDh5V1V6X3NibDNUUkF3Y2Q5TnJLOU91V0h3NnBDalhpalRkVXFHdnJBWUpVYXh0eDJIOV96Z3hUd3F3TWk?oc=5",
       "rank": 11
     },
     {
@@ -146,17 +146,6 @@
       "rank": 13
     },
     {
-      "headline": "Manchester City interested in signing Liverpool forward Cody Gakpo - The Athletic - The New York Times",
-      "summary": "Manchester City interested in signing Liverpool forward Cody Gakpo - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-28",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcXJ2OEoyQ0VUUG5QTXY0RnE3bk1vNkFzekdzRm5vTmc1XzFUSXpvVEtQdzR5UFo2WHVDRzJsR21oZ0VqUnQ2Q3NfaUNlaVBKaGl2TFBicGVVWlBwbGpmYjJqM2IzU2xNR0NjT0Zyby1pcVJQdUNJSXlCMmRLTldQdm13eDZmS1QzMXBfcjlFQU5XRktNdHc?oc=5",
-      "rank": 14
-    },
-    {
       "headline": "Steven Gerrard slams Liverpool trio as Andoni Iraola's side battle to draw at Anfield",
       "summary": "Liverpool were held to a 2-2 draw by Nottingham Forest at Anfield on Saturday afternoon, with Steven Gerrard not holding back in his criticism of Frimpong, Mac Allister and Gakpo",
       "source": "Liverpool Echo",
@@ -165,7 +154,7 @@
       "rank_score": 83.5,
       "date": "2026-08-29",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/steven-gerrard-liverpool-forest-result-34539031",
-      "rank": 15
+      "rank": 14
     },
     {
       "headline": "Liverpool agree £120m deal for Bradley Barcola after breakthrough talks with PSG",
@@ -176,7 +165,7 @@
       "rank_score": 82.2,
       "date": "2026-08-27",
       "url": "https://www.theguardian.com/football/2026/aug/27/liverpool-bradley-barcola-psg-transfer-window",
-      "rank": 16
+      "rank": 15
     },
     {
       "headline": "The big transfer stories to follow in final week of summer window",
@@ -187,7 +176,7 @@
       "rank_score": 82.2,
       "date": "2026-08-27",
       "url": "https://www.theguardian.com/football/who-scored-blog/2026/aug/27/transfer-window-barcola-alvarez-fernandez-gakpo-liverpool-arsenal-manchester-city-spurs",
-      "rank": 17
+      "rank": 16
     },
     {
       "headline": "Newcastle United 2-2 Liverpool: Premier League – as it happened",
@@ -198,7 +187,7 @@
       "rank_score": 81.3,
       "date": "2026-08-23",
       "url": "https://www.theguardian.com/football/live/2026/aug/23/newcastle-united-v-liverpool-premier-league-live",
-      "rank": 18
+      "rank": 17
     },
     {
       "headline": "Bradley Barcola transfer news: Liverpool reach £120m deal in principle for PSG forward - Sky Sports",
@@ -209,7 +198,7 @@
       "rank_score": 80.3,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdTNZWXhWLUFCMUdpZ25xQnBnN01KcUVnSXNCeFgyaV8yMERLRk55NVpfOFBBQVZITTh2czRDblFQQkZYcGRXZnZmNG5nSmRhU0VUWTE3RzdhNG9TN2dvTHhRV2RuS0VxX3FkNTJmTGItY19FUVA5NUVZRE12SC1JS3Z6SFBpUkZueGRvNHNUNDQ5UjFxSUVvUGo2Nk1MWjdXa3pWUzB1STFnSXZLQkJMU2dpY1NDNmNhbFB6Zm0yNnFISU0wMmlPbExVUXpaLWs4YU1JczkzNkE?oc=5",
-      "rank": 19
+      "rank": 18
     },
     {
       "headline": "Bradley Barcola set to sign Liverpool contract to 2031 after PSG agree transfer worth up to £123m - Sky Sports",
@@ -220,7 +209,7 @@
       "rank_score": 80.3,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOanR2TVRUYnA5SzBMNDczVGRVeWFleUZCNjZFZ3hkaXFtTWc4eVpvQ0VJNjF0N2ItWXdsZXNmNXhjcXZhV1lDYmUybjU5cFdaYjVGN2JwNWp5aTh3Uk1kVnA4MDRVU1VILWllMjVnRVFaSWZ4Y1pEM1RZU21ZSXAtR0MzZHhuLW5tN3BESWhEZjl0U0tEMDQ1bThjODFuQkFZQTFEM1l1NGF6VTYtR0hhOXd5RmtKNm42R2lQTnh1d25qV0s0TGFmT0oyZ3d1ZkRqY2FuSXVmelZKMzRkWEVaM0N5YmhKUExE?oc=5",
-      "rank": 20
+      "rank": 19
     },
     {
       "headline": "Cody Gakpo transfer news: Manchester City open talks to sign Liverpool forward - Sky Sports",
@@ -231,7 +220,7 @@
       "rank_score": 80.3,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWHVYTDlwRUZuWEt6NjRrLTdEc3dzdW5Qb1F6QW5EbTg2Y2RWTGVMNjVFOGFJZkR6RGhuX2VxYXVSZUwxQTZJYnVQLUZEU202S2hzOFNtdXpvQ3ZNUHFCNXR0bXEwM29YMUQ1a010cDR6QVR4Q09KeDlwY1laLWdaWGJLVjJnOWxCYnJqeXBUX3A5VWVlbWVxQWJuN2VzMk9JaFZ3YjJyU2lmRFY2UlpsZGVnRWFQRWp6VEVRclZXd2t5bDhMN25vS2xKSGs?oc=5",
-      "rank": 21
+      "rank": 20
     },
     {
       "headline": "Fabrizio Romano confirms contract green light; Surprise Liverpool deal imminent - Yahoo Sports",
@@ -242,7 +231,7 @@
       "rank_score": 80.3,
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXhfNUxEOGlWWGRlZktpSjRHNnI2SzJ3RnZ0R1hOeVR5MEhrY2lXTXVITncxTTN1UTdPc2FIQVBWa2NuYXR4SFpvRGFGMk5nVVg4OWhYa1d4a3lhNXlOOUYzRXhfNUZXTnlLNTJHcmlsYzdULTF3NzF1dkY0V0xkQi1sU2NJX2pQUzFYUTZRMFc4UQ?oc=5",
-      "rank": 22
+      "rank": 21
     },
     {
       "headline": "🔴 CONFIRMED! Liverpool Secure Bradley Barcola On 5-Year Contract | Fabrizio Romano Transfer Update Bangladesh Vs Pakistan (JQuNgHgGOR) - Mshale",
@@ -253,18 +242,7 @@
       "rank_score": 80.3,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1GOW15U0g2VDF5ZWp3ZnN1R2Z3YmRORFgwdUR6RFhBbV9VME1fUnBuSFVraGJtcnlxQUZ0QTFiU0dZZlh4aHJ4MjdkdFB3MThrS2kwd1RUUTBRQUE?oc=5",
-      "rank": 23
-    },
-    {
-      "headline": "Fabrizio Romano teases surprise new Liverpool transfer - Anfield Watch",
-      "summary": "Fabrizio Romano teases surprise new Liverpool transfer Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcUJQMktBdGFoNXpocGlQLW1ZTGV2V0hnTlkzVlR5dUlDdDBCZVJySE96ME9sSUxhN0pDR2NMZHdER3ltYzlNMWhsUW1YaFBWU0ZUTWNfZWxZMEpLMFhzd01xbV9LTlRpT1p1SDFsTVdydmxCY3pjTXZGbHNkaU5UOXlGTU5qVHV5ZGNtWXB0cDJteDZwaUk1S3VVOWpvemJIOWZoZDhROA?oc=5",
-      "rank": 24
+      "rank": 22
     },
     {
       "headline": "James Pearce: Alexis Mac Allister Liverpool Transfer Update After Man City Interest - GiveMeSport",
@@ -275,18 +253,7 @@
       "rank_score": 80.3,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPN0pISVZhenp0NmlycVA5VW5CdnR0U3pCbnRkQlNNQV9kdmJsbTA0ZjA2R1FIZUFlTmhha29Kd0tXNHlpVG9nNTV6SlNrUEtTX01fMUFHdTNwVXBiTjNwc3FNUlZFMTJkOHlqZDY3R2EwUDRCVjExdHZPZWVZd0xua3NVTV9YRDV0T05R?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "‘Done deal!’ – Ornstein explains details behind Barcola-Liverpool transfer - TNT Sports",
-      "summary": "‘Done deal!’ – Ornstein explains details behind Barcola-Liverpool transfer TNT Sports",
-      "source": "TNT Sports",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPYmNwOWJLNy03SW5qRmFhUDAzY29wY0JCSVkyQU0yNjBLVlUtZkowSDdLSmFNSm5DaHhuMDlfcDdLQzhpRUp1YlV6dmxLNkZxM2wxbjVQTEM5eWZhdDZDNnIwVjJPYTR4V0NyQmtxVGdlLTJvRW9odVpTWDduSExsWnJtM2FnNVNubFdITzNaRUV0b2c4NEM3bVFNa0h0VWtqTzdEcS1wWUFlTXpwUzVVeXpZYXlfTFdKUGFLUmJ4LWNKQVR6NHNvSUctUEdJZHA5aW4xd002M3RBSlNraWxYc3pCNlp4WE9aaTFyUXlGVk4tQjNtQ01ia01jcHlmald5ZElZajEyX1Awdkk1a1NmYzlvYWRzSTg?oc=5",
-      "rank": 26
+      "rank": 23
     },
     {
       "headline": "Liverpool FC",
@@ -297,18 +264,7 @@
       "rank_score": 80.0,
       "date": "2026-08-29",
       "url": "https://www.bbc.co.uk/sounds/play/p0p70bd6?at_medium=RSS&at_campaign=rss",
-      "rank": 27
-    },
-    {
-      "headline": "Bradley Barcola set for Liverpool medical as £123m transfer from PSG edges closer - Liverpool FC",
-      "summary": "Bradley Barcola set for Liverpool medical as £123m transfer from PSG edges closer Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-29",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnl2dFRuNXN6RFl6YXR1cFpFWmpRSDRtYjhyWEt6MWRsQU40RWZmSUgwR2ppSUhhVzRPY1p6Y0NsUENCQXoxU3hJZFdEV2ZUc1JPT2dDMDlRYXNiOWxLTE02SGY3ZUktcnpWcVZLNTJjMlFBVENidkxqOVBJcnFOZ0Y0eEVJRkVFRDRRSm9nTjE3WmthSTE2dHZ3T3lMeldpWlBkRTNR0gGuAUFVX3lxTE1sRUFiazFOVk5mTXQ3UlNTMGlMV3g2YlJNTDVDR1RBWlRZbUIyZU1RanZLXzV6QlZTajItcWdBNHBNTU1vTzctZDhmTmdKYUJCaUdFMFBpS2RNN045VnJTcVJrQkVwMzMzQUFreEQwOUFwcUs1d18yWkJJRmJkSmdTY01KYTFwWThvZ1EtcDFOVW9hQkdiMzJ3enRzcEw0RkF5ckppY1JNcUhBQlhtUQ?oc=5",
-      "rank": 28
+      "rank": 24
     },
     {
       "headline": "Liverpool 'accelerate Ismaila Sarr transfer' and get crucial green light after £50m bid - Liverpool FC",
@@ -319,7 +275,18 @@
       "rank_score": 80.0,
       "date": "2026-08-30",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzBxTFY4ek5Db1pxXy1sTWEwS081aHpOQW5LcUViR0FoX19CQ3Jaeng0SG9jcEZQLW5FWjZtT2Z6ZlF3MGFFckxoX0RLV0FIYzExLV9mOUdhUzBfaVlDdWhhRGRrZDVLaVk5TlNnU3UxeXp2dTJGdFhzVUxfelpFSkkzT3VnUXdIc0xSdmFFcWhiT25mREdMeWZYMDJZam9IeHdyWUNNdlE4ZnlPb3U3aWFzd2VlNk1NOXhN0gHDAUFVX3lxTE13TVdQN3pxS3VhM2dici0zNWV2SDVyV2E3WGJJMWs5QUpUZF93ZldReVFDc2tJT1BDXzhXSEJRY0N0aWVDVFk5V3pBbkY3bW4wanM3QjNzODdONF9FUFVSci1pZWt0RDBvZnZoRUhjd1dRMmY0dWtiNVctUjRQSV9kV1Y3dzU2eG1LVk9zY0htRjBoS1VUdW9haE04UnlwQWZybnJMZXFKUDdEb1llZlNuYmdycE1qdkpEd3RlS19taUtfOA?oc=5",
-      "rank": 29
+      "rank": 25
+    },
+    {
+      "headline": "Bradley Barcola set for Liverpool medical as £123m transfer from PSG edges closer - Liverpool FC",
+      "summary": "Bradley Barcola set for Liverpool medical as £123m transfer from PSG edges closer Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYnl2dFRuNXN6RFl6YXR1cFpFWmpRSDRtYjhyWEt6MWRsQU40RWZmSUgwR2ppSUhhVzRPY1p6Y0NsUENCQXoxU3hJZFdEV2ZUc1JPT2dDMDlRYXNiOWxLTE02SGY3ZUktcnpWcVZLNTJjMlFBVENidkxqOVBJcnFOZ0Y0eEVJRkVFRDRRSm9nTjE3WmthSTE2dHZ3T3lMeldpWlBkRTNR0gGuAUFVX3lxTE1sRUFiazFOVk5mTXQ3UlNTMGlMV3g2YlJNTDVDR1RBWlRZbUIyZU1RanZLXzV6QlZTajItcWdBNHBNTU1vTzctZDhmTmdKYUJCaUdFMFBpS2RNN045VnJTcVJrQkVwMzMzQUFreEQwOUFwcUs1d18yWkJJRmJkSmdTY01KYTFwWThvZ1EtcDFOVW9hQkdiMzJ3enRzcEw0RkF5ckppY1JNcUhBQlhtUQ?oc=5",
+      "rank": 26
     },
     {
       "headline": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
@@ -330,6 +297,39 @@
       "rank_score": 80.0,
       "date": "2026-08-29",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
+      "rank": 27
+    },
+    {
+      "headline": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic - The New York Times",
+      "summary": "Liverpool finalise transfer agreement to sign Bradley Barcola from PSG - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdjUzSmJnZXh5YVV2Z0dCYTg3dW9kb1BTczEwNnNyOGc0eUpleXRCbFRuZ295bzk4bWw4OGhPcXhhOU1CWE4xVjBIOE1ranR4SGtSc005V3VwQU1fVktsb0E4eDdKaFFjNElEanE1RUlkREhab3pKNXh1aEJWaUhRVXIxMjkxMWw2YWtFVGNhVzFfQ25TRlE?oc=5",
+      "rank": 28
+    },
+    {
+      "headline": "Andoni Iraola press conference: Liverpool 2-2 Nottingham Forest - Liverpool FC",
+      "summary": "Andoni Iraola press conference: Liverpool 2-2 Nottingham Forest Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOTBsNkJCM1A5QVY0S1g3LThHaFdHMVZFNkpFSkx6RC1qdndqQmV0VUdXR0hWb0s2Yzd3WVp1dm9mSHBnRVNic2VjNDBMTzZCVl84eWdZV0MxaWtvQTBiXzFSc3RuWUhiUUhjRmtmeDJUQWp3bTJSak5id0NmcUhmaFRMSEdOclJ2dF93RmtQemttN2ljZ3kzOUROSdIBowFBVV95cUxOVDZKX250Z05zSm1MbjRIbzRrZlU4Umt2akkzN2h2amtZRkpuR0lvNEFSMHN5eWFuUHVtbEgzWmVkRWUzTDZnNUlsTlE4Q2xJWDgtRzRpOFhkSGhFMWVpTzlOdmFJTldNNDBVV0NLUkpzdkkzZ1QwSl9wSkxnU2F5N3VWb25yUVNqckszVUdHMzBzQWZjeWJ0TnFtY1BfY1BYeVhz?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Liverpool 2-2 Nottm Forest: Watch Andoni Iraola's press conference - Liverpool FC",
+      "summary": "Liverpool 2-2 Nottm Forest: Watch Andoni Iraola's press conference Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-29",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUXZzejFod1ljUU8yU0p5aEYzVXBPMnQxQ2NDN1N4amNxZk9XZ1E3MVJMSlVPMVY2QmN5c25MSTVWWi1KUHdxTzVoX0ctZy1Ed3FyLW5YUEhUNmlmU1ZkbGY4SHJYVnk3dEwzYmhwemRta0lxUXpvMU9jYVBTQXI4ek1PVjV6ZXA4aVJVS2RuNXNWQ0JZWkVCRnYySkRSZ9IBpgFBVV95cUxPMDJMa1F4XzZDRjlLdHRLOEZlRUtRSm1mZDI5bW52QmFZZkEtc1FkQU5kcHRjaFpaM1hBUmJubWRZaHJCN1VELXMtdlJjTzlSZnpfRXdtMnJWSzg1NS1DNzlmVFI0eXQ2bVM4WEhpZUJwSTJ4VGZ5T2lzUHRMRDBlSmkycER4UmREcV9FaVZnalhKOVBROTBuZ181YlhPM3J5WnBBOEhn?oc=5",
       "rank": 30
     }
   ],
@@ -401,7 +401,7 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Medium",
-        "mentions": 10,
+        "mentions": 8,
         "source": "readliverpoolfc.com",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUNnRTdxX2tzZThDS3NFbGVCODZQYUNSY2dnMDhBWlJjd1ROaDQ5S192S1F4SjEwMTNvdmpfM2JEZnVPTHk0N2JMa0lldlpXX1FwYlJyc01hNnUxX2VOcUxhbjZzdFN2RHkyNURhOTBUSXlkeTZ1Q0Rpc2RVZDZBRFl1LUthVms?oc=5",
         "date": "2026-08-30",
