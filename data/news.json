@@ -1,5 +1,5 @@
 {
-  "updated": "01 Sep 2026 09:12 UTC",
+  "updated": "01 Sep 2026 16:08 UTC",
   "count": 30,
   "items": [
     {
@@ -14,17 +14,6 @@
       "rank": 1
     },
     {
-      "headline": "Liverpool Transfer News: Van Dijk Issues Gakpo Warning - readliverpoolfc.com",
-      "summary": "Liverpool Transfer News: Van Dijk Issues Gakpo Warning readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 90,
-      "rank_score": 90.0,
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUNnRTdxX2tzZThDS3NFbGVCODZQYUNSY2dnMDhBWlJjd1ROaDQ5S192S1F4SjEwMTNvdmpfM2JEZnVPTHk0N2JMa0lldlpXX1FwYlJyc01hNnUxX2VOcUxhbjZzdFN2RHkyNURhOTBUSXlkeTZ1Q0Rpc2RVZDZBRFl1LUthVms?oc=5",
-      "rank": 2
-    },
-    {
       "headline": "Fabrizio Romano claims Liverpool’s ‘favourite candidate’ to replace Gakpo wants Anfield move",
       "summary": "Fabrizio Romano has named Liverpool’s ‘favourite candidate’ for their next wide attacking signing if Cody Gakpo were to leave Anfield. The Dutch winger has reportedly decided to join Manchester City (The Athletic), with the Italian transfer",
       "source": "Empire of the Kop",
@@ -33,18 +22,7 @@
       "rank_score": 89.8,
       "date": "2026-08-31",
       "url": "https://www.empireofthekop.com/2026/08/31/romano-names-liverpools-favourite-candidate-to-replace-gakpo/",
-      "rank": 3
-    },
-    {
-      "headline": "Virgil van Dijk’s message to Liverpool chiefs over Cody Gakpo transfer could not be any clearer",
-      "summary": "Virgil van Dijk has publicly implored the Liverpool hierarchy not to sell Cody Gakpo in the final three days of the summer transfer window. The Netherlands winger has reportedly decided to join Manchester City, with all parties understood t",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "relevance": 95,
-      "rank_score": 89.8,
-      "date": "2026-08-30",
-      "url": "https://www.empireofthekop.com/2026/08/30/van-dijk-gakpo-liverpool-transfer-plea/",
-      "rank": 4
+      "rank": 2
     },
     {
       "headline": "Premier League: 10 talking points from the weekend’s action",
@@ -55,18 +33,7 @@
       "rank_score": 85.1,
       "date": "2026-08-31",
       "url": "https://www.theguardian.com/football/2026/aug/31/premier-league-10-talking-points-from-the-weekend-action",
-      "rank": 5
-    },
-    {
-      "headline": "‘Stay tuned’ – Fabrizio Romano teases possibility of ‘surprising’ last-minute Liverpool transfer",
-      "summary": "Fabrizio Romano has advised Liverpool fans to ‘stay tuned’ for the possibility of a ‘surprising’ transfer to Anfield in the final three days of the summer transfer window. The Reds are reportedly on the verge of completing the marquee addit",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "relevance": 90,
-      "rank_score": 85.1,
-      "date": "2026-08-30",
-      "url": "https://www.empireofthekop.com/2026/08/30/romano-teases-possibility-of-surprising-liverpool-transfer/",
-      "rank": 6
+      "rank": 3
     },
     {
       "headline": "Signing photos: Bradley Barcola completes Liverpool transfer - Liverpool FC",
@@ -77,7 +44,18 @@
       "rank_score": 85.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOelVnNDJtaFNZbVNqVFZZQnBfQmNuWFN3amwyM2xULXdXMlFQaHZfSFpiQVZEM3JfWWxnUDFNazYtUFJTS3ZIVlhFRXhJYzBvVUtENlpyUHNmTzk4VGl0VEJjT2NKcHl5Mm02aHYwcGJPdlUyY3JwOXhXbTVjSzZGbHozblpHWHRzd3RfdjFPRm5NdmliS05Z0gGfAUFVX3lxTFBFb3U0VHVqT0gxZW8tdm9UbWs5MWptYUVRQU91NFN2X1BJT1dvOFBNUHY5dEZvSm5Pa2R1Ul9FWWJXbHNId25qV3ZOX1E3aTdIblJNdGNMWTlNYmIzUkVWVmlQbVJweUY1OGpES2RjMjRBSVFmZDBSZG1STExudGh0N0Z0TC03MlRrVWc2N1lvTUVTUzRLQVhObXFOb0tpSQ?oc=5",
-      "rank": 7
+      "rank": 4
+    },
+    {
+      "headline": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic - The New York Times",
+      "summary": "The Transfer DealSheet: Latest on Man Utd, Arsenal, Liverpool, Real Madrid and more - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-09-01",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQTUd4VVA5eHlnRmZnWnE0QzkwWVpIdEx3WTgxU3A5bE15emdLczN2YU5MTTIzdFZvTDNqS2NxYU5sd2QteHFvMXBkekNEUzFyNDZfX0UzMFFaaDdQMG13aGRBSTVsNFBhS1NVdUVsQlhITW1Ia1hzZ2xueTlka2hRUHZWT3NsQ2NudU11S1VFSGtKQnVpZUl3ZUhvZUFkZ2xTd3d4TktQOE1QT1dNT2tGSmd4a0ZlZzQ?oc=5",
+      "rank": 5
     },
     {
       "headline": "Liverpool make contact over £100 million+ Premier League winger transfer - readliverpoolfc.com",
@@ -88,18 +66,7 @@
       "rank_score": 85.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOZU5EZzBNb2g1XzEyQTBmeW9yX3oyVzMzR3hoYzJKanVhVDhGbktOalhHeGtSbWxDQW9TNzFZd2FqOENEZXFUUHVlLVcwWDJwalJPeUNjOGJkVG1XV2x0UEx0Z1JEcDNWSU5leV8yME5UZVlxeUNGV1dqZ05ncndRaUs3bk95SXhZNkVSNTNXb3pGZFRwMDhxQjN2a3gxYVVWblBoVExBUQ?oc=5",
-      "rank": 8
-    },
-    {
-      "headline": "How Andoni Iraola Can Solve the Dominik Szoboszlai Midfield Puzzle at Liverpool - readliverpoolfc.com",
-      "summary": "How Andoni Iraola Can Solve the Dominik Szoboszlai Midfield Puzzle at Liverpool readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-09-01",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSHBLUHZFSWRVTDFIQWJ5Nlc2bVhDdlNpbVludlNJUDVCalZLX0dKbkZpMDhINjE5eGM1bGtfejRBa2stekoyM2tUSENRbUJPVHJaaDBidXZXS3Y1ZkdLamNWaFJucXJsbm1ZeDJQTU1MNnlkd2tHZ3YwWF9ucXZDYm4wSDVuME9ZbE9ieEh1NA?oc=5",
-      "rank": 9
+      "rank": 6
     },
     {
       "headline": "Cody Gakpo transfer news: Man City's proposed £80m move for Liverpool forward close to collapse - BBC",
@@ -110,18 +77,7 @@
       "rank_score": 85.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PTHBKMWE1c2VWQ1p5QnFSRmQ1UW0tc0R0R0pTSUlTeGI5czd6OWpnT1A5dXh5NjgxLWtpVDRsdmxuYjNQREFuNWJ2aC1IeERaU0s2R1NaTml6WGtaNDZBODRVYlZjODA?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "Virgil van Dijk wants Liverpool to keep Cody Gakpo despite Manchester City talks - The Athletic - The New York Times",
-      "summary": "Virgil van Dijk wants Liverpool to keep Cody Gakpo despite Manchester City talks - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcWdpVk5pUzVGN0U2YkZWaVRvM2RCa2tCZXdCTElld2ZIYUdkTWJNbDY1YlV4UjdGQjdud3Q3TXRzRGpDTDhvcjBBWUo0RVJrUXZDTWN6Wi1RU2pma3lHNWMtaHpFM29NeWo2dVJCSG44RkNfYWcyR2FmdGxYNEh3ZGt1eE1lalQzbFE?oc=5",
-      "rank": 11
+      "rank": 7
     },
     {
       "headline": "Inside Liverpool’s Bradley Barcola signing: High-level talks, heart set on Anfield and FIFA-inspired number - The New York Times",
@@ -132,7 +88,7 @@
       "rank_score": 85.0,
       "date": "2026-09-01",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUUNmMFlrcjdoYlBBYWJvN0otZXc2Nm8wNTQ1aHM1bjB1WVZRaV8tLUZLOElaMy03VWI2eW1KSjBFRzBiNVFzOXN5OFB3WEo1RXNiSXExWjlTV21CdHVIcmpmYzJYOVYzSHhheVdubHlKRkdLU3JoSXVMd1pEMmdsb1pVWmFFQnBHb1JmYnE1TVBzaDNpWl9UdDZ3?oc=5",
-      "rank": 12
+      "rank": 8
     },
     {
       "headline": "Iraola’s Liverpool start slowly again but Muñoz strike denies Nottingham Forest",
@@ -143,7 +99,7 @@
       "rank_score": 82.2,
       "date": "2026-08-29",
       "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
-      "rank": 13
+      "rank": 9
     },
     {
       "headline": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
@@ -154,7 +110,7 @@
       "rank_score": 82.2,
       "date": "2026-08-29",
       "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league",
-      "rank": 14
+      "rank": 10
     },
     {
       "headline": "Liverpool 2-2 Nottingham Forest: Premier League – as it happened",
@@ -165,7 +121,29 @@
       "rank_score": 82.0,
       "date": "2026-08-29",
       "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
-      "rank": 15
+      "rank": 11
+    },
+    {
+      "headline": "Liverpool Transfer News: Van Dijk Issues Gakpo Warning - readliverpoolfc.com",
+      "summary": "Liverpool Transfer News: Van Dijk Issues Gakpo Warning readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 82,
+      "rank_score": 82.0,
+      "date": "2026-08-30",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUNnRTdxX2tzZThDS3NFbGVCODZQYUNSY2dnMDhBWlJjd1ROaDQ5S192S1F4SjEwMTNvdmpfM2JEZnVPTHk0N2JMa0lldlpXX1FwYlJyc01hNnUxX2VOcUxhbjZzdFN2RHkyNURhOTBUSXlkeTZ1Q0Rpc2RVZDZBRFl1LUthVms?oc=5",
+      "rank": 12
+    },
+    {
+      "headline": "Report: How Palace would respond to Liverpool offer for Ismaila Sarr amid reported strike action",
+      "summary": "It seems highly unlikely that Liverpool will pull off a deadline day transfer for Crystal Palace winger Ismaila Sarr. Fabrizio Romano had claimed in recent days that the Senegal forward was the Reds’ ‘favourite candidate‘ for an additional ",
+      "source": "Empire of the Kop",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-09-01",
+      "url": "https://www.empireofthekop.com/2026/09/01/how-palace-would-respond-to-liverpool-offer-for-ismaila-sarr/",
+      "rank": 13
     },
     {
       "headline": "Bradley Barcola transfer news: Liverpool complete £123m signing of France winger from PSG - Sky Sports",
@@ -176,18 +154,7 @@
       "rank_score": 80.3,
       "date": "2026-09-01",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNM3Z6Nlc0YmFMWjBaWjlQZHZkYXZBNGg4ZTktUDlTUFZHNXZnRUJzR2YycEMzUlFPTnVkMGY4M1NXelY3SWtmZ1NlRWVld1ZRaVJNWmVNcnI3Y2JjX3VJdWxqVnVFWnowQjV3UmJET3pTZGx1UkdlYzJBT3ZrQ2gyMGhoWDBEYjJlN0VyUHExeFFvcDg3a185alB4RmdqcUtQMzh3ejBZR1JucXJWdGk3WFlSV0U5cFgtZ1gzNkkxTVJTNU9FSVNfS0FQQ05YSTYtUXNlcWYxRS1YaTdw?oc=5",
-      "rank": 16
-    },
-    {
-      "headline": "Fabrizio Romano confirms contract green light; Surprise Liverpool deal imminent - Yahoo Sports",
-      "summary": "Fabrizio Romano confirms contract green light; Surprise Liverpool deal imminent Yahoo Sports",
-      "source": "Yahoo Sports",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWXhfNUxEOGlWWGRlZktpSjRHNnI2SzJ3RnZ0R1hOeVR5MEhrY2lXTXVITncxTTN1UTdPc2FIQVBWa2NuYXR4SFpvRGFGMk5nVVg4OWhYa1d4a3lhNXlOOUYzRXhfNUZXTnlLNTJHcmlsYzdULTF3NzF1dkY0V0xkQi1sU2NJX2pQUzFYUTZRMFc4UQ?oc=5",
-      "rank": 17
+      "rank": 14
     },
     {
       "headline": "Liverpool make final Cody Gakpo decision after Man City bid - David Ornstein - footballtransfers.com",
@@ -198,18 +165,7 @@
       "rank_score": 80.3,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPdnFXeWk3T3dGdG83c250RTJXN2g5SzhrUDhwQnExUjhPT2JMOTlEUEwxVHZyYzMzNVNWRFVzV3hOQnl6ZXQzTUtjOXUzS216aWtmQWczX2VweXlSZnRyUWowTTdpN3FNbVJDNzJlVi0tc0IwQWtmSEFJd0d3NUhOVXZkWFZLQ2Z6NHV2VU1oRmVkbWdsS3hSbGJkUFVxSng5SzVBZmJYUms1b3ExYjh0Zks3cVllUUFpQVJpdFZHS0M4cG9hb3o0MFdzVVU3d0Zn?oc=5",
-      "rank": 18
-    },
-    {
-      "headline": "Liverpool 'accelerate Ismaila Sarr transfer' and get crucial green light after £50m bid - Liverpool FC",
-      "summary": "Liverpool 'accelerate Ismaila Sarr transfer' and get crucial green light after £50m bid Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORzBxTFY4ek5Db1pxXy1sTWEwS081aHpOQW5LcUViR0FoX19CQ3Jaeng0SG9jcEZQLW5FWjZtT2Z6ZlF3MGFFckxoX0RLV0FIYzExLV9mOUdhUzBfaVlDdWhhRGRrZDVLaVk5TlNnU3UxeXp2dTJGdFhzVUxfelpFSkkzT3VnUXdIc0xSdmFFcWhiT25mREdMeWZYMDJZam9IeHdyWUNNdlE4ZnlPb3U3aWFzd2VlNk1NOXhN0gHDAUFVX3lxTE13TVdQN3pxS3VhM2dici0zNWV2SDVyV2E3WGJJMWs5QUpUZF93ZldReVFDc2tJT1BDXzhXSEJRY0N0aWVDVFk5V3pBbkY3bW4wanM3QjNzODdONF9FUFVSci1pZWt0RDBvZnZoRUhjd1dRMmY0dWtiNVctUjRQSV9kV1Y3dzU2eG1LVk9zY0htRjBoS1VUdW9haE04UnlwQWZybnJMZXFKUDdEb1llZlNuYmdycE1qdkpEd3RlS19taUtfOA?oc=5",
-      "rank": 19
+      "rank": 15
     },
     {
       "headline": "Stefan Bajcetic completes permanent transfer to Celta Vigo - Liverpool FC",
@@ -220,18 +176,7 @@
       "rank_score": 80.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZVpSeDd5clA5SzRqWVdaSDlJVzJwMS1iVXJGdXNhME5QX1BmbDhNZGFzN1FPS0VISUQwMUlYY21neHlfX3dwWEV0SHZKR28wRTYwRjZfSFROOXNqSDJsNkk2T3FMV1ItVjZfZTRIanhTWUxmeXZXWGRFZVdTeERjVWFZeEFYT3BydlJ2eC1KYk5hd9IBmgFBVV95cUxNdWpMV2hWb1dyU3FfUXRKNmJWbmhlS1pFcld4NGx0eXZXN2xhQnc0UDI4ZUc5R0hIUmhsV043NHNsb296cWxIRWJRSTljWUZGMXBVV2ttNmkxcFhPelVXcThRMWVSc3RnckRUTjlLaGp1SWx0Y2pfWV9TdWZFbk5MZVp6UEpRMGN0MFJKbkRSYTZLcGVtOEpIcE5R?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "'He was waiting for me' - Bradley Barcola reveals texts from Hugo Ekitike - Liverpool FC",
-      "summary": "'He was waiting for me' - Bradley Barcola reveals texts from Hugo Ekitike Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-08-31",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2ZwZ2VrZ3VnR3NxbmpnZWREX0JyYWdjVGZwX2hzNkd0WlhQVjB1bXRqMnVNUVYzaFgzWGRHWnlQUzBJVnFpc2pvUEx2NWJSY3cxbzFVV3NESzMwS0dZbTBRY1RPR3RxOVJ3TTZnb3BpcEt6dU1SbUdxREpCMnViMUtFcXVPSFVGWTRMcllnZTdwdmROUXpIeNIBoAFBVV95cUxQYXNzZ0VNVUkzeDhOZkw0b2YtLW5zTEVycU1WejFKMWxqdUVISFFodW9yNUhoeng4Vml6WHR5RzI2eFBma0NCWVNuTEY4ajFlQUtaR2VjQlE1QWVhNDk0MW1YdTN5QWtMYTNaeTlNX3ctU3U3QXNSY1pfV0tYd05mNjN4cFZUeHJlTV9FN05feExfRDFLWlNzblRkN3hWajB6?oc=5",
-      "rank": 21
+      "rank": 16
     },
     {
       "headline": "Liverpool close in on £30m Lucca Brughmans transfer - Liverpool FC",
@@ -242,18 +187,7 @@
       "rank_score": 80.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOMzctWXBpcko1THVpVHUxRE1GUjR6VDVJc2xGRWdRdlFUd2pmVUt4cGtnUEViZXAySGpKZFNRWk4tMEtOVW5BcGNjdFZXT001U3g0MXhrRWxPUjd4VFlsR2NDNFFKQXJ1RHVlTWpOaHlvNEtCUS03N0Z5c19TX0hudm4zUGZXZ9IBjgFBVV95cUxOUzhvSnNHb2NkcVVVSEE4alBEUTN5YXJ3TTI5Y25lSTkzVmFiNmFrQV92aEZHaWJ0VEZTOHJoNlNVZlh4clp1aFlQUVQ1SUNJTnN4ejNxUDc5bFRzMjV1S0h0Sld5RHI5aGNhNXpybDFBLTgzaUVabVduM0F4cDk5a0xaTWtZYUtOS21XcmpB?oc=5",
-      "rank": 22
-    },
-    {
-      "headline": "Liverpool transfer news as deadline day move for £80m attacker still possible - readliverpoolfc.com",
-      "summary": "Liverpool transfer news as deadline day move for £80m attacker still possible readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-01",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbm15OEZqZ0YyLWh1QWlSelJ5ZXkzQ3NldFdmaFJoajhneUdwR21XRDYxMlR2QV90Vk04QnNnT2FKZDVVNkQzblFCeU5LVnJBWU84d3NPSi10R1lxTkJPQ3ZQd0N6cUJLV0dpRUFkWUVtb0tKQjVfWVRJVVRWSHZFTzI3amliQ3dad0cxU1M0Wk04XzRCM3gzTEVoX1FnaHI0S2lNQS1rSUR6SWl4ZVJB?oc=5",
-      "rank": 23
+      "rank": 17
     },
     {
       "headline": "Video and photos: Bradley Barcola welcomed to Liverpool by Virgil van Dijk - Liverpool FC",
@@ -264,7 +198,29 @@
       "rank_score": 80.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGo1YUhsYXBWaWNWRjdUWDBjdXRITTFXdUJpcG4zdHJtMUw3WkFoTzdwS2V0YTJUQW93MzNyX2xfb0IzRlRzOUpKUGw1WTJmZHlkaXJfWXVfREpkVkE5clppbW9wcG82Sjc4bzJnbEFHT2FpeUtMWWtOZjJzcWxlTU1KUFJ4UnVMa3RfUlMzWm5sYlNqMUVGX01RVVZPc1VOY1HSAaoBQVVfeXFMTWhuM2kybWJ3RkZuMjhjUExLUzl4RzlsckZDNWtIS3NNdS04RDI2VHMtdFNZTUx2dGRKeVhKU3NPT05hZVZ5LVFOWGhKUmNwbmwtMWxKTUhCZ1ZKdHZmdzRyV0FPcUJvMk41TFJYTTVMdUtRczRHYTlQb2E0dkxiUEViVDZCa0FJd3VDbVlaSkxpb3BCNi1DV1JGVkxyak0xdUp6YXN4MDQ5VHc?oc=5",
-      "rank": 24
+      "rank": 18
+    },
+    {
+      "headline": "'He was waiting for me' - Bradley Barcola reveals texts from Hugo Ekitike - Liverpool FC",
+      "summary": "'He was waiting for me' - Bradley Barcola reveals texts from Hugo Ekitike Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZ2ZwZ2VrZ3VnR3NxbmpnZWREX0JyYWdjVGZwX2hzNkd0WlhQVjB1bXRqMnVNUVYzaFgzWGRHWnlQUzBJVnFpc2pvUEx2NWJSY3cxbzFVV3NESzMwS0dZbTBRY1RPR3RxOVJ3TTZnb3BpcEt6dU1SbUdxREpCMnViMUtFcXVPSFVGWTRMcllnZTdwdmROUXpIeNIBoAFBVV95cUxQYXNzZ0VNVUkzeDhOZkw0b2YtLW5zTEVycU1WejFKMWxqdUVISFFodW9yNUhoeng4Vml6WHR5RzI2eFBma0NCWVNuTEY4ajFlQUtaR2VjQlE1QWVhNDk0MW1YdTN5QWtMYTNaeTlNX3ctU3U3QXNSY1pfV0tYd05mNjN4cFZUeHJlTV9FN05feExfRDFLWlNzblRkN3hWajB6?oc=5",
+      "rank": 19
+    },
+    {
+      "headline": "Liverpool transfer news as deadline day move for £80m attacker still possible - readliverpoolfc.com",
+      "summary": "Liverpool transfer news as deadline day move for £80m attacker still possible readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-01",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbm15OEZqZ0YyLWh1QWlSelJ5ZXkzQ3NldFdmaFJoajhneUdwR21XRDYxMlR2QV90Vk04QnNnT2FKZDVVNkQzblFCeU5LVnJBWU84d3NPSi10R1lxTkJPQ3ZQd0N6cUJLV0dpRUFkWUVtb0tKQjVfWVRJVVRWSHZFTzI3amliQ3dad0cxU1M0Wk04XzRCM3gzTEVoX1FnaHI0S2lNQS1rSUR6SWl4ZVJB?oc=5",
+      "rank": 20
     },
     {
       "headline": "‘Close doors’ – Fabrizio Romano confirms late Liverpool transfer twist - readliverpoolfc.com",
@@ -275,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPY3p0dkhlVmxtMTNhSm9XYm9zRlFIbVFBUl9CM0hFemVON2FUTXFFUU5UNFdpNE9pVVFmUVBCTFRfN25SVjhuM2k2X01rakhNSXFvRGpQRTMxbVR0RXpKNmdGYmNyMjBkTDdzVVNwbE1haWVZSnJHR3lOWVFIQVN2QU5Jc3dQZko4NGh1M1FoNjZGRHRNVVNLeG5CUW5pZUFBb3c?oc=5",
-      "rank": 25
+      "rank": 21
     },
     {
       "headline": "Liverpool transfer news as €35m player undergoing medical ahead of shock move - readliverpoolfc.com",
@@ -286,29 +242,40 @@
       "rank_score": 80.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQnJQMEdUUUQ0SGhfQjRhZlJkWFpTU0ZweVZOZkNIaHBzMlFuSV95WXhMbXl4dnhBUXI1dS00V2R6UGRCRzEyb0NhMXR1U1Z1dDF4LW5wUzJFM282eDlYOFU0STF4dWRsMUZvM2NOWVpDTEd1RGp2OGpDMWNqNTJPdGVpMmg3RHFHUVNmaW9PaUpOaEdVWDFfdWNQeVY5MmlRMS16THFMa2dtSVBxdnhUSQ?oc=5",
-      "rank": 26
+      "rank": 22
     },
     {
-      "headline": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic - The New York Times",
-      "summary": "Liverpool reach agreement in principle with PSG for £120m Bradley Barcola transfer - The Athletic The New York Times",
+      "headline": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic - The New York Times",
+      "summary": "Liverpool complete Bradley Barcola transfer from PSG for initial £106m - The Athletic The New York Times",
       "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-09-01",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZ3B3WkNXUFNfbF9BVmxVdWUxYVp5WUpqQVRYZzZnVUFzcVZraHNPajhvZ0RTUmFkV3FXT3VrTnp5dmI0WV9USDNCOHFKVnJGQUdETWplOWI3LVBjT3RSUG0wVWZHUFNYcm9qYmJPVHNkejNVMVROZGpUREkxdEY0MDBJa3IwaWxpX1FoX0tqTzJMYkNIWWs3NnBLWURUUm9sWVltX0I3UU9pdEdUdzVfVFp3?oc=5",
-      "rank": 27
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQ29RcWhGQVkyc0w5RnZ4MC03VlRhalQ5alF4N3U0cjRTVkJNcGZfNlltT0dQM3dDdnVTdnVnN0NpM0VTUTdWV1doMU1IQ1hQSHhmVlZIcW42eTJXTlBpeFRlNnNTVTJHSlZGY1hiMU5JeVdHOS1NcTFUcmYyOF9DVGMxQXVud1ZPcWM1QXlldnc?oc=5",
+      "rank": 23
     },
     {
-      "headline": "Liverpool transfer news as Bradley Barcola’s shirt number emerges - readliverpoolfc.com",
-      "summary": "Liverpool transfer news as Bradley Barcola’s shirt number emerges readliverpoolfc.com",
+      "headline": "Sky Sports provide massive £80m Liverpool transfer update - readliverpoolfc.com",
+      "summary": "Sky Sports provide massive £80m Liverpool transfer update readliverpoolfc.com",
       "source": "readliverpoolfc.com",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-08-31",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkNqT2ZjUERJbkswQ2J3am1iX3RfdHlnRkViTExROWZiVzFWdG1FRElWU0xpT1pDZjhMMmo0ekRTWjhlX1NSYTRJVGhoNnp3NWxWNXhpTW95OE5EYmdFR0w4ck9kVjFVMFY3cldvUkdrYjQ5LWFiQkFZeGFQVG11dnA1c21MSHU2eGFkZUR4ZWh1U0J2ZHNIS1czREc4eUU?oc=5",
-      "rank": 28
+      "date": "2026-09-01",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQc0tYUE02MEVrTk1MRmVKbm9QSUVYTzlZdnhDbFBZNDdmVklMX0txd2FQSjYzbzc2dVQzTDdoNHNyZnhVZ3dpSi1Jd3JRUzVOY19RRmhET0oxa196MWtGampxZHUtcTFHbzVMWUtraFVHQlpsR1ZnYW9LdDBhN0NDUFF2TmFtVEVyc0JLZzlONVB0N0xq?oc=5",
+      "rank": 24
+    },
+    {
+      "headline": "Real Madrid Transfer Blow as Liverpool Seal £30m Lucca Brugh - readliverpoolfc.com",
+      "summary": "Real Madrid Transfer Blow as Liverpool Seal £30m Lucca Brugh readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-01",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcy1Ea0N0R3VtcTB5Z2JBWWNZQUlNYmNONTFuM3o1WHhsZ1JxVUZreUVoVmIxd0kxOHlPdmkyZ1AwLTVuRmtGMXR4X01CcHFpRjFoOGc4a0g4NFBwZnk4RGFUdW1NbU1mdWJQR1VyR0gyX0hzbXZ4VnVvYTRJSk00X0tJT21yQVE?oc=5",
+      "rank": 25
     },
     {
       "headline": "Cody Gakpo’s Manchester City move off as Liverpool reject £80m bid - The Athletic - The New York Times",
@@ -319,17 +286,50 @@
       "rank_score": 80.0,
       "date": "2026-08-31",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQklPTzFqTEtMbmpmVkl2SF9pRzZpYVlGcE1QazlkOENRaEVPLWF2cV9WS3M3SnN5dlJpbzM0TTBRU2sxLVBla3c5amtYYXl3dFFuSUh0Y2lLdDcwbGJCU1FwY2lVcEt1bm84RHlJcElXQlB0T0lXaW1maG5lQTdQcFU2OXRydzFwZm1lWUxjNWFtRmxUdWpQbTRn?oc=5",
-      "rank": 29
+      "rank": 26
     },
     {
-      "headline": "Liverpool news: Reds 'taking massive risk' letting Gakpo go - BBC",
-      "summary": "Liverpool news: Reds 'taking massive risk' letting Gakpo go BBC",
-      "source": "BBC",
+      "headline": "Liverpool transfer news as Bradley Barcola’s shirt number emerges - readliverpoolfc.com",
+      "summary": "Liverpool transfer news as Bradley Barcola’s shirt number emerges readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-08-30",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBqUmRqeGNuX21JQUpfaXFabUVaRFFNUUNPYjNyVHVKZldseDVWb0pCNk5rV3FpZkNKRnJMbVFSbUJDSjVTbW81SjZvTmZMWGJycUJEVWFfQ01PenVCSHF5WUZ1SXVtTDA?oc=5",
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWkNqT2ZjUERJbkswQ2J3am1iX3RfdHlnRkViTExROWZiVzFWdG1FRElWU0xpT1pDZjhMMmo0ekRTWjhlX1NSYTRJVGhoNnp3NWxWNXhpTW95OE5EYmdFR0w4ck9kVjFVMFY3cldvUkdrYjQ5LWFiQkFZeGFQVG11dnA1c21MSHU2eGFkZUR4ZWh1U0J2ZHNIS1czREc4eUU?oc=5",
+      "rank": 27
+    },
+    {
+      "headline": "Liverpool transfer news as £30m bid rejected for midfielder - readliverpoolfc.com",
+      "summary": "Liverpool transfer news as £30m bid rejected for midfielder readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLURjN2VFaXM1empjZEtSWXBaNHctcVlpNlRfSTgzczZJMm5VY2VmelYxeTdFTmRFbjR5SG1DcDZZNTlDdGlpc0cteWtPWWduelZxd1UxdG9oR2hOWDdBX00zVEVSdnJoZ2psbW0zcklDZHpfUXlnVmZkU0VCWFlud2VSM2ZBNmktRVRkYXVvZFZCV0NMN2FZ?oc=5",
+      "rank": 28
+    },
+    {
+      "headline": "Liverpool target goes on strike to force transfer after second bid rejected - readliverpoolfc.com",
+      "summary": "Liverpool target goes on strike to force transfer after second bid rejected readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSkFFLUhDcVYzcXNIbDA3cXQzMmtKRmR1dzdpMVpPN3dHc0pGa1hteEFqeGR1enY4N19hTWs0MURJQ0VyeFFKcHQwb3ZRX1ZLeF8wQi1sdm9RVE9OUkJqVTM1dGRDYkQzc0NGTzBzeEdLcllva3l1ZEJ3Y0JQVTkwdTYzcGRvWjNMRXBLUEw2bXdiU0VlX1JJR1N1T3pYb0hPV1E5RmFfT3lQSjFKR3c?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "‘Here we go’ – Fabrizio Romano confirms surprise Liverpool signing before deadline day - readliverpoolfc.com",
+      "summary": "‘Here we go’ – Fabrizio Romano confirms surprise Liverpool signing before deadline day readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-08-31",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1Y5Qk1WWVV1NzFrNmxvXzlPbkJCNlBTMWZsd3N4ZWE1Ym1aOEdWc0JtZHUwWmI3ZlZ2czlMSUVqS1FPX25aWDlDa0YteFpISXptSlo3WGswMTVuMFBOb245UUJyRGJWendnVmZSaWRkTDNGYWJVQkdSRjJ6V004WVpsQmo1NjBQODZyU1V6NEpSeHVNYk9vT2drSXNCRVZGaEQyNHZuRU9HZFZ5ZTFEcWx5VEpOS1k?oc=5",
       "rank": 30
     }
   ],
@@ -401,7 +401,7 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Medium",
-        "mentions": 9,
+        "mentions": 6,
         "source": "BBC",
         "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PTHBKMWE1c2VWQ1p5QnFSRmQ1UW0tc0R0R0pTSUlTeGI5czd6OWpnT1A5dXh5NjgxLWtpVDRsdmxuYjNQREFuNWJ2aC1IeERaU0s2R1NaTml6WGtaNDZBODRVYlZjODA?oc=5",
         "date": "2026-08-31",
@@ -412,7 +412,7 @@
         "meta": "CB · Galatasaray interest",
         "fee": "low/free",
         "p": "Low",
-        "mentions": 4,
+        "mentions": 2,
         "source": "Liverpool FC",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNGo1YUhsYXBWaWNWRjdUWDBjdXRITTFXdUJpcG4zdHJtMUw3WkFoTzdwS2V0YTJUQW93MzNyX2xfb0IzRlRzOUpKUGw1WTJmZHlkaXJfWXVfREpkVkE5clppbW9wcG82Sjc4bzJnbEFHT2FpeUtMWWtOZjJzcWxlTU1KUFJ4UnVMa3RfUlMzWm5sYlNqMUVGX01RVVZPc1VOY1HSAaoBQVVfeXFMTWhuM2kybWJ3RkZuMjhjUExLUzl4RzlsckZDNWtIS3NNdS04RDI2VHMtdFNZTUx2dGRKeVhKU3NPT05hZVZ5LVFOWGhKUmNwbmwtMWxKTUhCZ1ZKdHZmdzRyV0FPcUJvMk41TFJYTTVMdUtRczRHYTlQb2E0dkxiUEViVDZCa0FJd3VDbVlaSkxpb3BCNi1DV1JGVkxyak0xdUp6YXN4MDQ5VHc?oc=5",
         "date": "2026-08-31",
