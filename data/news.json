@@ -1,5 +1,5 @@
 {
-  "updated": "04 Sep 2026 08:30 UTC",
+  "updated": "04 Sep 2026 15:50 UTC",
   "count": 30,
   "items": [
     {
@@ -64,7 +64,7 @@
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-09-02",
+      "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NQbnNnRDRCMWJhWGNSaElKQTcwVk5yTkNHejhLTV9MZF9oRy14NlFuQjZtSlNPeHZCYXZjZHBiZ19CblFkcDh0QW9Ua0VfMkQwT2QyanNvNlBDeUE3bnBwVE9NQ0Z4dkdqem5QYXNjM1MxVGhfY1dtLUVqUkhlZ3F0a1lwZFEwZWItZTdJZnJEa1dIMkE?oc=5",
       "rank": 6
     },
@@ -168,9 +168,9 @@
       "rank": 15
     },
     {
-      "headline": "David Ornstein confirms Liverpool's upcoming transfer plans - Anfield Watch",
-      "summary": "David Ornstein confirms Liverpool's upcoming transfer plans Anfield Watch",
-      "source": "Anfield Watch",
+      "headline": "David Ornstein confirms Liverpool's upcoming transfer plans - anfieldwatch.co.uk",
+      "summary": "David Ornstein confirms Liverpool's upcoming transfer plans anfieldwatch.co.uk",
+      "source": "anfieldwatch.co.uk",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
@@ -212,17 +212,6 @@
       "rank": 19
     },
     {
-      "headline": "On demand: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool - Liverpool FC",
-      "summary": "On demand: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNZDNfelFzc3poVDJCcnVoazRhVFpHOHhqZU5oNlRmcVQzaWpOTXNYdGZFV2FqVmJWaHJaVk1ZSVFiTXJoZUhTa1FwOWs4emZhOWQ5Si1aTEotQ0UyeXlfNmVFcjBGUE5PRGg4aU00c0loMFJRVl9Kc254R0FRNk5UR0ZTUzBwaDFiSndXM2ZxR3FrZHp2NE50dUpRUFk5RkIxZ2tFeGVn0gGuAUFVX3lxTE1GR1lzMl83S0hEbU1VbklsWlBIaEZ0VHdYQUpLS2U3QTVaNXBpX2JCd3QzQzhha2pUTWNESnBLUmx4YUVGVk5iSUtCa3hGdTFuR3FDT01sV3I4UlRGQ0ZFM2YzRGpraXZtZzJhUE1QQW5ESGhSdU9kNDJmekRIOTYwNEloOEYxYU9GaFhHdzZzaGREV3dISThBODVwZHdZMkRHb2hpd3ZaSVh5TzFEQQ?oc=5",
-      "rank": 20
-    },
-    {
       "headline": "'I'm very happy' - Andoni Iraola on Bradley Barcola's arrival and availability for Ipswich - Liverpool FC",
       "summary": "'I'm very happy' - Andoni Iraola on Bradley Barcola's arrival and availability for Ipswich Liverpool FC",
       "source": "Liverpool FC",
@@ -231,18 +220,40 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblMxblNUcUVGT05YNFN1aERRZ3hKUjh5T21TRFBNLU0wVFhzbDZlMHYzTF9zem04cC1RME9LSE5xdjhQZHVIMjd4VXN6aW5leHYtQ1ZJTC13MlY2MnFNM0FEOUdRSERsMDlJQ2t6N2hhemtFMzE4VHZad0xYVHlYN3B3eGo0ZTcyVldwS3pjQ0dsVUlGZTZaOERUbXRMSWtxcGw2OUI2clpoM0hVQ3M40gG3AUFVX3lxTE9tNHR1aE4zenVhcXhxV0hDQnl0WUVyX01iOVBuM1FUVHA0R0tDdGZtemduYWxfalFYcGpUZ0NjZ2tmSmJ5RlVVY19ncXhwRkFYQmdRbUJfdkt4MmduUXhlMXdRR1U5SWtvbU1vUzV4TWVmU2gtS0VRU0x6enJWaVJSdkRKc3BKUTVpcElRS3FaY1NpaWhtX0xXQ2Jhb09xNzR6bEtYWWJBSXNzb21laF9mODBTOWxUQQ?oc=5",
-      "rank": 21
+      "rank": 20
     },
     {
-      "headline": "Thursday: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool - Liverpool FC",
-      "summary": "Thursday: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool Liverpool FC",
+      "headline": "On demand: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool - Liverpool FC",
+      "summary": "On demand: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-09-02",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNU0gzZ2hqalJtWjFpMzNTbkprdnBJUnpGRW95TmtscHV2LW5GNEk1YlVvRTlCSllnWnZzNm96UGR4NGhhY1B1YWFsWWFkNXVmSmIzMHdwOVZadXBqM2ZnU3hzSmFLd0oyaFI5Tnk3UWRFUjVzUUZhNThsVWRjNWp2d2xfSkppT05oZ2YxcWE4UzBrNUZwNnZ0TjhxejVqU1hQQ2tfRUpDZGxENTZXU0c1UtIBsAFBVV95cUxNU0gzZ2hqalJtWjFpMzNTbkprdnBJUnpGRW95TmtscHV2LW5GNEk1YlVvRTlCSllnWnZzNm96UGR4NGhhY1B1YWFsWWFkNXVmSmIzMHdwOVZadXBqM2ZnU3hzSmFLd0oyaFI5Tnk3UWRFUjVzUUZhNThsVWRjNWp2d2xfSkppT05oZ2YxcWE4UzBrNUZwNnZ0TjhxejVqU1hQQ2tfRUpDZGxENTZXU0c1Ug?oc=5",
+      "date": "2026-09-03",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUx5cE9VOE1qRnYyZmY3WXNzdU5tLXYtMXQ3c082MTdVaEgxQ0s4bVpEN05OaFNXREVsd0RZc3NXSzI0N0JzdXBrc0xfSUdqeXhaOEhnbVpaUG1sMWF4RngwTy1KcFprbUZiZjcyX1NpNkJPZDFkUXc2X205c3laS1B3aTlFSWRGMGdiZXpOSVg2TzI5ZGRTVE81dVBTX0piRERfbkFkVVXSAbABQVVfeXFMTVp1VUgtR04tVXRLYlNfQ0phQWZrOXoxZGJFT2hMYVNLZGhXOGh2QS1vdXBBQXBpckJyc2FHOXV6YWJMY2R2Y19uTEpISjVhbU8yWENzSXo3dFZITHdlX3hrUm9FTl9UcHdMeDZVcG90dV90WktJZmZrU1lBYVpULWUzb2tFeEFKZU1qbEhkdFNpQzZTcHNoZzdSQURIT3k0OVpZdGxoTHRjMEpWMm90S2I?oc=5",
+      "rank": 21
+    },
+    {
+      "headline": "LIVE NOW: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool - Liverpool FC",
+      "summary": "LIVE NOW: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-03",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFdsbEJ4STl2Z3diOGhwejM3T2NiSFh0OVRfTHY0N3RCWGdtRzBUcTFkYjFaa3JJdXRhQktBM1R5RFBIVG1ZZVlCNnpteUJKRnEtd0YwdVRvYXloX193SmlQUEhJMkh0TEFwR0kyMEFuSjVYS2RCdWtvcUp6aklFMTZBd2FsMkxHRzYyS0FqQ1VCT2xZVm1YeXhLcGk3ZjAxZEREa3IxWll0VVk4V3B2TdIBsAFBVV95cUxQNFdsbEJ4STl2Z3diOGhwejM3T2NiSFh0OVRfTHY0N3RCWGdtRzBUcTFkYjFaa3JJdXRhQktBM1R5RFBIVG1ZZVlCNnpteUJKRnEtd0YwdVRvYXloX193SmlQUEhJMkh0TEFwR0kyMEFuSjVYS2RCdWtvcUp6aklFMTZBd2FsMkxHRzYyS0FqQ1VCT2xZVm1YeXhLcGk3ZjAxZEREa3IxWll0VVk4V3B2TQ?oc=5",
       "rank": 22
+    },
+    {
+      "headline": "The writing is on the wall for two Liverpool players after latest Andoni Iraola snub - readliverpoolfc.com",
+      "summary": "The writing is on the wall for two Liverpool players after latest Andoni Iraola snub readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-04",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlNZbGNUUDZKRnVXOGVWVzZvbDFERHR5YV9JNnFETWdlbHp6NWlZSktUdVFGZlh6b2ozc3I0eEJjZ2haY2hfQWppaUZHdmQ0S1dBeDR4MGllQWN6aWxIcUllamhkcms2OVRkbDZlNHlJX2lSeVhfQUJOVXB1V1REZk9CSXNDenM1X3VNMlk3NnhCb2lqMXBBTGVqU0h3YXlUMkx6MjVac25wMHZtTW1FZVBRR2FtNC1TVEE?oc=5",
+      "rank": 23
     },
     {
       "headline": "Andoni Iraola press conference: Ipswich vs Liverpool - BBC",
@@ -253,7 +264,7 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeGg0UGdhMWdHYTg2Z2JRb1FEdTRWZ0lfbU9ZZnVmSkVIX3M0bkNrMEdOaWNNUzFTZUg1Ul81Tzk3SkFKUXNXSEc0eXVXODNQT1VTR3djd1pBNFpER0VTcUlLSko0WGs?oc=5",
-      "rank": 23
+      "rank": 24
     },
     {
       "headline": "Andoni Iraola says Bradley Barcola available to make Liverpool debut against Ipswich - The New York Times",
@@ -262,19 +273,8 @@
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-09-03",
+      "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXZpck01dk05dEoxek9mSUxiN1pkY3F4c3IzWU5ZNkxTcHliWDhHVkp0X1BmNzNqUFUyOWcwU0xNdFRRNUo3MGU2NEdWZ3NGeGF2X3h3WmZkZEQ5ZXZqdHNoS1l4eVZWeEx4eU9la3JUek14YVFvckxITWdpQ3pmbFFWRGRzNThaRk5UakxXdUtkOGNvQURB?oc=5",
-      "rank": 24
-    },
-    {
-      "headline": "Liverpool news as Andoni Iraola makes big Bradley Barcola claim - readliverpoolfc.com",
-      "summary": "Liverpool news as Andoni Iraola makes big Bradley Barcola claim readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZGFIN0IzM2FNaFUzVEdJTzJOaGlFdEJpNjhGV3JKN0lRSkRWWG1ZdlM4SGlNWF9MU0xWc05TYkVXRktmOG5CSklaUEh1VEN1TlBucFpIMnF4aFhBSFFKMnFoSXE1VGlCN2c5LWVJSEg0WXFGUldDSU9QazcyQXRaSzRYSkxSdDRHS0hpX01MT3M5NHNKdWRFaUNacTIxdw?oc=5",
       "rank": 25
     },
     {
@@ -300,36 +300,36 @@
       "rank": 27
     },
     {
-      "headline": "Liverpool target’s agent drops social media bombshell after failed transfer - readliverpoolfc.com",
-      "summary": "Liverpool target’s agent drops social media bombshell after failed transfer readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-02",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPT0lTa2xyd2pSM2tOQk9kVWZKbkYzanFzaXYteWNoLUpPYlJYWGRRNTZVYktXWGlUOU9yQ0lITnUxenNRQ0UzXzZGZTg1SWMxWG9PcGFOQWQyR0xvVGY2bXZxbGpLbVBCclZiTUZBUnZjT3dzQjJCQzFuQUxCQzVkc3RnYzJ4WDN1VUhoYlNGb3otdWFoS3dIXzNIdFk2cmpoZE8xQm1CYmZEWWJz?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Liverpool need Dominik Szoboszlai at right-back for now. In the long term? Not so much - The New York Times",
-      "summary": "Liverpool need Dominik Szoboszlai at right-back for now. In the long term? Not so much The New York Times",
+      "headline": "Liverpool confirm €5m deal for Djylian N’Guessan - The New York Times",
+      "summary": "Liverpool confirm €5m deal for Djylian N’Guessan The New York Times",
       "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmx3dFk3dldDemhJNWpHa0JGdXo2Rks3bHBTVTA5SG9IWmtqRnByb3JzdnhtUVdTeHBIZWlTVEJZZ3dBejhpM203WUxkYXlZZFl2QTVGWHdiZmJBRnJWZWh5TnMyRkxWWmdLbEdXVG5MblctUnBoTENCcjVTb0tacW1wN3Viako4c0R0d2RrNW5GTHNhT200ZQ?oc=5",
-      "rank": 29
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBJbkdSbUxCdUhUUHlrYUZqODF1TUFjTDhhcXl6MXg1THQxY0ZPY1BuWHM0eGt1WWszcWNBNXdPczZkWmxQbXpjYkZhbFNBRmNCMUNJNE5JZGtwMFQ2dDVjc0QzMlFTZlNqWXMwTTk5UnZJTHh2U2VSUXk0QVZjUjNRN1d3MHktQTNCT0hn?oc=5",
+      "rank": 28
     },
     {
-      "headline": "‘Clearly’ – Journalist provides massive double Liverpool transfer update - readliverpoolfc.com",
-      "summary": "‘Clearly’ – Journalist provides massive double Liverpool transfer update readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
+      "headline": "Liverpool complete deal for Genk goalkeeper Lucca Brughmans - The New York Times",
+      "summary": "Liverpool complete deal for Genk goalkeeper Lucca Brughmans The New York Times",
+      "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-09-02",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNV1VHYzRzX0lubk8tOHcxMzFtWGYyVnNRQTNGQ21FamRrZmE1WGd0a2RQQklUSEpsSjc1WWdQVUVJOUpxaEZNTW13Y0tzbmVER0daTFFucVlweXBoT1lobGxUdmt0SVE5OS1BRDdyWThKYVFhZUEyQWtYTjREbTVwa3dOT0pQeFNBb0t3VUZaTnd5QTFBVWVuTW94QklnbktTRmt2Sg?oc=5",
+      "date": "2026-09-04",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTXdoSjBCRm9HMWwwUnFudExhbUxJRDB2VTZHZ2ZkUjZ5d2RqSmRKLVpjcUZ5cHNwMTE4V2VvQzFCUzE0NUZ2d0JTbjZpQkJkYlFWWGJER3U2OTN1a2p1aUtWYkNLLTI0a0t5MjBXelRKT25IUnBybTNjN0RnN1A2V2NETURmall0VWhJ?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Ekitike, Leoni, Bradley - Liverpool injury news and return dates ahead of Ipswich Town",
+      "summary": "Liverpool are still dealing with several injuries ahead of their Premier League trip to Ipswich Town",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-09-03",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-injuries-ekitike-bradley-leoni-34563742",
       "rank": 30
     }
   ],
@@ -340,10 +340,10 @@
         "meta": "LW · PSG",
         "fee": "undisclosed",
         "p": "Medium",
-        "mentions": 7,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oakJUNVlfUDJ6QnhJNmQtTTNfMGJMTUNUX01MYUxtSUswMnFIZHcyQjBIT1JLZVgxbkNaYmlXVEU3S3BrRkg4RmNnQVkzd20yS2gwemVnRjhiU2RDVUVqUmpLWjJrTUk?oc=5",
-        "date": "2026-09-03",
+        "mentions": 6,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXZpck01dk05dEoxek9mSUxiN1pkY3F4c3IzWU5ZNkxTcHliWDhHVkp0X1BmNzNqUFUyOWcwU0xNdFRRNUo3MGU2NEdWZ3NGeGF2X3h3WmZkZEQ5ZXZqdHNoS1l4eVZWeEx4eU9la3JUek14YVFvckxITWdpQ3pmbFFWRGRzNThaRk5UakxXdUtkOGNvQURB?oc=5",
+        "date": "2026-09-04",
         "active": true
       },
       {
