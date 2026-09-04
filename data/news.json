@@ -1,7 +1,18 @@
 {
-  "updated": "04 Sep 2026 18:50 UTC",
+  "updated": "04 Sep 2026 22:08 UTC",
   "count": 30,
   "items": [
+    {
+      "headline": "Ipswich Town 0-2 Liverpool: Premier League – as it happened",
+      "summary": "Alexander Isak’s early quick-fire double gave Andoni Iraola his first win as Liverpool managerThe teams are out! Ipswich in blue, Liverpool in red. A wonderful start-of-the-weekend, possibly-a-few-pints-to-the-good atmosphere under the ligh",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 100,
+      "rank_score": 94.5,
+      "date": "2026-09-04",
+      "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
+      "rank": 1
+    },
     {
       "headline": "Andoni Iraola defends Liverpool opting against throwing ‘crazy money’ at short-term fixes",
       "summary": "‘It’s better to look a little further than the next game’Head coach ‘happy with the four wingers we have’Andoni Iraola has defended Liverpool’s summer transfer strategy and said the club were right not to pay “crazy money” for short-term fi",
@@ -11,7 +22,7 @@
       "rank_score": 94.5,
       "date": "2026-09-03",
       "url": "https://www.theguardian.com/football/2026/sep/03/andoni-iraola-defends-liverpool-transfer-strategy-turned-down-options",
-      "rank": 1
+      "rank": 2
     },
     {
       "headline": "Injury news: Iraola provides update on Gomez, Leoni, Chiesa, Bradley and Ekitike - Liverpool FC",
@@ -22,18 +33,18 @@
       "rank_score": 90.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVy14aWhRMXV3UV9CMDdFZDhDWDk4NG82UDFaeVZaUEpuUGhaSVNaZDB4ZXdBazRPM1EwVFI0Q1BQMXRhT1IzNkcyNDZXN2tBVDNRYUJWT0FwSDZ5MFZwM1lBZW5Tdm9YQkVRM1gxYkl0ZFRic1ltMVE5clNnUW5oU0lqN0xlVWFHT3VWZWNnNGdtYmQza2NQLTdyblVfMzd4Ql85VFhKU3ZGQdIBsgFBVV95cUxNU0Ryd3J4NTlMaEV2ZWl1UkJwS1FOdEtjSVNsa0hXZHRtZHlxOUoyMDlhY09LdjQwbURMbGt6b1EzZGp1V3dLWUhpRjhpQmdLSmdCWDNDcFNXUXd0NXE1TFhRZmVSOXVoVTF4WDhNS2Vmb0tfWWE0aFdFWmxQQUktX0pRcHZQcG5vM0p5SDdoQlhEZ24tUG10QUN6TEMtODRGMjJhbkZ4QmUyM1hkU3pGSkF3?oc=5",
-      "rank": 2
+      "rank": 3
     },
     {
-      "headline": "Ipswich Town v Liverpool: Premier League – live",
-      "summary": "Premier League updates from the 8pm BST kick-offLive scoreboard | Read Football Daily | Email ScottPre-match postbag. “Leaving aside Liverpool’s less than imperial start to the season, you have to admit that’s a very tasty teamsheet on offe",
+      "headline": "Isak’s rapid double sinks Ipswich to give Andoni Iraola first Liverpool win",
+      "summary": "A first win for Andoni Iraola’s Liverpool, the introduction of the latest star signing in Bradley Barcola making for a successful Friday night. Better yet, continuing signs that Alexander Isak, last year’s model, is coming back to life, his",
       "source": "The Guardian",
       "credibility": 9,
       "relevance": 95,
       "rank_score": 89.8,
       "date": "2026-09-04",
-      "url": "https://www.theguardian.com/football/live/2026/sep/04/ipswich-town-v-liverpool-premier-league-live-updates",
-      "rank": 3
+      "url": "https://www.theguardian.com/football/2026/sep/04/ipswich-liverpool-premier-league-match-report",
+      "rank": 4
     },
     {
       "headline": "Premier League: 10 things to look out for this weekend",
@@ -44,29 +55,29 @@
       "rank_score": 89.8,
       "date": "2026-09-03",
       "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend",
-      "rank": 4
-    },
-    {
-      "headline": "Liverpool will sign Lamine Camara in 2027 after tantalising James Pearce report – opinion",
-      "summary": "Liverpool reportedly could revive their interest in Lamine Camara in 2027 after his proposed transfer to Chelsea this summer fell through. However, Anfield insider James Pearce reports for The Athletic that a prospective move is by no means",
-      "source": "Empire of the Kop",
-      "credibility": 9,
-      "relevance": 90,
-      "rank_score": 85.1,
-      "date": "2026-09-02",
-      "url": "https://www.empireofthekop.com/2026/09/02/liverpool-will-sign-lamine-camara-in-2027-after-tantalising-james-pearce-report-opinion/",
       "rank": 5
     },
     {
-      "headline": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic - The New York Times",
-      "summary": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic The New York Times",
-      "source": "The New York Times",
+      "headline": "Liverpool FC",
+      "summary": "Andoni Iraola on Liverpool's 2-0 win at Ipswich Town in the Premier League",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-09-04",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p82y7p?at_medium=RSS&at_campaign=rss",
+      "rank": 6
+    },
+    {
+      "headline": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic - nytimes.com",
+      "summary": "Inside Liverpool’s £250m transfer window: Marquee signings, youth investment but a short-term gamble - The Athletic nytimes.com",
+      "source": "nytimes.com",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ1NQbnNnRDRCMWJhWGNSaElKQTcwVk5yTkNHejhLTV9MZF9oRy14NlFuQjZtSlNPeHZCYXZjZHBiZ19CblFkcDh0QW9Ua0VfMkQwT2QyanNvNlBDeUE3bnBwVE9NQ0Z4dkdqem5QYXNjM1MxVGhfY1dtLUVqUkhlZ3F0a1lwZFEwZWItZTdJZnJEa1dIMkE?oc=5",
-      "rank": 6
+      "rank": 7
     },
     {
       "headline": "Andoni Iraola press conference: Gakpo, squad balance, Ipswich v Liverpool and more - Liverpool FC",
@@ -77,7 +88,7 @@
       "rank_score": 85.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUlLS2Y4TGxHTFFZbFAxTTFLbGhqUUNZTEtlV3RKN2VUbThWZWVSMEMzWWNmckc3X0tWemRyVG5TNkJ4YlEwdzNvdEJ3MWdRMGRnb3dkcXpSU0JhQTVKUW11NGwzMEtVekMzQmV4SWpkcUdiV3hOS25tNjJzbGZxTDVuZkgzSzMxV0JRa0JzWVZ4RFBZMExOTU1qc0JjWUN5NUdod0I1b2gwUWxXS0d6WjZ30gG6AUFVX3lxTE5MWkNiYXRwMzFDSHhERXZzeGM2OXlMamF6NWZPQW9leEJnSEdPNk0tZzlQWFBkcWFyUnF1b0l2aUNkYm5QZ0VSVURxa3RQbTNQY1JIUU5ndXFueTVVVWh4U2VKc3JUTFhWckdXVEZ1enpEY1lDbWluTlZMRjZSamRxbnBiaENjckhjMGFjTG50aENBaS02ZjJWQlduemhfbExzZlZVUjN0LWIxUjh6bllzWlBfR2NWRHJPZw?oc=5",
-      "rank": 7
+      "rank": 8
     },
     {
       "headline": "Liverpool: Andoni Iraola happy with signings as Bradley Barcola set to make debut - BBC",
@@ -88,29 +99,7 @@
       "rank_score": 85.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oakJUNVlfUDJ6QnhJNmQtTTNfMGJMTUNUX01MYUxtSUswMnFIZHcyQjBIT1JLZVgxbkNaYmlXVEU3S3BrRkg4RmNnQVkzd20yS2gwemVnRjhiU2RDVUVqUmpLWjJrTUk?oc=5",
-      "rank": 8
-    },
-    {
-      "headline": "‘Longer’ – Andoni Iraola provides injury update on four Liverpool players - readliverpoolfc.com",
-      "summary": "‘Longer’ – Andoni Iraola provides injury update on four Liverpool players readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWFZV0JlRE1hY1E1SkFJa0dzNnhtZjd3SHJoTWcxemhKWWJnQnVmVzRELWtuWkNQVmE5LW5KUlZhZlpGalZGWHI3bVJrOTBrb0o3Tk9KS3dNWTNqQVRQaGtEUEVVNFJCNWJ1U05oZXBSbkd4elhfV01NLTJWOURPcmltV2dPeDl1RVVJVXlGMS1DNkVDY051VU02TjBtanFvVms0MlNn?oc=5",
       "rank": 9
-    },
-    {
-      "headline": "Liverpool fans will be enraged by Andoni Iraola’s latest comments on Dom Szoboszlai - readliverpoolfc.com",
-      "summary": "Liverpool fans will be enraged by Andoni Iraola’s latest comments on Dom Szoboszlai readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3hIQ3U2ejdPcm96OGdpZjhtQUpDNV81eFFiQmM4eWEyWmRmbzc3RmoyN21Wcy1IdHYwSU1jYUZ3WDRuWXdWRnlBdE83cEp2aVR4clRNUWdPMWc3X0J2T1JFT0R3M2NhWDhsT3FaakhSVUdxYVRtWU1ZN0xMamNOOUY5RmxmVG4zY1hUUTFpUGVqMkFBMkIyLXNXLXZYSmphNU96UWdDRXR5ajZyQkdMYlNfTnJpYmc?oc=5",
-      "rank": 10
     },
     {
       "headline": "Liverpool sign Barcola in £123m deal and expect Gakpo to stay after City offer £80m",
@@ -121,7 +110,7 @@
       "rank_score": 81.3,
       "date": "2026-08-31",
       "url": "https://www.theguardian.com/football/2026/aug/31/liverpool-confirm-bradley-barcola-signing-psg",
-      "rank": 11
+      "rank": 10
     },
     {
       "headline": "‘The ideal teammate’: why Bradley Barcola could be just what Liverpool need",
@@ -132,7 +121,7 @@
       "rank_score": 80.3,
       "date": "2026-09-03",
       "url": "https://www.theguardian.com/football/2026/sep/03/the-ideal-teammate-why-bradley-barcola-could-be-just-what-liverpool-need",
-      "rank": 12
+      "rank": 11
     },
     {
       "headline": "Report: Liverpool hope to announce massive new deal soon as agreement ‘in principle’ is struck",
@@ -143,7 +132,7 @@
       "rank_score": 80.3,
       "date": "2026-09-03",
       "url": "https://www.empireofthekop.com/2026/09/03/liverpool-hope-to-announce-massive-new-deal-soon/",
-      "rank": 13
+      "rank": 12
     },
     {
       "headline": "Not Camara: Andoni Iraola already has one Liverpool transfer lined up for January",
@@ -154,7 +143,7 @@
       "rank_score": 80.3,
       "date": "2026-09-03",
       "url": "https://www.empireofthekop.com/2026/09/03/not-camara-andoni-iraola-already-has-one-liverpool-transfer-lined-up-for-january/",
-      "rank": 14
+      "rank": 13
     },
     {
       "headline": "Liverpool's first transfer window under Andoni Iraola sees Bradley Barcola sign but this squad is still not balanced - Sky Sports",
@@ -165,6 +154,17 @@
       "rank_score": 80.3,
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNUWdIV2N3SW5FX3MtOFlSbUhKSjlCNXI0V2Z2bl9jZ3R5bFRpaFZiZzU4bWF1MjRFVmNzdXVadS1fV0h5YVVqamozR0FIQ2kwZ2xNLTFWbnRuZ1RFT0hkdEM4RHp1bVdiTGFvdlhSWjdMck9hbnhzbmRCakkwdjV2ODZRSlh5QkRqa0dIOGJEU2ZFY0REcUYtVHVUdldhdzVtMFhVclViR3NCallpMG9GV292V0tjNkdoWGVYN1A3MFUzTnFSSi1RVUJzUzl5Mm02VVN6ZURjUWJheFZWNklJVDFZMkxpUi1iNlJoVG4xQVZ4RjFlaE5fbXNhSUlkSmM?oc=5",
+      "rank": 14
+    },
+    {
+      "headline": "Ipswich 0-2 Liverpool: Andoni Iraola up and running as Reds boss with Alexander Isak at the double - Sky Sports",
+      "summary": "Ipswich 0-2 Liverpool: Andoni Iraola up and running as Reds boss with Alexander Isak at the double Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-09-04",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNVi1Jd3luRTBVX1FkOWduOEVEc29TaXNYVjZRQURUSHBrdGtibWhtTUsydFRoTzdPUS00aHNidDhiclF5UWVMdkdoeG44SlFEOVV2b295dERRZEJDQVlxU0lvN25DSjRNWlJRQ2pvNU5hcVozd09GaERXN1d2UVF0NlJONkZ5MlFlN01GdW9jR3dWTVcwUkZKUHdiWnBMUmVHc050Y05EaVVlSmt1Yzhmd0FBWnlrdFhKalJiVzBScDFRUnNmYUlyWGlTZ1RNaC1reXdUZ3ZrMTdHRVZYN2s4RjgyVjJQTG8?oc=5",
       "rank": 15
     },
     {
@@ -179,28 +179,6 @@
       "rank": 16
     },
     {
-      "headline": "David Ornstein confirms Liverpool's upcoming transfer plans - Anfield Watch",
-      "summary": "David Ornstein confirms Liverpool's upcoming transfer plans Anfield Watch",
-      "source": "Anfield Watch",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN2FpaGJ4Zk1EZmF5eUhVNGFTQTN2QjJVN3ZRWjdkZjVldWhSTjlrMVktdkRRWHI5VUZ0UlpMZkhZa1RqSjFlWS1LUXI0WmM0V1ViQUdrb1NzRF91TXZjc3JWZXNOdUNVc0xBVmgySHlQaG1JZk9KaTJRQkNTbDBsYTBHY3NCSEdrMXFaUVAxajFHcFpNcjdTOEhPbU5uOGlUQkNLMll3ZkNFSDJf?oc=5",
-      "rank": 17
-    },
-    {
-      "headline": "Liverpool FC",
-      "summary": "The weekly roundup focuses on Liverpool's transfer window.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-03",
-      "url": "https://www.bbc.co.uk/sounds/play/p0p7s55x?at_medium=RSS&at_campaign=rss",
-      "rank": 18
-    },
-    {
       "headline": "Liverpool agree deal to sign Djylian N'Guessan - Liverpool FC",
       "summary": "Liverpool agree deal to sign Djylian N'Guessan Liverpool FC",
       "source": "Liverpool FC",
@@ -209,7 +187,7 @@
       "rank_score": 80.0,
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX3JOVDk3QVh6aVlXaVZzSnFiYUVlS1ZSN0hYRmVTeERCY2ZzNGJpcW5Ha0RsdnRoeGZLa2xOY0xpc1UwWks1NlBlbFlEOTRxQkF6Z1RScFdtb19RYnZtMnhLOEdlUExsZjB5YU5hT3dGRUN6Zi0wUkY5M2d3RGNwbtIBiAFBVV95cUxPcmczT05nc01mXzZ2WEt5eEQtOEpKTjBvVmxiU2tyVEV0VDdURmFVZW9yMkRXSzdnamVzN3l5VDU5b1RYTWttUnRmd0tHR1pkU19CcGZ6czRTQVRPZmR3NDY3Si1tbUtMY2RXSEUzREl6cTNyakI3YktMZG12UURzaTMzcmI1cWR5?oc=5",
-      "rank": 19
+      "rank": 17
     },
     {
       "headline": "Liverpool submit Premier League squad list for 2026-27 - Liverpool FC",
@@ -220,7 +198,7 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUnhBNExOYnBFVE41Z3BZdzlVWFVoWnNxRlN1UlNrUTlQc0ROYThac3FYcS1Rd2UyZVNSZy0tNnViYzFBXzdIbHR4M3hKOFFTdmdzNkE3Z1oxam9FUlpGUGw5eFJCTW1mRWxkVnJZZE5HbVFsSGFmVTllZmVDbk1MZW1HTmxDb085QjBj0gGTAUFVX3lxTE5ROWNXRmVmY0RCZjNER2xQbmZ6QWJJNE9UOE1SRTZadnZ3OEdfVjNHaTJaeTBIaWJ5RkZ2NFd6dTItdGk4Q29uZ0lLRkhRMVBqdzFhbVl5YlZYQ3VYb0tqenBzU01aS19xOUE4UWtWSVlETy1JZzBCaDFJbFBtN1ZwcHFVajBzSVZOc2hOVy1DTG1uOA?oc=5",
-      "rank": 20
+      "rank": 18
     },
     {
       "headline": "'I'm very happy' - Andoni Iraola on Bradley Barcola's arrival and availability for Ipswich - Liverpool FC",
@@ -231,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNblMxblNUcUVGT05YNFN1aERRZ3hKUjh5T21TRFBNLU0wVFhzbDZlMHYzTF9zem04cC1RME9LSE5xdjhQZHVIMjd4VXN6aW5leHYtQ1ZJTC13MlY2MnFNM0FEOUdRSERsMDlJQ2t6N2hhemtFMzE4VHZad0xYVHlYN3B3eGo0ZTcyVldwS3pjQ0dsVUlGZTZaOERUbXRMSWtxcGw2OUI2clpoM0hVQ3M40gG3AUFVX3lxTE9tNHR1aE4zenVhcXhxV0hDQnl0WUVyX01iOVBuM1FUVHA0R0tDdGZtemduYWxfalFYcGpUZ0NjZ2tmSmJ5RlVVY19ncXhwRkFYQmdRbUJfdkt4MmduUXhlMXdRR1U5SWtvbU1vUzV4TWVmU2gtS0VRU0x6enJWaVJSdkRKc3BKUTVpcElRS3FaY1NpaWhtX0xXQ2Jhb09xNzR6bEtYWWJBSXNzb21laF9mODBTOWxUQQ?oc=5",
-      "rank": 21
+      "rank": 19
     },
     {
       "headline": "On demand: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool - Liverpool FC",
@@ -242,7 +220,7 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdUx5cE9VOE1qRnYyZmY3WXNzdU5tLXYtMXQ3c082MTdVaEgxQ0s4bVpEN05OaFNXREVsd0RZc3NXSzI0N0JzdXBrc0xfSUdqeXhaOEhnbVpaUG1sMWF4RngwTy1KcFprbUZiZjcyX1NpNkJPZDFkUXc2X205c3laS1B3aTlFSWRGMGdiZXpOSVg2TzI5ZGRTVE81dVBTX0piRERfbkFkVVXSAbABQVVfeXFMTVp1VUgtR04tVXRLYlNfQ0phQWZrOXoxZGJFT2hMYVNLZGhXOGh2QS1vdXBBQXBpckJyc2FHOXV6YWJMY2R2Y19uTEpISjVhbU8yWENzSXo3dFZITHdlX3hrUm9FTl9UcHdMeDZVcG90dV90WktJZmZrU1lBYVpULWUzb2tFeEFKZU1qbEhkdFNpQzZTcHNoZzdSQURIT3k0OVpZdGxoTHRjMEpWMm90S2I?oc=5",
-      "rank": 22
+      "rank": 20
     },
     {
       "headline": "LIVE NOW: Watch Andoni Iraola's press conference ahead of Ipswich v Liverpool - Liverpool FC",
@@ -253,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFdsbEJ4STl2Z3diOGhwejM3T2NiSFh0OVRfTHY0N3RCWGdtRzBUcTFkYjFaa3JJdXRhQktBM1R5RFBIVG1ZZVlCNnpteUJKRnEtd0YwdVRvYXloX193SmlQUEhJMkh0TEFwR0kyMEFuSjVYS2RCdWtvcUp6aklFMTZBd2FsMkxHRzYyS0FqQ1VCT2xZVm1YeXhLcGk3ZjAxZEREa3IxWll0VVk4V3B2TdIBsAFBVV95cUxQNFdsbEJ4STl2Z3diOGhwejM3T2NiSFh0OVRfTHY0N3RCWGdtRzBUcTFkYjFaa3JJdXRhQktBM1R5RFBIVG1ZZVlCNnpteUJKRnEtd0YwdVRvYXloX193SmlQUEhJMkh0TEFwR0kyMEFuSjVYS2RCdWtvcUp6aklFMTZBd2FsMkxHRzYyS0FqQ1VCT2xZVm1YeXhLcGk3ZjAxZEREa3IxWll0VVk4V3B2TQ?oc=5",
-      "rank": 23
+      "rank": 21
     },
     {
       "headline": "The writing is on the wall for two Liverpool players after latest Andoni Iraola snub - readliverpoolfc.com",
@@ -264,7 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-09-04",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSlNZbGNUUDZKRnVXOGVWVzZvbDFERHR5YV9JNnFETWdlbHp6NWlZSktUdVFGZlh6b2ozc3I0eEJjZ2haY2hfQWppaUZHdmQ0S1dBeDR4MGllQWN6aWxIcUllamhkcms2OVRkbDZlNHlJX2lSeVhfQUJOVXB1V1REZk9CSXNDenM1X3VNMlk3NnhCb2lqMXBBTGVqU0h3YXlUMkx6MjVac25wMHZtTW1FZVBRR2FtNC1TVEE?oc=5",
-      "rank": 24
+      "rank": 22
     },
     {
       "headline": "Andoni Iraola press conference: Ipswich vs Liverpool - BBC",
@@ -275,61 +253,83 @@
       "rank_score": 80.0,
       "date": "2026-09-03",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9XeGg0UGdhMWdHYTg2Z2JRb1FEdTRWZ0lfbU9ZZnVmSkVIX3M0bkNrMEdOaWNNUzFTZUg1Ul81Tzk3SkFKUXNXSEc0eXVXODNQT1VTR3djd1pBNFpER0VTcUlLSko0WGs?oc=5",
+      "rank": 23
+    },
+    {
+      "headline": "Aston Villa sign Mbaye and Harwood-Bellis as Newcastle get Fernandez-Pardo",
+      "summary": "Gabriel Jesus completes move from Arsenal to BarcelonaHarvey Elliott joins Valencia on loan from LiverpoolAston Villa completed the signings of Ibrahim Mbaye and Taylor Harwood-Bellis on deadline day, with Unai Emery confident that the club",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 82,
+      "rank_score": 77.5,
+      "date": "2026-09-01",
+      "url": "https://www.theguardian.com/football/2026/sep/01/aston-villa-sign-mbaye-and-harwood-bellis-as-newcastle-get-fernandez-pardo",
+      "rank": 24
+    },
+    {
+      "headline": "Iraola’s Liverpool start slowly again but Muñoz strike denies Nottingham Forest",
+      "summary": "A malfunctioning electronic board will not have been on anyone’s bingo list of Liverpool complaints for the first Anfield game of Andoni Iraola’s tenure, but others sounded all too familiar. A slow start, a lack of intensity and defensive s",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 81,
+      "rank_score": 76.5,
+      "date": "2026-08-29",
+      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-nottingham-forest-premier-league-match-report",
       "rank": 25
     },
     {
-      "headline": "Andoni Iraola says Bradley Barcola available to make Liverpool debut against Ipswich - The New York Times",
-      "summary": "Andoni Iraola says Bradley Barcola available to make Liverpool debut against Ipswich The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXZpck01dk05dEoxek9mSUxiN1pkY3F4c3IzWU5ZNkxTcHliWDhHVkp0X1BmNzNqUFUyOWcwU0xNdFRRNUo3MGU2NEdWZ3NGeGF2X3h3WmZkZEQ5ZXZqdHNoS1l4eVZWeEx4eU9la3JUek14YVFvckxITWdpQ3pmbFFWRGRzNThaRk5UakxXdUtkOGNvQURB?oc=5",
+      "headline": "Bradley Barcola due for medical as Liverpool finalise £123m deal for winger",
+      "summary": "Barcola will be club’s second-most expensive signingPSG player set for medical this weekend before moveLiverpool have finalised a deal worth up to £123m for Bradley Barcola, with the Paris Saint-Germain winger to undergo a medical this week",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 81,
+      "rank_score": 76.5,
+      "date": "2026-08-29",
+      "url": "https://www.theguardian.com/football/2026/aug/29/liverpool-finalise-deal-bradley-barcola-psg-medical-premier-league",
       "rank": 26
     },
     {
-      "headline": "Liverpool Champions League squad: Chiesa, Endo out; Leoni, Bradley, Ekitike included - The Athletic - The New York Times",
-      "summary": "Liverpool Champions League squad: Chiesa, Endo out; Leoni, Bradley, Ekitike included - The Athletic The New York Times",
-      "source": "The New York Times",
+      "headline": "Liverpool 2-2 Nottingham Forest: Premier League – as it happened",
+      "summary": "Víctor Muñoz struck an 82nd-minute equaliser for Liverpool against Nottingham Forest in an entertaining Premier League draw at AnfieldThe teams are out! Liverpool all in red, Forest wearing a third-choice shirt that looks awfully like a rec",
+      "source": "The Guardian",
       "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWY1UFV2TUlaQTVXaDBmMXVQZHVFV21fNTBMLUtEaEdiYlBtNWJkLUpfdFNENmNYQkpnUmROMnZGZHBWLTJUMExuOUpzZ1hRM3c3M281Z3pNUWhRajlkczRhdjk0aVBQV1dOdHdyTHpHQkFDVmQtNUVmNUtwVjF3Q3IybTB5aVZQY3l4RWFpb1g1bDVuVV9faElMZ1I5Q0xLLUM2ZHp1YkVHd2lURXRMLWo1M0RZWFB4ZmhF?oc=5",
+      "relevance": 76,
+      "rank_score": 76.0,
+      "date": "2026-08-29",
+      "url": "https://www.theguardian.com/football/live/2026/aug/29/liverpool-v-nottingham-forest-premier-league-live",
       "rank": 27
     },
     {
-      "headline": "Liverpool transfer target ‘disgusted’ after failed deadline-day move - readliverpoolfc.com",
-      "summary": "Liverpool transfer target ‘disgusted’ after failed deadline-day move readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
+      "headline": "Chelsea? Liverpool? Aston Villa? Best and worst buyers and sellers of the summer transfer window - Between the Lines - Sky Sports",
+      "summary": "Chelsea? Liverpool? Aston Villa? Best and worst buyers and sellers of the summer transfer window - Between the Lines Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
       "relevance": 80,
-      "rank_score": 80.0,
+      "rank_score": 75.6,
       "date": "2026-09-03",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTUxCN0Rwa1hiZFFHbXJDWjF6Zmo0dWtNY1ZaUUc4TTB0Mm85NkdDMDRKelVldVVIZXViTFJYbGJGeEZzcGJtUmVGZHVwU1NVV1NvM3FSTE1mbUliNjBIQWREbzFVSE9HYWEtdnF5ZXExWENweW5wSkpuOG1kamp1XzF3OWpyd0ZkVkI4cERoaExXR2V5N1NMbWhYMk9sbmFoNlE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPQ0M2YjdlcVdCa3lRODdpSXoxelFlSHI1d0U0R0Q0NFhNLVBvVnQtbjk3alliQzBkSTZoaTRWVEg2a1E0Zkg3cl9fQlBSQldxRl8yYnBMTHZlS29lcjluUzQxcGpwQ0JUQlhmR1RLZzNUUWdDU1NXSllCdmNQa0xiTGpIUjRTWFNKbkNEakt2c3IxQ0VHb2dvdURCSzNTTnRFMVdRb0ZMRzhuU19Sd3NxSHZ1QUZnNHEtX2t1TmxCM20yMjRjbjZxckRtS25CUl9wSTNMRWZMWXRUMUU0eFYwTVFwYkNQVk5oN0lCWEFfRUcyN3FLSDU2b3Vn?oc=5",
       "rank": 28
     },
     {
-      "headline": "Liverpool confirm €5m deal for Djylian N’Guessan - The New York Times",
-      "summary": "Liverpool confirm €5m deal for Djylian N’Guessan The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
+      "headline": "Alexander Isak reacts to Liverpool chant as £125m striker finally kickstarts Anfield career",
+      "summary": "Alexander Isak endured a tough start to his life as a Liverpool player with injury curtailing the majority of last season - but the striker showed exactly what he can do against Ipswich on Friday",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 90,
+      "rank_score": 75.2,
       "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbjBJbkdSbUxCdUhUUHlrYUZqODF1TUFjTDhhcXl6MXg1THQxY0ZPY1BuWHM0eGt1WWszcWNBNXdPczZkWmxQbXpjYkZhbFNBRmNCMUNJNE5JZGtwMFQ2dDVjc0QzMlFTZlNqWXMwTTk5UnZJTHh2U2VSUXk0QVZjUjNRN1d3MHktQTNCT0hn?oc=5",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-liverpool-chant-ipswich-34571683",
       "rank": 29
     },
     {
-      "headline": "Liverpool need Dominik Szoboszlai at right-back for now. In the long term? Not so much - The New York Times",
-      "summary": "Liverpool need Dominik Szoboszlai at right-back for now. In the long term? Not so much The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
+      "headline": "Cody Gakpo shows Liverpool's best transfer decision of the summer didn't cost them a penny",
+      "summary": "Morgan King with the main talking point from Liverpool's Premier League trip to Ipswich Town on Friday night",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 90,
+      "rank_score": 75.2,
       "date": "2026-09-04",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOYmx3dFk3dldDemhJNWpHa0JGdXo2Rks3bHBTVTA5SG9IWmtqRnByb3JzdnhtUVdTeHBIZWlTVEJZZ3dBejhpM203WUxkYXlZZFl2QTVGWHdiZmJBRnJWZWh5TnMyRkxWWmdLbEdXVG5MblctUnBoTENCcjVTb0tacW1wN3Viako4c0R0d2RrNW5GTHNhT200ZQ?oc=5",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/match-reports/cody-gakpo-shows-liverpools-best-34570843",
       "rank": 30
     }
   ],
@@ -339,11 +339,11 @@
         "who": "Bradley Barcola",
         "meta": "LW · PSG",
         "fee": "undisclosed",
-        "p": "Medium",
-        "mentions": 6,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRXZpck01dk05dEoxek9mSUxiN1pkY3F4c3IzWU5ZNkxTcHliWDhHVkp0X1BmNzNqUFUyOWcwU0xNdFRRNUo3MGU2NEdWZ3NGeGF2X3h3WmZkZEQ5ZXZqdHNoS1l4eVZWeEx4eU9la3JUek14YVFvckxITWdpQ3pmbFFWRGRzNThaRk5UakxXdUtkOGNvQURB?oc=5",
-        "date": "2026-09-04",
+        "p": "High",
+        "mentions": 7,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1oakJUNVlfUDJ6QnhJNmQtTTNfMGJMTUNUX01MYUxtSUswMnFIZHcyQjBIT1JLZVgxbkNaYmlXVEU3S3BrRkg4RmNnQVkzd20yS2gwemVnRjhiU2RDVUVqUmpLWjJrTUk?oc=5",
+        "date": "2026-09-03",
         "active": true
       },
       {
@@ -412,7 +412,7 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Medium",
-        "mentions": 2,
+        "mentions": 3,
         "source": "Liverpool FC",
         "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRUlLS2Y4TGxHTFFZbFAxTTFLbGhqUUNZTEtlV3RKN2VUbThWZWVSMEMzWWNmckc3X0tWemRyVG5TNkJ4YlEwdzNvdEJ3MWdRMGRnb3dkcXpSU0JhQTVKUW11NGwzMEtVekMzQmV4SWpkcUdiV3hOS25tNjJzbGZxTDVuZkgzSzMxV0JRa0JzWVZ4RFBZMExOTU1qc0JjWUN5NUdod0I1b2gwUWxXS0d6WjZ30gG6AUFVX3lxTE5MWkNiYXRwMzFDSHhERXZzeGM2OXlMamF6NWZPQW9leEJnSEdPNk0tZzlQWFBkcWFyUnF1b0l2aUNkYm5QZ0VSVURxa3RQbTNQY1JIUU5ndXFueTVVVWh4U2VKc3JUTFhWckdXVEZ1enpEY1lDbWluTlZMRjZSamRxbnBiaENjckhjMGFjTG50aENBaS02ZjJWQlduemhfbExzZlZVUjN0LWIxUjh6bllzWlBfR2NWRHJPZw?oc=5",
         "date": "2026-09-03",
@@ -423,10 +423,10 @@
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Low",
-        "mentions": 2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYWY1UFV2TUlaQTVXaDBmMXVQZHVFV21fNTBMLUtEaEdiYlBtNWJkLUpfdFNENmNYQkpnUmROMnZGZHBWLTJUMExuOUpzZ1hRM3c3M281Z3pNUWhRajlkczRhdjk0aVBQV1dOdHdyTHpHQkFDVmQtNUVmNUtwVjF3Q3IybTB5aVZQY3l4RWFpb1g1bDVuVV9faElMZ1I5Q0xLLUM2ZHp1YkVHd2lURXRMLWo1M0RZWFB4ZmhF?oc=5",
-        "date": "2026-09-04",
+        "mentions": 1,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVy14aWhRMXV3UV9CMDdFZDhDWDk4NG82UDFaeVZaUEpuUGhaSVNaZDB4ZXdBazRPM1EwVFI0Q1BQMXRhT1IzNkcyNDZXN2tBVDNRYUJWT0FwSDZ5MFZwM1lBZW5Tdm9YQkVRM1gxYkl0ZFRic1ltMVE5clNnUW5oU0lqN0xlVWFHT3VWZWNnNGdtYmQza2NQLTdyblVfMzd4Ql85VFhKU3ZGQdIBsgFBVV95cUxNU0Ryd3J4NTlMaEV2ZWl1UkJwS1FOdEtjSVNsa0hXZHRtZHlxOUoyMDlhY09LdjQwbURMbGt6b1EzZGp1V3dLWUhpRjhpQmdLSmdCWDNDcFNXUXd0NXE1TFhRZmVSOXVoVTF4WDhNS2Vmb0tfWWE0aFdFWmxQQUktX0pRcHZQcG5vM0p5SDdoQlhEZ24tUG10QUN6TEMtODRGMjJhbkZ4QmUyM1hkU3pGSkF3?oc=5",
+        "date": "2026-09-03",
         "active": true
       },
       {
