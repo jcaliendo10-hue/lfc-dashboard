@@ -1,18 +1,7 @@
 {
-  "updated": "09 Sep 2026 15:59 UTC",
+  "updated": "09 Sep 2026 19:13 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek - Liverpool FC",
-      "summary": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 90,
-      "rank_score": 90.0,
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWt4MkpYUk1UVWVaSDBUckdVbGktUEJQUDIwbFZ0dS1ZX2t5OVFVZlRteG1xOVNkOXkzUS1sWXFmaUJmcS0yV0pHQ0JMbTJqYm5TbXVoWEhzZXZOWWs4MjBfNjQ2UnlxRVNpRHdBLV9PZzFPWGFuazBJQzY5bVd3aGQxR1g1Y3k4VUdsenFNTHJZVjAxc0QzTkJR0gGiAUFVX3lxTFBwMVJOZ0NIWlUxU1lkcDY1Z0VnUk82OURuaXVNQWRhWW9kVHNyejV3OV9ZNTJ3dlN6RkU3SjFTeWJiNk9BX1pxVXlEUDJ1MmJ1SmRZdTFpUG55WE03LXJmc00zallFWEhYWjVvWHR6T1BOb0NhWnc5QkZ3UzVQT0xxQlZUOHh6QTFJbl8xY29EM2JTZEpOWmZGYUpFX3NUaEUtQQ?oc=5",
-      "rank": 1
-    },
     {
       "headline": "Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
       "summary": "Midfielder rejected chance to leave the club in summer‘ I will give 100% until my last day’ says 27-year-oldAlexis Mac Allister has said he feels “very sad” after Liverpool declined to offer him a new contract and admitted he rejected the c",
@@ -22,7 +11,7 @@
       "rank_score": 89.8,
       "date": "2026-09-08",
       "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
-      "rank": 2
+      "rank": 1
     },
     {
       "headline": "Andoni Iraola press conference: Atletico analysis, Simeone reunion and a 'special night' at Anfield - Liverpool FC",
@@ -33,7 +22,7 @@
       "rank_score": 85.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPZHcxbFAyUUllTWxuUEtKd3l0clBaTzJ2RHRsWHF0Qmt5NW5EbkhXeXM2Ym8ycGJsWWRUVDR6amczZ2gxVTlkUVVMODg0eFNKNmtoTVlzc0JZQjlONElTWHBldkp3bG5NeTR5YjJwaHhGT3RXcVBiT0dZVjVCT3RmdWUyYWV5N0hOc0hpaDl5SnotWmJxSFFaY2l4cnlkbFpzdHRhc1MtazRmaEV4QWlXN2dIT2JCNWlKZG15R2s4QkLSAcgBQVVfeXFMT2RoTGZqVHRZTjdoM1N1U0NlWUQ3c1NYWmhTS2tWUlVsbEJMYnlxN2c2bUoyT0Y2U2JvYVRscFA4WW0xMk84ZGxsaV9HNEhNWmV1RktCb1lQM1NCUEVlcmlvRkpNQ2tTR2pENVhRYmpsWUZucDZ5dFdJYVVqZnhDZ25sTk51aFNKcWNMVkRFRl9BemRQVFVFZjFNQTVDSGwxN2FOV2YtNXR0ZXBtVnVoaDVPRGN2QXhvWUJiMG82cUlGQVVBSmlQRnk?oc=5",
-      "rank": 3
+      "rank": 2
     },
     {
       "headline": "Andoni Iraola: An occasion like tonight at Anfield speaks for itself - Liverpool FC",
@@ -44,17 +33,28 @@
       "rank_score": 85.0,
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQOTJfTHdUZG9GWDhuNlhwQ3dlUXNkMUxFd3ozbVFiM3pab1VHcGdDQUxjb04yR1FfV3p6ekFpRm9Va3pWUHlIU0dDbHpqOThIc1c3LUg4c01kN3h3dmtUVU5fMWM5ZkRZd0NNNXc3WVdMWFNiZFo1cnR2OWktR0lQVm1PdV9EaTBqT2FOUmhR0gGWAUFVX3lxTE9ITE4wYVRmSmYzQ0NSY2VQYjFJT1lFV0FxYkxadnJ3NWVWTjdJOTBTMWxlNUs5N3RpVWV3X25sc212a0d1OW9VWkVYMGtDUUZPWTE5eGdJdlpfRnMwelhuNFgxQTY4bVBXaGFCRnpRdVNBbWxKZFhSTHRjRWxsTVVhVWEtc0RtV0hUeUtUVUMydlBwemlmQQ?oc=5",
+      "rank": 3
+    },
+    {
+      "headline": "‘Adductor issues’ – Andoni Iraola provides big injury update ahead of kick-off - readliverpoolfc.com",
+      "summary": "‘Adductor issues’ – Andoni Iraola provides big injury update ahead of kick-off readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZzYxNVVuSUY0Vm9VZ20zVlZ2cnRkNmJvdHNweFZweVZhalhjZ2dwcGVqdDhjNnRzeEV1NTlmMkpUNkRPeTA0ZldnR3pWNmVvR0RBcHJpbDVwVGlnMTFzOHZLOE9sN2dvOVBJTzV3SDFCOF91QUdnSnpLVnNNVktsYTVLWmxnQ0JkM01zU01ydFJQclgyYlpEUWFqeXpiOGFidS1ScnhrOGVrSmpV?oc=5",
       "rank": 4
     },
     {
-      "headline": "Dominik Szoboszlai on Liverpool vice-captaincy and his love for Andoni Iraola football - Liverpool FC",
-      "summary": "Dominik Szoboszlai on Liverpool vice-captaincy and his love for Andoni Iraola football Liverpool FC",
+      "headline": "Cody Gakpo injury update - Liverpool FC",
+      "summary": "Cody Gakpo injury update Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQc0FHUU5OZWdkaWZBRzQ5d3hZNmQzNThRa2FlblcxM1lEUXYyTGxNQl9BWFd1b3lmaWlQUlZYd21Eem5KWm13WDR0VTZsWVl2YmN4YXZENzF3UUhGTnpUc3o3X0ZVOVVuaHA2TWh4bnJ5UjYwV1o1T2Y0Y1REeVF4NHBkdTRZZndpd25nN25qdi1ZUS05bm1tTU5pRU1zM29Qb0xHRHJwSi14ck1LekoyajNR0gG6AUFVX3lxTE1IQ1piWUlYNUoxY1hUNjlhZUd6eVhCbGl6LXM4eWN5NGdqMFJVY0lXb0NNOTMwUG9PbERlMUtZdm04VGpleXVuRjZLMlgyZy10NmxyY2JTUFhESURyLUlCREhTdEFkSTFnMG51clF0dmZlOE1Lejl3WUd2czUycTc5UzB6dDREOVJuNEc0eU9raHFhZ2xHSmQ0SUVCNGpRQjh6bUI5dUs1aUFibFdFd1BlUkcteDBSU05qQQ?oc=5",
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRUtVdWhZRjZFRWZjLW1EanZLcEpxN19DWFJjb0lwUi1RRS00NFNfa0VQVjlrV3ZSbHM4cUx5QTliZ2ZxRU5TaTNrZFdTaHVKN3h1OG5KUjlwcTVES1BkamN5M20yMmNr0gFwQVVfeXFMT05fS2ZaMVBuMTZLNFhWckY3b2ZUN1FXQkxnVlFKUWFCV3JOTVdtNUMtdm5jckVlb2c1Ukg1SlpTbENMV2VDNVFJLTEydS1jY2Vqd05pdHpOWHloVU5GanhtM2NGX3Q4SjMyUmstZmwxcA?oc=5",
       "rank": 5
     },
     {
@@ -91,14 +91,14 @@
       "rank": 8
     },
     {
-      "headline": "Alexander Isak and Cody Gakpo up for Premier League Player of the Matchweek - Liverpool FC",
-      "summary": "Alexander Isak and Cody Gakpo up for Premier League Player of the Matchweek Liverpool FC",
+      "headline": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek - Liverpool FC",
+      "summary": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 82,
       "rank_score": 82.0,
       "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcDFSTmdDSFpVMVNZZHA2NWdFZ1JPNjlEbml1TUFkYVlvZFRzcno1dzlfWTUyd3ZTekZFN0oxU3liYjZPQV9acVV5RFAydTJidUpkWXUxaVBueVhNNy1yZnNNM2pZRVhIWFo1b1h0ek9QTm9DYVp3OUJGd1M1UE9McUJWVDh4ekExSW5fMWNvRDNiU2RKTlpmRmFKRV9zVGhFLUHSAaIBQVVfeXFMUHAxUk5nQ0haVTFTWWRwNjVnRWdSTzY5RG5pdU1BZGFZb2RUc3J6NXc5X1k1Mnd2U3pGRTdKMVN5YmI2T0FfWnFVeURQMnUyYnVKZFl1MWlQbnlYTTctcmZzTTNqWUVYSFhaNW9YdHpPUE5vQ2FadzlCRndTNVBPTHFCVlQ4eHpBMUluXzFjb0QzYlNkSk5aZkZhSkVfc1RoRS1B?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWt4MkpYUk1UVWVaSDBUckdVbGktUEJQUDIwbFZ0dS1ZX2t5OVFVZlRteG1xOVNkOXkzUS1sWXFmaUJmcS0yV0pHQ0JMbTJqYm5TbXVoWEhzZXZOWWs4MjBfNjQ2UnlxRVNpRHdBLV9PZzFPWGFuazBJQzY5bVd3aGQxR1g1Y3k4VUdsenFNTHJZVjAxc0QzTkJR0gGiAUFVX3lxTFBwMVJOZ0NIWlUxU1lkcDY1Z0VnUk82OURuaXVNQWRhWW9kVHNyejV3OV9ZNTJ3dlN6RkU3SjFTeWJiNk9BX1pxVXlEUDJ1MmJ1SmRZdTFpUG55WE03LXJmc00zallFWEhYWjVvWHR6T1BOb0NhWnc5QkZ3UzVQT0xxQlZUOHh6QTFJbl8xY29EM2JTZEpOWmZGYUpFX3NUaEUtQQ?oc=5",
       "rank": 9
     },
     {
@@ -157,9 +157,9 @@
       "rank": 14
     },
     {
-      "headline": "Ornstein reveals Liverpool transfer target’s release clause, Iraola is a “huge fan” - CaughtOffside",
-      "summary": "Ornstein reveals Liverpool transfer target’s release clause, Iraola is a “huge fan” CaughtOffside",
-      "source": "CaughtOffside",
+      "headline": "Ornstein reveals Liverpool transfer target’s release clause, Iraola is a “huge fan” - caughtoffside.com",
+      "summary": "Ornstein reveals Liverpool transfer target’s release clause, Iraola is a “huge fan” caughtoffside.com",
+      "source": "caughtoffside.com",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
@@ -179,6 +179,17 @@
       "rank": 16
     },
     {
+      "headline": "David Ornstein reveals Liverpool's Alexis Mac Allister replacements - footballtransfers.com",
+      "summary": "David Ornstein reveals Liverpool's Alexis Mac Allister replacements footballtransfers.com",
+      "source": "footballtransfers.com",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQektqWVR3YTBpeU5DUldCd0Y4bG96MzBRZHZRMDJOZU9xX0RKU0JmUllUcWRvN2V0cFg3eDZyQ2FxbXRubjhlY05iSlhvbGdWZ0FUelYwRnZWSWJMRFhMRmFqSjNSeXRKcWYzUXBTVzJBcW42RlJES3lhOEdNTFVKUk5YTzdCczVSc0htV0ZlSktyVlZpRmhpeTZGVFhobnRFNC1JU0tQYkQzaGF4SVNvdk5sa3lJZU9yNzBtYjQtd1RTYzIzYjdQQjd6aFM2blktVGtLczlKWXpqSUVqa3VqYk1YMzdjcUNDUnhjNGhVUms?oc=5",
+      "rank": 17
+    },
+    {
       "headline": "Ornstein Liverpool Transfer Bombshell: Huijsen’s £50m Clause and Iraola’s “Huge Fan” Verdict on Rayan - TechnoSports Media Group",
       "summary": "Ornstein Liverpool Transfer Bombshell: Huijsen’s £50m Clause and Iraola’s “Huge Fan” Verdict on Rayan TechnoSports Media Group",
       "source": "TechnoSports Media Group",
@@ -187,7 +198,7 @@
       "rank_score": 80.3,
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10STZEWk5Yb2Q2WmRnWS1sbjBjMUpKaEY0WU1GOU1Bc0tQWnFBNG5mdDh1cm9rOHA5aFl5c2NYV1EtQ2ctX21mV3NfdVBROTc3aEM1UlNkSzM0NHVjeWNJOE1vdDc0QWM4ZjFDSzhEbmxEaUkyZ3htekhVM0x5b00?oc=5",
-      "rank": 17
+      "rank": 18
     },
     {
       "headline": "Liverpool FC",
@@ -198,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://www.bbc.co.uk/sounds/play/p0p8ky3n?at_medium=RSS&at_campaign=rss",
-      "rank": 18
+      "rank": 19
     },
     {
       "headline": "‘Really interesting’ – David Ornstein confirms three Liverpool transfer targets - readliverpoolfc.com",
@@ -209,7 +220,7 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPek9aOUJpVGRYakhnUjZFN09pZ09Eb1dmVUdfbVRXRkpVcHNsRDFIQmpTdU9NYTBBanA1N2RDaVBVOFlEdTFOVzZyLWxVQk9kZXVHZkFTZEF3TzZkYUEtV1ZPc0VocElJc0dPVjVlbEg0RHVQUFgyZFRDOHdMR1ktWnhtaE1MQi0zeW82WHBIVHhJcThTV28zbHFudTBES1ZvNkJkXzN0QW1RQ0RONHc?oc=5",
-      "rank": 19
+      "rank": 20
     },
     {
       "headline": "‘Doubt’ – David Ornstein refutes recent Liverpool transfer claim - readliverpoolfc.com",
@@ -220,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWk5hY1hTZzdzeXBjNGZNalpLU3pEUlhmTUtLUFJmMTZDQUxQZUZSUi1SRXRzeVZ2RlJTcU9ha3NMUHR4VG5Cdy1QMnU3V2RXaHU5X3pNTDFjWTRGT3FlMXk5WlZRUEc0Mjl2akxSYVRkQWZPbk1KeEVWaDVJZlN2UF9MY3dxUENmc25tcWQ5N0xENExqamhrZXVR?oc=5",
-      "rank": 20
+      "rank": 21
     },
     {
       "headline": "Liverpool v Atletico Madrid stats: A first for Andoni Iraola, head-to-head record and more - Liverpool FC",
@@ -231,7 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ3NfSGJQUEk0WEkzZkc5eDI4bTZkQmpqVERGNXdqS2RNYzcydmVqQU11UDVPV3FveGNaa2dMRFdzXzlKMHN5Qm1seG83ZzRfVVNSZFBlb0VLVVE3STdwaTRrd0JVTzZfMnkxTjJRVldvMUJTRUw1SXhub3ZrbmhScVJJNGFNQjdjSjNZLVdJbkdrSFBVRjcwRlpTaVN6bHR3U3NYa3dDSnRnZzJnaFFiVGxB0gG6AUFVX3lxTE9kV1lYUDNPZW50VGthVWtqT0JDNTBqZS02VGw0eXV6a3dQeGFhTVZDLUZPMWtSYVZxal81Y1AwdG9iVl9LMm4xclRBV2dmODNORzFNWE4tXzNKZUlNQ2dtbmFPbTFYLUV6UTVuLVFLSDAyWEJFSDN4REdoekxnM2lUR3A5VWxxQlRaa3M2UEhLSVJrN3RscmlXLTctY1YxODNYMHBlTnFzSkQzU3JTZXNzRXhnLUNQTDVTQQ?oc=5",
-      "rank": 21
+      "rank": 22
     },
     {
       "headline": "Alexis Mac Allister: 'We have the right players and the right mentality to do great things' - Liverpool FC",
@@ -242,18 +253,18 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQNGsyeExYc1pPaDNmVGR5Nll1LVo2N0RQRFJ1dDdlbFlBWllHZUllSDRHVVNYQUZVTGFDSTlOa0xUOGl0NnBhb3EyOGZDWkNnMm1aSFJBZXgySXBIQ24tLXZzU3JxaEJDZ09rZnpJWkNTR3kyX2gxSFpUREFYT1RDck9kMXZ1a2U2ZlE4U1VPRjRLeU1fT2piY2NIQzlMR3hzNDBPUEl5VGhkZTkzc0E00gG3AUFVX3lxTE0xQ2stSTc3NWZEeGp2aEZnQmdVLU9yTmZtVXpjOTV0YzVub19GbTJXcUhxOFJVb0M0MnZRdTVkcEYtRDktUm54bGxaSS1ic3QyZ1g1eWFTbE45OHhTRl9PZk1LQnpsZHg4Y3BjWkh5bGVBTVMyU0ZZZ21LMEJBUWVJckF2TmI0VGxqcWlJeGk0eVFrYmYwTm42am5tMjFNaTd1UTRBdlJpdXB0c1llcm03dzFESmFxWQ?oc=5",
-      "rank": 22
+      "rank": 23
     },
     {
-      "headline": "Andoni Iraola press conference: Liverpool vs Atletico Madrid - bbc.co.uk",
-      "summary": "Andoni Iraola press conference: Liverpool vs Atletico Madrid bbc.co.uk",
-      "source": "bbc.co.uk",
+      "headline": "Andoni Iraola press conference: Liverpool vs Atletico Madrid - BBC",
+      "summary": "Andoni Iraola press conference: Liverpool vs Atletico Madrid BBC",
+      "source": "BBC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9rQ0JXUHpRMU9QSlpqNFhnbnVXaWVlQVloWUF5dS1JSHVyamdid0NhSGZQU0VqbGJaY09RYVZuOHVESkluVnVrVUxJTTYtYm55czlyM3dYeVRBNWs1aVRNcUJYeVdmNEhFc3c?oc=5",
-      "rank": 23
+      "rank": 24
     },
     {
       "headline": "‘Important’ – Andoni Iraola breaks silence on Liverpool midfielder’s uncertain future - readliverpoolfc.com",
@@ -264,7 +275,7 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYzFuTnVONmxiSk9WdXJ5WkF5WlpwSW9KY3lXWWtKVXNjVkpRYUFoOFlkQlJhcWNpb2tUTTVHeXhvQ1JpR0l5cUJTdWlHN2dYMmgwSktMeWJ2YzJ5RmxEU2c3ajd3ajJPZVpXNk95dmhKd1ZFYThsUjlIWVNqMFl5ZUtPSk1yeF91S3BENGFRS1NzWDJsMnBZY0RGUmJFbEJ4dXJpZENmbkR5b19IYlE3RnRlbEg?oc=5",
-      "rank": 24
+      "rank": 25
     },
     {
       "headline": "Andoni Iraola drops big Bradley Barcola hint ahead of Liverpool vs Atletico Madrid - readliverpoolfc.com",
@@ -275,18 +286,18 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWpVWjZ2UTlydmtKTEUxOVJYSExhUURWMWx3Z0NMTGQ4bTFZU2c1ZlhsdUEzZk1sRGREd25ieW9rQWhjWjNBaGRSR3AySWx0cnhSZE01QkNMWjN6Qk9fNE9sZ1huYkF0aFUtekpSUjhFMVkta2lvMmNzZ040dC1GMG9YUDBnT3VSNzdwenpPWjFySkRJbDJzN3MySXk0TUIwVzVycTlpb25MOFhsUkRpYmhYeDdCQTA?oc=5",
-      "rank": 25
+      "rank": 26
     },
     {
-      "headline": "‘Intensity’ – Liverpool fans will absolutely love Andoni Iraola’s latest comments - readliverpoolfc.com",
-      "summary": "‘Intensity’ – Liverpool fans will absolutely love Andoni Iraola’s latest comments readliverpoolfc.com",
+      "headline": "Liverpool fans will absolutely love Andoni Iraola’s pre-match Bradley Barcola claim - readliverpoolfc.com",
+      "summary": "Liverpool fans will absolutely love Andoni Iraola’s pre-match Bradley Barcola claim readliverpoolfc.com",
       "source": "readliverpoolfc.com",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-09-08",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdVc3a0UxTUZTTEwwcm1oSXdudWRIVjR0VlpuSHhRQUpLcEp3WC1hX0hJUVdFUjNjTlI4TzJnUGFaRUNWX19VaVpIZWNwaTh0VTJWVl94QVM5R0tBX3NmTzZmUWhyWjFZUHRGQVJ4NlRvTGdFXzFxS2ljQVRTeWM1cDdNaUlYajBPV3k2MDVwcGlKWnRKUDJmSFNGQ2NtSERQNmpzaXI4d18zblZqWFBJ?oc=5",
-      "rank": 26
+      "date": "2026-09-09",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmYtSzgyM2F5RTNhcHhKbU5FcVRIRFNfNndUcWhuQjlIeU9NU0djemh1UG4yV0ZTSTlLTFVERmlmbFJiakNNZjZNVlFsVlhSSE5jWi12dEc2ZmpqaENWMHVGRk14UmVvUUU1dzV2NVo5cHd0cU5lQzFiYl9IMjZCM1FkU1NrWXRlaFZ0ODNDd05vNDNseXN1bnB2NXpjakNUX0hxRUl1cEtFcWRWTXNrRGFqR2E0QjA?oc=5",
+      "rank": 27
     },
     {
       "headline": "Liverpool announce five-year shirt sponsorship deal with Turkish Airlines - The New York Times",
@@ -297,7 +308,7 @@
       "rank_score": 80.0,
       "date": "2026-09-08",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOS0dGa0loS0RHWlg0UDR2LU10d2UxdGJOUmh2T0NYa1UyUFdxRWFQR3RnVnVkT29YbHkySHBaSXhSVDUwa1otdU81aVlOVkR2MlctbUJpd182eFdRbExKVjU5d1ljMFBCQk1PVEE3blBSNERlSlVqX0VwTEx5T1V4YVpRQkUwYzg0aXowaWx5OF95TUtxMW1XNw?oc=5",
-      "rank": 27
+      "rank": 28
     },
     {
       "headline": "‘Right price’ – David Ornstein confirms Liverpool could revisit £70m deal - readliverpoolfc.com",
@@ -308,7 +319,7 @@
       "rank_score": 80.0,
       "date": "2026-09-09",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVDVubl80amE1b3F2VklUYWVIUnhlbzdsWnF5dzhoT2FmdHQyZDJXWDl5TS1UN0JGcUFwSW5VcUQ1OFJwOUs4NG90VldmWjZvU3hkV1pVSk1PYW9UZVgtNjNSZ1YwYXV4VjZoTEJSUzFoVC1Vb1Fsb0xfaHZJSnZ0UXNaWEw0QWJUdmZnQkl0MmxLcWRyZjR1RWMyTUxQVHY3QVdULQ?oc=5",
-      "rank": 28
+      "rank": 29
     },
     {
       "headline": "Richard Hughes confirmed as Al-Hilal sporting director after Liverpool departure",
@@ -319,17 +330,6 @@
       "rank_score": 77.5,
       "date": "2026-09-06",
       "url": "https://www.theguardian.com/football/2026/sep/06/richard-hughes-confirmed-as-al-hilal-sporting-director-after-liverpool-departure",
-      "rank": 29
-    },
-    {
-      "headline": "Premier League: 10 things to look out for this weekend",
-      "summary": "Florian Wirtz has a chance to shine, there’s a Red Bull reunion on Tyneside and Chelsea face litmus test at ArsenalFlorian Wirtz is easing himself into his second season at Liverpool after a forgettable first. There were signs of promise ag",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 81,
-      "rank_score": 76.5,
-      "date": "2026-09-03",
-      "url": "https://www.theguardian.com/football/2026/sep/04/premier-league-10-things-to-look-out-for-this-weekend",
       "rank": 30
     }
   ],
@@ -340,10 +340,10 @@
         "meta": "LW · PSG",
         "fee": "undisclosed",
         "p": "High",
-        "mentions": 2,
+        "mentions": 3,
         "source": "readliverpoolfc.com",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPLWpVWjZ2UTlydmtKTEUxOVJYSExhUURWMWx3Z0NMTGQ4bTFZU2c1ZlhsdUEzZk1sRGREd25ieW9rQWhjWjNBaGRSR3AySWx0cnhSZE01QkNMWjN6Qk9fNE9sZ1huYkF0aFUtekpSUjhFMVkta2lvMmNzZ040dC1GMG9YUDBnT3VSNzdwenpPWjFySkRJbDJzN3MySXk0TUIwVzVycTlpb25MOFhsUkRpYmhYeDdCQTA?oc=5",
-        "date": "2026-09-08",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQZmYtSzgyM2F5RTNhcHhKbU5FcVRIRFNfNndUcWhuQjlIeU9NU0djemh1UG4yV0ZTSTlLTFVERmlmbFJiakNNZjZNVlFsVlhSSE5jWi12dEc2ZmpqaENWMHVGRk14UmVvUUU1dzV2NVo5cHd0cU5lQzFiYl9IMjZCM1FkU1NrWXRlaFZ0ODNDd05vNDNseXN1bnB2NXpjakNUX0hxRUl1cEtFcWRWTXNrRGFqR2E0QjA?oc=5",
+        "date": "2026-09-09",
         "active": true
       },
       {
@@ -414,7 +414,7 @@
         "meta": "CM · Real/Atlético links",
         "fee": "undisclosed",
         "p": "Medium",
-        "mentions": 4,
+        "mentions": 5,
         "source": "The New York Times",
         "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWUxXdXZCUXc1MENRS1Rod2R5YmgwYU1YelZReWhGVWxYNDZzYVpVaEhFbEROc19QdW1ReUphVmdBM0g1dTVIbmx6WVpwYUx0SXpxZmpxMGs4RFRaMGhFQVdqdHljVVlVY1hfZ0trMFdlOFlWeW01Qnk0RVZtZnZENWxLSHZPZ3poT1Eycw?oc=5",
         "date": "2026-09-08",
@@ -427,8 +427,8 @@
         "p": "Low",
         "mentions": 2,
         "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWt4MkpYUk1UVWVaSDBUckdVbGktUEJQUDIwbFZ0dS1ZX2t5OVFVZlRteG1xOVNkOXkzUS1sWXFmaUJmcS0yV0pHQ0JMbTJqYm5TbXVoWEhzZXZOWWs4MjBfNjQ2UnlxRVNpRHdBLV9PZzFPWGFuazBJQzY5bVd3aGQxR1g1Y3k4VUdsenFNTHJZVjAxc0QzTkJR0gGiAUFVX3lxTFBwMVJOZ0NIWlUxU1lkcDY1Z0VnUk82OURuaXVNQWRhWW9kVHNyejV3OV9ZNTJ3dlN6RkU3SjFTeWJiNk9BX1pxVXlEUDJ1MmJ1SmRZdTFpUG55WE03LXJmc00zallFWEhYWjVvWHR6T1BOb0NhWnc5QkZ3UzVQT0xxQlZUOHh6QTFJbl8xY29EM2JTZEpOWmZGYUpFX3NUaEUtQQ?oc=5",
-        "date": "2026-09-07",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBxRUtVdWhZRjZFRWZjLW1EanZLcEpxN19DWFJjb0lwUi1RRS00NFNfa0VQVjlrV3ZSbHM4cUx5QTliZ2ZxRU5TaTNrZFdTaHVKN3h1OG5KUjlwcTVES1BkamN5M20yMmNr0gFwQVVfeXFMT05fS2ZaMVBuMTZLNFhWckY3b2ZUN1FXQkxnVlFKUWFCV3JOTVdtNUMtdm5jckVlb2c1Ukg1SlpTbENMV2VDNVFJLTEydS1jY2Vqd05pdHpOWHloVU5GanhtM2NGX3Q4SjMyUmstZmwxcA?oc=5",
+        "date": "2026-09-09",
         "active": true
       },
       {
