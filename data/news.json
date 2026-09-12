@@ -1,5 +1,5 @@
 {
-  "updated": "12 Sep 2026 03:20 UTC",
+  "updated": "12 Sep 2026 08:23 UTC",
   "count": 30,
   "items": [
     {
@@ -267,9 +267,9 @@
       "rank": 24
     },
     {
-      "headline": "Liverpool news: Will Andoni Iraola find balance in style of play? - bbc.com",
-      "summary": "Liverpool news: Will Andoni Iraola find balance in style of play? bbc.com",
-      "source": "bbc.com",
+      "headline": "Liverpool news: Will Andoni Iraola find balance in style of play? - BBC",
+      "summary": "Liverpool news: Will Andoni Iraola find balance in style of play? BBC",
+      "source": "BBC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
@@ -300,17 +300,6 @@
       "rank": 27
     },
     {
-      "headline": "In Ronald Araujo, Liverpool finally have a loan signing they can love - The Athletic - The New York Times",
-      "summary": "In Ronald Araujo, Liverpool finally have a loan signing they can love - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-10",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUTdsMFBvZU1RTDhiWDM2bjk4bFBlUmpIOThaWnY0d3NTYlZJUHh2NVpOOGZFU1RnclVQUHZZMWpieHB1bU1SYk9VSFNxU0dfUjFDS251dEtFTGNsUzV1Z0h5UjdSVU1RR0RXdGF6czRxRjg5WERRakxjb0lGMUR4VDhkaVBWMGFzMTkwc1M4aHEzSHROd3c?oc=5",
-      "rank": 28
-    },
-    {
       "headline": "Every word Andoni Iraola said on Liverpool form, injuries, Fulham and Alexis Mac Allister",
       "summary": "Live coverage of Andoni Iraola's Liverpool press conference at the AXA Training Centre to preview Saturday's Premier League clash with Fulham at Anfield",
       "source": "Liverpool Echo",
@@ -319,7 +308,7 @@
       "rank_score": 79.3,
       "date": "2026-09-11",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-press-conference-live-34601978",
-      "rank": 29
+      "rank": 28
     },
     {
       "headline": "Barcola, Gakpo, Ekitike - Latest Liverpool injury news for Fulham clash",
@@ -330,6 +319,17 @@
       "rank_score": 79.3,
       "date": "2026-09-11",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-injury-latest-barcola-gakpo-34603938",
+      "rank": 29
+    },
+    {
+      "headline": "Andoni Iraola explains Liverpool transfer decision over forward and Ronald Araujo change",
+      "summary": "Liverpool boss Andoni Iraola has been speaking ahead of the Premier League clash against Fulham at Anfield on Saturday afternoon",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-09-11",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-explains-liverpool-transfer-34602316",
       "rank": 30
     }
   ],
