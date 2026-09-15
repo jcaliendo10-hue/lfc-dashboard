@@ -1,7 +1,18 @@
 {
-  "updated": "15 Sep 2026 16:22 UTC",
+  "updated": "15 Sep 2026 22:43 UTC",
   "count": 30,
   "items": [
+    {
+      "headline": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
+      "summary": "Tottenham scored a consolation goal but consolation was otherwise absent for Roberto De Zerbi at Anfield. Spurs’ miserable start to the season continued as they were soundly beaten by a much-changed Liverpool side and a quality of finishing",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 95,
+      "rank_score": 89.8,
+      "date": "2026-09-15",
+      "url": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
+      "rank": 1
+    },
     {
       "headline": "Andoni Iraola tells Liverpool forwards they must do more to make his system work",
       "summary": "Head coach insists forwards need to improve pressingChanges up front likely for Carabao Cup tie against SpursAndoni Iraola has shifted the focus on to Liverpool’s forwards for the team’s uninspiring display against Fulham, insisting they ne",
@@ -11,7 +22,7 @@
       "rank_score": 85.1,
       "date": "2026-09-14",
       "url": "https://www.theguardian.com/football/2026/sep/14/andoni-iraola-says-liverpool-took-a-step-backwards-in-draw-against-fulham",
-      "rank": 1
+      "rank": 2
     },
     {
       "headline": "Liverpool transfer news as Andoni Iraola drops big January hint - readliverpoolfc.com",
@@ -22,29 +33,29 @@
       "rank_score": 85.0,
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOHlEazJIa2ZoTnN3QlZ2TXVtX2F6SVZUMWJ1TGU0NnlDQ0pvSEo3VDNNRGJjdXRQMkRENTV2cGtQVjA5aWJyYzF4MllHeTZTT2VXUUs3OUV6UV80WldkLUJiVDVJRURydmVqZkhzRXZkdHZ5X0lBdVhEelcyc2Zjb2Q2MVU0VjNtakk2TmZNN0tGMWdZVnkwVkhndDlzdw?oc=5",
-      "rank": 2
-    },
-    {
-      "headline": "Florian Wirtz Bayern Munich Transfer Rumours Dismissed as Liverpool Star Refuses Return to Germany - readliverpoolfc.com",
-      "summary": "Florian Wirtz Bayern Munich Transfer Rumours Dismissed as Liverpool Star Refuses Return to Germany readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-09-13",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUlgybVN3LUg1U1dwS0NsdnlmWHdzcjExeTRzNFJzTGg2bGpzYmJSVVNUbF82dkFrNFRkU2NXMmFTa00xN29UWjVDc1FaSVFlZVN0RDNfN042X0lTR3V4TjNtaEZ2aEV1T1p1NWs2VDFfQTVzRlRQeGxnTUZIbjJaeTk1d3daN05wcVpLY2NqZXdPUQ?oc=5",
       "rank": 3
     },
     {
-      "headline": "Andoni Iraola programme notes: Carabao Cup aims, Tottenham tie and Anfield 'privilege' - liverpoolfc.com",
-      "summary": "Andoni Iraola programme notes: Carabao Cup aims, Tottenham tie and Anfield 'privilege' liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "Andoni Iraola press conference: Carabao Cup win, 'contagious' Koumas and Szoboszlai 'worldie' - Liverpool FC",
+      "summary": "Andoni Iraola press conference: Carabao Cup win, 'contagious' Koumas and Szoboszlai 'worldie' Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOYWVFdTdmZmxSQ3NBTFFUd0ExM0JiR1ZUOWhFYS1SbncyWTBqR3EwUXpFNENfeDJNRFdBZXdMXzRYWHNoZEpPUVVmQ3FUXzczZDlXMF9xRU5ydVFSTHdkbjlOZnpJM05xZ2V3QWl0TzA2X0xadkpEUFR3TGVDUVhweFc3aDg0eFNaUV91ajZuWXF2WkdpVU92Y1Jtck45Qk1uMHlkS2FVbGdBVy0zbWpsMVJaaF8yX2Q2TlgwRNIBxAFBVV95cUxObjItMzVVZ01LdHJQTUxEcER4dFZtdmcydzVCU3JVUWRNV2I0Z2w1cnhVWDlPSG00LTBLaWk0QTVCRWVueE9ZbHRzZVkzZDNBaTB1V1VycTRvY19qZVJEZUZ1MXZ3RkFyV01KVHZkT1BWNmZFV1FIMnhEQjhoaXlqSGVqNEhvdmVBdjFwNzdJNnA2TWRYMEhjbGpfSk0xRnZnMmZsUDIyOHRXYWNTRlFqcV9PYmNuU2UyR3ItYlViSXZyanVl?oc=5",
+      "rank": 4
+    },
+    {
+      "headline": "Andoni Iraola programme notes: Carabao Cup aims, Tottenham tie and Anfield 'privilege' - Liverpool FC",
+      "summary": "Andoni Iraola programme notes: Carabao Cup aims, Tottenham tie and Anfield 'privilege' Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWi1VNDk0RUU1dnQ2MzBCeGhXWkIzYU9rc1A2akJMSmNxc1ZFWHNxbDBRSEtxZFpjVHFrUkEwUl9yUVc3cy1makJEdWgxdm1aUnRxRnlSVjhSUkRjemZPakx2a29GaU1iTGoyM2tMbjlsd2Qxby1aVllJWkJwRmhjTlo5T3B1eGgzVTZ2UVZaX2J1VHZobzJMZ0dtcWE4Sl93N0JRRjloRjNuNEFOTlYwNzRFZVZuQdIBvgFBVV95cUxPeUJuSUk0UGJXNDFEVzVsc29lTUhjMHBfRE5WWUhMMXBhNDFZYW05M2xnbUp0LWMtTTFHWnZSNXVhTmhRdUF2M2FuZHVBRmk4SklHaGFoUENoV2lLSWtKd0ZlQUp3R1pHbGdYTC1UYnBJZWdKeWQzX2x3TjR2UE9lYndFOUczQXYza2xGeVFaYTl3b2ZTS0RmVXgza19tQzdJbnVuUUpsSURxTS03WHd0dERDODI3ZmFVd21CSnZ3?oc=5",
-      "rank": 4
+      "rank": 5
     },
     {
       "headline": "‘Not close’ – Andoni Iraola provides discouraging Liverpool injury update - readliverpoolfc.com",
@@ -55,7 +66,7 @@
       "rank_score": 85.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaGI0WTJxeUVKaGdmZHMtSDNDM3pXT3o5Nzl2Y1JhcWtJdVdHMlB3RlRLWU9mWW5fTEwzUEdicjNFRDg5UkpjcDZwbUJWX24zd2d1dVpSMDhBakswbV9ETk9uTzlYUUFFbFhRUGVKdWR6VTZxTHkwZ1Bjd3A2T2J4TU1yQm9VVlVNSjZhZjhSNTNSLWIyQnZiYXI4bEN3R3FiYm9MSFRn?oc=5",
-      "rank": 5
+      "rank": 6
     },
     {
       "headline": "‘Available’ – Andoni Iraola confirms massive Liverpool injury boost - readliverpoolfc.com",
@@ -66,7 +77,7 @@
       "rank_score": 85.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd1EtOGJIYUJsSldnWTVlSWJRdlAtM0RzQjJ3X0lnekxXRzl2cEJnZFlsX2ZHRTF5OTRreUNhQk1ZWXhwMFNOLVE4TnZhWm11eGR3YllYQmxYcnE4TkdUWHFFOWhjZ3AxQ3ZjMUZNVmEzQ2tLbTN4TXJjYTBKMTFDbTJ2REoySWhLRXhmdEVscl95QjF3VVNVY1RoaHFXUQ?oc=5",
-      "rank": 6
+      "rank": 7
     },
     {
       "headline": "Premier League today: how to watch Liverpool v Fulham, TV channels & live stream",
@@ -77,18 +88,18 @@
       "rank_score": 82.2,
       "date": "2026-09-12",
       "url": "https://www.theguardian.com/football/2026/sep/12/how-to-watch-liverpool-fulham-premier-league",
-      "rank": 7
+      "rank": 8
     },
     {
-      "headline": "LFC fitness update: Iraola provides latest on Gakpo, Barcola and Ekitike - liverpoolfc.com",
-      "summary": "LFC fitness update: Iraola provides latest on Gakpo, Barcola and Ekitike liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "LFC fitness update: Iraola provides latest on Gakpo, Barcola and Ekitike - Liverpool FC",
+      "summary": "LFC fitness update: Iraola provides latest on Gakpo, Barcola and Ekitike Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 82,
       "rank_score": 82.0,
       "date": "2026-09-12",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNi1ja2pIcXo0QnlYR3ZCSkZRNE5WYWdrSUVNN2x1cURLZVMyRnlPc0lKZzdMeVVVRW9LSk8ybnhObDVIT3dnbWVCSDBpZkxrR2RmX21jU252eDY2MlQzaWV3LXVZdnlkVU1TMGRrRVNRbHJYa0s0RjdxckE1azU5U0RXQklVQ0dKamdlbzZjeWJxRVZlTjVaY05JaTdYMGZDd3fSAaoBQVVfeXFMT3Y2WW1taTY4UHNjUzIzNUdZME1FZTYxN2lOVF9hd0p1Ykl4WFY3UklsVXMxWkZoSzl3MHFydktCdmlNajhjSEoyNnB4QWZCczJnc0cwRlk0X2l0anVPVzMzVTlqY2xLMHJXZEF1Y0hEWmlSeHBZeThSYnEwUWNGVWVCU1pPRjJxODMwTEp2VDlzZzJSbGlVZnRsN3BFblA2M1NnTmlvMFdDUlE?oc=5",
-      "rank": 8
+      "rank": 9
     },
     {
       "headline": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
@@ -99,7 +110,7 @@
       "rank_score": 81.3,
       "date": "2026-09-09",
       "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
-      "rank": 9
+      "rank": 10
     },
     {
       "headline": "De Zerbi backs ‘sensitive guy’ Solanke to find form before tricky Anfield trip",
@@ -110,7 +121,7 @@
       "rank_score": 80.3,
       "date": "2026-09-14",
       "url": "https://www.theguardian.com/football/2026/sep/14/roberto-de-zerbi-dominic-solanke-tottenham-liverpool-anfield-carabao-cup",
-      "rank": 10
+      "rank": 11
     },
     {
       "headline": "Liverpool: Paul Merson 'worried' after assessing Andoni Iraola, Florian Wirtz and Bradley Barcola - Sky Sports",
@@ -121,7 +132,7 @@
       "rank_score": 80.3,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbmMxeXhWT0h3bFZVNzkyeVNfa1FoSmV5ZU1mR1d2cUtRWUloXzI3dG01YzllWDBkSGw2TkZObGZXWXVXWGg1T28ydmQ2STQwOFN4THNyMU9oWjBOZFlsODZkR1BId0J2MHVtaHRLdDduNm9VZnZNcXJ4Y2dqYXNzbGZlaE11cnNJUkpPVFdYa2V0aENqSHlOTUExSU5Sd21aX0NHLWdRM1gyOVRLSkhieDBJcWZ4aFEzRlk3RC1YMVJ6eEpUdGYwSjJUN3FVQW9WT0VNc0RYaGdnS3pvbFFtWlVR?oc=5",
-      "rank": 11
+      "rank": 12
     },
     {
       "headline": "Fabrizio Romano confirms Liverpool can wrap up £47m signing - anfieldindex.com",
@@ -132,18 +143,29 @@
       "rank_score": 80.3,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNeDJnLVQzbUNzLU9KZF9xTUJJUmlQcW4yTHluX0haVkg0Z3hiMzEzaFkzeTJCaGVLS2F0QTEzSHhfZ3l4cHFvc1pSV2hUTHFBbFh1d0xLQTE2U1liTFlIUHNHOHVnMm1UNDJLeFBOUUFrV01vcEJOZVVkbVlxeWpySk1xSGFUelNjOXFpTnJSLTE5ekdFRjZFX1h6TQ?oc=5",
-      "rank": 12
+      "rank": 13
     },
     {
-      "headline": "Liverpool face Real Madrid and Bayern Munich competition for £43m transfer - liverpoolfc.com",
-      "summary": "Liverpool face Real Madrid and Bayern Munich competition for £43m transfer liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "Liverpool FC",
+      "summary": "Andoni Iraola on Liverpool's 3-1 win over Tottenham in the Carabao Cup third round",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-15",
+      "url": "https://www.bbc.co.uk/sounds/play/p0p9sp0p?at_medium=RSS&at_campaign=rss",
+      "rank": 14
+    },
+    {
+      "headline": "Liverpool face Real Madrid and Bayern Munich competition for £43m transfer - Liverpool FC",
+      "summary": "Liverpool face Real Madrid and Bayern Munich competition for £43m transfer Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQXN6RXE2MW40XzdLbE1EamVrMGdmb3pCXzdLV1JZVVdqd1pTeHIzWjJMMUhHRVNudmpMa2YwOUNWd0VDNXQ1V1ZkY3c3X1JzM2JvUXBYUU9LU3RSazVQVENnSHVnWGFQbndlek5ZUzdWRzU1dml5WE5WZzhVSV9nQ1VPMUFWOTIxWFY3U3cxT3RObl8xc2VtaVljYXhmbzBQUk9KajhhZ9IBrwFBVV95cUxQVzhQZUp3VWNIZW4xamozV1lncElpb1JZN1JLamxVaFYyc2ppOU1HdUJidUQ0VWJnSmhWUGh4VkVBVFBFMlZraU1nTXVVbXFYWDBidVhQMy15Q3Q2R1Z5UWdNWnpkZUd0LWs2VEtmSmtzRFY5TkhMaDZHOGk1RzlWSDZlN0wzamF3cHA4cGdUTTFtTVNlT2N0QnlRaDdERUJvM3pNckZxSllDWG95UTZF?oc=5",
-      "rank": 13
+      "rank": 15
     },
     {
       "headline": "‘A lot’ – Andoni Iraola shares what he really thinks about his Liverpool squad - readliverpoolfc.com",
@@ -154,62 +176,51 @@
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQMFRia1pRRU8tSXJ4VXNOdkNNWTF3cXl0Rnp3WDZYQ213RFhsTkpVdEtyc3JhVTl6N2lZVWltaUJYTFBZNTJ1cGN2WUswbWZVMzNjQWRINFU2MXllNmduSkJBc3A4SFI5NUg3U0toT2pJS1lfN1BJaU85cDRiZ0J0X1E0d1hmdHpfVnJxT29FX014eF9LS0pIcHNVaEdKQkpzQ3hZLU5vRUlrakVw?oc=5",
-      "rank": 14
+      "rank": 16
     },
     {
-      "headline": "Liverpool dealt massive blow in chase for €50m defender - readliverpoolfc.com",
-      "summary": "Liverpool dealt massive blow in chase for €50m defender readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-14",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnVoOE9rbEZ1RTZobTE5cUtSNTZIRDE1ZElBVWl0OVdzdk1Kc0tjbEZoNjhfV3RvalE0ajFfekc1d19aYTRBR3FHZVhsUENSYnNrdjd5NVN3Y0RjWENVQmVtaHBzY0F3WnRaVVQzQV9ZQ29reFlJZEpXUEg1X25PbVRTbjUxUXRHamt5RnVGeno2UUE?oc=5",
-      "rank": 15
-    },
-    {
-      "headline": "On demand: Andoni Iraola's pre-Tottenham press conference - liverpoolfc.com",
-      "summary": "On demand: Andoni Iraola's pre-Tottenham press conference liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "On demand: Andoni Iraola's pre-Tottenham press conference - Liverpool FC",
+      "summary": "On demand: Andoni Iraola's pre-Tottenham press conference Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMFl6RWM4Nm1BZGt3dWw0Tk5uemF0QkdNemIyaGpua2VHTWpBQk9fX3FHRF81b1AtdnEzaVFKQ0l1cUVTX0FqMkVCcDl5TFdXRzNOeFJsNF9IZHBlRzZlYW5uTng2ZzN2Ukh1RnVJa1RucGFkQTdXb1N2N2VQMm9VV1FkbHNvUDhYSm1WSHV30gGWAUFVX3lxTE5TNmhFci1JLVllLU5FR0FYeHhPSjZSZ21qdzJYTS03M3E5bDRVN3BLZWN0a0VxSGVQbkZvTjBwRjFQUzVGWlZONHg0cTZjTGJ3eGpWRmJrNUJIMVMzMXY5X0NMQTdBWWhSMUtEemt2R1N3YUVjcjd6T1hWN0JnT2tYeFJPdllGYWxOQ3pPOGpsR3dKYXNCUQ?oc=5",
-      "rank": 16
+      "rank": 17
     },
     {
-      "headline": "How Lewis Koumas was kept on his toes by Andoni Iraola in 'kick-on year' - liverpoolfc.com",
-      "summary": "How Lewis Koumas was kept on his toes by Andoni Iraola in 'kick-on year' liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "How Lewis Koumas was kept on his toes by Andoni Iraola in 'kick-on year' - Liverpool FC",
+      "summary": "How Lewis Koumas was kept on his toes by Andoni Iraola in 'kick-on year' Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZEpRdnMyWEltZnpqWTJmVTV0RkJvV2FKdzBSUmJMREhqWUt4bVNzUnNoR2VIWVBtcWNnVjlsNFdOS0VrRTZ2clI0cGI3ODZfdDI3R2RTZDlJX0FqWmx1VDlwZ1ZZOWlhTTdtR2RNTFlPLUdwNUZjdlhhTU5VYldvZlZqbl9icnRFal8weEI3VjEzWWl2ZVHSAZ4BQVVfeXFMUFFUMlFqMGlDRkFTekUxeEdkem5VeTlTREhjdjctQ0pWOEFXSEdyR2NBYTF0NUZtUW5ha3pUNGF4cXd5VWJ5Z0IxWE5iYi1HLWJRRFNLdjYzbmRwVkY2RHRnUEVTZkZXZjhIUXNoXzAtU0RDQVF1ZWlDenZ2VHY1dWl2V1pHTlczczRTbDhONUY4bTJnQlpnSUVsSVp3d1E?oc=5",
-      "rank": 17
+      "rank": 18
     },
     {
-      "headline": "12pm BST: Watch Andoni Iraola's pre-Tottenham press conference live - liverpoolfc.com",
-      "summary": "12pm BST: Watch Andoni Iraola's pre-Tottenham press conference live liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "12pm BST: Watch Andoni Iraola's pre-Tottenham press conference live - Liverpool FC",
+      "summary": "12pm BST: Watch Andoni Iraola's pre-Tottenham press conference live Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNNFhsWVBGV01YNEdndGZDOWl6S2FpbkwtZWpfSGQ0eURwWnUxQUcweDhQX2E4a3AyaFJQQ2p1TEQ4MEpmOTR0cmVUU2tZRm9vSm1wcVNhOFhrSndQdGoxZUlSRWtoM21TZXFRZy1pWWZjbmlSTnB1UVV3aXp4eVNQU3lBRXpYZ1dyTGp2aUhxWWJLRnl6dEtHSXA2dHNFM0F0TmN3M2UyMNIBpwFBVV95cUxNNFhsWVBGV01YNEdndGZDOWl6S2FpbkwtZWpfSGQ0eURwWnUxQUcweDhQX2E4a3AyaFJQQ2p1TEQ4MEpmOTR0cmVUU2tZRm9vSm1wcVNhOFhrSndQdGoxZUlSRWtoM21TZXFRZy1pWWZjbmlSTnB1UVV3aXp4eVNQU3lBRXpYZ1dyTGp2aUhxWWJLRnl6dEtHSXA2dHNFM0F0TmN3M2UyMA?oc=5",
-      "rank": 18
+      "rank": 19
     },
     {
-      "headline": "Andoni Iraola Urges Liverpool Forwards to Press - readliverpoolfc.com",
-      "summary": "Andoni Iraola Urges Liverpool Forwards to Press readliverpoolfc.com",
+      "headline": "Andoni Iraola Demands More Pressing From Liverpool Forwards - readliverpoolfc.com",
+      "summary": "Andoni Iraola Demands More Pressing From Liverpool Forwards readliverpoolfc.com",
       "source": "readliverpoolfc.com",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTzdZVDBJTkViX0lQbGhMLTBnSWU0MXp1cXVYbUp6X3hsdWFQN3ZWbVdUcFNudDROUEpEOGx3U1RrS1QyRVAwbVM4V2J5eVpucHgtYWR6MG5WSFB4Vm1yNi1abHRoU2FzYXhNSnM0bDZNdWt4ZnJwRDlLVDVYT1ZGaWZ6Y2lIZTQzTHVTTTJQQQ?oc=5",
-      "rank": 19
+      "rank": 20
     },
     {
       "headline": "‘Poor’ – Jamie Carragher on whether Andoni Iraola should be blamed for Liverpool’s slow start - readliverpoolfc.com",
@@ -220,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-09-15",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPOVJJTnVBbVlpNG1sRDVWUjl5U1VtTUVYMHRlMFFDbVRPUVVja1FuaVJUeTFpZThuTzNKOG42NGMyQi1VbDc5Z0d5NXJ2S0xwd005NG9ZQjNsbjBiWms5VVhSeGdTaGhTbDdCQnJnMVdFdkU3X2EyM3A0aDZvdnZzX1Z5ZE1aa0p4OE5yNTJQVERKR1lLb2JMLWVVNHhQZEZaWVVhbEhkOEtVa21ocTFtV1ctdmtiQTB1dVJidzBKVQ?oc=5",
-      "rank": 20
+      "rank": 21
     },
     {
       "headline": "Joe Gomez Injury News: Liverpool Defender Back for Tottenham - readliverpoolfc.com",
@@ -231,7 +242,29 @@
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX2dMT2dxNVZXZENHcFlRTEtYcnhXQWstTFVLTUJQYmlrWkNDUFhEcC04RW9lc0R5ZS1sbW9ubGlXLXEyXzNmWTJqZGViMktxc2Q1MEEzdkkyX2tsLU93eEM1NmhLSnVJa09BY20zRXUzRGw1RUxtLWM4VlJDdUdkaVBQQ0FuVXc?oc=5",
-      "rank": 21
+      "rank": 22
+    },
+    {
+      "headline": "'It was a good performance' - Gakpo and Koumas reflect on Liverpool 3-1 Tottenham - Liverpool FC",
+      "summary": "'It was a good performance' - Gakpo and Koumas reflect on Liverpool 3-1 Tottenham Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-15",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeER3by1EejZOajZKdVhkWlRFWWlhUHNYZnRTZ1BzWUpVelpLVUVTbFNuRDJBdXFQQW80WG9NbWRDaU04RGtHSUpnbGRzUmV3b0t2WlFpeVNJZ0F0eVRKYTJmbzJiNFY3bmg3dG9GUE4zODFJVkRFeDFKQ21xMVM0NVZ0d0Ywa0doY2xlREgzQVE5UlVKZTFybWRWc19DSnpZa05RMXF3bjnSAbABQVVfeXFMUEhZYjd5TTRYbXFjUDRJZmJhVF9MWVhSekxQSGhZaDRXdTVuMGFzY3NQMU03X09UQ3dfNHdlTllqWkNiR2lTR0c1Q3NnRXJqMjh1eDd0UjhJTGlUeWNTelZaNjNVSVhjWHdZUF9TSXMxMGFxZFUwekQtX1dEaE5RSVVROHhuR25qTnJlUm5zSlFHR25VaEFlRjBHaUdyV3pTZkJuSnNCMUFQaXNYbkpndG4?oc=5",
+      "rank": 23
+    },
+    {
+      "headline": "Liverpool dealt massive blow in chase for €50m defender - readliverpoolfc.com",
+      "summary": "Liverpool dealt massive blow in chase for €50m defender readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-14",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNnVoOE9rbEZ1RTZobTE5cUtSNTZIRDE1ZElBVWl0OVdzdk1Kc0tjbEZoNjhfV3RvalE0ajFfekc1d19aYTRBR3FHZVhsUENSYnNrdjd5NVN3Y0RjWENVQmVtaHBzY0F3WnRaVVQzQV9ZQ29reFlJZEpXUEg1X25PbVRTbjUxUXRHamt5RnVGeno2UUE?oc=5",
+      "rank": 24
     },
     {
       "headline": "Andoni Iraola backs Giorgi Mamardashvili; Liverpool goalkeeper will start vs. Tottenham - The New York Times",
@@ -242,7 +275,7 @@
       "rank_score": 80.0,
       "date": "2026-09-14",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZmRyR1VtUWhQZkZsbXdOaGNqeEFfdzZaRmJDanlGRFgzaWNwWm02c2lFYnE2SEtXY2I0MlJRdlk2dzRvM2ZJVGFZUUp1a212T3o3Y19VdG51ZFYwdkRqdjNfXy1EXzFXS1NlWmxPalVrMklmdGJ5S1F3cmdnREo4b3E1d3k4QUotZjM1dWM0aw?oc=5",
-      "rank": 22
+      "rank": 25
     },
     {
       "headline": "Frustrated Liverpool lack any spark as Fulham claim deserved first point",
@@ -253,18 +286,7 @@
       "rank_score": 77.5,
       "date": "2026-09-12",
       "url": "https://www.theguardian.com/football/2026/sep/12/liverpool-fulham-premier-league-match-report",
-      "rank": 23
-    },
-    {
-      "headline": "Premier League news: Iraola values Wirtz’s work ethic; Moyes backs ‘senior citizen’ Grealish",
-      "summary": "Liverpool manager insists midfielder should be judged by his influence rather than numbers Continue reading...",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 82,
-      "rank_score": 77.5,
-      "date": "2026-09-11",
-      "url": "https://www.theguardian.com/football/2026/sep/11/premier-league-news-iraola-values-wirtzs-work-ethic-moyes-backs-senior-citizen-grealish",
-      "rank": 24
+      "rank": 26
     },
     {
       "headline": "‘100 percent’ – Andoni Iraola makes interesting claim on Liverpool playing at Anfield - readliverpoolfc.com",
@@ -275,7 +297,7 @@
       "rank_score": 77.0,
       "date": "2026-09-12",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcFo4aXpBb1Z0UUQ3c1ljOU94TGxNS1RHQUNTWjh2TnpiRDVzb0xWcFpzUTdNcmREbnBteDlXcTZ5NTFpd1ZDRVhWYS1kMXNWaUwwLVRiS2FZVkZXeWNVOG9wUkdfcDZ6a2QtYnVuR3RaeXpTLWlMR0MwZURhY05TU0d0bWFJbjFrSFptWkgxYmZIWW1rSmlzSWFYc0Y0bHhfZFpqQ2RqZjRwRWRJWkRDVGN1YVVuUQ?oc=5",
-      "rank": 25
+      "rank": 27
     },
     {
       "headline": "‘Condition’ – Andoni Iraola says Liverpool new signing is still adapting physically - readliverpoolfc.com",
@@ -286,7 +308,7 @@
       "rank_score": 77.0,
       "date": "2026-09-12",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONndTVlpWbEtxVUpfRHptS1lkYWRBT3NEUHNvaXpYS0FnUjRWTDl4bXdWblE2UjJQQW1WOERiNU9HWnJEbzVKTnJJckFkU0NIakFYbW9sUUl4Nm5GcDJsaV9yMzVaS3lKbGhKVVplQ1hKUTNlaERnZkR3ZTJkRzhjUmtZeVRBNVE3NW95WTAxc0QxSVJEN1FUOF83RXI4ZE5uR2RfczdoT2Y1OHEtVnpQZVNVYw?oc=5",
-      "rank": 26
+      "rank": 28
     },
     {
       "headline": "Alexis Mac Allister ‘very sad’ Liverpool have not offered him a new contract",
@@ -297,28 +319,6 @@
       "rank_score": 76.5,
       "date": "2026-09-08",
       "url": "https://www.theguardian.com/football/2026/sep/08/alexis-mac-allister-sad-liverpool-did-not-offer-new-contract",
-      "rank": 27
-    },
-    {
-      "headline": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek - liverpoolfc.com",
-      "summary": "Cody Gakpo and Alexander Isak up for Premier League Player of the Matchweek liverpoolfc.com",
-      "source": "liverpoolfc.com",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-09-07",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPaGJTeEdSbjlKT2hJYkFqUGhHUDRXUUFkbkotaFVYQ1prdTZXNVNzXzZKT0tPZFRabl9YS09JZUJGT3R5dmRTRHF0UWRyaUstbkc5VDNWSWlDY3pVbzBvTV9Ga3BKX0pFXzFLVWhSZFpYc0lZRFotQkdmcXZUbFFRUFhJRTQyb0RhZm9pZUhJdFVNQ2FaVlVfOTRB0gGiAUFVX3lxTFBJRi05QUU0azA4NzJ0ZEcyNXBFbU14VFRBNDE0QW13RWkxWXBqdXpGNWlNQTc2dDVaWmw3bVJZU05YTkZCLWs3VDVYMDVPcHR1bHB1a1V3ck9GNE1LV0JQdUhsLTliQ2ZxU1c5STF2WTRvZVAwUldqcGlDdW9lNTEwVmZ5NlhWX3NibWVlYjBvZzlVNlU1aGpfOWY1TEJ0Y2Nodw?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Liverpool news as Andoni Iraola provides Bradley Barcola and Cody Gakpo injury update - readliverpoolfc.com",
-      "summary": "Liverpool news as Andoni Iraola provides Bradley Barcola and Cody Gakpo injury update readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-09-11",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOQ3A1U1NsbVU0eHM3dDh1SUlVb0ZmdHJja0F5OHJoOWVBOHJtdGs4aHg2aGFCeVV3U2dYdEg3TjZBcHRoNzN0bGZjVFl5dWhUZXVMOURxc2FxUF9VblhFSnNHSUJSUFA0NFhZSzVXTzJWYk54MnZ4c3RKUVk4SWpOTjJWZDd0b1dOUDg5TEh1bjhvSkt6QXJYUWdEcTY3eFg0dTBoWjdpS2hZZjA1QjhlenRKY3ptQ3B5empN?oc=5",
       "rank": 29
     },
     {
@@ -340,8 +340,8 @@
         "meta": "LW · PSG",
         "fee": "undisclosed",
         "p": "Low",
-        "mentions": 3,
-        "source": "liverpoolfc.com",
+        "mentions": 2,
+        "source": "Liverpool FC",
         "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNi1ja2pIcXo0QnlYR3ZCSkZRNE5WYWdrSUVNN2x1cURLZVMyRnlPc0lKZzdMeVVVRW9LSk8ybnhObDVIT3dnbWVCSDBpZkxrR2RmX21jU252eDY2MlQzaWV3LXVZdnlkVU1TMGRrRVNRbHJYa0s0RjdxckE1azU5U0RXQklVQ0dKamdlbzZjeWJxRVZlTjVaY05JaTdYMGZDd3fSAaoBQVVfeXFMT3Y2WW1taTY4UHNjUzIzNUdZME1FZTYxN2lOVF9hd0p1Ykl4WFY3UklsVXMxWkZoSzl3MHFydktCdmlNajhjSEoyNnB4QWZCczJnc0cwRlk0X2l0anVPVzMzVTlqY2xLMHJXZEF1Y0hEWmlSeHBZeThSYnEwUWNGVWVCU1pPRjJxODMwTEp2VDlzZzJSbGlVZnRsN3BFblA2M1NnTmlvMFdDUlE?oc=5",
         "date": "2026-09-12",
         "active": true
@@ -412,10 +412,10 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Low",
-        "mentions": 3,
-        "source": "liverpoolfc.com",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNi1ja2pIcXo0QnlYR3ZCSkZRNE5WYWdrSUVNN2x1cURLZVMyRnlPc0lKZzdMeVVVRW9LSk8ybnhObDVIT3dnbWVCSDBpZkxrR2RmX21jU252eDY2MlQzaWV3LXVZdnlkVU1TMGRrRVNRbHJYa0s0RjdxckE1azU5U0RXQklVQ0dKamdlbzZjeWJxRVZlTjVaY05JaTdYMGZDd3fSAaoBQVVfeXFMT3Y2WW1taTY4UHNjUzIzNUdZME1FZTYxN2lOVF9hd0p1Ykl4WFY3UklsVXMxWkZoSzl3MHFydktCdmlNajhjSEoyNnB4QWZCczJnc0cwRlk0X2l0anVPVzMzVTlqY2xLMHJXZEF1Y0hEWmlSeHBZeThSYnEwUWNGVWVCU1pPRjJxODMwTEp2VDlzZzJSbGlVZnRsN3BFblA2M1NnTmlvMFdDUlE?oc=5",
-        "date": "2026-09-12",
+        "mentions": 2,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNeER3by1EejZOajZKdVhkWlRFWWlhUHNYZnRTZ1BzWUpVelpLVUVTbFNuRDJBdXFQQW80WG9NbWRDaU04RGtHSUpnbGRzUmV3b0t2WlFpeVNJZ0F0eVRKYTJmbzJiNFY3bmg3dG9GUE4zODFJVkRFeDFKQ21xMVM0NVZ0d0Ywa0doY2xlREgzQVE5UlVKZTFybWRWc19DSnpZa05RMXF3bjnSAbABQVVfeXFMUEhZYjd5TTRYbXFjUDRJZmJhVF9MWVhSekxQSGhZaDRXdTVuMGFzY3NQMU03X09UQ3dfNHdlTllqWkNiR2lTR0c1Q3NnRXJqMjh1eDd0UjhJTGlUeWNTelZaNjNVSVhjWHdZUF9TSXMxMGFxZFUwekQtX1dEaE5RSVVROHhuR25qTnJlUm5zSlFHR25VaEFlRjBHaUdyV3pTZkJuSnNCMUFQaXNYbkpndG4?oc=5",
+        "date": "2026-09-15",
         "active": true
       },
       {
