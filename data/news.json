@@ -1,18 +1,7 @@
 {
-  "updated": "22 Sep 2026 09:03 UTC",
+  "updated": "22 Sep 2026 16:22 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
-      "summary": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but ",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 95,
-      "rank_score": 89.8,
-      "date": "2026-09-20",
-      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
-      "rank": 1
-    },
     {
       "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
       "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
@@ -20,30 +9,41 @@
       "credibility": 9,
       "relevance": 95,
       "rank_score": 89.8,
-      "date": "2026-09-22",
+      "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
+      "rank": 1
+    },
+    {
+      "headline": "Deal confirmed: Liverpool officially announce new contract for Reds goalkeeper",
+      "summary": "Liverpool have officially confirmed a new contract for one goalkeeper at the club on Tuesday. The Reds’ long-serving number 1 Alisson Becker has just over nine months remaining on his current deal at Anfield, and James Pearce indicated that",
+      "source": "Empire of the Kop",
+      "credibility": 9,
+      "relevance": 90,
+      "rank_score": 85.1,
+      "date": "2026-09-22",
+      "url": "https://www.empireofthekop.com/2026/09/22/liverpool-officially-announce-new-contract-for-goalkeeper/",
       "rank": 2
     },
     {
-      "headline": "‘Slow’ – Andoni Iraola makes Florian Wirtz admission after Liverpool’s win vs Bournemouth - readliverpoolfc.com",
-      "summary": "‘Slow’ – Andoni Iraola makes Florian Wirtz admission after Liverpool’s win vs Bournemouth readliverpoolfc.com",
+      "headline": "Cody Gakpo wing brilliance gives Andoni Iraola tactical blueprint - readliverpoolfc.com",
+      "summary": "Cody Gakpo wing brilliance gives Andoni Iraola tactical blueprint readliverpoolfc.com",
       "source": "readliverpoolfc.com",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1Y4WktiSlVIZjFnRTRYX0Jyb1o3WWduTmRDQXVOUzJkQnpNWFZmSi04eWc3cmdJcUZmcXZpQy1rQVJPbVNNRmtRaHhSWF8xT2hmRGZZY0szWUs4Wm1hVS1aakJaODhsZS1YMXE4alNsbUdwdk1yZU1HcENkWDBjT2xRbWlpQlZZVHpTS2xkdkFpQWF1N3BYblp5bEs5UWhXRG9nam12anF6UHVtMzcwaHFHM2E2ZWtfT2c?oc=5",
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEkyYnRKLVRUd0QyMU5JTEZrMC0tSXhTVFo0ckNiOFIycTNIZUZXLWhOaVE0QlE5b05MRW44UDBPZ213YW00SHJTajhHdzUwSzUwdlJIZXoxT3pnMEhra0NJbS05cXZpM05yNE9RZHJVZnFTeTVpRmJMQS1VSHVDbGNvanNoOERQVlpDbA?oc=5",
       "rank": 3
     },
     {
-      "headline": "Confirmed Liverpool XI vs Bournemouth: Isak and Wirtz Start - readliverpoolfc.com",
-      "summary": "Confirmed Liverpool XI vs Bournemouth: Isak and Wirtz Start readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
+      "headline": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
+      "summary": "At the final whistle, victory secured, Andoni Iraola embraced both his current players and those he guided to new heights at Bournemouth last season. Liverpool are not yet the overwhelming, suffocating force Iraola wants them to become but ",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 87,
+      "rank_score": 82.2,
       "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmlPQ3R0LXJ2RjFuUzVZalJaQ3NpcWJ3emo5bHY2bnk4Y290bURSMmQ0LVZlNU4ybkk1MFFXTTlVUWlLRmcwZW9fLWd3X0ozVFRiajFCSDduMHZEd0dLcGhBLXlCU0ZWekxNckw0V245TnhuQzMxWm92cVU1OFN0T2pqN1BIc2xJNzhhNGp5VQ?oc=5",
+      "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
       "rank": 4
     },
     {
@@ -58,17 +58,6 @@
       "rank": 5
     },
     {
-      "headline": "Bournemouth 0-1 Liverpool: Premier League – as it happened",
-      "summary": "Alexander Isak’s second-half goal was enough to give Liverpool the points in a disappointing game, taking them up to sixth in the table; Bournemouth are 17thI don’t imagine Rose spent too long sweating over his team. Kluivert is a miss, and",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-09-20",
-      "url": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "rank": 6
-    },
-    {
       "headline": "“Isn’t going to tolerate…” – Liverpool player will ‘probably’ leave in 2027 if one thing happens",
       "summary": "James Pearce has hinted at the possibility of one player’s exit from Liverpool in 2027, depending on the fate of a current teammate. The Athleltic reporter claimed in recent days that talks have yet to commence over a new contract for Aliss",
       "source": "Empire of the Kop",
@@ -77,7 +66,7 @@
       "rank_score": 80.3,
       "date": "2026-09-22",
       "url": "https://www.empireofthekop.com/2026/09/22/liverpool-player-will-probably-leave-in-2027-if-one-thing-happens/",
-      "rank": 7
+      "rank": 6
     },
     {
       "headline": "Man City serve up pure chaos under Enzo Maresca as Cody Gakpo shines for Liverpool - Premier League hits and misses - Sky Sports",
@@ -88,6 +77,17 @@
       "rank_score": 80.3,
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWHNuUUVGX292SEYzdjRIRXcwRVdtTExGb0N0OXJyNGo4eXpaMXNfZ1Z6cHBwWVJPYjlTWGozd2pHVmZyVUJHY3hOdEFUa3RFOTI3X3lOU25KYWhYWkNLa195aElwY252RHl3MUNocHdzYVpHQWpXYUNZZFU0UkxSaU43UzJoWTlCeVlzV1dVaGh3bFZ5ak1kNjZVUEVuNU1wQTFWbGpKNjd4SkNkTEpvZTRiLVJWd1E5ME9aRFhBTUk2SV9xUENVLVZIUjRKQjE3bkxJbUlrYUdjR1ZhcG5WWW85ZjVWMTNxbDA4MnZlam5INEpkWDFQUUQ4Njc?oc=5",
+      "rank": 7
+    },
+    {
+      "headline": "James Pearce provides worrying Liverpool contract update - anfieldindex.com",
+      "summary": "James Pearce provides worrying Liverpool contract update anfieldindex.com",
+      "source": "anfieldindex.com",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOVE04TWtDWS1VZ2pCYlRCVEpSLWQ2TG9UYzJkUlpFY3ota3JlR1R5SmZVWURXOWYzaVBLbEVqYUczbHNhcXIwZDYzQVNaanEwblFoZXVVTDVTdTg3NDJTMkN2clgtWlNUejhjNlZ3aV9ZdnY1X2Q3TElHRDVJc3hWU296TWthVmo4dDU0Wm9NbU5fZ2FmcUtGZg?oc=5",
       "rank": 8
     },
     {
@@ -102,28 +102,6 @@
       "rank": 9
     },
     {
-      "headline": "Andoni Iraola press conference: 'To win here is very difficult, I know it very well' - liverpoolfc.com",
-      "summary": "Andoni Iraola press conference: 'To win here is very difficult, I know it very well' liverpoolfc.com",
-      "source": "liverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQR013WExHdmo5TVVuOFVZYzdmZzNEOFFSYy1iNEhtc3lqbzdCVXZ3bTF1ajBhY1VPM1pseU1nMTRCenNpdXFuX3hMZlgyNFhiMDZxUVI0ZzJJdUJTTEN0azlKVFNVekU3b3pvV25KVWl1Nm9YZW1RSHFYNW9YUTRwWWNvU0VUU3Qzb0FuXzBXR3J4RTM1RW9FcGFmRjlraXhpX2RiSU5GODZNdW_SAbMBQVVfeXFMUEZQQThLTjliZEFzcHVkVlc2RmZiNEp6MXdUQ2tUakoyQ0oxWkdlT2VIY0NRakVrM0dnQkR1SnFla3JmeVczWHYzakE3akR5QkVhY25aM1o0Wnc2ZjdtckxUWkxyZURkVjJ2YmVXYWV3Z0pGcmduMWZYc3BGZURSTkhicTQ1d1hKZlJjOHBOOVhWUy13WVZjTjdnQ1hVbFZBQUlzNjJpQUU4UDJWX2Q0WHhvem8?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "Watch: Andoni Iraola's verdict on Liverpool victory at Bournemouth - liverpoolfc.com",
-      "summary": "Watch: Andoni Iraola's verdict on Liverpool victory at Bournemouth liverpoolfc.com",
-      "source": "liverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeGx5c2dsU25WcjVuanVkU1R6eG1ucjVlVVJjb1NXdE1sVWpVNlVqU3NycFhycFJZLWU0ZDlJV2tYcDZFcFE4dGhfX3dyMk1Sdm8yTXYtY2UzSy1pV1psM2h5OEx2aDV6elh6d3loVkJMUGdseUVQZGsyTUNrbnpNeG9jZ253SktxeEtwREFsblItb1lqZlHSAZ4BQVVfeXFMUFZCYTVKOElVTlVpYnpiVTZsMUhuZXYxOU1VX3VuU01GcG5XNDVUejhMVjRVaUVXTFhLSlAtcVhnbnpndkhMZHgyUkpjc0tJSzEyT3FBd3drdGUyelQxMzkySy1Fclh1ZEtoamNvUkl1Y0hZaTdxSUcxSVFvMVUzblNXaEpTaVRrc3Y2YmRNaEx6aWJrVEdCRWhIdHk5a0E?oc=5",
-      "rank": 11
-    },
-    {
       "headline": "How has Andoni Iraola made Liverpool more durable in just five games? - The New York Times",
       "summary": "How has Andoni Iraola made Liverpool more durable in just five games? The New York Times",
       "source": "The New York Times",
@@ -132,7 +110,7 @@
       "rank_score": 80.0,
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTEVjUE80YTdBbTYyMXRHbWx0b1ZXbGhBRHRIeHpvSElrOW9hZUJyS19LMllCNVFDQnlxNURPaG90d2lQMGVUSnl2cldvdTcyYjhfb3QyRC13V25BWFRMRmM3SDB0UXViVG42LTZLUjFBZkxZQTEyN2JYclJqOHhGUGtuTWxoMXczbnJjTDRsVnBnMEJKUFZxeE5xVVlESWZMbnJn?oc=5",
-      "rank": 12
+      "rank": 10
     },
     {
       "headline": "Highlights - Premier League - Bournemouth 0-1 Liverpool - BBC",
@@ -143,28 +121,50 @@
       "rank_score": 80.0,
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE91dGIwZ1VsZTRUNGdITGpvb044S2toNWpXN09RYkI0STN5a0tJTjJlVDdPWFBEVDNnbkUzczJlUnJXRWxzRjc0MHRSNElvM0JHeDFuems4S3JCSlRHQ1JNTXN4RFA0MEhp?oc=5",
-      "rank": 13
+      "rank": 11
     },
     {
-      "headline": "Alexander Isak scores to earn Liverpool victory at Bournemouth - liverpoolfc.com",
-      "summary": "Alexander Isak scores to earn Liverpool victory at Bournemouth liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "Alexander Isak scores to earn Liverpool victory at Bournemouth - Liverpool FC",
+      "summary": "Alexander Isak scores to earn Liverpool victory at Bournemouth Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcnFVb2U2WFRyV2V6c2JuejZsYm13RUhTblM5R09kbl9NbWY0QzMzaFY5Y3VWTTlSblFvRzVpOWxYcC10eG40UlhBSVhiQUNGSkZ5RGphTEFON0R5aFZ6WG93VHZ3YkV0UGZ4bTJKUm5aRk9SZkc2aUZ6OXhLOGlGQWhuNzNOeE1KRHFqekd5RkNNWUHSAZsBQVVfeXFMTXBYQTF0NGN2eGdhbEt6My1RcG5zSVEwUURwSWpwNW44dy1SRER3ZGJ0aDR3R3JrVWpQR0lYMTctUWtseTIyWXAwc294c3pRcVEzN3JDM1A2eV9pblFMQWV6TlhKamJkQ1p5d2dXNU1QWTkyR2lEODJva0R2aXVmZzhqVWdmT3ZzWVY0U1hzZkVDRGxWSzR6elJHRjg?oc=5",
-      "rank": 14
+      "rank": 12
     },
     {
-      "headline": "20 great photos of Alexander Isak's goal celebrations at Bournemouth - liverpoolfc.com",
-      "summary": "20 great photos of Alexander Isak's goal celebrations at Bournemouth liverpoolfc.com",
-      "source": "liverpoolfc.com",
+      "headline": "20 great photos of Alexander Isak's goal celebrations at Bournemouth - Liverpool FC",
+      "summary": "20 great photos of Alexander Isak's goal celebrations at Bournemouth Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPckdmS3FBTVZadHN1RnBzUTB6cThEQ0dfSjJEVUwwRnBVaXplUk11cUo4MGI5YXA5bjFCNkR1UVZMREtpZ0hUajZZd2x4ZmNRWlFydkxPdTI2WXh6T2xxcVhseU91ZE8ycEtnbjd4d3VTNGIwaDFBVkl3UFNJUDNFY3hqT0pLenI5d0lBSEVvUzVZRUZKMTRSTXpB0gGiAUFVX3lxTFBtQUJINmhtRGpaY0hHRXNVLWhLVWRFTXhmanBjZ18tQ0FuWTQ1UFZZaHNIQ1JGTF8wUktMQkpnQzd6Q2FSeGhIaW1BLXFzNTlqX0hZeTlFalZkUTdMUXFQSWZ5QUhJczdIVzhyTG84ckJRbnJ4NmZpWW9OYWpKenh5VkpEWGJVLUxCSWw0QVQ0dzBaMzRteVY1UnUweUJQaWJ5UQ?oc=5",
+      "rank": 13
+    },
+    {
+      "headline": "Florian Wirtz has regressed at Liverpool. Could two weeks with Jurgen Klopp be transformative? - The New York Times",
+      "summary": "Florian Wirtz has regressed at Liverpool. Could two weeks with Jurgen Klopp be transformative? The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0RROFFkYUNvaWdwS29TUDJsdk40QVBBNE1sdERfb2Q5R0ZIZlBTcFlUbVozS0pyZXhhYWt0OER6SDVQRlF2OUFsMXpQOVVaVWljeTdqVXFDaERYMEJHcHU0VFNyMzlwQWdlNEV2eEdpTFpvSVk0dEYxWEtfNXVRQURzV1oyTWd4UzFPQnBXZnY3OUJVYkltQWg0R3F1M19FMEcybjRVVFNmU0E?oc=5",
+      "rank": 14
+    },
+    {
+      "headline": "Florian Wirtz reacts as Liverpool beat Bournemouth 1-0 - readliverpoolfc.com",
+      "summary": "Florian Wirtz reacts as Liverpool beat Bournemouth 1-0 readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNjEzTGs3YXZNejRZWE5qNW94a1lVTUh5Q0NUbV9nZ3IyTnlTRFBsVVVfblhQMTBMQ0VwRVJRWkhBMGxtNnE1RVFvNlVJVWNUSGN3emZFX3ZUaWFBQnRXY1BTcXZyMk9ZcXY3d1FEeUxkVUw4Q1E1aWk5Q25yQlBFZjZwWGNod3M?oc=5",
       "rank": 15
     },
     {
@@ -179,28 +179,6 @@
       "rank": 16
     },
     {
-      "headline": "Bournemouth 0-1 Liverpool: Isak Strike Secures Away Win - readliverpoolfc.com",
-      "summary": "Bournemouth 0-1 Liverpool: Isak Strike Secures Away Win readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOSTlnV296bDBma3JMeXJFN2haOFc4WE5yUTBMVVVPa1R2eTVOQXBObFA3eW1yTzJVc2hpVjZRWlRkRGNVZ2pTaXFhRU0wNGRQVVlmSVN0RFBtdElQUGVWdlR0MWFaSG1HWFJQTEJ6SmxHQVpSSlNlYTlLU3Aya3ZpTTFUVDg2bUw0VDJJ?oc=5",
-      "rank": 17
-    },
-    {
-      "headline": "Florian Wirtz has regressed at Liverpool. Could two weeks with Jurgen Klopp be transformative? - The New York Times",
-      "summary": "Florian Wirtz has regressed at Liverpool. Could two weeks with Jurgen Klopp be transformative? The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0RROFFkYUNvaWdwS29TUDJsdk40QVBBNE1sdERfb2Q5R0ZIZlBTcFlUbVozS0pyZXhhYWt0OER6SDVQRlF2OUFsMXpQOVVaVWljeTdqVXFDaERYMEJHcHU0VFNyMzlwQWdlNEV2eEdpTFpvSVk0dEYxWEtfNXVRQURzV1oyTWd4UzFPQnBXZnY3OUJVYkltQWg0R3F1M19FMEcybjRVVFNmU0E?oc=5",
-      "rank": 18
-    },
-    {
       "headline": "Premier League today: How to watch Bournemouth v Liverpool, TV channels & live stream",
       "summary": "How will Bournemouth and Liverpool fare today? Here is what to know, including kick-off time, TV channels and live stream optionsAndoni Iraola will make his first return to Bournemouth since leaving the south-coast club for Liverpool. Four ",
       "source": "The Guardian",
@@ -209,7 +187,7 @@
       "rank_score": 77.5,
       "date": "2026-09-20",
       "url": "https://www.theguardian.com/football/2026/sep/20/how-to-watch-bournemouth-liverpool-premier-league",
-      "rank": 19
+      "rank": 17
     },
     {
       "headline": "‘Crazy’ – Alexander Isak blown away by Liverpool summer signing - readliverpoolfc.com",
@@ -220,6 +198,28 @@
       "rank_score": 77.0,
       "date": "2026-09-19",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUFpVbENJY0lHOEtBTjhxT0FqcGFJUTlJUERENE5hOG0zQ1hiMjBLbUF3aE5rQTNWd0dpQkV4Wl8zM1hrYWFjWExpTEZxN1c4LUdhV0NsN1puR3B6WkxGTWlMV3phYVAxaENDdjNsVThQMlN6YnVwQVdMYnVheHZkLUNYRDZ6MFI5NWZMdnhUYmhMdVZ3c21KSg?oc=5",
+      "rank": 18
+    },
+    {
+      "headline": "‘Slow’ – Andoni Iraola makes Florian Wirtz admission after Liverpool’s win vs Bournemouth - readliverpoolfc.com",
+      "summary": "‘Slow’ – Andoni Iraola makes Florian Wirtz admission after Liverpool’s win vs Bournemouth readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb1Y4WktiSlVIZjFnRTRYX0Jyb1o3WWduTmRDQXVOUzJkQnpNWFZmSi04eWc3cmdJcUZmcXZpQy1rQVJPbVNNRmtRaHhSWF8xT2hmRGZZY0szWUs4Wm1hVS1aakJaODhsZS1YMXE4alNsbUdwdk1yZU1HcENkWDBjT2xRbWlpQlZZVHpTS2xkdkFpQWF1N3BYblp5bEs5UWhXRG9nam12anF6UHVtMzcwaHFHM2E2ZWtfT2c?oc=5",
+      "rank": 19
+    },
+    {
+      "headline": "Confirmed Liverpool XI vs Bournemouth: Isak and Wirtz Start - readliverpoolfc.com",
+      "summary": "Confirmed Liverpool XI vs Bournemouth: Isak and Wirtz Start readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-09-20",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVmlPQ3R0LXJ2RjFuUzVZalJaQ3NpcWJ3emo5bHY2bnk4Y290bURSMmQ0LVZlNU4ybkk1MFFXTTlVUWlLRmcwZW9fLWd3X0ozVFRiajFCSDduMHZEd0dLcGhBLXlCU0ZWekxNckw0V245TnhuQzMxWm92cVU1OFN0T2pqN1BIc2xJNzhhNGp5VQ?oc=5",
       "rank": 20
     },
     {
@@ -234,6 +234,17 @@
       "rank": 21
     },
     {
+      "headline": "Kylian Mbappé on past Liverpool transfer talks: 'Mum went to Anfield and fell in love' - ESPN",
+      "summary": "Kylian Mbappé on past Liverpool transfer talks: 'Mum went to Anfield and fell in love' ESPN",
+      "source": "ESPN",
+      "credibility": 8,
+      "relevance": 85,
+      "rank_score": 75.7,
+      "date": "2026-09-22",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWDZ2YkxVZXlHRUlQbnBrX25rek80dHVqc3lselp5by1kcDlsU0Mtb2NwSTZSOExubVVOSE00ck5IUmZudExMQTl4N2dpVENkUGxiNG9TWlE3WWlmd2RLY1BMcGVVQnJyVTRMc2ZQMnJ4R1NPZVA0MDBjUUpOQnpqaUpQZUNFVHBxeGtmMnFWWmh1OVByMmstVWJjRXNDWU5QV3N6UHFNVTNEV3c5dnlMUG5ZdFhyZjVySnc?oc=5",
+      "rank": 22
+    },
+    {
       "headline": "Premier League: 10 talking points from the weekend’s action",
       "summary": "Liverpool look stronger at the back, youngsters shine for Brighton and Brentford, and James Trafford makes his England case with LeedsPremier League table | Top scorersIn the week that 16-year-old Max Dowman has been thrust into the spotlig",
       "source": "The Guardian",
@@ -242,7 +253,7 @@
       "rank_score": 75.6,
       "date": "2026-09-21",
       "url": "https://www.theguardian.com/football/2026/sep/21/premier-league-10-talking-points-from-the-weekends-action",
-      "rank": 22
+      "rank": 23
     },
     {
       "headline": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
@@ -253,40 +264,7 @@
       "rank_score": 75.6,
       "date": "2026-09-09",
       "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
-      "rank": 23
-    },
-    {
-      "headline": "Bournemouth vs Liverpool LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream - Sky Sports",
-      "summary": "Bournemouth vs Liverpool LIVE! Premier League score updates, news, prediction, line-ups and how to watch or stream Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxONG5sel9CTG1wN3JoU01jdXBCZmd6S3ZNRTZFNFp4em1jTk1LRjBQUFVCZFVXZnpZNEJlRXQ3S1RhMUpGX3ZhTGsyRVZxazRlR0w2dVk2OW42THY1Q3NoQ3hkMFdTX3VXNUZSU2dtdVY5TXBDZFBSOGlPRXRiSFlOSDdham43SlNVd0FWYTIwaDBoNkhGaTlFWjhOb1NTTXZDS21VWU9idmgwLVRqMDBkcjFtQjlVQU9VWi04UWZqRGdRZzIyX2k1a0NlQUpTcXZwbWM5ZFVrVUJyZXNwd2VoVjk3MGMxT1JhY291WVMyRUYyam50ZHBjc0dmN2V1WGc?oc=5",
       "rank": 24
-    },
-    {
-      "headline": "Liverpool under Andoni Iraola need to play three games a week but can they do it playing his pressing game effectively? - Sky Sports",
-      "summary": "Liverpool under Andoni Iraola need to play three games a week but can they do it playing his pressing game effectively? Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-09-21",
-      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQcjBESnpNYVBQN1VBMV9MSGdoQk1xQkFlR05yekhkei1hQ0xfYVNIVy1DUXdheHY3TWh3aFUwLWhlbENPOWoxVEYxSS1xbUFWb1NLZUUyeG9KNThUME9ES3JVb1NIT0hQbTZ6VlpzT2YxakYxXzY3Y1c2MFViSFJkSVBoNkNqcTYzTi1QbzJUNnVBSGxvUFF5eXUteHV3VVdWNmRPWHpUYnl5TlUyZkx5WnJHVDlub1REcUFQbG5XcGZ2VWU4TjZwZ3FIY2JaWlBlbEtIQ1JXMi1rZkVkQkdFdVZsYm5PZnVDRHMzTExUTVR1Mk9yS2RHRWdsTQ?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "Bournemouth vs Liverpool | Alexander Isak fires Liverpool into the lead - Sky Sports",
-      "summary": "Bournemouth vs Liverpool | Alexander Isak fires Liverpool into the lead Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRzBreVZOeFdBY1FNYzNib08wdUlBMWZKVnYwa0ZyZG5FYnNNTHY2TW9jRk1GVlRORjRLQTREVFA0cnVTZUk1d1NiOUVYWDhkVTgwODVSTzM4U0loRXhrRmRYWVVOWEpvUFBGd0YtMVFtRlM4YmYzU3Bzb0dYRDdXeEE0VjhWMDFhR29sdVNRMHVFREFiMmZpa0dhaTc?oc=5",
-      "rank": 26
     },
     {
       "headline": "Liverpool's Florian Wirtz put in one of his worst performances at Bournemouth and shouldn't play against Man City says Jamie Carragher - Sky Sports",
@@ -297,18 +275,7 @@
       "rank_score": 75.6,
       "date": "2026-09-20",
       "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNVWhyY0FHV3FBejdFekJVN1E5YmtUZ2hzWEp5bzZ0WlI3R2pRZkhYTV9wQWJieWstV0lncTJFZzRIVE9Wbnh1S2x3dzEtN1pRWEpmRHhIaHpiMGNSTWdUU05GajE0WDJzQlJSaERlTG1PcVJaVElYclpabEpCRFBCMFhqYWtEUUZuNlA1VEpUUmJnVWpUUVBUdEJJZ3NUWndLWWM0SVlka3c5Mmh6WGs4SFJZcHZsT1FnS3lNZW1FOEJqTHVQYjc2M09yb0FQSTF1YjNmOTZrUkJCTi1GdWhHM3EtcUxUSEpmT0ctaEtxb19jMzlVLXAzd0MxdTlNRWo2V1RoRjRNM2FwTkdVOGpGczRJQmR6UQ?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Bournemouth 0-1 Liverpool | Premier League highlights - Sky Sports",
-      "summary": "Bournemouth 0-1 Liverpool | Premier League highlights Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-09-20",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNGFPOVN3SlBrQWhTWGF2eUtjVE0zbGZxZmxlR2I3dGduWG0zcEJYWEZ4MHNIei1maEtuR1I2WDNOVWpkSFlMdGRsZ2RtRUxmSExneHdrVlFGZTV2QXQySGJsWEhZSUlHdm0yb0h1c0dER2loYWwzTTBYWDB1YUM2ZHRMRTE1aGFNMHE2UkxpSzVSTnVmN1Rwd3RJQ3g1RUtFb20tMGY3TVU1Y3k0MFNiR0dUdVJOaV80dzJvb1UwczZCZw?oc=5",
-      "rank": 28
+      "rank": 25
     },
     {
       "headline": "Jamie Carragher yet to be convinced by Florian Wirtz's Liverpool impact given the expectations surrounding him - Sky Sports",
@@ -319,7 +286,7 @@
       "rank_score": 75.6,
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQRF9pbHBvUUNNSGp6Z3BBT2pmb1N0REVLOUlPdXJvZXJjdGNDeXFjQTExd0FTOVNrLVdNVWhyT0tISkItUTRwS2MwVXNNTF9rbmgyMWtVLUJIOGN0a21vWElmWlBTRkFUa0QxNk9JM0E4eEtsM3NCci1XS1cxYVhXT2I5dEdoNGhEYVFiMTRyOGNENFUzcTRVaW54SkdodEY5T2pnLVZNTUdNWXZaNWR3MG9XMVV3ZFoxbGRYZEFucGJRakQ2Uy1QcDJfVWZPc2huSEFWYWpVb24wLVotUkhnMGxiTnVjRllvS09rMDlR?oc=5",
-      "rank": 29
+      "rank": 26
     },
     {
       "headline": "Liverpool yet to hold talks with Alisson over future despite contract running until June 2027 - James Pearce - Tribuna.com",
@@ -330,6 +297,39 @@
       "rank_score": 75.6,
       "date": "2026-09-21",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUTJEcVNSUlRpSmZycW1yYTBaSXM4ZERrVFVSTzgzcWd2MDM1N1p1NlNLQnlkTUhrZlJDQlJJSGc1ZEJqRnFiUUFGakpGUlVzWU5kT3RsTTdTTW84VVI2U1dIZTBiWVExSS0tcE1nOHBfeFE0dnZ2QUlLU3lDZFRjd3BwdEJqM1dEbzNCVkdncnFLbkxPWWNvc0MtSTBzVkVuUkdldTB6YWMxemx0ZDdWRGRtVUFDWjdVOU9RejVwWkRDV0VNVkJr0gHMAUFVX3lxTE9NTFF2V3dNMThNYXp1QmlBVkx0Z2lQMHlsZGJyOU9qZ0gwbTlIM2hKWkw2OXlySDB1MEN0T1NrZ2NQamFpQUJJMHpRRE5wbnE0UXdMaUZBTE95NDdjZk5vVjNQSFFzbEZ5Z0RFekpCYVdvank3WG4xS0tDaVZCVENDZi02cDRSeXJfa1FfaXMtVFU3OTJCV2FqTjVXSWREOWtXYVN2VGdRY0tUOUxOQmcwM3dqeEtDRm1OT1JOY0F5aERaTE96eWZ4cE5oMA?oc=5",
+      "rank": 27
+    },
+    {
+      "headline": "David Lynch: Liverpool have found “something special” in defensive signing - Yahoo Sports",
+      "summary": "David Lynch: Liverpool have found “something special” in defensive signing Yahoo Sports",
+      "source": "Yahoo Sports",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNDNRWjJmcERnTS1RXzE3SjR5YlhzMlBhTHJ4WUY3X3hOTTZhNmJHanF4czhxQzhJdjJRQUpkSzJ5QXp6R2Y3dm5GWGdkTV9pNnVXTjNLbUpFNlVmVXdPQno0YWpYeF9UVVZuOUN0ZWRaRGZBelVpc0hTVUpGenJHUXNoUXYyUFk2eGNnTHh0bw?oc=5",
+      "rank": 28
+    },
+    {
+      "headline": "David Lynch: Liverpool’s best attacker is the player they nearly let go - anfieldindex.com",
+      "summary": "David Lynch: Liverpool’s best attacker is the player they nearly let go anfieldindex.com",
+      "source": "anfieldindex.com",
+      "credibility": 9,
+      "relevance": 80,
+      "rank_score": 75.6,
+      "date": "2026-09-21",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQndsMVg1VjV1Vi1CX0l4WjR1VHF6N0N6TmtEOVBNdE5TSGgxMk1WXzlTRnhPMkhJYVVvXzk4VllpLUUwR2RWT1NIRHFyeWRiamJMMmFIRGtzdEoxaWRMNHRqNENPU3ZRQ3BhcFhFaHhPa2xJNWFlWkZlbW52TzA4d3ZiYkgzZzVVUXZVU19iSFZzRmMtTEZCNmRCbGUxX0ZtRUtod1ZmYlBydw?oc=5",
+      "rank": 29
+    },
+    {
+      "headline": "Alexis Mac Allister truth now clear as Liverpool new signing call justified",
+      "summary": "Alexis Mac Allister has been one of Liverpool's best performers during the opening weeks of the Andoni Iraola era",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 90,
+      "rank_score": 75.2,
+      "date": "2026-09-22",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexis-mac-allister-truth-now-34655437",
       "rank": 30
     }
   ],
@@ -398,7 +398,7 @@
         "meta": "CM · Real/Atlético links",
         "fee": "undisclosed",
         "p": "Medium",
-        "mentions": 1,
+        "mentions": 2,
         "source": "The Guardian",
         "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
         "date": "2026-09-09",
@@ -409,10 +409,10 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Low",
-        "mentions": 2,
-        "source": "BBC",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaTlpZWZoS3BNRmREZkZCNkJyU2lacW01d2ZRSF9wYU1uN29wVkxJRVdENzFweXVia3JFY243X2NJb0NqVW5SZzFpSDZTeEJoTUl2Q0tSaHI1SFNFOUtQMjNVMVpVZXNK?oc=5",
-        "date": "2026-09-18",
+        "mentions": 3,
+        "source": "readliverpoolfc.com",
+        "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEkyYnRKLVRUd0QyMU5JTEZrMC0tSXhTVFo0ckNiOFIycTNIZUZXLWhOaVE0QlE5b05MRW44UDBPZ213YW00SHJTajhHdzUwSzUwdlJIZXoxT3pnMEhra0NJbS05cXZpM05yNE9RZHJVZnFTeTVpRmJMQS1VSHVDbGNvanNoOERQVlpDbA?oc=5",
+        "date": "2026-09-22",
         "active": true
       },
       {
