@@ -1,5 +1,5 @@
 {
-  "updated": "24 Sep 2026 23:01 UTC",
+  "updated": "25 Sep 2026 03:40 UTC",
   "count": 30,
   "items": [
     {
@@ -131,7 +131,7 @@
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-24",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkZmSWRQbW9BZWdheUZEbDZoY3lLTDJTRlJoRWw2Z1ZDX3VITm11ek1PVm5ha3V5Vzg4MHBlRFpBdllQb3dfc3lvOVdCbXp6S3VkZkNhZjE4R25hNlRLaFhHNVgyWU4td0RSVmRVakhINGIzS2x5cXF1dDJVcWo5Q2Q4RVg2VzRrTzVaVVhBT3pFLVg4YWNLbGh5YVFtN2lmN25F?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkZmSWRQbW9BZWdheUZEbDZoY3lLTDJTRlJoRWw2Z1ZDX3VITm11ek1PVm5ha3V5Vzg4MHBlRFpBdllQb3dfc3lvOVdCbXp6S3VkZkNhZjE4R25hNlRLaFhHNVgyWU4td0RSVmRVakhINGIzS2x5cXF1dDJVcWo5Q2Q4RVg2VzRrTzVaVVhBT3pFLVg4YWNLbGh5YVFtN2lmN25F0gGrAUFVX3lxTE15TmpKN2gxN1E2WWlBcDdXcFEtZTZ2eU1PeUtiSDltdnF4Z1BVMHJmZ0VDWGFQV3pTb0dWbWlPY19EU1c1N0ZUcWlxOE9CVlJhRjJFdDI5VlptRnIzcDE5WnFQM0hSNmx0MGVQVEZNU1JhLUVES3puSW42N2FmTnRXZG5OaVNhOG1XMlotUXVaVG1sQ0JEQlkxWWZFdV9Ob2J6dURFclVrbUlTRQ?oc=5",
       "rank": 12
     },
     {
@@ -157,15 +157,37 @@
       "rank": 14
     },
     {
-      "headline": "Jurgen Klopp on Florian Wirtz Form - readliverpoolfc.com",
-      "summary": "Jurgen Klopp on Florian Wirtz Form readliverpoolfc.com",
+      "headline": "Alexander Isak can rival Erling Haaland for Golden Boot, says Saunders - readliverpoolfc.com",
+      "summary": "Alexander Isak can rival Erling Haaland for Golden Boot, says Saunders readliverpoolfc.com",
+      "source": "readliverpoolfc.com",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQcXVSd0ZoLVZiYVc4WDdkak5RRGU0UE9hWm5NVW43dF90WHVJM0J0Q1JodW8zLXFOZWR6OERjaDVIUk45WTRVdERRaHQ4TDJuaTZvZlRTYXBZMmtUNFczSmlzM01UWHM5QTFXODVsbW9qNFZHc0tpT1MxMWZxdzNaZmxPVQ?oc=5",
+      "rank": 15
+    },
+    {
+      "headline": "Jurgen Klopp urges realistic view on Florian Wirtz at Liverpool - readliverpoolfc.com",
+      "summary": "Jurgen Klopp urges realistic view on Florian Wirtz at Liverpool readliverpoolfc.com",
       "source": "readliverpoolfc.com",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-09-24",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQdDR2bXFvQ1hUWUJxanMwZ2ZUS1RZRjFMRldtTDVTeUZKRkJ5emV6bEJFdnVyU2w5VW1uSmRJbXI5NWJjb2dEV2xYdDNwZlRQRzc5alAtZDNpYmtQN2dVVE5CbVpEREs1YkJXR1JoNEZOQ09YV2MtVzJqQ1hQNU1hdEZSa3RBZFNF?oc=5",
-      "rank": 15
+      "rank": 16
+    },
+    {
+      "headline": "Florian Wirtz reality becomes clear as four Liverpool players give Andoni Iraola big concern",
+      "summary": "How Liverpool's players have been rated by the ECHO so far this season with Dominik Szoboszlai, Jeremy Jacquet and Jeremie Frimpong all causing a stir",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-09-25",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/florian-wirtz-reality-becomes-clear-34664909",
+      "rank": 17
     },
     {
       "headline": "Liverpool will 'pull the plug' on Florian Wirtz over 'huge misunderstanding' for £116m star",
@@ -176,7 +198,7 @@
       "rank_score": 79.3,
       "date": "2026-09-24",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/florian-wirtz-liverpool-transfer-news-34666043",
-      "rank": 16
+      "rank": 18
     },
     {
       "headline": "Deal confirmed: Liverpool officially announce new contract for Reds goalkeeper",
@@ -187,7 +209,7 @@
       "rank_score": 77.5,
       "date": "2026-09-22",
       "url": "https://www.empireofthekop.com/2026/09/22/liverpool-officially-announce-new-contract-for-goalkeeper/",
-      "rank": 17
+      "rank": 19
     },
     {
       "headline": "Cody Gakpo wing brilliance gives Andoni Iraola tactical blueprint - readliverpoolfc.com",
@@ -198,7 +220,7 @@
       "rank_score": 77.0,
       "date": "2026-09-22",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWEkyYnRKLVRUd0QyMU5JTEZrMC0tSXhTVFo0ckNiOFIycTNIZUZXLWhOaVE0QlE5b05MRW44UDBPZ213YW00SHJTajhHdzUwSzUwdlJIZXoxT3pnMEhra0NJbS05cXZpM05yNE9RZHJVZnFTeTVpRmJMQS1VSHVDbGNvanNoOERQVlpDbA?oc=5",
-      "rank": 18
+      "rank": 20
     },
     {
       "headline": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
@@ -209,7 +231,7 @@
       "rank_score": 76.5,
       "date": "2026-09-20",
       "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
-      "rank": 19
+      "rank": 21
     },
     {
       "headline": "Liverpool's Alexander Isak on relationship with Andoni Iraola and Cody Gakpo - BBC",
@@ -220,7 +242,7 @@
       "rank_score": 76.0,
       "date": "2026-09-18",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UaTlpZWZoS3BNRmREZkZCNkJyU2lacW01d2ZRSF9wYU1uN29wVkxJRVdENzFweXVia3JFY243X2NJb0NqVW5SZzFpSDZTeEJoTUl2Q0tSaHI1SFNFOUtQMjNVMVpVZXNK?oc=5",
-      "rank": 20
+      "rank": 22
     },
     {
       "headline": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
@@ -231,7 +253,7 @@
       "rank_score": 75.6,
       "date": "2026-09-15",
       "url": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
-      "rank": 21
+      "rank": 23
     },
     {
       "headline": "Alexis Mac Allister makes his point as Liverpool fight back to defeat Atlético",
@@ -242,7 +264,7 @@
       "rank_score": 75.6,
       "date": "2026-09-09",
       "url": "https://www.theguardian.com/football/2026/sep/09/liverpool-atletico-madrid-champions-league-match-report",
-      "rank": 22
+      "rank": 24
     },
     {
       "headline": "‘Makes a lot of sense’ – James Pearce approves of expected sporting director hire for Liverpool",
@@ -253,7 +275,7 @@
       "rank_score": 75.6,
       "date": "2026-09-23",
       "url": "https://www.empireofthekop.com/2026/09/23/james-pearce-approves-of-expected-liverpool-sporting-director-hire/",
-      "rank": 23
+      "rank": 25
     },
     {
       "headline": "James Pearce provides the latest on Liverpool’s sporting director plans - anfieldindex.com",
@@ -264,7 +286,7 @@
       "rank_score": 75.6,
       "date": "2026-09-24",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSko1bVJpa1lZWlhQU3o1M21JLTdDRVhRWm51TXVzMWktVjZaMXRiSTY0aTJDNGx4WmFxMDBmRnJRZVhJZnhfNmFacWlxbWZHOTBDQnRxVV8xdU5wU3NBNHdZNFh5a2xEbHFEWlNjS2I5SXozZVdkSFVNYzVYVjdySGFYSVpQaUZENmgtS29oRDg0X01HbFNwMlp1ektHUVpJN0hRdk10a3p6UTA?oc=5",
-      "rank": 24
+      "rank": 26
     },
     {
       "headline": "David Lynch: Can this struggling Liverpool star turn things around? - anfieldindex.com",
@@ -275,7 +297,7 @@
       "rank_score": 75.6,
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxORGZwLUdlLTE0NThQdjc5eXJIUWNXa0R0anQ5b3RrLWJJWGpUXzRpOW52SzlhMk1CR3FmN3VaNUZrU3F4ejBHUU9femRxNHNqRFozaXZ5SXpoTEZlay1LRVBxU3dadndqODlBZUpvb1Rnb21RaWsySDdvRXo5XzU1R0JpckZGbzNFTlJFRGJvbzV3U2hn?oc=5",
-      "rank": 25
+      "rank": 27
     },
     {
       "headline": "Alexander Isak responds to Andy Robertson claim and agrees with Liverpool boss Andoni Iraola criticism",
@@ -286,7 +308,7 @@
       "rank_score": 75.2,
       "date": "2026-09-24",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-responds-andy-robertson-34667018",
-      "rank": 26
+      "rank": 28
     },
     {
       "headline": "Liverpool latest: Dominik Szoboszlai tells team-mates straight as 'bargain transfer eyed'",
@@ -297,7 +319,7 @@
       "rank_score": 75.2,
       "date": "2026-09-24",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-dominik-szoboszlai-january-transfer-34662199",
-      "rank": 27
+      "rank": 29
     },
     {
       "headline": "Ronald Araujo can banish Liverpool transfer curse and numbers prove it",
@@ -308,28 +330,6 @@
       "rank_score": 75.2,
       "date": "2026-09-24",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/ronald-araujo-can-banish-liverpool-34660552",
-      "rank": 28
-    },
-    {
-      "headline": "Three big issues Julian Ward would need to resolve as Liverpool’s new sporting director - The Athletic - The New York Times",
-      "summary": "Three big issues Julian Ward would need to resolve as Liverpool’s new sporting director - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-09-24",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGNhV2VDQkR3eDlZaUt1a0hZcnUxWkdKd09NSzdMN1F5M1RoWEZrVnl6NDNnbDViYjhzS3FGOHZSbGw2NnpOY0IzZWlVQktZZmFZTHpEQ3A4RVJwQlowOWZaUjloY1BZZzRRYmRCaTVYNmJuS3dvNmN6M0E5S1k4RWRLQkJwVFRBTzU0VlJNcDk0blV5VWk1SFE3TGFoM2xWVGgxUm0tM1RaQ1A2TXo2V3B3?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Liverpool leading race for £60m midfielder after initial talks - readliverpoolfc.com",
-      "summary": "Liverpool leading race for £60m midfielder after initial talks readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQS2NIR1h6eGVlcDlIanBTd291TjEzME9Tc2tJTmp1SUZTY1VQS1pDbXFHUXpqcjBVYk1XZ1otdGlCQVNpaHZFejlSOHpRaEZYT3g5TUNiYjVKWGROQmJtcHBuUnRxZFk2a2ZLbGpydzZZcXJPU2RiTnNJbmRyT0dsemhuTXBxVFpVNi1kT3pwQ2VyUGRLVzJNT3A5Zw?oc=5",
       "rank": 30
     }
   ],
@@ -411,7 +411,7 @@
         "p": "Low",
         "mentions": 3,
         "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkZmSWRQbW9BZWdheUZEbDZoY3lLTDJTRlJoRWw2Z1ZDX3VITm11ek1PVm5ha3V5Vzg4MHBlRFpBdllQb3dfc3lvOVdCbXp6S3VkZkNhZjE4R25hNlRLaFhHNVgyWU4td0RSVmRVakhINGIzS2x5cXF1dDJVcWo5Q2Q4RVg2VzRrTzVaVVhBT3pFLVg4YWNLbGh5YVFtN2lmN25F?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZkZmSWRQbW9BZWdheUZEbDZoY3lLTDJTRlJoRWw2Z1ZDX3VITm11ek1PVm5ha3V5Vzg4MHBlRFpBdllQb3dfc3lvOVdCbXp6S3VkZkNhZjE4R25hNlRLaFhHNVgyWU4td0RSVmRVakhINGIzS2x5cXF1dDJVcWo5Q2Q4RVg2VzRrTzVaVVhBT3pFLVg4YWNLbGh5YVFtN2lmN25F0gGrAUFVX3lxTE15TmpKN2gxN1E2WWlBcDdXcFEtZTZ2eU1PeUtiSDltdnF4Z1BVMHJmZ0VDWGFQV3pTb0dWbWlPY19EU1c1N0ZUcWlxOE9CVlJhRjJFdDI5VlptRnIzcDE5WnFQM0hSNmx0MGVQVEZNU1JhLUVES3puSW42N2FmTnRXZG5OaVNhOG1XMlotUXVaVG1sQ0JEQlkxWWZFdV9Ob2J6dURFclVrbUlTRQ?oc=5",
         "date": "2026-09-24",
         "active": true
       },
