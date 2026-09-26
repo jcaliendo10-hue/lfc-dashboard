@@ -1,5 +1,5 @@
 {
-  "updated": "26 Sep 2026 15:53 UTC",
+  "updated": "26 Sep 2026 19:02 UTC",
   "count": 30,
   "items": [
     {
@@ -91,9 +91,9 @@
       "rank": 8
     },
     {
-      "headline": "Liverpool transfer rumours: Tyler Morton, Alisson - bbc.co.uk",
-      "summary": "Liverpool transfer rumours: Tyler Morton, Alisson bbc.co.uk",
-      "source": "bbc.co.uk",
+      "headline": "Liverpool transfer rumours: Tyler Morton, Alisson - BBC",
+      "summary": "Liverpool transfer rumours: Tyler Morton, Alisson BBC",
+      "source": "BBC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
@@ -135,6 +135,17 @@
       "rank": 12
     },
     {
+      "headline": "Alexander Isak sends ideal Liverpool message but Andoni Iraola has triple worry",
+      "summary": "Liverpool striker Alexander Isak continued his goal-scoring form in action for Sweden but there may be concern over his fitness upon returning to Anfield",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-09-26",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alexander-isak-liverpool-andoni-iraola-34676250",
+      "rank": 13
+    },
+    {
       "headline": "Jamie Carragher makes Ibrahima Konate transfer claim and explains Liverpool 'freak'",
       "summary": "Former Liverpool defender Jamie Carragher has praised the impact of summer signing Jeremy Jacquet at Anfield",
       "source": "Liverpool Echo",
@@ -143,7 +154,18 @@
       "rank_score": 79.3,
       "date": "2026-09-26",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/jamie-carragher-makes-ibrahima-konate-34671251",
-      "rank": 13
+      "rank": 14
+    },
+    {
+      "headline": "Liverpool transfer rumours: Florian Wirtz, Bayern Munich - BBC",
+      "summary": "Liverpool transfer rumours: Florian Wirtz, Bayern Munich BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-09-24",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfSm1saWEtX3hUbXUwajhaU1hMU3BOQ0VhWEhxdF9wTkZXazhVSjNfZUZ2ZTdQSjFVOGpHT2xUNXZ4NkllWHRsMHNTTWNKZmFQbkhxYUt6VVpnRmFXelg5UUQyZHRQbjBJ?oc=5",
+      "rank": 15
     },
     {
       "headline": "Andoni Iraola receives Premier League Manager of the Month nomination - Liverpool FC",
@@ -154,7 +176,18 @@
       "rank_score": 77.0,
       "date": "2026-09-24",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeFVZa0dqNHBuQXBVbGpNQU9qU0FOTVZRNjlBZ05TUEdVcEZzOWUyVm5FSzlDNHM4T1pEY083cG1HZjREWURxcVRPdEI5ZFdnQjJGbDVsVUFETndMbkozTHdTQnNEVnA3V1pBMzVOZm1wNzNLckZGMUFzcTZDc0lqUEZ6a1NvclNXNDAzTVpEdThfWGQtbDNIOVQtWdIBowFBVV95cUxNSTlvRG9UbWdDVzVhOG80VnpSLTZwc3NsOVNaaEtTMnM4THFhTjJqVVI5bnB5TkptaUw0WUR0aXRhQ1cwc25iZE5mQlh1S1RldU0wZXk4dWZ4YVZEN3pkZ0FWYzFoNnRxMXk0U1pQT25LQ0pHa0RtVkM2bnJYNTRvSnlKWW5aZXNWcDUyb2ZQN1pUOE1ZZkFia0hrXzAtWVpsUmln?oc=5",
-      "rank": 14
+      "rank": 16
+    },
+    {
+      "headline": "Responsibility, intensity and 'competing for everything' - Gravenberch, Kerkez and Szoboszlai talk in 'The Reds Roundtable' - Liverpool FC",
+      "summary": "Responsibility, intensity and 'competing for everything' - Gravenberch, Kerkez and Szoboszlai talk in 'The Reds Roundtable' Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-09-23",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVGJDdWl4WUwzT2F6ZWdlYXlPaTcwcF9PVWg4RDk4Q3pBUE9Hejc5a3NUSU9yVEwxRUFZNk9EQ3BuRjVrYWRSM2pySVQzU2dKckhvMS14Y0ppQWtfZVFUN0VJR2ZDZGlPSjBwV0VncWRxdEhpYkNMeDNWb1VUV1hwcWoySE03NENQSkR3MDkycThWNHN4aF9EdUxaWmlaM3FxYV9VNFBOWDE3Tm43cUxVZ2lBaTRwV2xTNV9wZmNwVUhhLVYx0gHMAUFVX3lxTE80ejBhQkF2UnZTRkZ4TFNYbF9uSlJKWWNDZzVHNkR6VjNtYnhnU2NObFJvME1uSW1EaEhCc2VwY2dPNFBJWXhUaEZuWkxNeGdBd1A3VUlFc25tb1d4Ny02S0ExSW1FWUt4SUhVZE0wSnBKUUJCNzRKMHB3Y1BvZU9QQlU3QnNCVUM3VjI5ckVfY2kyeEUxU2lyYUx2M1lxNWxLR2NNVjVoTjdyV1Q1cVliaHJHU0t6SHI2SkF1U2ZST2lWa0JfMTB4MWhRQg?oc=5",
+      "rank": 17
     },
     {
       "headline": "Isak and Jacquet shortlisted for Premier League Player of the Month - Liverpool FC",
@@ -165,7 +198,7 @@
       "rank_score": 77.0,
       "date": "2026-09-24",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNd0JMZXd2RjBHZ0lwTjdUY2FmRlYxNnhmRWQ1OG0wMmlaSWNoUlJLNFlCU1NkRlFiOW1fLXJBZkhWNWU3U2lTam5zUTU1M3FYS1ZxbEpLYW5Zd3ZJSWZabEJsUTlFTXlxLVgxd0VMWjR1YzJmVFR5XzJrSE4wblBQcXYzZ1FCQmRnRzNqNnRDeXlyekhoU3UxdzhTZ9IBmwFBVV95cUxNd0JMZXd2RjBHZ0lwTjdUY2FmRlYxNnhmRWQ1OG0wMmlaSWNoUlJLNFlCU1NkRlFiOW1fLXJBZkhWNWU3U2lTam5zUTU1M3FYS1ZxbEpLYW5Zd3ZJSWZabEJsUTlFTXlxLVgxd0VMWjR1YzJmVFR5XzJrSE4wblBQcXYzZ1FCQmRnRzNqNnRDeXlyekhoU3UxdzhTZw?oc=5",
-      "rank": 15
+      "rank": 18
     },
     {
       "headline": "Jamie Carragher Urges Iraola to Drop Florian Wirtz for Man City Clash - readliverpoolfc.com",
@@ -176,7 +209,7 @@
       "rank_score": 77.0,
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNVI4bG1PbjFLbmw3RkcwNXhvcGhfVEJPaTB4VVF2RHYwVjJ0NV80bnBBZjR4WTREanpWVjlKM1pqNmozdGFtb1UxMzNOeHc5cUZ6bkh0WDlOMEE1QXNzdlk1R3lXdUhQaU5Ea2V3YkZ1NHRBLWFIMkNZSWFpMnBWamxMc2dRX1NfOHUtUllfZDRuWXBQUTFGQQ?oc=5",
-      "rank": 16
+      "rank": 19
     },
     {
       "headline": "Isak pounces to give Liverpool victory on Iraola’s return to Bournemouth",
@@ -187,7 +220,7 @@
       "rank_score": 76.5,
       "date": "2026-09-20",
       "url": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
-      "rank": 17
+      "rank": 20
     },
     {
       "headline": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
@@ -198,7 +231,7 @@
       "rank_score": 75.6,
       "date": "2026-09-15",
       "url": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
-      "rank": 18
+      "rank": 21
     },
     {
       "headline": "Transfer news: Crystal Palace chairman Steve Parish tells Liverpool accepting £50m Ismaila Sarr bid was 'never going to happen' - Paper Talk | Football News - Sky Sports",
@@ -209,7 +242,7 @@
       "rank_score": 75.6,
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPQ2JEcWxGYmNHeTJ1ZmxDY1A0VTdXcHJCMjBJalI5Zkt6d0RsaWdqN0hCVW1abEZsWGw0b21mLXhpNUpNU1BQYjlaQWktTEI3eExMZTRYdWZlWUVIblBKZXhXQmJzSmNiMXN4dC1ZOXdWVGtsVUxJSWZ4U3J0SWNXampWVVN6U05LSTdVSjQ5YjNyaUpLb0lsa2liOVhadnRQcXpGRHYwR2RUbC1HYjNHbFpHUl9nY0hEWUlfTlVkQW0zZWtNZHhtOGFRaXVYUTRFX3FWZkc0VnM3N3ZMNjE0QlotTVV5b3NOdUxBa1k2NW1Ha21abmpzT3g3VklrWU1zbERCazV2TE1fQURsaDJzd0hJSl9NejZYSmlHcWxOYTZVWWFVYlRZ?oc=5",
-      "rank": 19
+      "rank": 22
     },
     {
       "headline": "Fabrizio Romano confirms Liverpool forward is set to join Manchester United - anfieldindex.com",
@@ -220,7 +253,7 @@
       "rank_score": 75.6,
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOejZtazJmTXVmZE1LUG5rQ3htX0tnTVVoQVlBcGZzcVpsT2JnT1dtOU1EM1dtOWk3MWttQ0Z5X251Z1l0aW4yc0ktWlc0VEpoNG1PZEhoRWVIUEJoZzN3QnNXcklyXzhvVk1yVHdrVXZOOUxkZVEtTjNMSFRmY1NjYTBFUDl6RzlVcUxUMV94S2xPNjlQMEFBTmk1WFRpZEVqS2FNeDlKTGtKNFVUNzVTbDl3?oc=5",
-      "rank": 20
+      "rank": 23
     },
     {
       "headline": "James Pearce: Julian Ward Already Eyeing 'Top-Class' Star as First Liverpool Signing - GiveMeSport",
@@ -231,18 +264,7 @@
       "rank_score": 75.6,
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVmJCbHhwNHdIU1BPWXFsblBucHBmUmVkcUdTYXBXd2pDa2RYa2pROUdUNFRqS1EzVG8wZ0Z5NUtpUkIwZW9odGVwX1RrS0xHTDlQR1dBaHBBUW8yY1FDa3kzZ0gyWTJRT0hYdl9YV0praU1yTEJ3RjE2TW9FNDloOTU0NExWUQ?oc=5",
-      "rank": 21
-    },
-    {
-      "headline": "Manchester United sign youth winger Isaac Konde, 16, from Liverpool - The Athletic - The New York Times",
-      "summary": "Manchester United sign youth winger Isaac Konde, 16, from Liverpool - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-09-24",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFdrNFkxMklEVDBKMjF1RnlsUGducmh5T1ZOT2V2WXpNUXR2c0cyZkMwZG9lRkRKRTZ4SElkbTJIQnhCV3B0TnZVQjlrRWdFRzJvWVZEMk9vVjJlaW1pdGRsUjVXcE9WcF9SMXEwSXBNclFGUFg0QVlnNm8xdFlrSHVGVTl6R2hqa29MbHd3M2g1c2RfSGdZMHZ1VVNkTHVVMmxYV3ZOWkN0QTg?oc=5",
-      "rank": 22
+      "rank": 24
     },
     {
       "headline": "Three big issues Julian Ward will need to resolve as Liverpool’s new sporting director - The Athletic - The New York Times",
@@ -253,7 +275,7 @@
       "rank_score": 75.0,
       "date": "2026-09-26",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSGNhV2VDQkR3eDlZaUt1a0hZcnUxWkdKd09NSzdMN1F5M1RoWEZrVnl6NDNnbDViYjhzS3FGOHZSbGw2NnpOY0IzZWlVQktZZmFZTHpEQ3A4RVJwQlowOWZaUjloY1BZZzRRYmRCaTVYNmJuS3dvNmN6M0E5S1k4RWRLQkJwVFRBTzU0VlJNcDk0blV5VWk1SFE3TGFoM2xWVGgxUm0tM1RaQ1A2TXo2V3B3?oc=5",
-      "rank": 23
+      "rank": 25
     },
     {
       "headline": "Liverpool MP criticises police for ‘disgraceful’ suggestion that alcohol played ‘part’ in Hillsborough disaster - The New York Times",
@@ -264,7 +286,18 @@
       "rank_score": 75.0,
       "date": "2026-09-25",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVTNoOFNHTWtkSkx1eDJ5TlUxbjBlLVhmOTU3ZGxDVFgyOWFHMGRvMEpfblNMaUVMS2c0ZjduSkFYV3N5SFZ0ZHp3U2ZGY2dfYUhKbnZrRzdaS3hlSXVuOEJJZ2VGak9LYm1qMWhaMUhiQ3hrUVR1U2Qwcm14bDVuUUNOUk9LZmJIbkFTMm83Z3lUTXJM?oc=5",
-      "rank": 24
+      "rank": 26
+    },
+    {
+      "headline": "Julian Ward named Liverpool sporting director - The Athletic - The New York Times",
+      "summary": "Julian Ward named Liverpool sporting director - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 75,
+      "rank_score": 75.0,
+      "date": "2026-09-26",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYTRLN0JObDJxSThDMXhkMUswRzRianluRTJSbldxcHVXYkphS2lYOC1CTFFSU28xUDBvQTY4cUIzSDdpY3lTSTg0V041US1Zd1pnNUNtNllaUHBKNFdPSWk1TG9SSUlVUFNkZDV3emtOd1lwU0JUSFdpS2JyMTlCS3NWUld3VHpTbUxuOGVSRW1MU2NMQ0ZJ?oc=5",
+      "rank": 27
     },
     {
       "headline": "Liverpool stay unbeaten under Iraola entering international break - readliverpoolfc.com",
@@ -275,7 +308,7 @@
       "rank_score": 72.0,
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQR1hzVUR0YklDdWxjcW9vd1JkTjltb0dtbFFmaXVKa3o1T2UzSFVMMHBMYUpEWkdIb3JZd1dwU2NFV1I5OV9VdG9rYjBrai1aeXN5N0E1b3NaUjluNEpSMldEQ2RxVVNYSEFkZmVjSnM5ZzFMeHdjR3VGczlVNnY5WXcxSkxiS2ZZSTdlS1hBNA?oc=5",
-      "rank": 25
+      "rank": 28
     },
     {
       "headline": "Bournemouth 0-1 Liverpool: Iraola matches 1983 record in Dorset win - readliverpoolfc.com",
@@ -286,7 +319,7 @@
       "rank_score": 72.0,
       "date": "2026-09-23",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ3FWSFJwLXExMDgtazNUZGY2c0VQU2k4blhLQklKTDFqZ1haSFlRZm1sVnRsQm9tMWdSM2Y1STNjaXBjTnQ2NUNobVFHWWEtQlRCT1lMNTQxTGcwZEV5TDhyV1BqVFR2RTRFSnlaa0ZEU0FxbjV0WE15Q0lJSUg3V0VCcmk?oc=5",
-      "rank": 26
+      "rank": 29
     },
     {
       "headline": "Araujo Right-Back Role Fixes Iraola Dilemma - readliverpoolfc.com",
@@ -297,39 +330,6 @@
       "rank_score": 72.0,
       "date": "2026-09-24",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMTdmRk45OU1WdnROc1puQzJyMzlZUGtCNUhsTlI0QlhXU0VYeDZlQWZib3EwV3lsV3RmTC1mNER6LVVEdndQSVQ4YldhNmJtWXlER0tGOHRwaW42dHdvZmJHMGYtM1hKREFaZFJ6Mi1QcGs3M1pFQ2x5cDNZekpyNE5ZZHFZZEFJaHc?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Florian Wirtz: Smicer Draws Pogba Comparison for Liverpool Star - readliverpoolfc.com",
-      "summary": "Florian Wirtz: Smicer Draws Pogba Comparison for Liverpool Star readliverpoolfc.com",
-      "source": "readliverpoolfc.com",
-      "credibility": 10,
-      "relevance": 72,
-      "rank_score": 72.0,
-      "date": "2026-09-23",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcHJ3eTJ1VUk3Ml91cTVrM2Z5RkdEOGhvRl80cXpQcGJKdmtFUi13ODIxZV8zOGdZLUNwcldnZFpUTlI5a0JGRmtiRjIxekZEWENsZHRJS2p5TnA2NFNyVjZqek93RlIwRVdTdE16S29lOFRMdmlNNDJhTFdzX2JTdnk3dWhmaTg1MjktX1ZQRjVycDYy?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Florian Wirtz has regressed at Liverpool. Could two weeks with Jurgen Klopp be transformative? - The Athletic - The New York Times",
-      "summary": "Florian Wirtz has regressed at Liverpool. Could two weeks with Jurgen Klopp be transformative? - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 72,
-      "rank_score": 72.0,
-      "date": "2026-09-22",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNQ0RROFFkYUNvaWdwS29TUDJsdk40QVBBNE1sdERfb2Q5R0ZIZlBTcFlUbVozS0pyZXhhYWt0OER6SDVQRlF2OUFsMXpQOVVaVWljeTdqVXFDaERYMEJHcHU0VFNyMzlwQWdlNEV2eEdpTFpvSVk0dEYxWEtfNXVRQURzV1oyTWd4UzFPQnBXZnY3OUJVYkltQWg0R3F1M19FMEcybjRVVFNmU0E?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Premier League today: How to watch Bournemouth v Liverpool, TV channels & live stream",
-      "summary": "How will Bournemouth and Liverpool fare today? Here is what to know, including kick-off time, TV channels and live stream optionsAndoni Iraola will make his first return to Bournemouth since leaving the south-coast club for Liverpool. Four ",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 76,
-      "rank_score": 71.8,
-      "date": "2026-09-20",
-      "url": "https://www.theguardian.com/football/2026/sep/20/how-to-watch-bournemouth-liverpool-premier-league",
       "rank": 30
     }
   ],
@@ -390,19 +390,6 @@
         "p": "Low",
         "mentions": 0,
         "active": false
-      },
-      {
-        "who": "Isaac Konde",
-        "meta": "Emerging link · 3 reports across 2 outlets",
-        "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 3,
-        "outlets": 2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFdrNFkxMklEVDBKMjF1RnlsUGducmh5T1ZOT2V2WXpNUXR2c0cyZkMwZG9lRkRKRTZ4SElkbTJIQnhCV3B0TnZVQjlrRWdFRzJvWVZEMk9vVjJlaW1pdGRsUjVXcE9WcF9SMXEwSXBNclFGUFg0QVlnNm8xdFlrSHVGVTl6R2hqa29MbHd3M2g1c2RfSGdZMHZ1VVNkTHVVMmxYV3ZOWkN0QTg?oc=5",
-        "date": "2026-09-24",
-        "active": true,
-        "discovered": true
       }
     ],
     "out": [
