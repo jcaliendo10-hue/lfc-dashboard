@@ -1,7 +1,18 @@
 {
-  "updated": "07 Oct 2026 04:33 UTC",
+  "updated": "07 Oct 2026 15:06 UTC",
   "count": 30,
   "items": [
+    {
+      "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 95,
+      "rank_score": 89.8,
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
+      "rank": 1
+    },
     {
       "headline": "‘There could be movements…’ – Fabrizio Romano issues contract update on Liverpool stalwart",
       "summary": "Fabrizio Romano has issued an update on the contract situation regarding Alisson Becker at Liverpool. The Reds’ number 1 is into the final nine months of his current deal at Anfield, having had a one-year extension activated during the seco",
@@ -11,7 +22,7 @@
       "rank_score": 85.1,
       "date": "2026-10-06",
       "url": "https://www.empireofthekop.com/2026/10/06/fabrizio-romano-issues-contract-update-on-liverpool-stalwart/",
-      "rank": 1
+      "rank": 2
     },
     {
       "headline": "Liverpool transfer news as massive Virgil van Dijk update emerges - Read Liverpool",
@@ -22,29 +33,40 @@
       "rank_score": 85.0,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlhnYzRBdkdISzJ6b3plSDdiZnZlakgyUk9QMVJsaXlmTndLSVZhUElHaFVZbU9Zc05acWFGT0lUX09seFVDbF9pUnNnMUtUdnNyUzhKZDdEUDR4OWpqS1d1VkIzU2VWVW1nSWtQaWxuME1WYkt6OUYyWDJYR3U0Wk14bG9vT0tEQlRmYWUwSkhsb2d2QWxpOS0tSmgzbzhV?oc=5",
-      "rank": 2
+      "rank": 3
     },
     {
-      "headline": "Liverpool and Chelsea in transfer battle for Premier League defender - Read Liverpool",
-      "summary": "Liverpool and Chelsea in transfer battle for Premier League defender Read Liverpool",
+      "headline": "Liverpool transfer news as January loan deal for attacker possible - Read Liverpool",
+      "summary": "Liverpool transfer news as January loan deal for attacker possible Read Liverpool",
       "source": "Read Liverpool",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNelk0azRTTTRWTk1heXUwcEVIUy14YWlwUUE3ZC1nZC10YWxsd21pbzVya0U5SmEtcnc3WHU0OFdNalRZQ1lvSVQ4VzVrTHZFaTB5YWlhT3VfUTJ2TV9JYVVCQUI4VmVFWDRacS00RXhlX1FKU0lYUXRRUC1BbG9IZ05YZ084SmdnVDRteXFMdFNDRERIN1ZGS1VILTJITW9QS0pVWA?oc=5",
-      "rank": 3
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSm1SNVh6MEZhUW5iSndvTWc2YlRxYXlfdE9QLUlEZUxoek9aUjNDd3dMY29KVmRUR1F6T2RPVVc3ckQzNDJTbFpBMG01MFpNbi1NbERBM1RJTzhnbHFWRkZRb3RwLVFTSDFjd0QyWm41ZkpsNmU2cFh4MFM3TE9JR2JzbThYVHZNZGlxVC0yVlVHbE1qZHduYzdoTHU4TkZjdVE?oc=5",
+      "rank": 4
     },
     {
-      "headline": "Internationals: Wirtz captains Germany and Dutch win on special night for Van Dijk - Liverpool FC",
-      "summary": "Internationals: Wirtz captains Germany and Dutch win on special night for Van Dijk Liverpool FC",
+      "headline": "Andoni Iraola on season so far, Liverpool v Manchester City and injury latest - Liverpool FC",
+      "summary": "Andoni Iraola on season so far, Liverpool v Manchester City and injury latest Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUpXdlRjdnFxMXZ3M2FoclNRZlVLZjVJc0owYnNMM2IzRF9MbVFST0hBR1Bzczh4ak9tTW5XZXBwbi1WWU9OM3pmYmY3bE5SeHNJQUZfVlpKMW52b2p3TFlvZFNZQUVEYmIyTmFzNUVyckkxc013NTA1cGZjNzQwcHdPQXZLTGtlYUZEQ0lmYk5oS1IzVE9fREFpclZWVEs4aGVvWExBSGVVcVHSAbMBQVVfeXFMTWZOWEdZRU8xVk5xd0NCLXU5Z1ZzVFdtN2s1ejllMGJQNkxiNmJYcnRFOHJZRDNEOXhYZlJUajRjYW9Ob1ZSRWdDWHllTVVBTzZaZnhMM2VuTF9ST0hLeFBCV19qb1RRb20zT0g2c1hncHpnRmh0dUtGY3AyNE9IS2NtTlVNYVFqakJUZXJfMVh2cV9vb2ROamZtd2h4LUxRNGNyYjVUTjE3TElXenhOM3FQOVU?oc=5",
-      "rank": 4
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMThEbGFUZllXUTBDMkNzZGx3eTBrZUtYbEtaYmN5SGRsYTh3VEJPcHE1bTF6Q0ZEMDNOX2lLSDlFNDd5VFktYTVFLTA0Q2RNQ2hTQlZza0plejVyS1VFVS0zUUpoOGppZ2Y3RGtOeFRLblVoVWNra1lwZDBseFRmQnV6MlpJTG02dmtiSjlWZHJUYmJ2Q21nWkU1NnJCZUVza00yczJzYWdZdw?oc=5",
+      "rank": 5
+    },
+    {
+      "headline": "Isak and Jacquet shortlisted for PFA Premier League Fans' Player of the Month - Liverpool FC",
+      "summary": "Isak and Jacquet shortlisted for PFA Premier League Fans' Player of the Month Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNkpvamZTR3otY0U4Y24zaWtISVFpbVNlUE84bXVENXdKR25XSE1ybmNUemVaQ3BRU3VSWTZZLTZ1VjJVdDBMVFp4QUNHLVZTLUlUVmpvV3puZmtsa21PSEJucFBfb2lIREhuSFdpRnp6eW94XzE2R1JGa0xCaFg3Z3p6VU14aXFHcDlJaUQ1dTVhTVhSU0VXWEdJZFAyWTTSAacBQVVfeXFMT3Exa2JhY1huV19MRUg1UnRkYVBPTy1GOS1TSkkwNUluSTBOMXNFUGNKZGNiUmd6NEZfUEI5UjVSbFhuMXlhZVY1YjQ4ajg0akJvdms4cWVqSHJHYVllTmM5TUdQRHZlZ2wwUVJtRlNPNThzeEZpN2VoMFQ1dHNCRzktc0w0TTl1S1RPaDk2d0FfejV2WTJjQjVMNUpnbVAzVnRETDF2eGM?oc=5",
+      "rank": 6
     },
     {
       "headline": "Isak, Gakpo, Jacquet, Leoni - Liverpool injury news and return dates ahead of Man City",
@@ -55,7 +77,7 @@
       "rank_score": 83.5,
       "date": "2026-10-06",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/isak-gakpo-jacquet-leoni-liverpool-34724843",
-      "rank": 5
+      "rank": 7
     },
     {
       "headline": "Liverpool: Andoni Iraola's early impact at Anfield assessed ahead of huge Super Sunday showdown with Man City - Sky Sports",
@@ -66,7 +88,7 @@
       "rank_score": 80.3,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxOb2t1N3BVRXJWUmk4LVJZc3AzaDluWk4yR2pPYlA0RFhmYTJJX0wwR3pVdWszaVRWaW84cUFxbTFnT2ZOeFJVc0JTVlp0NmJWa3UyRmdCOFVFelFhMDdEVFNpZGJ4NHd5bDNjcW82dXIzTkxzM2FoVXltVU5mNi1Gb19oWDZLZk1LSDBLbTZUVWFUemFmTUs1WU96ZTJRTzhFOHdNZmRVWEgtU3N4OXg5ajlJMng1V04xOHQ4UkNMSmZOdFY0dEtRZ1NFRGpqZXF6REJ5OTJiNk1ITkF0d2ZpamwyUlFVeE9IVlMtSA?oc=5",
-      "rank": 6
+      "rank": 8
     },
     {
       "headline": "Premier League: Are Liverpool in crisis after latest Jeremy Jacquet injury concern? - Sky Sports",
@@ -77,7 +99,7 @@
       "rank_score": 80.3,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQOEhMcUJlNVhwSENtTjRWTkdQRVRxbmtOLTItSEpOdndGMTRXLXVac3c2LVVFMXdYeUVjX0Y0MC1WQ2tyNm5RMUNNWkNYaG1jQmF0c0lqRHNFQldGeXBya1I0dE1yZGgtNlZtazBTaV9rUFRYelotSjBHb3ZvZHU2VXBEY1dnVkdUMFY1a3FDRHNpRERPVFlnMHpsRmtDMFJrR0tOVGxUV0doMTcxVHFaUjNzcTZVVklMQWhPVEltVHkzclBJaWJGZWVhZw?oc=5",
-      "rank": 7
+      "rank": 9
     },
     {
       "headline": "Liverpool news: Fabrizio Romano confirms current stance on Alisson Becker contract negotiations at Anfield - Rush The Kop",
@@ -88,18 +110,7 @@
       "rank_score": 80.3,
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNVHNpd21PRTlvUmNOUkhtUk1aUXpEcXpvbHJiUkpHc1cycTl2S3hGSWV0enFwVzRqVWRya0pXQUNzRjVvUnFWbGpWTEdRSXZrMTRLMkRld2FCN2lMWlU0d2s0ek1MbXVkbzZCU2NLamR0bU1QQnN3V2pjTlF5Tnk3MUVoc3A0SHVidGZxQy1PeEVZWVZ0NXBGN1RadzRDZlNfaG1LWUQyQ2Q2WURKb2Y4NWZzeG9YNWpCbGJ6MGtsS010YXUzbjJJ?oc=5",
-      "rank": 8
-    },
-    {
-      "headline": "‘In contact’ – Fabrizio Romano confirms latest Liverpool transfer news - Read Liverpool",
-      "summary": "‘In contact’ – Fabrizio Romano confirms latest Liverpool transfer news Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPN1pTZUdlXzBBRkkwV2FyT2hmYnhmTVR1V21rVmdkZXp3cmlWeERHeVB1UTAxajJuSFpDZGR6RzREZUxoSnFHbWpMd3dGY3EzOGVIZ3JIX3FTRGp1TEtEYm1DOERNV3JQYmt0cm1mbWVHTFR6U3ZZblZSbnZDZGQxdmoybzFWeVdQQ0tTaGt4ZnYtUFVfMWVvWEZMWmVTYnRWcUE?oc=5",
-      "rank": 9
+      "rank": 10
     },
     {
       "headline": "‘Fears’ – David Ornstein confirms massive Liverpool transfer blow - Read Liverpool",
@@ -110,17 +121,6 @@
       "rank_score": 80.0,
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVTNaWTcwNnhjcFVURXBTUXJxOWJtY0h1anI3aElNYU9wMi03YWxGa3BSYVFwaGdNcENWbldZVmxfNzFsdDFTa3JYRzhyWFp2ZExHZmUtR3NTR1FSOVBqa25qb3paYTdmVFNyVDIteDhGMFpQN2RnaFJVejRzOEZnbTd4TlVOTmJOU2lWc2xQUEh5NGxoU2pRX0h1RQ?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "‘Keen’ – Fabrizio Romano makes huge Liverpool transfer claim - Read Liverpool",
-      "summary": "‘Keen’ – Fabrizio Romano makes huge Liverpool transfer claim Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMUlIVFVoUlN0YTJGSDdjUnRWa2lhVnNteUVad1JxRkdYQjVkM3BIazI0SnZlYUEydXYyMDRpdjhlN1lYSV9JNjVBeGxjaGZfTlRuWi1aMnUyUWpRcTQ4ckg2WVVFeGZzZV9yVzc3MG1yRncycmpTV1hWOVBIdmpzRFNpaTA1SHBoaTQ0MXFSWnZfb0JFazZONDNDbw?oc=5",
       "rank": 11
     },
     {
@@ -135,15 +135,37 @@
       "rank": 12
     },
     {
-      "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 81,
-      "rank_score": 76.5,
-      "date": "2026-10-01",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
+      "headline": "Liverpool v Man City stats preview: Tactics, goals and potential Iraola feat - Liverpool FC",
+      "summary": "Liverpool v Man City stats preview: Tactics, goals and potential Iraola feat Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVQ5b3BiQnhPNmFyWFpOU1ZTYmVjTHZiQWJtdjFhaXllcVNLeDhuQWJVUEJlUVllOW5pelhxcEtUSXhpNEVHUzl1dTA1VWpNemw0bW1ELWR5ejdoSlhTSk1DalFoTjN3LUR6U1pEVk44S3V6Z0JMU3pSRWhhZlczMjUxVjNsZzdlOTVwN0RleU9vN1RRUVpYem5HTkdQNTR3RTBCWGNNUnZJbHfSAbMBQVVfeXFMTktTcWhKanpJV2p0b0sxbUZycFB0aGFoSFZHWlBUdExGa2ZENTAtS3pPLUxOS1ZhQ2xObkFYaFc1aThfeUFIbWg0VVI0OXB2cThsT1RFVnZiMnloVUxxS3RsV296bnJ6TkZ3VnE5MkhjZjV5MFBhUjBWbFZDZW9hRTdYeWdpZmVoMlN2TkRWcmFhdWZXZEdfS2NYXy1lOFg4VUVkRS1TWDZhdEthRUNaQnVnWGc?oc=5",
       "rank": 13
+    },
+    {
+      "headline": "What Zinedine Zidane said about Jérémy Jacquet following France injury blow - Read Liverpool",
+      "summary": "What Zinedine Zidane said about Jérémy Jacquet following France injury blow Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-06",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQbkd2OC10Z21MTWlWMVNLV29zVGhkSEJiUUNDNWZQbXpzQi1lRW9JZ1RUZ3k2cFNKM3piRVltM2lvV3hiUGRLX0libzM1TGVvVTR3MnlydzJUQVU0RWdLN29Td2d3NnRVY2cwUUE4ZWZDa3hqLTI0VkYwbkJub3hFRTZsTllPY0lmcVBTcnFfWS1ldFZIWWZpTjJDaw?oc=5",
+      "rank": 14
+    },
+    {
+      "headline": "Internationals: Wirtz captains Germany and Dutch win on special night for Van Dijk - Liverpool FC",
+      "summary": "Internationals: Wirtz captains Germany and Dutch win on special night for Van Dijk Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-10-04",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNaUpXdlRjdnFxMXZ3M2FoclNRZlVLZjVJc0owYnNMM2IzRF9MbVFST0hBR1Bzczh4ak9tTW5XZXBwbi1WWU9OM3pmYmY3bE5SeHNJQUZfVlpKMW52b2p3TFlvZFNZQUVEYmIyTmFzNUVyckkxc013NTA1cGZjNzQwcHdPQXZLTGtlYUZEQ0lmYk5oS1IzVE9fREFpclZWVEs4aGVvWExBSGVVcVHSAbMBQVVfeXFMTWZOWEdZRU8xVk5xd0NCLXU5Z1ZzVFdtN2s1ejllMGJQNkxiNmJYcnRFOHJZRDNEOXhYZlJUajRjYW9Ob1ZSRWdDWHllTVVBTzZaZnhMM2VuTF9ST0hLeFBCV19qb1RRb20zT0g2c1hncHpnRmh0dUtGY3AyNE9IS2NtTlVNYVFqakJUZXJfMVh2cV9vb2ROamZtd2h4LUxRNGNyYjVUTjE3TElXenhOM3FQOVU?oc=5",
+      "rank": 15
     },
     {
       "headline": "Liverpool vs Man City Lineups: Isak and Gakpo Injury Latest - Read Liverpool",
@@ -154,7 +176,7 @@
       "rank_score": 76.0,
       "date": "2026-09-30",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPOTBXOFN2bzU0ZU53U20tb25tYlBCSnp2c3Vma1c1S21zaXc5S2tyMTVFTWNCYnlEelFQQVhxekowSjRyNnY5NnhUODRtVkd0UzJSSEJNUC1DQmdRaTktaEcwUXRuLVFuRE9tTkJZcG5rUjlHQlJsZHV3SmpwUkV2ZUp2d0N4UHBJbk9haUZrbmtPVjQ2V1FVYTJR?oc=5",
-      "rank": 14
+      "rank": 16
     },
     {
       "headline": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
@@ -165,7 +187,7 @@
       "rank_score": 75.6,
       "date": "2026-09-15",
       "url": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
-      "rank": 15
+      "rank": 17
     },
     {
       "headline": "Andoni Iraola's start to life at Liverpool assessed | Cause for concern or reasons to be optimistic? - Sky Sports",
@@ -176,7 +198,7 @@
       "rank_score": 75.6,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOFlpMUJPTjhVYnY4MU1ieFpxdGRmTTNTel9abXNvcUg0dHN4RnlDYkJsVE5YakZxbW9qZjNtVVVPODR0TE1tS2JkRTZjajdXRC1fYzR4dWNiZ3cxU0RMTV8tcWVwcFdfckI2aTA3R05VbW1XdXJPRjZnNTY2c29ac0JISkRNTlNUNWZEV3RsS3VIU1R5c29udTVkWkR3NGpkTktEVGhFVUtnU2N3WVFvel9NOEgwU0sza055RkdVR1ZiZnZtcFdpVWRJc24wRHZXT3pEMkJTSk9MRU9IcVM4?oc=5",
-      "rank": 16
+      "rank": 18
     },
     {
       "headline": "Fabrizio Romano confirms it: Liverpool first-XI star on course to leave - AnfieldWatch",
@@ -187,7 +209,7 @@
       "rank_score": 75.6,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxObTZ5STFzZVEtWFlpbXJEX1RzNlR2bXZtZDdfX3VPLTRqZ2RhYlRMSFk1cnZPSG9aZFU0VTM4ZC10ZEV6OFNTUmxfWEh4X0FuejZ2LWdQTGxRUGY1eHJQQ1ZyTExlcHlsSVBKWTYzYVVQOUdoS0o5d0NJZVdnNlJtdXBnSkhDNjRaaTIxeW5ScEdVZl94VmxBNDZQZWlfaXR4UTRYSEo0Vi1ndmxIQXNEd3VjODhOdHVuXzV2UQ?oc=5",
-      "rank": 17
+      "rank": 19
     },
     {
       "headline": "Liverpool could be about to make massive mistake as Fabrizio Romano drops fresh contract update – opinion - CaughtOffside",
@@ -198,18 +220,18 @@
       "rank_score": 75.6,
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSjNuUjN4eXVYelhjQ0ZYcWI0QjBvcjdyZEhhbWs5c0ZSc3VPcXhyanZMUVBOQUF1TGJNOVJhN3hyN2lfYzNKc0dPMEU1aXRFQS1CSUxWX0Z3VE5tTjVwSjJqRllnUWwwZ3JHMExZenQtcDdXLWJ0dXYyYzE2bVNPc2FQdG1lRTY4bmJNd0QyVVFmNDN6WVHSAZsBQVVfeXFMTS0wLV9ldmFNT1ROS1lETjJwTF9XdElBYjdzbTRiYkhiOE5DajhpbnRJVzdwQ3hwS0FYa2UxdzN1SUNyMmcxeE8wNTVnTDVRMldiQy10bkZmNUpPd1VJRUpJTG04bFF1ZkxpU05NalR2dHJhejFjYTBZYkNXRmljMHR1V1dZRlFaZDZiaTJBTnBlRkhXRm5sMDZtUGs?oc=5",
-      "rank": 18
+      "rank": 20
     },
     {
-      "headline": "Fabrizio Romano: Liverpool were keen on La Liga star last summer - anfieldindex.com",
-      "summary": "Fabrizio Romano: Liverpool were keen on La Liga star last summer anfieldindex.com",
+      "headline": "Fabrizio Romano: Liverpool legend currently set to leave in 2027 - anfieldindex.com",
+      "summary": "Fabrizio Romano: Liverpool legend currently set to leave in 2027 anfieldindex.com",
       "source": "anfieldindex.com",
       "credibility": 9,
       "relevance": 80,
       "rank_score": 75.6,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOX0UwU0tLTWpocDE1UUUzbGJka1ZCRTM4WGpRdW5La3pueFhnM2VMejl1SVB0OTdRcVJ5X1lyR1lrZGNCeXU1TzdSMS1NNGFfU19NeXNsY1BGbDE5YmU1bnNTTWp2WG1RZExzVVZQNVNmUGw4YmRDUHhqeVFNVHUyc1k3N1ljUU94WlVJSFYtbWhuTTMtZlRaWFFMMnR3VmpJOVE?oc=5",
-      "rank": 19
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVFIM2RxTktwWlFjdGczRXNKNWlKcm1rYWR0NDNUTnh1VDdyaU1sYWdlcExTN3ctMC12VUF3N01OWU15MUNMNzdkNjIwd1pwcTZjZGd4TEwtWXloWEFMOWJCSkZ3R1pwMWRJWFlQcjZWdkJWNWlUNXNRXzJrNk9LRUlRNE9GTFM3MkxlRjJrdndQb29pUHJjdF90MGg3LUFhRmc?oc=5",
+      "rank": 21
     },
     {
       "headline": "Fabrizio Romano provides update on Alisson Becker’s Liverpool future - anfieldindex.com",
@@ -220,18 +242,7 @@
       "rank_score": 75.6,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPelB5Z1V0M09BX0pfbkFfazNHazRfMDhTU3d0TkdGTXh3alNNT2hLMTAwZEpaZmI3SDBTR3VtR2M4LXJCUnhCVGVoNzNtVmlsTTladFJwSkpHOGFKTm9fRlFRZnh4VWprYV9HaUJjTHFFQUdXWVNicndKV1dyLWFuODVXcGZPRVJwRW5iZTM3ZzV5eTM1UjBtZzhxWnE3b2RIMjZHSVdtcw?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "Liverpool’s raid for Real Madrid striker Endrick revealed by Fabrizio Romano - FootballTransfers.com",
-      "summary": "Liverpool’s raid for Real Madrid striker Endrick revealed by Fabrizio Romano FootballTransfers.com",
-      "source": "FootballTransfers.com",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOVnN1eXR3MzR4M29BX2lzSW1qLWY1YzlmLWhQbnhlZE5JMnRndG1Kc25SeGhrb3ExNXpseGtZZmd2R1VzZmZXc3Rya1ZtQjdfYkFmYXhHMVY0NGF6b1JjZVk0ZnQ3aGFMS2NVeWtjZFdPZ2ViaHMxQjFzbWpIZHc2T3dJT1gwT0R1dExWeXk0aFctMU43UzZPS0YwUFgtWm9zcURDUjFMS1Yzb05wN1JqMWpRbjRQX3d3RmxsQy1LQ0Q5ZUtnNDBST0s3RmZVSWZLcVpv?oc=5",
-      "rank": 21
+      "rank": 22
     },
     {
       "headline": "Liverpool have no active contract talks with Alisson - Fabrizio Romano - Tribuna.com",
@@ -242,7 +253,7 @@
       "rank_score": 75.6,
       "date": "2026-10-05",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTUg0NG15MVdRRUluNFhlOFp5d3c4Y0NEU3BONDJJalg0QTJYbEhnTDVld2F5Ml9SWlY4QXlrQ0hwTGU2ZTZzMU9uRGc0SkVNcjBnMVphUmRwZjI4dVBwdUIxME90aTAxZTFVeHkxVDFteHBlUjQtWlhJZFZLX0ZOcFd3RXRVNkh4Nmh1ZEJYRHpEelo2U25tZF9pUG1MQzBMa0RSSmxMQ2VZdWkz0gGyAUFVX3lxTFBkbDdUTzVBZklGalhzdlNGRWVsZGZnajRTRVJCc3ptRFBkQ202clU1ajRQeHkzX2hSVlhlRFAwVklrTVpSWmZ4X01rSy1vN2RnLWN6aVdvMzZsYUk5bm5Dd051RnU1c3RQMVdtZ25ROXQ2cmh5NGROMzNpYm5hdGVxYWhwb0pXQTUwZzRMZ05mRDJoZlpCWXdPclg0aVNxbXZQM3psdm5DRjlJSEFXUUczQnc?oc=5",
-      "rank": 22
+      "rank": 23
     },
     {
       "headline": "Fabrizio Romano reveals Liverpool’s current stance on Alisson contract talks - GistReel",
@@ -253,7 +264,18 @@
       "rank_score": 75.6,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONnpZR1ZybkVOOUJsV3hZRXlvUW9xclFIRmhxdlltMUNubjFzeWI0dmJvZF9jRlFKTy14cWdtMFBKd0pEbEdiMk83LVhSbE1ObEhnMkNEeGd3alFjT0szQ0JzNnE4cGE1SXU0eTNFaXZtVS01bXJ2eGJTVXJFd2xPODR3c3hXY3Z2NmdqU2xrNDBsOWo5Wi1ZZHVaeEhQVjVORTk0?oc=5",
-      "rank": 23
+      "rank": 24
+    },
+    {
+      "headline": "Florian Wirtz Liverpool transfer regret claim made as Mohamed Salah defence debunked",
+      "summary": "Didi Hamann and Frank Lebouef have both weighed in on Florian Wirtz's ongoing struggles at Liverpool",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 90,
+      "rank_score": 75.2,
+      "date": "2026-10-07",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/florian-wirtz-liverpool-transfer-regret-34728243",
+      "rank": 25
     },
     {
       "headline": "Liverpool latest: Virgil van Dijk future plans grow clearer as Steven Gerrard gets new job",
@@ -264,39 +286,17 @@
       "rank_score": 75.2,
       "date": "2026-10-06",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-gerrard-van-dijk-retirement-34718498",
-      "rank": 24
+      "rank": 26
     },
     {
-      "headline": "Andoni Iraola has only one option as Liverpool deal with double injury setback",
-      "summary": "Andoni Iraola could be faced with a selection poser in attack if two Liverpool players fail to overcome international injuries",
+      "headline": "Andoni Iraola has only one option as Liverpool deal with double injury setback - Liverpool Echo",
+      "summary": "Andoni Iraola has only one option as Liverpool deal with double injury setback Liverpool Echo",
       "source": "Liverpool Echo",
       "credibility": 7,
       "relevance": 90,
       "rank_score": 75.2,
       "date": "2026-10-06",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-only-one-option-34717909",
-      "rank": 25
-    },
-    {
-      "headline": "Man City can give Liverpool and Dominik Szoboszlai ideal opportunity for fresh start",
-      "summary": "There are 114 reasons why Anfield will give Man City a hostile welcome on Sunday - but Dominik Szoboszlai has another reason to impress with Liverpool",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-10-05",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/man-city-can-give-liverpool-34717896",
-      "rank": 26
-    },
-    {
-      "headline": "Folarin Balogun makes Premier League transfer admission after pulling the plug on Everton deal - Liverpool Echo",
-      "summary": "Folarin Balogun makes Premier League transfer admission after pulling the plug on Everton deal Liverpool Echo",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-10-05",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdHRQTDBsakgxc0NRNEJ0TndCcGNkdnpoOVY5eXRaM05rOENYaUtQVHV2UzlXX0NoTDhRQ3NMNTZrdGRwYS1MQzFxU1VhbG1tNWVxcUJaYW5UTVVhM0N4cFU0bl9YWnNlamF6bjRubG5lbVlUTnZYOWFFMURuaFpzODJVUndkSW9SZWx3S1l5Q1JTUUlSTVFNaDF5dF8zRVU3WTNFSmtaLS1tZHZONFdr0gGvAUFVX3lxTE50dFBMMGxqSDFzQ1E0QnROd0JwY2R2emg5Vjl5dFozTms4Q1hpS1BUdXZTOVdfQ2hMOFFDc0w1Nmt0ZHBhLUxDMXFTVWFsbW01ZXFxQlphblRNVWEzQ3hwVTRuX1hac2VqYXpuNG5sbmVtWVROdlg5YUUxRG5oWnM4MlVSd2RJb1JlbHdLWXlDUlNRSVJNUU1oMXl0XzNFVTdZM0VKa1otLW1kdk40V2s?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSl9vdGhLOUdqSjF6ejgtR1dMblplYUtsSk9vSFRKM3lSR3VHUWp5akdmSUxzVlVwVlBXYjdGa1pyVFozcW9IY1NjaVBILWhtY2ZqZFM3Y3VENmRrclRVeEIxUVNIUW9ZeTByLVd3bjYtYWVTeXJ6NHJ2VXNRZGVENnBrT2NPR19HX3FYSHhrNFJfdHIwMTBuVV9LUTNEQVNO0gGmAUFVX3lxTFB0ajllVVp1amdmZldXTUswYi1oLWJsY25PTW5VclBYVklqZWlGSHNoX1JiNlVOUVVpUVZDZlZyUzBETTN0Q2tPemdlbzRnVURSdjVGQVN3ZTdXUkFlU2o3RkFJMXExMDhQMjRFUVljLWtjMVhaSWNjRzNBUVFYOGNkZFNmT1NGblJUWGRobkstZGRSUTdMenh0VFI2Y041X3BfVnZjeXc?oc=5",
       "rank": 27
     },
     {
@@ -322,14 +322,14 @@
       "rank": 29
     },
     {
-      "headline": "Liverpool make crucial decision on defender after Juventus interest - Read Liverpool",
-      "summary": "Liverpool make crucial decision on defender after Juventus interest Read Liverpool",
-      "source": "Read Liverpool",
+      "headline": "Learn to play 'The Liverpool Way' at new Soccer Schools this month - Liverpool FC",
+      "summary": "Learn to play 'The Liverpool Way' at new Soccer Schools this month Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 75,
       "rank_score": 75.0,
-      "date": "2026-10-06",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTWRHSmJNLU1tbTRHdVlqQ3BsWlppZVljRXZSd1c2YkVtSDdJVkFueldfczRYTEpUa3g5eHlRSGlCQ21QZDFHWjlVVC1wYzNndlNNUnE1OGh2QzZ3a1VoVlJpUHdCTWhONnYtTFZLRjFmT25EcVVCLTI1eThlbnp3MlhlS0VHOUhWSDZWTHl5aXRheGZHYWdfQjJQdTlsVnVaTDM4?oc=5",
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTF3MThVTTRMc1JWUWJ0dXF4NnRkUXJnVUJKRUZEaU5ZUWVDQ2ZnYWtjQUgyLTdsN1lXbWNudXFMZURISmt2R3BEWkZqVVozX0k5V1lDdERTeV9TNm1meExrQ2QxZEd6d29Eek9IZE14aDRTUzRUV0N3QXdYSkh6c0t3eGhnQ25HTWhTbVRnUTg3d9IBkgFBVV95cUxOWTF3MThVTTRMc1JWUWJ0dXF4NnRkUXJnVUJKRUZEaU5ZUWVDQ2ZnYWtjQUgyLTdsN1lXbWNudXFMZURISmt2R3BEWkZqVVozX0k5V1lDdERTeV9TNm1meExrQ2QxZEd6d29Eek9IZE14aDRTUzRUV0N3QXdYSkh6c0t3eGhnQ25HTWhTbVRnUTg3dw?oc=5",
       "rank": 30
     }
   ],
