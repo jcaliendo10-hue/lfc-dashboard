@@ -1,7 +1,18 @@
 {
-  "updated": "09 Oct 2026 04:47 UTC",
+  "updated": "09 Oct 2026 14:59 UTC",
   "count": 30,
   "items": [
+    {
+      "headline": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola - The New York Times",
+      "summary": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 90,
+      "rank_score": 90.0,
+      "date": "2026-10-09",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpOHRFQU1rUVkxZ3lKU3pqZjM0REFqb0VXWGlrS0tMUExsaW1HWFlPOXZ2VS1uUWllNWdhaHkzS1VzMWZ0N1BBWFJCaHBXSnhXNEdmT2xWLWw4Q2h4TjVNZVRTd01IOV9uUmdneGVMakJ3aldidnpfTXhwUXRYWGRwNDJ2VzFCZnJiUHhsNVlKUmtGS2Q4YUFB?oc=5",
+      "rank": 1
+    },
     {
       "headline": "Liverpool injury news as massive Alexander Isak and Cody Gakpo hints emerge - Read Liverpool",
       "summary": "Liverpool injury news as massive Alexander Isak and Cody Gakpo hints emerge Read Liverpool",
@@ -11,7 +22,7 @@
       "rank_score": 90.0,
       "date": "2026-10-08",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEdkS09mU2NIYUM3YnFxWG8xTWxWVUpEU25kZGZkbUJybUo1RnkzLUlJNnA4bk1EUU5Qa21qUnNiY1U4Z09XbzF5UEJyV0M2SERpdnNhdWN3cjAwYUJkUkNPU242dnVnWWU1STRweTNrYmlGcGpYTk1XYlluZkYzVG9paWRWT09fMGZGNlFoUVNBNk91M3BCNXB6VWFnVXpJN3RjcG1jRWdoOUhONnc?oc=5",
-      "rank": 1
+      "rank": 2
     },
     {
       "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
@@ -22,18 +33,29 @@
       "rank_score": 89.8,
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
-      "rank": 2
+      "rank": 3
     },
     {
-      "headline": "Liverpool transfer news as January loan deal for attacker possible - Read Liverpool",
-      "summary": "Liverpool transfer news as January loan deal for attacker possible Read Liverpool",
-      "source": "Read Liverpool",
+      "headline": "Iraola on potential Man City punishment",
+      "summary": "Liverpool head coach Andoni Iraola says 'uncertainty is the worst thing' about the wait for a potential punishment for Manchester City after they were found guilty of breaching the Premier League's financial rules.",
+      "source": "BBC Sport",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSm1SNVh6MEZhUW5iSndvTWc2YlRxYXlfdE9QLUlEZUxoek9aUjNDd3dMY29KVmRUR1F6T2RPVVc3ckQzNDJTbFpBMG01MFpNbi1NbERBM1RJTzhnbHFWRkZRb3RwLVFTSDFjd0QyWm41ZkpsNmU2cFh4MFM3TE9JR2JzbThYVHZNZGlxVC0yVlVHbE1qZHduYzdoTHU4TkZjdVE?oc=5",
-      "rank": 3
+      "date": "2026-10-09",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6gr8nw8lrqpo?at_medium=RSS&at_campaign=rss",
+      "rank": 4
+    },
+    {
+      "headline": "What reception awaits Man City at Anfield?",
+      "summary": "Bus welcomes, banners and flags expected as Man City head to Liverpool on Sunday for their first game since they were found guilty of breaching Premier League rules.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-09",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cjkgey07lq15o?at_medium=RSS&at_campaign=rss",
+      "rank": 5
     },
     {
       "headline": "Liverpool captain Virgil van Dijk linked with surprise transfer outside major leagues - Read Liverpool",
@@ -44,7 +66,18 @@
       "rank_score": 85.0,
       "date": "2026-10-08",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWUMtUWt4UzVhVTJZd2h5NlRsZ1pMUzE4MHdaaUpWUGRJWmZfeXkyRl9vTVQtY1BSb21hRlRiQl9Fa2thd3pvSEFrWkEwb0hFU0hqV3dleWcyRDZsNWZlY3RfYktTMUVBeExmNWEwYjJ4c3FVLTlRdTFHX0l3S0NsOU5zazAydV9LZkR1WmhpZEZMcWVaWTRLSW5SMGpVNnNQVzZVZ2JLbDc4dGFFTFpZcE4xakVWa1NONFdn?oc=5",
-      "rank": 4
+      "rank": 6
+    },
+    {
+      "headline": "LFC fitness update: Alexander Isak, Cody Gakpo, Federico Chiesa and Jeremy Jacquet - Liverpool FC",
+      "summary": "LFC fitness update: Alexander Isak, Cody Gakpo, Federico Chiesa and Jeremy Jacquet Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-09",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlRQRWZ4cFB2R3pHTEREYlFGeUd6NkFCN3ZUbFQ3eHhXbHZIbHJLendlMEdJMVpOWlBJUENXd1djQjVUSUVfU1BqZHhLNUotcFBDLWdfU0xNMVlYdURXQm9CVGlmdHI1eVMyNEZuS3Q3Y1FBSk5UVjdZc0xoTVNwazB5MmdqMzdndVJKRDVmWXoxNmVpd1dXbGlmTWJFY0h4UmFxU3FubFhsOU8zdnVPWl9B?oc=5",
+      "rank": 7
     },
     {
       "headline": "Liverpool attacker set for new contract after big impact under Andoni Iraola - Read Liverpool",
@@ -54,8 +87,41 @@
       "relevance": 85,
       "rank_score": 85.0,
       "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVm9TcldJUGlXcUlEeFBHR1VyX19VLVBJTTlORkJLNG5oNEtRTGstdVJFRS1uUHM4azkzekZhcTQyeHNnVmxhbnQwY19tZTZTZ2YySlUtb2FUQ1AyMGpET05sUXZUdWFPWHFxYmUtTEJXOU9Tb3BtTjVJQjQ0QkdFYThtUE4xR1JUcm04ZDZScFZDT3NoajBZSWpzd1pmTUJMeDY5d1U0WDFYV1JfVUE?oc=5",
-      "rank": 5
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX01fd3E2UWplV2VWWnZ4enN4SWdCTERhdDZyNUxfVDlrYVpZbllvd2lBMGxyT0NqZ2hpeU5abnRlZks1cndFSnQwMGVBaC0wcXhibXczVGVBeGgyMHlSTm94djhIZEhYNmhYaFd6SHl3R05qRklFbjduSzhlajRpVE95YVh2d291OW1ET2Y3T2Ffa0ZGdzY2N0FrWkZkbjJQTDBIRHVmNjJUcG9BX2Z3?oc=5",
+      "rank": 8
+    },
+    {
+      "headline": "Liverpool without Isak, Gakpo for heavyweight Man City clash - Reuters",
+      "summary": "Liverpool without Isak, Gakpo for heavyweight Man City clash Reuters",
+      "source": "Reuters",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-09",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUnIzTnRSVlBoNmYzVjB4WTR1NTA0NjBqUjZuejJzN3p0MFZZclNXdGp6N21xWUItMEEwdjd6QUZCOUM1aE0yZlZuXzdYZTNrUHJXLVlwYzNVdDBGYmhWMjl2NEhESXJyYjdzYXVXRzZCYXNhX0tYQUpzMDExU2pndWljZ0UzSUJBMlE5N29jTkZNblBwcWpJeElNMzlWTXJhSmZjTjhlcDg?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "Isak, Gakpo, Jacquet - Liverpool injury latest and return dates as Man City set for Anfield bearpit",
+      "summary": "Liverpool will face Manchester City in the Premier League on Sunday but will have some injury concerns for the fixture",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 100,
+      "rank_score": 83.5,
+      "date": "2026-10-09",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-injury-news-isak-gakpo-34742059",
+      "rank": 10
+    },
+    {
+      "headline": "Andoni Iraola Liverpool press conference LIVE - Man City charges, Isak, Gakpo, Jacquet injury news",
+      "summary": "Andoni Iraola faces the press ahead of Liverpool's return to Premier League action against Manchester City, who have been found guilty all of the charges they faced relating to financial rule breaches",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 100,
+      "rank_score": 83.5,
+      "date": "2026-10-09",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/iraola-liverpool-press-conference-live-34740949",
+      "rank": 11
     },
     {
       "headline": "Jacquet, Isak, Gakpo, Chiesa - Liverpool injury news and return dates ahead of Man City",
@@ -66,7 +132,7 @@
       "rank_score": 83.5,
       "date": "2026-10-08",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/isak-gakpo-jacquet-leoni-liverpool-34724843",
-      "rank": 6
+      "rank": 12
     },
     {
       "headline": "Ronald Araujo has been Liverpool's most important summer signing so far by balancing Andoni Iraola’s side from right-back - Sky Sports",
@@ -75,9 +141,20 @@
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOX0s0UkFPSXAxX0FWSktJMUtNOVE2SElfZldBcVpYVmFfbHNwUm9VLVRvREpTT0RCWWdtWDc4TTF6cTJTWTVzVUthSU1Pcko4bEx5NTJGcmdaY1ktWDY5WkcxQ2V1bmVRUllBTG9uRWFkcVFLTWVFMl96Q3JIVUZVdWlMMjdCNVVCaGVCeUtJYWdoMmNLblRtalljWjlGaDVZaDhlNXA2UnVtQTJHV1QyWkthbzV4c0JudzAtZUVVSnRIRm5xQjhFeEt5ZWlneG5xdWFyR2FJLVB2ZlJVQl82YW1BMzlzeDVkeTFKRV9PQmIwRTJwUzR3TjVDZko2QQ?oc=5",
-      "rank": 7
+      "rank": 13
+    },
+    {
+      "headline": "Shankly family welcome Anfield sign's return",
+      "summary": "The sign has gone on display in the ARC Hotel which sits in the shadow of the Liverpool FC stadium.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-09",
+      "url": "https://www.bbc.co.uk/news/articles/c933x4e45xv2o?at_medium=RSS&at_campaign=rss",
+      "rank": 14
     },
     {
       "headline": "Working with Iraola, car clauses and hope - the Liverpool academy approach",
@@ -88,7 +165,7 @@
       "rank_score": 80.0,
       "date": "2026-10-08",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmx2z9z10wezo?at_medium=RSS&at_campaign=rss",
-      "rank": 8
+      "rank": 15
     },
     {
       "headline": "‘Very much’ – Agent responds directly to Liverpool transfer news - Read Liverpool",
@@ -99,7 +176,7 @@
       "rank_score": 80.0,
       "date": "2026-10-08",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcGR5akRUYV8xNFZpT09wSG9uX0pLUFM5M25QajdCdnFGQWhDMmNDdWJkSnBReGVrU0s5MFZDZEtxVHNXRmI2eTFLamwxcVAySmt4VFl4N1lfX0VoMHpFMmxpWmpZMDBYdDc0ZWJNZ0o0MnRhcTJtd2U1ZEdaSlhUS2VidDJxbXFEVk5NbDcwN3o5a0JLRnFCT2FCTk5pYWxr?oc=5",
-      "rank": 9
+      "rank": 16
     },
     {
       "headline": "Liverpool transfer news as bombshell Kylian Mbappe claim emerges - Read Liverpool",
@@ -110,7 +187,7 @@
       "rank_score": 80.0,
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcGpSMWVNM2cwOTFoY2tUOGNGanZEQzVFdzFjNGJMSVFxTC1VczBCZDZqaEVGcUVNMDR0Y05zUk4waTdZT3lWdHFNN29hOURSVnFfcEkyc19DbmRPWEo5UDlOZHYxR2toN0RzMXBtbGJmclRPbFpEbTBiZ3JOMDNPSEpPbmVfdEd1NVhJUWlzWkdZbldaRGN6b1VVb3p4cGVnWGxyRw?oc=5",
-      "rank": 10
+      "rank": 17
     },
     {
       "headline": "Andoni Iraola has delivered an appraisal of Liverpool's - Liverpool FC",
@@ -121,29 +198,29 @@
       "rank_score": 80.0,
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMThEbGFUZllXUTBDMkNzZGx3eTBrZUtYbEtaYmN5SGRsYTh3VEJPcHE1bTF6Q0ZEMDNOX2lLSDlFNDd5VFktYTVFLTA0Q2RNQ2hTQlZza0plejVyS1VFVS0zUUpoOGppZ2Y3RGtOeFRLblVoVWNra1lwZDBseFRmQnV6MlpJTG02dmtiSjlWZHJUYmJ2Q21nWkU1NnJCZUVza00yczJzYWdZdw?oc=5",
-      "rank": 11
+      "rank": 18
     },
     {
-      "headline": "Live on Friday: Watch Andoni Iraola's pre-Manchester City press conference - Liverpool FC",
-      "summary": "Live on Friday: Watch Andoni Iraola's pre-Manchester City press conference Liverpool FC",
+      "headline": "1.30pm BST: Watch Andoni Iraola's pre-Manchester City press conference live - Liverpool FC",
+      "summary": "1.30pm BST: Watch Andoni Iraola's pre-Manchester City press conference live Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-09",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREtFaG9NSF90WTVxLWk5QWJDQk5BckhZNmRhVE1ydWRaREhMQXA0RGU5ZXJLeVZKOWpwVkVKLV9FempMMGp6UnM1S2xPc1VzVDBoTzd3aUMzUEhQY0dseW1VM21MMkVERlljUGVqU3NUcGY0R3JNRElfUUF4WDRYU1BEWjlVTjdfZ3RXek5tMXV4NFNxMEhTWXVoMm5KaDdpeVhrN0pNMA?oc=5",
+      "rank": 19
+    },
+    {
+      "headline": "Andoni Iraola on attacking options against Man City and why Barcola is 'super-valuable' - Liverpool FC",
+      "summary": "Andoni Iraola on attacking options against Man City and why Barcola is 'super-valuable' Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPREtFaG9NSF90WTVxLWk5QWJDQk5BckhZNmRhVE1ydWRaREhMQXA0RGU5ZXJLeVZKOWpwVkVKLV9FempMMGp6UnM1S2xPc1VzVDBoTzd3aUMzUEhQY0dseW1VM21MMkVERlljUGVqU3NUcGY0R3JNRElfUUF4WDRYU1BEWjlVTjdfZ3RXek5tMXV4NFNxMEhTWXVoMm5KaDdpeVhrN0pNMA?oc=5",
-      "rank": 12
-    },
-    {
-      "headline": "Alexis Mac Allister started Argentina's 3-0 victory over - Liverpool FC",
-      "summary": "Alexis Mac Allister started Argentina's 3-0 victory over Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkEzY0pqRUthYmJMUVM4MTdwWlViZWVjWDZrSVNPQkgxc1dCcFA2dm1kbGM2dUpPd1VQemJ1SW52ZDAyd2I5VThZcjl4dUpxSl9zRkF4allwZ2RUb0kyMEZ2T01aX0c4UmZldkJXdDBtaXY3U1N0R2lkNmQ3Y05rSXVTVVgwYV94TV9NdE8xcEVleGctV0NfUFFuSWMwbXAxRWF6Y1RySVJxVUV0WGhj?oc=5",
-      "rank": 13
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWZTVklRNkFUQzBUUjJwcThQaHFxU0VUY0pkNFU2TC16LUdMRTdDNGtDYmRIWS1kb0tJdHN1LXc2d0NOWUtqYy01a3paY3RCdEZpaXF1Q2w2QzUxOXZrQzFoQ0wwLWptbGxhVzN2MVgzNkpOUUJXckEzaHEwVGFkaHRBeHg2YWFvcEhz?oc=5",
+      "rank": 20
     },
     {
       "headline": "‘Dangerous’ – Andoni Iraola reveals how Liverpool can ‘hurt’ Manchester City - Read Liverpool",
@@ -154,18 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa2R4aHdxZU8zLWRNckV5T1Q5RDRJM3habEhLcUhRbEpJREcwRDh2U0pGeXZKeHhtM2cwR2JEdGlTRVJHU0UxNG92eVFLRngxMXNORE5UX28yRE85M19qQlBSbzhEZEYydWl2MXpFOV93czlRekdONnRtblB0R1M4Vjk5b20tc0dKR0VpcEk5UGlSNlMyNXFGS2liLWRnT0E2VTVEaDJB?oc=5",
-      "rank": 14
-    },
-    {
-      "headline": "Liverpool pair Alexander Isak and Jeremy Jacquet are - Liverpool FC",
-      "summary": "Liverpool pair Alexander Isak and Jeremy Jacquet are Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkxXYm1BWXB6U0ZLaG1rRUpOZ1MyaW5XQ2QtZlpOV3M0Z2NETTlPWDBVQnM0WVlwaHpaT1ozMEQ2dTRKRlJLbURWMWdNanluY3FockZlX0VONmI2bVNOMUY4Vk5odUFCeERhY1BTYzRUUmJNdFNjaE9VUGtlMDlGemR0cVhyMExQcVlNdWdILVJMOTJmcmc1Q1Z4VlhjQVdHSTFNdTRoc0o?oc=5",
-      "rank": 15
+      "rank": 21
     },
     {
       "headline": "‘Both injured’ – Andoni Iraola confirms crushing double Liverpool blow - Read Liverpool",
@@ -176,18 +242,51 @@
       "rank_score": 80.0,
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUjA4VHRTWUl1OFhhMFkzWHFEOHVMNUppUU5uT2loN0lhdnlzdFNMdWJWY0JXbjhyUW1Tc2FhaS0wUGI0eFFJTkpLeDVrUURhdWVjNDFEQVlIMllFeUpmYzdiZ1UzdUd5YWxmUFF4Y0RMaVRhVnFRSzN0SFE4TXhLWUNQc3Zidy1pZXQzcXRCSGlIQXVQRjgtUkR3THhVT2Y1Tmc?oc=5",
-      "rank": 16
+      "rank": 22
     },
     {
-      "headline": "Andoni Iraola offers Cody Gakpo and Alexander Isak Liverpool injury update and makes Man City claim",
-      "summary": "Liverpool head coach Andoni Iraola has provided the latest on Alexander Isak and Cody Gakpo after they both sustained injuries during the international break",
+      "headline": "Liverpool pair Alexander Isak and Jeremy Jacquet are - Liverpool FC",
+      "summary": "Liverpool pair Alexander Isak and Jeremy Jacquet are Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYkxXYm1BWXB6U0ZLaG1rRUpOZ1MyaW5XQ2QtZlpOV3M0Z2NETTlPWDBVQnM0WVlwaHpaT1ozMEQ2dTRKRlJLbURWMWdNanluY3FockZlX0VONmI2bVNOMUY4Vk5odUFCeERhY1BTYzRUUmJNdFNjaE9VUGtlMDlGemR0cVhyMExQcVlNdWdILVJMOTJmcmc1Q1Z4VlhjQVdHSTFNdTRoc0o?oc=5",
+      "rank": 23
+    },
+    {
+      "headline": "Liverpool major double injury blow confirmed by Andoni Iraola ahead of Man City",
+      "summary": "Liverpool head coach Andoni Iraola has offered an injury update ahead of the Premier League clash against Man City at Anfield on Sunday afternoon",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-10-09",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-major-double-injury-blow-34740196",
+      "rank": 24
+    },
+    {
+      "headline": "Lewis Koumas backed to answer Liverpool striker call after injury blow - 'The manager loves that'",
+      "summary": "Lewis Koumas could be in line for a full Premier League debut against Man City as Alexander Isak and Cody Gakpo remain injury doubts for Liverpool",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-10-09",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/lewis-koumas-backed-answer-liverpool-34737713",
+      "rank": 25
+    },
+    {
+      "headline": "Andoni Iraola offers Cody Gakpo and Alexander Isak Liverpool injury update and makes Man City claim - Liverpool Echo",
+      "summary": "Andoni Iraola offers Cody Gakpo and Alexander Isak Liverpool injury update and makes Man City claim Liverpool Echo",
       "source": "Liverpool Echo",
       "credibility": 7,
       "relevance": 95,
       "rank_score": 79.3,
       "date": "2026-10-07",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-offers-cody-gakpo-34731823",
-      "rank": 17
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONFlZVWRkSklDY1NBUkFYNmY2alJBNlhVU1QzWl96OWVYLXlMNXFyMEhDbzBEeVJOc1JjMWswOHJHdWt6b0FRWWMxMlJoczl0bkxYU3h4NXRLR2Y2UnFDRmhJUHdfeDdOZmpZSUNvZnZ2cTF2aERtNDNfMXcwYk1wN0hxSUV3YkROai1jQ0M4UDhWNGVkVmlTSnZwM1NMWHFYblVR0gGoAUFVX3lxTE9aWmJrOVQ5bmhKY2x6d3ozRmJ4eWhZcVZ2d0R4Q2FwQnkyWlkwWXhhcTdyenZhaGxQX09UVDdVVm1OZ0dSbmRqMTRveTFCYlgzQU9IclZzNzktSVNfWlZYSFE3QVZMOFhJd2xFT3ZjOWpDRnRsQ2VtazVUdzRVVWFwWkw0MVBURXYzRE1pMmxHaWVmVTZ4X0RnNWhvU0YwZGxHTmxMUkRXMw?oc=5",
+      "rank": 26
     },
     {
       "headline": "Liverpool transfer news as massive Virgil van Dijk update emerges - Read Liverpool",
@@ -198,7 +297,29 @@
       "rank_score": 77.0,
       "date": "2026-10-06",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMlhnYzRBdkdISzJ6b3plSDdiZnZlakgyUk9QMVJsaXlmTndLSVZhUElHaFVZbU9Zc05acWFGT0lUX09seFVDbF9pUnNnMUtUdnNyUzhKZDdEUDR4OWpqS1d1VkIzU2VWVW1nSWtQaWxuME1WYkt6OUYyWDJYR3U0Wk14bG9vT0tEQlRmYWUwSkhsb2d2QWxpOS0tSmgzbzhV?oc=5",
-      "rank": 18
+      "rank": 27
+    },
+    {
+      "headline": "Liverpool transfer news as January loan deal for attacker possible - Read Liverpool",
+      "summary": "Liverpool transfer news as January loan deal for attacker possible Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-10-07",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSm1SNVh6MEZhUW5iSndvTWc2YlRxYXlfdE9QLUlEZUxoek9aUjNDd3dMY29KVmRUR1F6T2RPVVc3ckQzNDJTbFpBMG01MFpNbi1NbERBM1RJTzhnbHFWRkZRb3RwLVFTSDFjd0QyWm41ZkpsNmU2cFh4MFM3TE9JR2JzbThYVHZNZGlxVC0yVlVHbE1qZHduYzdoTHU4TkZjdVE?oc=5",
+      "rank": 28
+    },
+    {
+      "headline": "Isak returns to Liverpool with injury - Premier League",
+      "summary": "Isak returns to Liverpool with injury Premier League",
+      "source": "Premier League",
+      "credibility": 10,
+      "relevance": 76,
+      "rank_score": 76.0,
+      "date": "2026-10-05",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMkZkU041c1N2QWQ1ZFdHQVpaQUZYLVNhbm5CTk9iTG15RUJ6ajAxd25RTWk2cHlnbjFwNlRHYndWd2JRTDFsenpZclowSWFXOWlKX1ZQbnEzZVc2RzJPNkxNbU9rbkZ0dG83YlBCTmZOWG45WUpLOEN1UllJbjc2dHY3QndEN24wbTgyV2FVX3dmV00?oc=5",
+      "rank": 29
     },
     {
       "headline": "Alexander Isak, Cody Gakpo in doubt for Liverpool vs. Man City clash - ESPN",
@@ -209,132 +330,22 @@
       "rank_score": 75.7,
       "date": "2026-10-07",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRmt5UUdzMEpGVGNTdE04UF9xaV9aSXVUdlVmMVkwSG5kbW1ybGdpRFJsNHduTE5Hd29YbHdwci1CTk1jVzFyVVVicm0yNFhialNsOHhjb0o0LThxWWRaeDZKVGpYbHF4ZG5uUnUzZS1vcHZVVW9URHJUdGZZdzF1aWFMQ0lnT08zMmNBazBndXhGYzNKa1NOcGtMUzIyQUJD?oc=5",
-      "rank": 19
-    },
-    {
-      "headline": "€70m Brazilian striker to Liverpool transfer now possible after Fabrizio Romano drops update - Football365",
-      "summary": "€70m Brazilian striker to Liverpool transfer now possible after Fabrizio Romano drops update Football365",
-      "source": "Football365",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbGcyX3VTQ2t1SUg0bG1NaVNWdnY5eHF3SmxPZUREd0RaemNmaGZTYVNtY3NaUW1qUmk4Z1U5b3dnZV96VWlvbU43MGV3TC13eWFyQ0o1cWV1dlprMmpBTElfTUkybFFiYUNPOTloT2kzQXhyVVNxaFlHZ3N2Ql9IVFdvMi1rR2hrejR1Ug?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "Fabrizio Romano confirms Liverpool approach for Real Madrid star - AnfieldWatch",
-      "summary": "Fabrizio Romano confirms Liverpool approach for Real Madrid star AnfieldWatch",
-      "source": "AnfieldWatch",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-10-08",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOa1BuWjRCVVlDWjZSSncteGVnSHhONmdPckdCTDZFM1EydFpscXhvT0MxMmh5YkdrMnZRbGI1V2IzbFRpVXBRMnhuNUM1d3dQMDdHd19DNXlLR1M0eDRNR2MyZllnQzFEVVc1Q0ltcGlsaUxMN3oxTS1SSTZYQlFLY1pMVlI2SHNwc0dpZjFlTG8wOG90V1M0SVp2SkxuRUFvOHk1QTdaa09lMkZOX0lMbXNwQms?oc=5",
-      "rank": 21
-    },
-    {
-      "headline": "Fabrizio Romano: Liverpool legend currently set to leave in 2027 - anfieldindex.com",
-      "summary": "Fabrizio Romano: Liverpool legend currently set to leave in 2027 anfieldindex.com",
-      "source": "anfieldindex.com",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQdVFIM2RxTktwWlFjdGczRXNKNWlKcm1rYWR0NDNUTnh1VDdyaU1sYWdlcExTN3ctMC12VUF3N01OWU15MUNMNzdkNjIwd1pwcTZjZGd4TEwtWXloWEFMOWJCSkZ3R1pwMWRJWFlQcjZWdkJWNWlUNXNRXzJrNk9LRUlRNE9GTFM3MkxlRjJrdndQb29pUHJjdF90MGg3LUFhRmc?oc=5",
-      "rank": 22
-    },
-    {
-      "headline": "Cody Gakpo and Alexander Isak miss Liverpool training but Andoni Iraola gets huge Man City boost",
-      "summary": "Liverpool look set to be without Cody Gakpo and Alexander Isak for Sunday's visit from Manchester City after both missed training on Thursday",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-10-08",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/cody-gakpo-alexander-isak-miss-34736800",
-      "rank": 23
-    },
-    {
-      "headline": "Florian Wirtz Liverpool transfer regret claim made as Mohamed Salah defence debunked",
-      "summary": "Didi Hamann and Frank Lebouef have both weighed in on Florian Wirtz's ongoing struggles at Liverpool",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 90,
-      "rank_score": 75.2,
-      "date": "2026-10-07",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/florian-wirtz-liverpool-transfer-regret-34728243",
-      "rank": 24
-    },
-    {
-      "headline": "Cardiff and Liverpool style very similar - Scanlon",
-      "summary": "Cardiff City full-back Calum Scanlon says the Championship and his parent club Liverpool share the same intensity.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-10-08",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck7vpe8p43e4o?at_medium=RSS&at_campaign=rss",
-      "rank": 25
-    },
-    {
-      "headline": "Scanlon not surprised by relentless Koumas' rise",
-      "summary": "Cardiff loanee Calum Scanlon not surprised that Liverpool's Lewis Koumas played well for Wales in the Nations League.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-10-08",
-      "url": "https://www.bbc.co.uk/sport/football/videos/ck1exl3p11ljo?at_medium=RSS&at_campaign=rss",
-      "rank": 26
-    },
-    {
-      "headline": "‘This winter’ – Journalist confirms Liverpool want to sign Barcelona player - Read Liverpool",
-      "summary": "‘This winter’ – Journalist confirms Liverpool want to sign Barcelona player Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOazdGZXhHdWZza1M5QjVMVldVTnM3OHZMYWhQb1g4Z1c5UDJseGxMVndMZEZibkMtUUc0WDV3VHdvbnNMb3JLXzN5NjVrNlJ5dVB1VVBKX3ZHS2VNa19qMEF5VEhoSms0Z3g2STZqOHgzekdSVnFYbi1xR2VGQVpSTzNkTVdHNFlqakN3eEVVYjJ4aUg0X3BHMkVfblRMbEpTQUdDQTM2UHM?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Liverpool told to make ‘unstoppable offer’ to sign Serie A midfielder - Read Liverpool",
-      "summary": "Liverpool told to make ‘unstoppable offer’ to sign Serie A midfielder Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0szMDNwajd0T2xoMVFuaFN0cnNBNTBLdGFsX191aU96NFBzNUh5LUEtMmtYUGJfdm1WZHpON25UamZJcTJhRW16cHF2Wl8zUVZKV0RMWExuU3FLM0c0RU9oVDM3a2RBeUt4bzFzUy1BZGdHMVRCcTRfN3ZhSjV6X19mY0kxdDNiY0V1cXk5MnVXeTBiQnhDdklubEZfakFZN3RLVlBXdEE?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Here are 13 statistics to know before Liverpool's Premier - Liverpool FC",
-      "summary": "Here are 13 statistics to know before Liverpool's Premier Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOSVQ5b3BiQnhPNmFyWFpOU1ZTYmVjTHZiQWJtdjFhaXllcVNLeDhuQWJVUEJlUVllOW5pelhxcEtUSXhpNEVHUzl1dTA1VWpNemw0bW1ELWR5ejdoSlhTSk1DalFoTjN3LUR6U1pEVk44S3V6Z0JMU3pSRWhhZlczMjUxVjNsZzdlOTVwN0RleU9vN1RRUVpYem5HTkdQNTR3RTBCWGNNUnZJbHc?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Fabio Borini announces retirement from football - Liverpool FC",
-      "summary": "Fabio Borini announces retirement from football Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 75,
-      "rank_score": 75.0,
-      "date": "2026-10-07",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdDRXWlF4Y0xpSkEycDdtaVJ5OFRBSHNVWlQ5eXQ1MmpvYlVUbm5EWU5jMG14Yzl6cGVUdGUtdzE4bHloWk9XUWJjVEdzMERVZXY1T1B6SDZLUHEzNWFvakFUTm5NdE9RY1BsN2U2bDF1d2x2VzgwYnFmMGw4R2JLNkkwcGl3TUo40gGIAUFVX3lxTE50NFdaUXhjTGlKQTJwN21pUnk4VEFIc1VaVDl5dDUyam9iVVRubkRZTmMwbXhjOXpwZVR0ZS13MThseWhaT1dRYmNUR3MwRFVldjVPUHpINktQcTM1YW9qQVRObk10T1FjUGw3ZTZsMXV3bHZXODBicWYwbDhHYks2STBwaXdNSjg?oc=5",
       "rank": 30
     }
   ],
   "rumours": {
     "in": [
+      {
+        "who": "Bradley Barcola",
+        "meta": "LW · PSG",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOcWZTVklRNkFUQzBUUjJwcThQaHFxU0VUY0pkNFU2TC16LUdMRTdDNGtDYmRIWS1kb0tJdHN1LXc2d0NOWUtqYy01a3paY3RCdEZpaXF1Q2w2QzUxOXZrQzFoQ0wwLWptbGxhVzN2MVgzNkpOUUJXckEzaHEwVGFkaHRBeHg2YWFvcEhz?oc=5",
+        "date": "2026-10-08",
+        "active": true
+      },
       {
         "who": "Yan Diomande",
         "meta": "RW · RB Leipzig · 19",
@@ -355,14 +366,6 @@
         "who": "Gonçalo Inácio",
         "meta": "CB · Sporting CP",
         "fee": "~£55m clause",
-        "p": "Medium",
-        "mentions": 0,
-        "active": false
-      },
-      {
-        "who": "Bradley Barcola",
-        "meta": "LW · PSG",
-        "fee": "undisclosed",
         "p": "Medium",
         "mentions": 0,
         "active": false
@@ -398,10 +401,21 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Medium",
-        "mentions": 5,
-        "source": "Read Liverpool",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUEdkS09mU2NIYUM3YnFxWG8xTWxWVUpEU25kZGZkbUJybUo1RnkzLUlJNnA4bk1EUU5Qa21qUnNiY1U4Z09XbzF5UEJyV0M2SERpdnNhdWN3cjAwYUJkUkNPU242dnVnWWU1STRweTNrYmlGcGpYTk1XYlluZkYzVG9paWRWT09fMGZGNlFoUVNBNk91M3BCNXB6VWFnVXpJN3RjcG1jRWdoOUhONnc?oc=5",
-        "date": "2026-10-08",
+        "mentions": 10,
+        "source": "The New York Times",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpOHRFQU1rUVkxZ3lKU3pqZjM0REFqb0VXWGlrS0tMUExsaW1HWFlPOXZ2VS1uUWllNWdhaHkzS1VzMWZ0N1BBWFJCaHBXSnhXNEdmT2xWLWw4Q2h4TjVNZVRTd01IOV9uUmdneGVMakJ3aldidnpfTXhwUXRYWGRwNDJ2VzFCZnJiUHhsNVlKUmtGS2Q4YUFB?oc=5",
+        "date": "2026-10-09",
+        "active": true
+      },
+      {
+        "who": "Federico Chiesa",
+        "meta": "RW · seeking minutes",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 2,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQlRQRWZ4cFB2R3pHTEREYlFGeUd6NkFCN3ZUbFQ3eHhXbHZIbHJLendlMEdJMVpOWlBJUENXd1djQjVUSUVfU1BqZHhLNUotcFBDLWdfU0xNMVlYdURXQm9CVGlmdHI1eVMyNEZuS3Q3Y1FBSk5UVjdZc0xoTVNwazB5MmdqMzdndVJKRDVmWXoxNmVpd1dXbGlmTWJFY0h4UmFxU3FubFhsOU8zdnVPWl9B?oc=5",
+        "date": "2026-10-09",
         "active": true
       },
       {
@@ -416,31 +430,17 @@
         "active": true
       },
       {
-        "who": "Alexis Mac Allister",
-        "meta": "CM · Real/Atlético links",
-        "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdkEzY0pqRUthYmJMUVM4MTdwWlViZWVjWDZrSVNPQkgxc1dCcFA2dm1kbGM2dUpPd1VQemJ1SW52ZDAyd2I5VThZcjl4dUpxSl9zRkF4allwZ2RUb0kyMEZ2T01aX0c4UmZldkJXdDBtaXY3U1N0R2lkNmQ3Y05rSXVTVVgwYV94TV9NdE8xcEVleGctV0NfUFFuSWMwbXAxRWF6Y1RySVJxVUV0WGhj?oc=5",
-        "date": "2026-10-07",
-        "active": true
-      },
-      {
-        "who": "Federico Chiesa",
-        "meta": "RW · seeking minutes",
-        "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/isak-gakpo-jacquet-leoni-liverpool-34724843",
-        "date": "2026-10-08",
-        "active": true
-      },
-      {
         "who": "Curtis Jones",
         "meta": "CM · Inter Milan",
         "fee": "~£35m",
+        "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Alexis Mac Allister",
+        "meta": "CM · Real/Atlético links",
+        "fee": "undisclosed",
         "p": "Medium",
         "mentions": 0,
         "active": false
