@@ -1,7 +1,18 @@
 {
-  "updated": "13 Oct 2026 11:26 UTC",
+  "updated": "13 Oct 2026 18:55 UTC",
   "count": 30,
   "items": [
+    {
+      "headline": "Iraola has ‘100% trust’ in Wirtz and Barcola but tells others to step up",
+      "summary": "‘We need other players to give us those numbers’Liverpool face Lask in Austria without Isak and GakpoAndoni Iraola has said he trusts Liverpool’s big-money signings Florian Wirtz and Bradley Barcola “100%” but needs players to step up in th",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 100,
+      "rank_score": 94.5,
+      "date": "2026-10-13",
+      "url": "https://www.theguardian.com/football/2026/oct/13/andoni-iraola-trust-florian-wirtz-bradley-barcola-others-to-step-up-liverpool",
+      "rank": 1
+    },
     {
       "headline": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
       "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
@@ -11,28 +22,17 @@
       "rank_score": 90.0,
       "date": "2026-10-11",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
-      "rank": 1
-    },
-    {
-      "headline": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
-      "summary": "Andoni Iraola says he didn't agree with midfielder Ryan Gravenberch's red card in Liverpool's defeat to Manchester City at Anfield.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 90,
-      "rank_score": 90.0,
-      "date": "2026-10-11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss",
       "rank": 2
     },
     {
-      "headline": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola - The New York Times",
-      "summary": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola The New York Times",
-      "source": "The New York Times",
+      "headline": "Liverpool news: Isak, Gakpo and Szoboszlai absent for LASK - BBC",
+      "summary": "Liverpool news: Isak, Gakpo and Szoboszlai absent for LASK BBC",
+      "source": "BBC",
       "credibility": 10,
       "relevance": 90,
       "rank_score": 90.0,
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpOHRFQU1rUVkxZ3lKU3pqZjM0REFqb0VXWGlrS0tMUExsaW1HWFlPOXZ2VS1uUWllNWdhaHkzS1VzMWZ0N1BBWFJCaHBXSnhXNEdmT2xWLWw4Q2h4TjVNZVRTd01IOV9uUmdneGVMakJ3aldidnpfTXhwUXRYWGRwNDJ2VzFCZnJiUHhsNVlKUmtGS2Q4YUFB?oc=5",
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdVZKZjFWbkd2amJfU19sS0xxT0FkV1R3aVU5ZEFLRjZnenZuQWJNcVZVVFowWUZVQ1NCLTUxdDI4bzNyRXRCQk1UOG42MWJabV9ycDEzQVZEZlBrV1o3SGdISVNCV25j?oc=5",
       "rank": 3
     },
     {
@@ -53,7 +53,7 @@
       "credibility": 9,
       "relevance": 95,
       "rank_score": 89.8,
-      "date": "2026-10-11",
+      "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
       "rank": 5
     },
@@ -69,26 +69,37 @@
       "rank": 6
     },
     {
-      "headline": "Liverpool 0-3 Manchester City: Premier League – as it happened",
-      "summary": "City embraced a hostile atmosphere and overwhelmed Liverpool after Ryan Gravenberch’s red cardAn update from Will Unwin, who is part of our team at Anfield for today’s gameA group of over 600 Manchester City fans were given a police escort ",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 90,
-      "rank_score": 85.1,
-      "date": "2026-10-11",
-      "url": "https://www.theguardian.com/football/live/2026/oct/11/liverpool-v-manchester-city-premier-league-live-score-updates",
-      "rank": 7
-    },
-    {
-      "headline": "Dominik Szoboszlai injury update - Liverpool FC",
-      "summary": "Dominik Szoboszlai injury update Liverpool FC",
-      "source": "Liverpool FC",
+      "headline": "Iraola - Barcola and Wirtz will come good",
+      "summary": "Head coach Andoni Iraola has said ahead of Liverpool's Champions League match against LASK on Wednesday that he believes that Wirtz and Barcola performances will come.",
+      "source": "BBC Sport",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZ19EbDBJdVJrandrdUdLUWpxaVRYMmw0MGpqSVRreHRNSVZqdTR4Rmp1WlowNU9TRzdwZGE2RE9WOUdORjBUdzVnNThod0g2TXVWV2t3RFdzcTJtUjRpLXlHM3NpYWVXdEU3MmttWGhKWjdqeTlLMHhuZk4ydXdsYU9TT0V6Rk5oNGtlMWREWF9YZw?oc=5",
+      "date": "2026-10-13",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cr9dzjvdl57po?at_medium=RSS&at_campaign=rss",
+      "rank": 7
+    },
+    {
+      "headline": "Liverpool’s Florian Wirtz and Bradley Barcola ‘100 per cent trusted’, says Andoni Iraola - The New York Times",
+      "summary": "Liverpool’s Florian Wirtz and Bradley Barcola ‘100 per cent trusted’, says Andoni Iraola The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdG0xUENKM2pISFNoNGU0bVVOUTJVS0laUHdRVm9UZkl0TmY4dzc4SHp4Y29UMFpEY0Y0TjVjRjN4bGRlUHY4RlZUVzZacGpZY3R0WlppUTVoNDNQMDhIM3R5WkMyZldUN2xKNFNmSjRUUDh5VUxlRXk3T1FvTGtyaDdTSXBIM2txd1pETU9UZXNNWUpIX0VkdmJWUzh1Zw?oc=5",
       "rank": 8
+    },
+    {
+      "headline": "‘Difficult’ – Andoni Iraola confirms triple Liverpool injury blow ahead of LASK clash - Read Liverpool",
+      "summary": "‘Difficult’ – Andoni Iraola confirms triple Liverpool injury blow ahead of LASK clash Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNRmFnajFHLXZXN2ZUMkNacUtTTWFKbDNDU1BYc2dJNmluMEpYeHVMalpKckZzXzBqZ20yZUNEMV9jSmUtay1QTmJUN0hjUkk2ZWNZbTg1ZV9hNHRIRWlEY1BDa0JGSUpHXzRHbUZtNkw1UDFqUWhPLTM3NXY3RkFHX2s1Z3JoUEVDanprbjNCbzZHMVBKd1JONFdnX2hWaVExOGFqT0JsTWZqcENSWFVDNDdCN1Q3VElKVThUQ0R5QQ?oc=5",
+      "rank": 9
     },
     {
       "headline": "‘Difficult’ – Andoni Iraola confirms triple Liverpool injury blow - Read Liverpool",
@@ -99,18 +110,40 @@
       "rank_score": 85.0,
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWR3Y1lEdE05dXQwNXUtTXc0cG1WU0pLejFGdkQ3UFRiWUNHX0FPOVVmYmZXdEU1dktjamtfNHpRS0g5MTk5eWxRUzdnS1NUUUlQM2JaLW5rbXE2NEV2Z3doZWZjS3liMW92SDVqdXQ5UjRWNnc0dl9hWThSRml4M3RvenVqUE5td2JpQkhaSE9FbWRzVXNSdHMtQQ?oc=5",
-      "rank": 9
+      "rank": 10
     },
     {
-      "headline": "Isak, Szoboszlai, Gakpo, Gravenberch - Liverpool injury and suspension news and return dates",
-      "summary": "The latest Liverpool injury and team news ahead of the Champions League match away to LASK on Wednesday",
+      "headline": "Isak, Szoboszlai, Gakpo, Gravenberch - Liverpool injury and suspension news and return dates - Liverpool Echo",
+      "summary": "Isak, Szoboszlai, Gakpo, Gravenberch - Liverpool injury and suspension news and return dates Liverpool Echo",
       "source": "Liverpool Echo",
       "credibility": 7,
       "relevance": 100,
       "rank_score": 83.5,
       "date": "2026-10-12",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/isak-szoboszlai-gakpo-gravenberch-liverpool-34753246",
-      "rank": 10
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTWNGLXJKSVh3aXVDSGtNbWxhdXg5MGx3S0F0Y1VlV3Q5ODd1WWZTUXVsYWxzU3k2bXNDSnl4ZG5vNGxXaDlxcEN2Q05odnNYbWFPT2FMdUY2MzZ3ajNsMjhRWUZBbHlOOEdpcnpQSDI5R0JiTk1EX2lOUzlxZC1vNS03SVFDc3RzakZ5WjRibThYSk11a2VfY2ZyeVRVS2hPQ0p2VVZrT0JpSS1yREdyUThGb9IBuAFBVV95cUxOZndpS0h5QjRZemo0ZXdod0lVSVNDNkNGZ29vWXVTclg4RFRpX1ZDZ0ctc0NOY1liZTdYTThXYUJfWVNiVzh1Y0Z4dGxKMUxLMUZoSXNnRWNoaVZzTWlXRWFobG1yRExuYVJvVHdHc2pycVZwTG9ndFRuUHVxUDRiekFlSzIxMy1TZmh2SHB0aTh6b3VBWGd6TVMteFZUYnNNamRnbGpuNmcwZlRTTzcxVjJMX2hEZGQx?oc=5",
+      "rank": 11
+    },
+    {
+      "headline": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
+      "summary": "Andoni Iraola says he didn't agree with midfielder Ryan Gravenberch's red card in Liverpool's defeat to Manchester City at Anfield.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 82,
+      "rank_score": 82.0,
+      "date": "2026-10-11",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss",
+      "rank": 12
+    },
+    {
+      "headline": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola - The New York Times",
+      "summary": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 82,
+      "rank_score": 82.0,
+      "date": "2026-10-11",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpOHRFQU1rUVkxZ3lKU3pqZjM0REFqb0VXWGlrS0tMUExsaW1HWFlPOXZ2VS1uUWllNWdhaHkzS1VzMWZ0N1BBWFJCaHBXSnhXNEdmT2xWLWw4Q2h4TjVNZVRTd01IOV9uUmdneGVMakJ3aldidnpfTXhwUXRYWGRwNDJ2VzFCZnJiUHhsNVlKUmtGS2Q4YUFB?oc=5",
+      "rank": 13
     },
     {
       "headline": "Premier League: 10 talking points from the weekend’s action",
@@ -121,7 +154,7 @@
       "rank_score": 80.3,
       "date": "2026-10-12",
       "url": "https://www.theguardian.com/football/2026/oct/12/premier-league-10-talking-points-from-the-weekend-action",
-      "rank": 11
+      "rank": 14
     },
     {
       "headline": "Manchester City shrug off chaos and controversy in public shaming at Anfield | Andy Hunter",
@@ -132,7 +165,7 @@
       "rank_score": 80.3,
       "date": "2026-10-11",
       "url": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
-      "rank": 12
+      "rank": 15
     },
     {
       "headline": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
@@ -143,29 +176,18 @@
       "rank_score": 80.3,
       "date": "2026-10-11",
       "url": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
-      "rank": 13
+      "rank": 16
     },
     {
-      "headline": "Cherki cracker caps Manchester City win at Liverpool in face of Anfield taunts",
-      "summary": "It is a soundtrack that Manchester City have heard before but never for such sustained spells during a match. It came from the Liverpool support, first ringing out around Anfield before kick-off and coming at regular intervals thereafter.It",
-      "source": "The Guardian",
+      "headline": "Andoni Iraola: Liverpool boss has ‘100 per cent’ trust in Florian Wirtz and Bradley Barcola - Sky Sports",
+      "summary": "Andoni Iraola: Liverpool boss has ‘100 per cent’ trust in Florian Wirtz and Bradley Barcola Sky Sports",
+      "source": "Sky Sports",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
-      "date": "2026-10-11",
-      "url": "https://www.theguardian.com/football/2026/oct/11/liverpool-manchester-city-premier-league-match-report",
-      "rank": 14
-    },
-    {
-      "headline": "Tension, ‘cheat’ banners and inflatable bananas: Manchester City’s welcome to Anfield",
-      "summary": "A lively atmosphere greeted the former Premier League champions for their first game since being found guilty of breaking financial fair play rulesFans lined the streets of Anfield in preparation for the arrival of the Manchester City team ",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-10-11",
-      "url": "https://www.theguardian.com/football/2026/oct/11/tension-banners-and-inflatable-bananas-manchester-citys-welcome-to-anfield",
-      "rank": 15
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOenN4cVl1RHlYWjEtckNnNTFBRWhscDBkMERrbWROZFh1MEpGR2lyVjFFZlUyWDNwSVlpajhvWGxiVWE5SC1jRWROWE1jWG8zbU9jUy1sYWVjTmlBWFlWY1Q0ZHFORHNWQ2dJSENpLTQyc3RSZ0R3STlZYmhYZzk2VzFtQTc4QUJlOGtTMFVVRjhHUFlrSDVlNFhiYk9na2wyU0NxZENkeEZmRWkyLWFVOXgxS2NfYy1GVlpKNWpHd3dRbFBQeUFfd1pjQlpCWmZYb0E0?oc=5",
+      "rank": 17
     },
     {
       "headline": "Man City's Elliot Anderson deemed a bargain while Florian Wirtz fails to offer return on Liverpool's huge investment - Premier League hits and misses - Sky Sports",
@@ -176,7 +198,7 @@
       "rank_score": 80.3,
       "date": "2026-10-11",
       "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQUno0c3Q0V01EVHByZ1FOenltSFF3cnBNTU5Ld2Zsakhvd29xTEstZHJUN0htejAtV1lTcVg3SnFXOGtQclR0UGlVS2V2YkYyaWQ5bkpUVFF6TUFMcUE4UjVRS01hREE2Si1tM0M1UWhhckYzV0JES0VQel9peV9jWjV5a3ZfLWlsMFFqMXpjVGI1N296di1FMVlhbWROZjAtYnh1cDZXQzkwM1VNazl6Yl9NWVg3NWdnempPajB1MlRDY2p2X2VNbnRCREZCS08yMzJ0ZFJuYnY0ZERYRFpBUXh5VWp2T3RwbWcwaGh0UHdETFFhRlAyOW1xVW13WldIX2JVQXVldWNidnhzS0JZdmhsNG9OZ2o2dzZRaXBPZw?oc=5",
-      "rank": 16
+      "rank": 18
     },
     {
       "headline": "Florian Wirtz: Liverpool midfielder's start to life in Premier League compared as Jamie Carragher calls for him to be dropped - Sky Sports",
@@ -187,7 +209,40 @@
       "rank_score": 80.3,
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObXZWSmtnZTYyaDBWcEljRTNlWlhtRGJ0UHlBa2paMzV3RUt0alJwbWNlOFdrTFBaajc0aTdIRmZyUE85aTZ4b1ZOb2VFZGNuNlRwbWwwUjJIYUdQMjBzOXdLU1d6OTV5OWhIcFJzZ1dMOFVvcWYwWlU4MndmRlU3dVB1YW5hbXpfS2RwbEc2MXo1ZVJtZG01NEstZEhocEFNRnkxOWZkYVNuZnBZR1lhV3JxR2c0aC1QWlNPVVVHZVVHUzV2bEh4blZFTmdCYVgzM1FzYUdBblNFSGljOUpBTzUtdDVTelhNNG1MVl9rb2V5YVAxWkdBR25nY2VJTS1FRnc?oc=5",
-      "rank": 17
+      "rank": 19
+    },
+    {
+      "headline": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK - ESPN",
+      "summary": "Liverpool's Alexander Isak, Cody Gakpo, Dominik Szoboszlai to miss Champions League clash with LASK ESPN",
+      "source": "ESPN",
+      "credibility": 8,
+      "relevance": 90,
+      "rank_score": 80.1,
+      "date": "2026-10-13",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPeTRvaHRyaHU0TXMwNTQ4RUlGa1JYVWh0VDdRRTlnc2xzOEU3WkxiT3NJc0FLcjBhWUFjeDI3WjVsNWZJRW9MTlJ5ckY3U0ljM0VHbWw3YUpLbG9hanFhNlo0YXpFaGM3Y0MwcHE5M3BqR0sxdm5uUF9pSVpuUmpPRGQ4MkQwQkg5dmV1VTRWcS0xUS1BeEZJU2NMaVROU25OdFBtaWQ4V0JsWUlNeGFZQXI2X2J4TXF6Vy0yM2gtWWwwcWw5SndjQi01NDhCNFZXYWRUamp3?oc=5",
+      "rank": 20
+    },
+    {
+      "headline": "Liverpool's Wirtz problem - does he need to be dropped?",
+      "summary": "More than a year since his £116m move, Florian Wirtz is still struggling to hit top form at Liverpool - so does he need to be dropped?",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-13",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvglw07rx6jeo?at_medium=RSS&at_campaign=rss",
+      "rank": 21
+    },
+    {
+      "headline": "Liverpool fan has his say on the Florian Wirtz debate",
+      "summary": "Liverpool fan Nahyan Chowdhury thinks Florian Wirtz 'needs help' to succeed",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-13",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cwrkyxlg8ny1o?at_medium=RSS&at_campaign=rss",
+      "rank": 22
     },
     {
       "headline": "Koumas is Liverpool's 11th Welsh EPL player - can you name them all?",
@@ -198,7 +253,7 @@
       "rank_score": 80.0,
       "date": "2026-10-12",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqy8l3zj9e35o?at_medium=RSS&at_campaign=rss",
-      "rank": 18
+      "rank": 23
     },
     {
       "headline": "'It's a bad situation' - Why Man City win creates uncertainty",
@@ -209,7 +264,7 @@
       "rank_score": 80.0,
       "date": "2026-10-11",
       "url": "https://www.bbc.co.uk/sport/football/videos/cw073z5j55y9o?at_medium=RSS&at_campaign=rss",
-      "rank": 19
+      "rank": 24
     },
     {
       "headline": "How 'big star' Doku delivered for Man City in win at Liverpool",
@@ -220,7 +275,7 @@
       "rank_score": 80.0,
       "date": "2026-10-11",
       "url": "https://www.bbc.co.uk/sport/football/videos/c8g47knxqvgdo?at_medium=RSS&at_campaign=rss",
-      "rank": 20
+      "rank": 25
     },
     {
       "headline": "Man City's statement win has feeling of irrelevance with season in limbo",
@@ -231,7 +286,7 @@
       "rank_score": 80.0,
       "date": "2026-10-11",
       "url": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&at_campaign=rss",
-      "rank": 21
+      "rank": 26
     },
     {
       "headline": "'Absolute joke' - Liverpool fan angry with red card decision",
@@ -242,29 +297,7 @@
       "rank_score": 80.0,
       "date": "2026-10-11",
       "url": "https://www.bbc.co.uk/sport/football/videos/ck98z4dzzn37o?at_medium=RSS&at_campaign=rss",
-      "rank": 22
-    },
-    {
-      "headline": "Who 'simply has to do better'? Liverpool v Man City player ratings",
-      "summary": "How Liverpool and Man City's players rated following their Premier League match.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck87z1jjynyqo?at_medium=RSS&at_campaign=rss",
-      "rank": 23
-    },
-    {
-      "headline": "Liverpool fans want 'justice' ahead of Man City game",
-      "summary": "Liverpool fans give their views on the Manchester City charges as they face them at Anfield.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cqdjvyljjxgro?at_medium=RSS&at_campaign=rss",
-      "rank": 24
+      "rank": 27
     },
     {
       "headline": "Liverpool want £60m Frenchman as Jeremie Frimpong replacement - Read Liverpool",
@@ -275,7 +308,7 @@
       "rank_score": 80.0,
       "date": "2026-10-13",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPa1B4WHVYRlFlRmN3WXM1WjJHMU95NmVCNFVqWWpLa2N3UENfZ0xMQ3BPNDVYM1c3Zjl6dGRiZzVtZ1dySzdQNGF6aEwtczM1TWRrM19jUVluUmpWME42bHY2ekJEZ1lYVEZOWWl5c2oxNUtLdlR1OGo2Q1Zjek1NY0pYWjREaFZfZnF1OHBhOTI0cU1RSUhxZ2x1cGhfbFNM?oc=5",
-      "rank": 25
+      "rank": 28
     },
     {
       "headline": "Reaction: Andoni Iraola's press conference after Liverpool's loss to Man City - Liverpool FC",
@@ -286,7 +319,7 @@
       "rank_score": 80.0,
       "date": "2026-10-12",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDRVeXhYSXU1WDM4S044UHVTVTNyTUQwWVY1R0ZKNVFId0NZUHRLRzBNdlZGdy1RWC1ZeGROWGx0ZEowME1mVHFjYWk2b2lpa1FpRUlsUTEzOHpJSHY2QVRia1pnRDlZNVFDY09BbE9PYmZVSUpnTm02c2hGOFNCVVJFMmhYNzQ2MVVoZmw3OWF5UVBsQ3h4VDBOelg0QQ?oc=5",
-      "rank": 26
+      "rank": 29
     },
     {
       "headline": "Liverpool 0-3 Man City: Watch Andoni Iraola's post-match press conference - Liverpool FC",
@@ -297,44 +330,22 @@
       "rank_score": 80.0,
       "date": "2026-10-11",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM1ZEZ2tza0pIZVI1VVdtcUhkdDdSMjNkZmtRZlBIRHg3bHFCZ2FlSG1Sald1VVhDWW9kc093Q3pueGh2T2R5NXk3RUJUQ2ZyZ05jUnNaaWZuTUJRQjRmNzd3X3JfeE1CZksyTmRNLXRRbDBXdzNLcVNEMmVDMXdWVFhoSHUxN3dLYVBqWUhuM2h5QUw4c2RabTczS2ppX2Q1TjAzNmNB?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "Ryan Gravenberch suspended for Brentford v Liverpool - Liverpool FC",
-      "summary": "Ryan Gravenberch suspended for Brentford v Liverpool Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMHoxb215OFNGUkxmbDZRZ0trVGRUZnVRbl9yaWJsZDVmb2xFcDIwcGRiU1hNbDFYcG9mRjM0WlJmcmlRUWJCQzBHRzZhSHBfcGU2TEU0aC15eklWNHhLZzNaTklTcnhIeHlUc1dseVF0dXRxQWhtWTNGMzJrZnE0RjNkbThSOVdpNGZjOWhybXEyV2NKWE1RamRiVWd2aGNISmc?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Dominik Szoboszlai a major doubt for LASK game after missing Liverpool’s defeat by Manchester City - The Athletic - The New York Times",
-      "summary": "Dominik Szoboszlai a major doubt for LASK game after missing Liverpool’s defeat by Manchester City - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdnJPc2ZWazRZOXFMdTN1ZVNjWm5LdkxHNllxLVNPeVh3elRjQXZVQXRqb2Y1YjYtQ3QzTm4zcURsMlhET2dJR21RR1B1WDNieTNJUG9yZGZJdUxGZjU5b2hiWnI1YjRacXl2bURfUFlLUWR6OFY1OHF6U3lReDZITDZfancxR09Bb0RVQk5WTzJTNEQ3U29fY1luOXJuM2M?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Match report: Liverpool beaten by Manchester City in PL clash at Anfield - Liverpool FC",
-      "summary": "Match report: Liverpool beaten by Manchester City in PL clash at Anfield Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXpuWjdRSGZHYjhkaW9jZEdlY3NIb2o5Ujc2QTdqN25TemxJRS15NU9nV19kaGc5TVIwUHJwdWgtSk15VjMzUFVUUnJGa3pjSWozTHd1ZWFMUF9DMng5OXBzN2FzWTV5ejkySUo1bjdFUXJNejQ5U1NDUDh5cVQ1TU84YkRYYWtTMEc5TzdXQXQ?oc=5",
       "rank": 30
     }
   ],
   "rumours": {
     "in": [
+      {
+        "who": "Bradley Barcola",
+        "meta": "LW · PSG",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 4,
+        "source": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cr9dzjvdl57po?at_medium=RSS&at_campaign=rss",
+        "date": "2026-10-13",
+        "active": true
+      },
       {
         "who": "Yan Diomande",
         "meta": "RW · RB Leipzig · 19",
@@ -355,14 +366,6 @@
         "who": "Gonçalo Inácio",
         "meta": "CB · Sporting CP",
         "fee": "~£55m clause",
-        "p": "Medium",
-        "mentions": 0,
-        "active": false
-      },
-      {
-        "who": "Bradley Barcola",
-        "meta": "LW · PSG",
-        "fee": "undisclosed",
         "p": "Medium",
         "mentions": 0,
         "active": false
@@ -398,10 +401,10 @@
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Low",
-        "mentions": 2,
-        "source": "The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpOHRFQU1rUVkxZ3lKU3pqZjM0REFqb0VXWGlrS0tMUExsaW1HWFlPOXZ2VS1uUWllNWdhaHkzS1VzMWZ0N1BBWFJCaHBXSnhXNEdmT2xWLWw4Q2h4TjVNZVRTd01IOV9uUmdneGVMakJ3aldidnpfTXhwUXRYWGRwNDJ2VzFCZnJiUHhsNVlKUmtGS2Q4YUFB?oc=5",
-        "date": "2026-10-11",
+        "mentions": 5,
+        "source": "BBC",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdVZKZjFWbkd2amJfU19sS0xxT0FkV1R3aVU5ZEFLRjZnenZuQWJNcVZVVFowWUZVQ1NCLTUxdDI4bzNyRXRCQk1UOG42MWJabV9ycDEzQVZEZlBrV1o3SGdISVNCV25j?oc=5",
+        "date": "2026-10-13",
         "active": true
       },
       {
