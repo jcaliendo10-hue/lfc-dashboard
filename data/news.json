@@ -1,18 +1,7 @@
 {
-  "updated": "17 Oct 2026 18:10 UTC",
+  "updated": "17 Oct 2026 21:58 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "Fitness update: Andoni Iraola on Gakpo, Isak, Szoboszlai and changes v Brentford - Liverpool FC",
-      "summary": "Fitness update: Andoni Iraola on Gakpo, Isak, Szoboszlai and changes v Brentford Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 95,
-      "rank_score": 95.0,
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUNhckpLMnBFekNNUDhXaDkzbWFON25XQlhSNmF6Q3R0YzNOYkFtcngyNHNKNzVaclhBUlFnb3plclAyTWNqejZ4V2t2VnB6N3ZvLTBsQ1JhUVBPZ2xGZGlYeGNnc0FjZTRqdHI0RW1TNUg4Z1hqamVMUEVqOG9EalVGQndlek1Eb2VTSEh5bjkxYkJORlVQVGo2SDZkRkk5WUJj?oc=5",
-      "rank": 1
-    },
     {
       "headline": "Liverpool’s Dominik Szoboszlai, Jeremie Frimpong out for ‘some time’ with injury – Andoni Iraola - The New York Times",
       "summary": "Liverpool’s Dominik Szoboszlai, Jeremie Frimpong out for ‘some time’ with injury – Andoni Iraola The New York Times",
@@ -22,7 +11,7 @@
       "rank_score": 95.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYWdtc3hQMlV4NTUzVlBKc0cyOS1kdmtIYXM1YmtuTXlNX3NGSUFsOTZtWS1oWVVuVWZfZnRnekFVWE1BdThuWlhTS2d3SmllRC1nSGdfQ2tPX3ZTRGQtYmZ1Q3hxN3UwVzNTQlhiY3gwd3lmY09ZY0Nkcmp0R3pTMVhjYkxlaTlZamNDejNEVl9kOTFMUDR2a2taTThrOHlBVGF2VVVmdno0eXJldDdpRQ?oc=5",
-      "rank": 2
+      "rank": 1
     },
     {
       "headline": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
@@ -33,6 +22,17 @@
       "rank_score": 94.5,
       "date": "2026-10-16",
       "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
+      "rank": 2
+    },
+    {
+      "headline": "Wirtz delivers but remains Liverpool's conundrum",
+      "summary": "Florian Wirtz is instrumental as Liverpool return to winning ways in the Premier League, but does he remain boss Andoni Iraola's great conundrum?",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 90,
+      "rank_score": 90.0,
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c9j34rke27zjo?at_medium=RSS&at_campaign=rss",
       "rank": 3
     },
     {
@@ -47,6 +47,17 @@
       "rank": 4
     },
     {
+      "headline": "Fitness update: Andoni Iraola on Gakpo, Isak, Szoboszlai and changes v Brentford - Liverpool FC",
+      "summary": "Fitness update: Andoni Iraola on Gakpo, Isak, Szoboszlai and changes v Brentford Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 87,
+      "rank_score": 87.0,
+      "date": "2026-10-15",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUNhckpLMnBFekNNUDhXaDkzbWFON25XQlhSNmF6Q3R0YzNOYkFtcngyNHNKNzVaclhBUlFnb3plclAyTWNqejZ4V2t2VnB6N3ZvLTBsQ1JhUVBPZ2xGZGlYeGNnc0FjZTRqdHI0RW1TNUg4Z1hqamVMUEVqOG9EalVGQndlek1Eb2VTSEh5bjkxYkJORlVQVGo2SDZkRkk5WUJj?oc=5",
+      "rank": 5
+    },
+    {
       "headline": "Isak completes Liverpool’s comeback win as Brentford finish with nine",
       "summary": "If Liverpool’s spluttering forwards end up remembering this as the day when their luck turned then they will owe a big debt of gratitude to Yehor Yarmolyuk. This was a game with a very clear before and after.Andoni Iraola will hope survivin",
       "source": "The Guardian",
@@ -55,7 +66,18 @@
       "rank_score": 85.1,
       "date": "2026-10-17",
       "url": "https://www.theguardian.com/football/2026/oct/17/brentford-liverpool-premier-league-match-report",
-      "rank": 5
+      "rank": 6
+    },
+    {
+      "headline": "'Florian Wirtz - unbelievable!'",
+      "summary": "Liverpool fan Abigail Rudkin was delighted with Florian Wirtz's performance during the Reds' win at Brentford, after increased scrutiny over the German's start to life at Anfield.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-17",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cke8rz8d9qrro?at_medium=RSS&at_campaign=rss",
+      "rank": 7
     },
     {
       "headline": "‘Very well’ – Andoni Iraola confirms massive double Liverpool injury boost - Read Liverpool",
@@ -66,7 +88,40 @@
       "rank_score": 85.0,
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONk5aSXR4UUIwOEZLZERQQmY3dlR6ZzFjR0NJUjZ2ekxvbXdFbUNpWFktaFZ0ZUl0b2M3Tzg3MF9iUnVGMG1wWXZqU0o5QTJNNWk1RU9iWE0zSzlTN0dMVnZqempNVHQwVkp4VndWZEQwQWk4QVRucUpGd2tTdHlwR0JlUTJQVUxOUGw2czk3T3JrdXdJUk95RGRISjMtR1l5dXQwVDFzZw?oc=5",
-      "rank": 6
+      "rank": 8
+    },
+    {
+      "headline": "Confirmed Liverpool Lineup vs Brentford: Major Szoboszlai & Isak Decisions Made - Read Liverpool",
+      "summary": "Confirmed Liverpool Lineup vs Brentford: Major Szoboszlai & Isak Decisions Made Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNdTA1UVJOS2V4MzZ1V3hicERyRkNVUlhCMXVEbmtwYkZVV3Jnb2VHcUVsT21oLTFYMGFzR1ZieWl0cTFUckhZZmpBRHBVclZQOFJUWElZaXMwMnl4YjM2a2x2RkxpQjZsOVBhcmRFZHNlSDV0SFJMR2JUMjJNdkpzTi0zam5TZFVpZ2hR?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "Liverpool news: Isak is Iraola's away-day specialist - Analysis - BBC",
+      "summary": "Liverpool news: Isak is Iraola's away-day specialist - Analysis BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWWNiLUkydWxWXzJrUTVOZENyLUtyRFo0TVM1MDhrei1NT2QwWmN5TTl1QkZxLS1qQ21DTHdTSnQyRGlzUzZ1dmRKYllSOTM0Zi16ejVXcVF3aXFFZlJncVVMVzZnQUxqYXdB?oc=5",
+      "rank": 10
+    },
+    {
+      "headline": "Florian Wirtz achieves chance creation figure unseen in Premier League for 15 years - Liverpool FC",
+      "summary": "Florian Wirtz achieves chance creation figure unseen in Premier League for 15 years Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOV2ZXaER4aFhrQlduSk5NVDh3VTNfVDl0akdZV2RuZTBjTTdJOHY1akJrMlRndjZHN1BmY2VBejZZTEdSNURsVXJiVnpyQnFiMkMyWU1mbVl6ajBUcGJkWGVGQXJzUDRRR3JDblJ2UzNRNTRLMWRhSDJmZjdRY1AzcXdaSWxUZFh6RGJLQklFa09yVGVNRlBsQlJSUUN4OHlqMkVaenhOY3p6aFZOMGxPOUlIMkswQW8?oc=5",
+      "rank": 11
     },
     {
       "headline": "Fantasy Premier League: Florian Wirtz in focus and Liverpool's best route to points - Liverpool FC",
@@ -77,18 +132,18 @@
       "rank_score": 85.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTllUTRWVVFWb0dUeTJ2c0pYT0NXTG9OSHVrT2xoSTJ2NXJ6YXRqNTljME45NERUMDZpaUh1MkFDSjFsWGxWLWdWWXUwcU4xZU9Bbm9lRm9BWXRINlltT0dCQU9MaWZQQ1BjOVpMMTQ1M0hkSjVmRVhSMlgzUkRQVjBYem9NeFdILTNYcmI1X3VLa2Zf?oc=5",
-      "rank": 7
+      "rank": 12
     },
     {
-      "headline": "Liverpool news: Isak is Iraola's away-day specialist - Analysis - BBC",
-      "summary": "Liverpool news: Isak is Iraola's away-day specialist - Analysis BBC",
+      "headline": "Florian Wirtz delivers for Liverpool - but is playmaker Andoni Iraola's great conundrum? - BBC",
+      "summary": "Florian Wirtz delivers for Liverpool - but is playmaker Andoni Iraola's great conundrum? BBC",
       "source": "BBC",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
       "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNckg1ZHBHUzVseF9WZEMxX2lHWmQyS1RvX1F3a09nRy1LdUZZWmN2OVdaMFJEUG5iRHhPc3ZIYUdYQk01VHJ3a0lEM3lpS2JDQmxtYUoyQ05HNmtvZFJVeUwzSEZYcTdJMGVNdjRXRVZ6SVctX2NlYXM2b1diY3N1a2dNX0N2SmllWjRTUHVxVnBVbkdfZTdnM1ZTZFFhNFJiMzFqcUlNajU2eU9ZYWROYWx4WU05TlA0WDZLLXNmNWZxRjdUOVhRa1hOMy00VEI0cGN1UHQxMUhUY05oZ000aGdqZlpNWEZ2ZDYteVdCSWtCUQ?oc=5",
-      "rank": 8
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE84XzZmNWJGRkZucGZZMVN1WVFoeTRNQWhyS2hLN3A4T2NTcjY2cHp4X0lURENYQVJ4ZjIycjN0czczY2xNMXBEYWU4TzJ6cE9PT2lNTWlzZUd4bkY5d21xcWlWRTF0U3ps?oc=5",
+      "rank": 13
     },
     {
       "headline": "Brentford 1 Liverpool 2: What’s changed with Isak and how did Iraola’s side punish 10 men? - The New York Times",
@@ -99,7 +154,18 @@
       "rank_score": 85.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWJnclNqSnVjWUtaT3FQRmM4c28tS1pvUDdPQk5SSTlfckRUNXQwWEtQVy01OWtPUU0zMUJ6YVU3U3kxMXF5X2RRdW5HVTBiTWZZeTQxazFkaHcweTFrd2tfazRmdi1BczdGV054dDJpN2xWWWxUVDNrT3RjRnJ6dWVPYS1GRU1Hc0EzTGRwck83SUZaTDRDUWZn?oc=5",
-      "rank": 9
+      "rank": 14
+    },
+    {
+      "headline": "Dominik Szoboszlai and Jeremie Frimpong injury latest as Andoni Iraola gives worrying Liverpool update",
+      "summary": "Andoni Iraola fears he will be without Dominik Szoboszlai and Jeremie Frimpong \"for some time\" after they picked up injuries in Liverpool's 2-1 Premier League triumph at Brentford",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 100,
+      "rank_score": 83.5,
+      "date": "2026-10-17",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/dominik-szoboszlai-jeremie-frimpong-injury-34779488",
+      "rank": 15
     },
     {
       "headline": "Brentford 1 Liverpool 2 LIVE - Iraola and Isak react, Frimpong and Szoboszlai injury latest",
@@ -110,7 +176,18 @@
       "rank_score": 83.5,
       "date": "2026-10-17",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/brentford-liverpool-live-score-stream-34773678",
-      "rank": 10
+      "rank": 16
+    },
+    {
+      "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 87,
+      "rank_score": 82.2,
+      "date": "2026-10-14",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
+      "rank": 17
     },
     {
       "headline": "Liverpool team news: Dominik Szoboszlai, Alexander Isak and Cody Gakpo doubts for Brentford - The Athletic - The New York Times",
@@ -121,7 +198,7 @@
       "rank_score": 82.0,
       "date": "2026-10-15",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUW1pMzR1b25acmJtTzU5V2c0YjZUUkczX3VtLUJtb1VOSDdoYlFjVWd2V0lxSF96X1ZfSzNZdE9rR0NBOWZkcmFXS2NzYzdmdnhETnNnTEQ0RExIQVJ6UkJXbnBGT2JmQy1NSXVzQXFEVU5hOFJvNW5rV1FLSF9fV3R1c2UzVHFoT29aNDlHT2ZCaU9fQVBBbFJxZzY3QzY5T3JhT25mOA?oc=5",
-      "rank": 11
+      "rank": 18
     },
     {
       "headline": "Iraola has ‘100% trust’ in Wirtz and Barcola but tells others to step up",
@@ -132,7 +209,7 @@
       "rank_score": 81.3,
       "date": "2026-10-13",
       "url": "https://www.theguardian.com/football/2026/oct/13/andoni-iraola-trust-florian-wirtz-bradley-barcola-others-to-step-up-liverpool",
-      "rank": 12
+      "rank": 19
     },
     {
       "headline": "Premier League schedule today: How to watch, TV channels & live stream",
@@ -143,7 +220,7 @@
       "rank_score": 80.3,
       "date": "2026-10-17",
       "url": "https://www.theguardian.com/football/2026/oct/17/how-to-watch-premier-league-brentford-liverpool",
-      "rank": 13
+      "rank": 20
     },
     {
       "headline": "Whether Liverpool will be active in the January transfer window - Read Liverpool",
@@ -154,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZDhDQTdBNmM3VVFDaVFKa0xYdXlkOVdyWDd0RENsSW93bXhhb1Azc2dzNUFhRWtRX3hFdzRaeGJVOW5vdlJpOHhnLUJBWjVkV0hfbFVBRmZEYXRrRll6Q09iZVRyNXhjbWlKaUNveEM3bXU3ZjB0ZWFRa25ERU01eXZac1RaaG5VV3U3bFlVUUJJS1JiY0FuSnl1TmJxUQ?oc=5",
-      "rank": 14
+      "rank": 21
     },
     {
       "headline": "‘Exact same’ – Liverpool youngster likens Andoni Iraola to Jurgen Klopp - Read Liverpool",
@@ -165,40 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTVA2dWhLcUhJQU04eGczdmFtVWNWYVhBWTBvZERfTTNLZkdwOUhpWEh0c2lEeTBMV1FobXRaalpXZ000WG9rU0lHRjA1U05INGtBQlBFTVRENWlySUhMRTlRWTFXel9iakc2ekFtTGh6NFF5aTNZaHZIUE5GN18xNlpZbm5kbDlKcTh2a1NFRVo4Z2JndXZTclJkYUtpT3dTZ0ZR?oc=5",
-      "rank": 15
-    },
-    {
-      "headline": "Andoni Iraola gives update on Giovanni Leoni rehabilitation progress - Liverpool FC",
-      "summary": "Andoni Iraola gives update on Giovanni Leoni rehabilitation progress Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTXA4M1ZMMXVZR1ZNU0ZCaF9ySk9nQWtPSFlaU2NQNGZ1eHE4SGxpNC1aaHdOR2hEbnAtaXgwd2FkaE1SQXJwUXJEdjhoME4xVWd1ZkNlMVVSaGNpSldOdWR0cTRQYjd4TFJRUTQ5TDNLYTZtbmlFTmJnVEkxRUNjN3N3WXRKLTF5c1ZqUmRFN1VtZmZJcmluYnhnMktqdV9CWmJV?oc=5",
-      "rank": 16
-    },
-    {
-      "headline": "How 'really smart' Trey Nyoni has impressed Andoni Iraola - Liverpool FC",
-      "summary": "How 'really smart' Trey Nyoni has impressed Andoni Iraola Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOekczd1gybzJ3ai12UnhTYlJoQVpEejhoc3dmSmdoTkl5b19CNDhyVzExcU9KVENFZTY3WWRKQ1dpZ0hfYmJfbnUyMmNnRVExdlVPYzNqMHU3d0h6LThiVXJMX2FOLWVKWDdRa3dCVnZrNmpLSDk5Q2dOelQ4N05HN0Q3N0FHLUJHOFJEb1pQaVdUUQ?oc=5",
-      "rank": 17
-    },
-    {
-      "headline": "Brentford 1-2 Liverpool | Watch Andoni Iraola's post-match press conference - Liverpool FC",
-      "summary": "Brentford 1-2 Liverpool | Watch Andoni Iraola's post-match press conference Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVhuRlhoQXNOZ1ljMkdkWW5EaVQzaVBfNVFNaTRmNHUtcnJIS0tpbEJBb1ZYV1NtU2ZMQmdVTFdaczF1dUlrSHBqOWtCM1Qxb0lVeFV6THdPc2dibGhzRXZCcnRsaWJoU3JhUnB6M05RY0lqRmwxcHdNVWJjRUx5Z2lpdXRRdVVYdXdfdjY1MG5qcjBCZ080X1oxS21OWE1obFNrbUlnWQ?oc=5",
-      "rank": 18
+      "rank": 22
     },
     {
       "headline": "Andoni Iraola press conference: 'We got a good battle - three points is very valuable' - Liverpool FC",
@@ -209,7 +253,29 @@
       "rank_score": 80.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTTBLTTkwTTZZYU1jZ200TWhuQUgybU5Xc3I0bTBWS25xZ2Y4MUZqVnhqUXRGQUNiSVNtaDJoc3l4ZzhaS0NBV0pHb0U1OXBlMVRjUThxRVRDVDVybENWOVdEbGp4U01YN2FrSmNJSnFDa3p6WEgxeWNXSVNoZWRQME5LWk0tR2tlSHVr?oc=5",
-      "rank": 19
+      "rank": 23
+    },
+    {
+      "headline": "Brentford 1-2 Liverpool | Watch Andoni Iraola's post-match press conference - Liverpool FC",
+      "summary": "Brentford 1-2 Liverpool | Watch Andoni Iraola's post-match press conference Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPYVhuRlhoQXNOZ1ljMkdkWW5EaVQzaVBfNVFNaTRmNHUtcnJIS0tpbEJBb1ZYV1NtU2ZMQmdVTFdaczF1dUlrSHBqOWtCM1Qxb0lVeFV6THdPc2dibGhzRXZCcnRsaWJoU3JhUnB6M05RY0lqRmwxcHdNVWJjRUx5Z2lpdXRRdVVYdXdfdjY1MG5qcjBCZ080X1oxS21OWE1obFNrbUlnWQ?oc=5",
+      "rank": 24
+    },
+    {
+      "headline": "Virgil van Dijk captains Liverpool for 200th time - Liverpool FC",
+      "summary": "Virgil van Dijk captains Liverpool for 200th time Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnZBQ0wzcnhRdFU1VXU3blo1elRjNnIzeGgteTh5cW5yRHEycVRBRzNxNFJNZjlCNUF1dUZBV1ptZ1lTUkRqbEd6cXo5TXN3a1kzTzR1a0RJQlRnOGJ3S3NtZVN0RFducVBUbDQxRWlkc1ItNDlwUzhfZjdrbFVDWGx0UzJPZ2d6a2c?oc=5",
+      "rank": 25
     },
     {
       "headline": "Reaction: Alexander Isak breaks down Liverpool's comeback at Brentford and his winner - Liverpool FC",
@@ -220,7 +286,7 @@
       "rank_score": 80.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQekZnaDBTTWFMcmxjSHlUN3hwRms1TDBmb0VwaFJ5VmdvNWpHNGJnTFZTV0JmcGNKMlR2NjF0LV90a2FFTFE5WHcxR3VWN2VJelE4dzFsM3V6bmFENG9fOEwwMEMxSzNTOVhETE5BQjE1VUEtcU8xTEh0bFZueGdnelJ0Qnp5QWFmR3dOOGZn?oc=5",
-      "rank": 20
+      "rank": 26
     },
     {
       "headline": "Alexander Isak scores winner to earn Liverpool victory over nine-man Brentford - Liverpool FC",
@@ -231,7 +297,7 @@
       "rank_score": 80.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWWZxeGlQdVhhYmlMRnNOODNfdXluZjVUWVBDT0lmTjB6bDB2VkxxV3NDRjhrcFdkbzNWOU1vWjg1SXJRNVVubzI1d1MtUTBvdzZUcVpjbFJkNVpod2VvSVYzT2lOdnlLaGR2b1pXWVpPR29acUd2QVNGSTcyTnQwWlJPd0w1REk?oc=5",
-      "rank": 21
+      "rank": 27
     },
     {
       "headline": "Isak, Gakpo, Szoboszlai - Liverpool injury news and return dates ahead of Brentford - Liverpool Echo",
@@ -242,7 +308,7 @@
       "rank_score": 79.3,
       "date": "2026-10-16",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOcjMwUUZQek9LT0lPNl9nUl93c2ZYYzh0WDgxSEFOS0pfZFJJOVkyYWt6VTNlMVJZQ0tSRVdnZ3ZCZXlTWU1JdHNaa3FOZjZ5bFpzQ2J2TjJHRmNWTjFMeENsZGllY050VXdpQS1VdHU1Qnp6T0dCNS1qa1lPaHdvSXdSUkZhaWJEMUlrb2J0ZXIzckJUTEViUmdXazVXOVlQSnJPWTBPaVc4R0ZOenfSAbMBQVVfeXFMTnh3NTJJWHBxQ1pyMi1ENmRaNHlHZkJDeFN6V2pjYkVVTDZsOFJGVTgxa0xSTTYxQUh0b2JkX1FDVFpIYUNwRUhjSEZqOUdBM0xkYk5WWVl5SHEwRGFNb3ZUZ2VuOEhKZDZkcDBGRUQ2ZjZ5TEpuQlJUY1dCdWUwc3RQZ2dfZ0VUUm9TZXMzYmJwbHh5TEg1VTI1V2xJSUlpaF81cjJZVmIyUnFJVFpYTlBMV2c?oc=5",
-      "rank": 22
+      "rank": 28
     },
     {
       "headline": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
@@ -253,83 +319,17 @@
       "rank_score": 77.5,
       "date": "2026-10-14",
       "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
-      "rank": 23
-    },
-    {
-      "headline": "Iraola - Barcola and Wirtz will come good",
-      "summary": "Head coach Andoni Iraola has said ahead of Liverpool's Champions League match against LASK on Wednesday that he believes that Wirtz and Barcola performances will come.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-10-13",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cr9dzjvdl57po?at_medium=RSS&at_campaign=rss",
-      "rank": 24
-    },
-    {
-      "headline": "Police officer injured as 10 arrests made at tense Liverpool v Manchester City match",
-      "summary": "Police officer taken to hospital with serious facial injuryFive people arrested on suspicion of tragedy chantingA police officer sustained a serious facial injury while making an arrest after the Liverpool v Manchester City match at Anfield",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 81,
-      "rank_score": 76.5,
-      "date": "2026-10-12",
-      "url": "https://www.theguardian.com/football/2026/oct/12/police-officer-injured-as-10-arrests-made-at-tense-liverpool-v-manchester-city-match",
-      "rank": 25
-    },
-    {
-      "headline": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
-      "summary": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at Anfield.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-10-11",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&at_campaign=rss",
-      "rank": 26
-    },
-    {
-      "headline": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
-      "summary": "Andoni Iraola says he didn't agree with midfielder Ryan Gravenberch's red card in Liverpool's defeat to Manchester City at Anfield.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-10-11",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&at_campaign=rss",
-      "rank": 27
-    },
-    {
-      "headline": "Liverpool news: Isak, Gakpo and Szoboszlai absent for LASK - BBC",
-      "summary": "Liverpool news: Isak, Gakpo and Szoboszlai absent for LASK BBC",
-      "source": "BBC",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdVZKZjFWbkd2amJfU19sS0xxT0FkV1R3aVU5ZEFLRjZnenZuQWJNcVZVVFowWUZVQ1NCLTUxdDI4bzNyRXRCQk1UOG42MWJabV9ycDEzQVZEZlBrV1o3SGdISVNCV25j?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola - The New York Times",
-      "summary": "Liverpool’s Alexander Isak and Cody Gakpo out of Manchester City game, says Andoni Iraola The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-10-11",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMDZpOHRFQU1rUVkxZ3lKU3pqZjM0REFqb0VXWGlrS0tMUExsaW1HWFlPOXZ2VS1uUWllNWdhaHkzS1VzMWZ0N1BBWFJCaHBXSnhXNEdmT2xWLWw4Q2h4TjVNZVRTd01IOV9uUmdneGVMakJ3aldidnpfTXhwUXRYWGRwNDJ2VzFCZnJiUHhsNVlKUmtGS2Q4YUFB?oc=5",
       "rank": 29
     },
     {
-      "headline": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich? - ESPN",
-      "summary": "Transfer rumors, news: Liverpool's Wirtz to Bayern Munich? ESPN",
-      "source": "ESPN",
-      "credibility": 8,
-      "relevance": 85,
-      "rank_score": 75.7,
+      "headline": "Iraola offers Liverpool injury update on Szoboszlai, Isak and Gakpo - The Independent",
+      "summary": "Iraola offers Liverpool injury update on Szoboszlai, Isak and Gakpo The Independent",
+      "source": "The Independent",
+      "credibility": 7,
+      "relevance": 92,
+      "rank_score": 76.8,
       "date": "2026-10-15",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUk91QUU0Y2VhTVRoTmE2dzdQbDVUREpVSlR4ZjZtT0ZUY3RkbGJfTlFuYW1VODA2N2JDSlpIaWJJdFlMU3RiZVlvdDdoVy0wUnliNkgxNzRid3RFcTlIM3pqM3l6MzdlRXFhd2V6WG9XVmV1QUxpU2dydHBNR0hWZG84Q05vY1F0cmpLVk9Jc2gxdE1CeDMxSm5MbGdQZzRYcE1HT1BsajdGTXJoUU56R2RDemJCN3JuNmc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPUVdxZ2l5S3dURFRaaTFTTzlPUFp5WkpBMXZIc3k2YzdVckpKUzZtQ1Q0TWJWQ1RySFd4NFVvUGk1S1JBa3p0TFY2elNQYWJNTXhmRy1WQnVYdjBGcFljMWRpa2RzYkxHM0lPOWNOOFBTd1E4WUdkODJlcGVESkpfNVhwZGluc0phQ1ltTGVqaTVEcEstUFZhYjZaRHZvU05LSDltaQ?oc=5",
       "rank": 30
     }
   ],
@@ -340,10 +340,10 @@
         "meta": "LW · PSG",
         "fee": "undisclosed",
         "p": "Low",
-        "mentions": 3,
-        "source": "BBC Sport",
-        "url": "https://www.bbc.co.uk/sport/football/videos/cr9dzjvdl57po?at_medium=RSS&at_campaign=rss",
-        "date": "2026-10-13",
+        "mentions": 2,
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+        "date": "2026-10-14",
         "active": true
       },
       {
@@ -400,11 +400,22 @@
         "who": "Cody Gakpo",
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
-        "p": "Low",
-        "mentions": 6,
+        "p": "Medium",
+        "mentions": 5,
         "source": "Liverpool FC",
         "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQUNhckpLMnBFekNNUDhXaDkzbWFON25XQlhSNmF6Q3R0YzNOYkFtcngyNHNKNzVaclhBUlFnb3plclAyTWNqejZ4V2t2VnB6N3ZvLTBsQ1JhUVBPZ2xGZGlYeGNnc0FjZTRqdHI0RW1TNUg4Z1hqamVMUEVqOG9EalVGQndlek1Eb2VTSEh5bjkxYkJORlVQVGo2SDZkRkk5WUJj?oc=5",
         "date": "2026-10-15",
+        "active": true
+      },
+      {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool FC",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZnZBQ0wzcnhRdFU1VXU3blo1elRjNnIzeGgteTh5cW5yRHEycVRBRzNxNFJNZjlCNUF1dUZBV1ptZ1lTUkRqbEd6cXo5TXN3a1kzTzR1a0RJQlRnOGJ3S3NtZVN0RFducVBUbDQxRWlkc1ItNDlwUzhfZjdrbFVDWGx0UzJPZ2d6a2c?oc=5",
+        "date": "2026-10-17",
         "active": true
       },
       {
@@ -428,14 +439,6 @@
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Medium",
-        "mentions": 0,
-        "active": false
-      },
-      {
-        "who": "Virgil van Dijk",
-        "meta": "CB · Galatasaray interest",
-        "fee": "low/free",
-        "p": "Low",
         "mentions": 0,
         "active": false
       },
