@@ -1,5 +1,5 @@
 {
-  "updated": "18 Oct 2026 22:14 UTC",
+  "updated": "19 Oct 2026 03:27 UTC",
   "count": 30,
   "items": [
     {
@@ -80,17 +80,6 @@
       "rank": 7
     },
     {
-      "headline": "Liverpool news: Isak is Iraola's away-day specialist - Analysis - BBC",
-      "summary": "Liverpool news: Isak is Iraola's away-day specialist - Analysis BBC",
-      "source": "BBC",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-10-17",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1YWWNiLUkydWxWXzJrUTVOZENyLUtyRFo0TVM1MDhrei1NT2QwWmN5TTl1QkZxLS1qQ21DTHdTSnQyRGlzUzZ1dmRKYllSOTM0Zi16ejVXcVF3aXFFZlJncVVMVzZnQUxqYXdB?oc=5",
-      "rank": 8
-    },
-    {
       "headline": "Florian Wirtz delivers for Liverpool - but is playmaker Andoni Iraola's great conundrum? - BBC",
       "summary": "Florian Wirtz delivers for Liverpool - but is playmaker Andoni Iraola's great conundrum? BBC",
       "source": "BBC",
@@ -99,7 +88,7 @@
       "rank_score": 85.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBQbFlCdkRBWEpKajFtellOVmpyeXUzU3RGbVNtdHRvR1UzVjc3TU5jVEFDRlZxQjJNVGkxWWltOFNhY28zRW9qN3hQWUh3NW1Zbm1aMXozb1dVVzhULUNtVS11VkxVNHZ0dE80?oc=5",
-      "rank": 9
+      "rank": 8
     },
     {
       "headline": "Brentford 1 Liverpool 2: What’s changed with Isak and how did Iraola’s side punish 10 men? - The Athletic - The New York Times",
@@ -110,6 +99,17 @@
       "rank_score": 85.0,
       "date": "2026-10-17",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVWJnclNqSnVjWUtaT3FQRmM4c28tS1pvUDdPQk5SSTlfckRUNXQwWEtQVy01OWtPUU0zMUJ6YVU3U3kxMXF5X2RRdW5HVTBiTWZZeTQxazFkaHcweTFrd2tfazRmdi1BczdGV054dDJpN2xWWWxUVDNrT3RjRnJ6dWVPYS1GRU1Hc0EzTGRwck83SUZaTDRDUWZn?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "Liverpool news: Isak is Iraola's away-day specialist - Analysis - BBC",
+      "summary": "Liverpool news: Isak is Iraola's away-day specialist - Analysis BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-10-17",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNckg1ZHBHUzVseF9WZEMxX2lHWmQyS1RvX1F3a09nRy1LdUZZWmN2OVdaMFJEUG5iRHhPc3ZIYUdYQk01VHJ3a0lEM3lpS2JDQmxtYUoyQ05HNmtvZFJVeUwzSEZYcTdJMGVNdjRXRVZ6SVctX2NlYXM2b1diY3N1a2dNX0N2SmllWjRTUHVxVnBVbkdfZTdnM1ZTZFFhNFJiMzFqcUlNajU2eU9ZYWROYWx4WU05TlA0WDZLLXNmNWZxRjdUOVhRa1hOMy00VEI0cGN1UHQxMUhUY05oZ000aGdqZlpNWEZ2ZDYteVdCSWtCUQ?oc=5",
       "rank": 10
     },
     {
@@ -329,7 +329,7 @@
       "relevance": 76,
       "rank_score": 76.0,
       "date": "2026-10-13",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1HQ3VPUXA3T0h1cXl5cDExeHpTY05CN3ZidE5vM2VlYkhwT0RNZzVPNG13SFVDYjVhQl8yWFdsV2NlT3dieW1DcWFYQzl4cVlhTUJyN204NVhiZThxSTM4TVpfaERYX3ozZi13?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1XdVZKZjFWbkd2amJfU19sS0xxT0FkV1R3aVU5ZEFLRjZnenZuQWJNcVZVVFowWUZVQ1NCLTUxdDI4bzNyRXRCQk1UOG42MWJabV9ycDEzQVZEZlBrV1o3SGdISVNCV25j?oc=5",
       "rank": 30
     }
   ],
