@@ -1,5 +1,5 @@
 {
-  "updated": "25 Oct 2026 22:18 UTC",
+  "updated": "26 Oct 2026 03:27 UTC",
   "count": 30,
   "items": [
     {
@@ -174,9 +174,20 @@
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
-      "date": "2026-10-25",
+      "date": "2026-10-26",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZTlaVUROUWRhcUZRMFJzZmkwTlRnZkQzaXdscmNLM2VSXzdnVzRraGQ1aVFqVTdwdENWRkJMbk1mbEJmajU4enFqZDREODlJaXNWUkRiUEU0NS02TWdQT18zQ2wxcWw0QTIzdExQaWJ0MWUxZmNBRllxTlhuQWRuazU1ekZma0FLNTlHUDNVUVdlRTFNRW9TZXpiLUVuWHhaNmM2MkJhT2hLUUdFLVZiQ2FwRkRpTy1hYTZKU0U2RFhzQndNTTlBeXdhZGF4a1JfTFN0dGlPSnZ2Zw?oc=5",
       "rank": 16
+    },
+    {
+      "headline": "How Liverpool's attack impressed against Brighton",
+      "summary": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display in their 2-0 win against Brighton at Anfield.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-25",
+      "url": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&at_campaign=rss",
+      "rank": 17
     },
     {
       "headline": "Why are Liverpool struggling for Premier League goals?",
@@ -187,17 +198,6 @@
       "rank_score": 80.0,
       "date": "2026-10-25",
       "url": "https://www.bbc.co.uk/sport/football/articles/c94g1p32gyrro?at_medium=RSS&at_campaign=rss",
-      "rank": 17
-    },
-    {
-      "headline": "Media watch: Read the latest LFC transfer rumours and stories - Liverpool FC",
-      "summary": "Media watch: Read the latest LFC transfer rumours and stories Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZ3J0U3gxa09lX2tqNFdYb0FpX051NDNwdXFVYXdVMUlNN1k3R0h1bzltNEx5WWIwODMtUVA1OWhZUmpZdHRXcW1LYmRXR3R5R0txWm9OMVE3TUZzd0JkTXhjZk9aYlVSNW9sMjNfaW12aWpPaTZGdHBJVjVGNTh3b21qQm15YXdaYTJiR1IwMG9wRU9ZTU1KQQ?oc=5",
       "rank": 18
     },
     {
@@ -212,6 +212,17 @@
       "rank": 19
     },
     {
+      "headline": "Post-match podcast: Analysis and interviews from Anfield after Liverpool 2-0 Brighton - Liverpool FC",
+      "summary": "Post-match podcast: Analysis and interviews from Anfield after Liverpool 2-0 Brighton Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-10-25",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcjY0N1ZxdUp2R2VmMC15ZnNUSVpfVGEwSDlFSk9NZkdSUkxBZ0RYVXMzbFlZRVdzbVA1M2gwMF9UUS1FNmMteWRsOW1FczFqcjZnZldwYzZsZFVZdlRhZFZlQ1o4SFNPb2pRV01DLUl4ZzgySGI4em5xSTN1RFI3cGZBbGFhbjczWkt5QmRMUFRfdGE2bU14eUdIam54dDJGNzZwRm1jUGVhM1BTMDFqNG1sZ2JLNVFv?oc=5",
+      "rank": 20
+    },
+    {
       "headline": "Reaction | Alexander Isak 'delighted' by Liverpool's win over Brighton - Liverpool FC",
       "summary": "Reaction | Alexander Isak 'delighted' by Liverpool's win over Brighton Liverpool FC",
       "source": "Liverpool FC",
@@ -220,84 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-10-25",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNNUJfdTlMUWxwQlVLelJ6NFNjWUYwVVd4S1ZuZGRGUEVMVmVzbUR6b0hLZEJZRUFQVlFfdmpfVFpIb0paZ3NMV2lUbVZtcnFzRl9kcW1rQ3FONnZWQm9CeUllMUtDc3dlV3ZQWHpjOVpsd0dEWXY3UURxbnQ5dnctTQ?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "Post-match podcast: Analysis and interviews from Anfield after Liverpool 2-0 Brighton - Liverpool FC",
-      "summary": "Post-match podcast: Analysis and interviews from Anfield after Liverpool 2-0 Brighton Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-25",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZlNFNmZ6RHNraHQ4ZE9XVHlpX0o1LUZiOC1vU2poZy1ZZ3RkMDBXOWRtS1doMjBPYUZXcWM1NG9NNURyTlVRWFB5LXlNVVlhUTlwUnFCbHdtd2pGaXBWZ2lNc3FhM1dTVms3MWVmSEVsdjhvdmZLMHRodnRKWXBKY0dYRk5nZzFsVUppMGxtZnhyNElFMDlaM01veFhiNkRkVHJZUjRLR3FOOHJoRG92Q3NVZ25LTW9lLTBfbQ?oc=5",
       "rank": 21
-    },
-    {
-      "headline": "‘Top level’ – Andoni Iraola says Liverpool midfielder is back to his best form - Read Liverpool",
-      "summary": "‘Top level’ – Andoni Iraola says Liverpool midfielder is back to his best form Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUFJMN0c0b2wwNTM1U1VHN2xUaVBKUzQtS24yUEtRNm1Nc1FkTDBRazdVeVN3SEMxb0RNdGQ4ZzRDUElFN0lZaGVmWVJtYmJ1X3JLOWlGcktIMG5icnAtTVJWbk9XR1BVeVQwczRSdE4xNThyTkpFWm02NjlScy1wYkVjMVVPSHdVbEowdTBmSDZHZWFTM3lFUEZSZWx2alhjUzRPZXl0VWtoRHQz?oc=5",
-      "rank": 22
-    },
-    {
-      "headline": "‘Valuable’ – Andoni Iraola raves about ‘versatile’ Liverpool player - Read Liverpool",
-      "summary": "‘Valuable’ – Andoni Iraola raves about ‘versatile’ Liverpool player Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSndYNm82UUtUUmhQX2N1SEtTTGZZNUw0eEIwdS1OcjdNSkd0M2tUQWJrd0M4VE1vQVVPblhtazdnTXpRcEhCRUxOUHBabWR4OTRXVG52S0E4LWdraHZ4WjNMcHNndU11SHRZS2hFTm1RYTdXQzhLSDU4M3V6S1FBc2NMY1ZWMGFNVWpzSkc3bDZxS2ZpTE0wYkt0dw?oc=5",
-      "rank": 23
-    },
-    {
-      "headline": "Liverpool boss Andoni Iraola shows his class with his comments on Arne Slot - Read Liverpool",
-      "summary": "Liverpool boss Andoni Iraola shows his class with his comments on Arne Slot Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV1NxeHZFRklQOU5iRDdxMjZIUlplN0VWbmk1NHdzWTFXeW5MbmthNUVpQ2FkMFROb0FmV1R2a00wamJwMzZmc1BsOHNlbmV5TThzbFlqOFFtMGl4OU4wdm5iVmppenVlamR2MzJQY19Gc2luY3V0QlVGNC05T01meHZZZkdmQmNmQ3h4dm84MEFQUlNaVjFvTGtmZWJBQkh0MXlITmp5aG1zVGN4dGc?oc=5",
-      "rank": 24
-    },
-    {
-      "headline": "'I know him' - Andoni Iraola says Liverpool player is really misunderstood - Read Liverpool",
-      "summary": "'I know him' - Andoni Iraola says Liverpool player is really misunderstood Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNm1oSDJIM3dLdTY2aGhxVmxOS05CTmFNVDBwVllvR0I4dTVjVEFSREM1U1ZYUThGVUgzQVdlV1FMRVZ3S2FTRjhfZTZDSXF0WmpVNDREcUhDRlB2TmhtYnpaRnJqRXRCQ2p4eXI1UDhhU1VBNmNta25RRTNhQ0dLdmxoS0RvaThQT3JwQVRKdWhMOWRLRUxuMENHdi03M05TRXhMMXd5UkxYZjg4TjJv?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "‘Proper footballer’ – Andoni Iraola names the Liverpool player who really surprised him - Read Liverpool",
-      "summary": "‘Proper footballer’ – Andoni Iraola names the Liverpool player who really surprised him Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTjBzSzllN0FkWTRwNUhLcHFkSDZ3VGYzcTl4Y1N3aVFwT2VyWndFWHVtUmNiSHhmLU1uZjlQcWMxbTlab29QRWlFU1FuNFBpM2VvVnM5RXZhUE5aTGhrVm9IRVR1aWtXakw4WjRzZWtwdE9aZkFoTVVLN2lZbEpQaVdtbnM4WHYwZkJGbEdMZkFPRHZGdzlDaWhoaVRfMmRTeEJJMVlLbU44UFJUaXlqa1NPSjBBLUU1?oc=5",
-      "rank": 26
-    },
-    {
-      "headline": "‘Take it for granted’ – Andoni Iraola names Liverpool’s most underrated player - Read Liverpool",
-      "summary": "‘Take it for granted’ – Andoni Iraola names Liverpool’s most underrated player Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-24",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdWpmNG5ZWkR6R2wzYmNMSi1XQmJsb012LU9IdGJYeDM0Rm5uZHdTcmZpZDBqYTh5aHZMeURTUGZqZ0pETGtOZFl3T1ItYkptbFNYLTFoRHZqV3hpc0MwbmM5a0NWR1BlUndFUDVMOVd0VTNWR05RblBmbG1YX1dPbVFYcklJbDBnS0RnYjNYbGdSY3laaXFVaS02TGF6M0E1VjlZMjg3akVsS2s?oc=5",
-      "rank": 27
     },
     {
       "headline": "Liverpool beat Brighton: Alexander Isak living up to price tag as Liverpool's winning run continues - BBC",
@@ -308,7 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-10-25",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfbjlJazdfWjI5U1RROHh4MUZ0N1VBMU1MdklLSk9XbC1rdVVmS2FMcFZ3LXkyR2R3bW1aalVYdlRaa2ZEWGhWckFQalctMVRONzJvY25OMUNSbEhnQlBLbjVEbWpVLTgw?oc=5",
-      "rank": 28
+      "rank": 22
     },
     {
       "headline": "Alexander Isak interview: Goals, fitness and previewing Liverpool v Brighton - Liverpool FC",
@@ -319,17 +253,83 @@
       "rank_score": 80.0,
       "date": "2026-10-24",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYWN4ekxjWVlKdHFZQUpDM3dMLUtQdmlXeFhpa3JjbEhBQkpiY2pjZG96TUhHT1hRMmxFZnVxMG1LMFo5VmVjTXk2RHkzVUx0VWhPSVpHV21GNXFielAzallSeVAzLURGV0IyVDlGX3o0RmdQRUV5X19xU3lVZVF5VHh1LVdGRk1Fa1NoOWxCWHUtUlhNTUtYUEdKZVIwcHc?oc=5",
+      "rank": 23
+    },
+    {
+      "headline": "Liverpool must now deal with two clear problems as Cody Gakpo surprise explained",
+      "summary": "Liverpool entertain Brighton in the Premier League on Sunday with Andoni Iraola aware of two shortcomings that are hampering his team",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-10-24",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-must-now-deal-two-34797991",
+      "rank": 24
+    },
+    {
+      "headline": "Liverpool dealt Florian Wirtz injury blow as Andoni Iraola provides update - Liverpool Echo",
+      "summary": "Liverpool dealt Florian Wirtz injury blow as Andoni Iraola provides update Liverpool Echo",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-10-25",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYXdmRzZWWXkybmdoeEJyVVFSNk1wVFJ3bnZUYk03T3FJRkRlYjB3NEZlZ3hleGxpMkJKTW1wUmFrOGlqbjlZWUVwWG5RaG1QdDdrSXhkaUtKZ2x5WXduQm54Q2pya1ZmWU9VOTJOWFItdG5IVUFUQnlubUdLMF8xUVZtWU9JTkdsQnFnTVBIVDlmdjJrcDZ2Q1BISEhyWkFGaG1HRThwYWI1UdIBrwFBVV95cUxNdXNpSjY1aWNUSHJmaHY1c0hEX0ZQTUtua3pJSklETEVuWkw2T0otUWtTLVRmWmdCM0Q3V0dQUjRHUXBqYmgwcVpvclRnRTFlTTFCWGozbk00YWE4ZnhHeGdKSjJTeWo2dHA4b2ZidDl0TlpfNWN5RXVkTzZaWmIydUhKUVpWb0FRY3BoYVlZMk9WbURWNERPZEV6bVktYWFMTTYtZ3RYU09uWml4ZEIw?oc=5",
+      "rank": 25
+    },
+    {
+      "headline": "Jeremie Frimpong’s sad struggle with injury and frustrating time at Liverpool - The New York Times",
+      "summary": "Jeremie Frimpong’s sad struggle with injury and frustrating time at Liverpool The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-10-22",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNVWIxYUpOVVE4d1hMUWxXMmktYkYtZkpQU1lzbzdsOTFtLUdHM3EyNV9MZVZ5aXlybG1Uc3NlQV9ERHFEdDRnUnBkYy1ka2t0c3FhcXVIdXdXSVVyRlN4Qkg5bng0bTRub0NNQjRweGI2bjU5ODVHbkFmWHRhd0JkaUVNaWowY1FoZlVqWmhfNW9HdC05SElhYXlQRQ?oc=5",
+      "rank": 26
+    },
+    {
+      "headline": "'Pain' - Andoni Iraola provides triple Liverpool injury update ahead of Brighton clash - Read Liverpool",
+      "summary": "'Pain' - Andoni Iraola provides triple Liverpool injury update ahead of Brighton clash Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 77,
+      "rank_score": 77.0,
+      "date": "2026-10-23",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTDhMRWZ1YU1rWUc3N3oxTHlHakdSSXJJdHZJdE5DLXhQUVlibjRpSTV2djhuOF80Y2o4U1h6blZnT1ozWldmTGE1OG52Ymg4bE5xdERZcm5fY0xyVWNkank4MzFlaUZtN2ZOeWdEdTgxazE3Q0lXeExwcmQxN2xfRlhzbkZndmZDc0NfLVFfUC1SSnc1TUxhZTFLN0YxcF9Xc3VTRGxQWTd6NjhncjdJNktPaEVVNWs?oc=5",
+      "rank": 27
+    },
+    {
+      "headline": "Injury news: Updates on Jeremie Frimpong and Dominik Szoboszlai - Liverpool FC",
+      "summary": "Injury news: Updates on Jeremie Frimpong and Dominik Szoboszlai Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 76,
+      "rank_score": 76.0,
+      "date": "2026-10-20",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPenFjVGNSdmVoT082M3dSajg3NTR4YWZfVUZNVVpSck91WDA0d25LX19qNkd4M0J4R3lBQW04c25haExZT1NlUEZUZGdBb29rdU5HU0F5N1d6bmxPM0d5TV8zXzdhSlJyNWJscUNkVDJoTEF1OEpOSVlTRExvazdBY0I3d1h0MzVZQ0JoNHppalJ1ZnpYWm5vQQ?oc=5",
+      "rank": 28
+    },
+    {
+      "headline": "Liverpool’s Jeremie Frimpong could miss next six games with hamstring injury, says Andoni Iraola - The Athletic - The New York Times",
+      "summary": "Liverpool’s Jeremie Frimpong could miss next six games with hamstring injury, says Andoni Iraola - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 76,
+      "rank_score": 76.0,
+      "date": "2026-10-19",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeFBHbjRCZ1RtZzFCQWFWS3BPY0YyYndQMHJ3akhtVXB1Y3dveGluNzNJak5td0M3ajNINlVWRDBwUk5oZllkekxCVVZqQmhkaHpRVEs3SGsyS3pWOFpsU2hBWmJ2QVFvQmtNZnExLXg0REpSYXZJODhyc1I3cmE5RWtZUzJzREJLeEVEYmtsQWRla3RqY3poRlhqNk4?oc=5",
       "rank": 29
     },
     {
-      "headline": "Fantasy Premier League: Bradley Barcola in focus and Liverpool's ones to watch - Liverpool FC",
-      "summary": "Fantasy Premier League: Bradley Barcola in focus and Liverpool's ones to watch Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
+      "headline": "The Florian Wirtz mystery: why has he not found Leverkusen form at Liverpool?",
+      "summary": "Two of our writers pick over the German’s contribution to Liverpool and what the £116m forward could yet produceSome criticism has been OTT and a fee rising to £116m heightens demands but, yes, compared with his performances in Germany and ",
+      "source": "The Guardian",
+      "credibility": 9,
       "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-10-23",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa3VNY3h5Zi1Hanp0Um9naFgzSTlWdVJDT21IZWZGWHBWWHh3WVNSSmNwVjg3U1FaYzBVRS1hYkdQUWxYcnA3QmtfVEhmVmh3bXdaZ2tNQTQ5cDVfS2ZUZFVPVmsxUjBVRTVOeGVEQ2ZYRl9nY2pVU2w1UlVua0NpemNiSGtfSXNjZGN1NWtTY3hudmM0V2wzM1Ffdw?oc=5",
+      "rank_score": 75.6,
+      "date": "2026-10-16",
+      "url": "https://www.theguardian.com/football/2026/oct/16/florian-wirtz-mystery-found-bayer-leverkusen-form-liverpool",
       "rank": 30
     }
   ],
@@ -340,7 +340,7 @@
         "meta": "LW · PSG",
         "fee": "undisclosed",
         "p": "Low",
-        "mentions": 3,
+        "mentions": 2,
         "source": "BBC Sport",
         "url": "https://www.bbc.co.uk/sport/football/articles/crwyd857p00yo?at_medium=RSS&at_campaign=rss",
         "date": "2026-10-25",
@@ -433,9 +433,12 @@
         "who": "Cody Gakpo",
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
-        "p": "High",
-        "mentions": 0,
-        "active": false
+        "p": "Low",
+        "mentions": 1,
+        "source": "Liverpool Echo",
+        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-must-now-deal-two-34797991",
+        "date": "2026-10-24",
+        "active": true
       },
       {
         "who": "Curtis Jones",
