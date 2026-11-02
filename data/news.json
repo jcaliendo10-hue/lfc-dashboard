@@ -1,28 +1,17 @@
 {
-  "updated": "02 Nov 2026 04:40 UTC",
+  "updated": "02 Nov 2026 17:51 UTC",
   "count": 30,
   "items": [
     {
-      "headline": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
-      "summary": "Iraola’s midfield has rediscovered its aggression and intensity just in time for Sunday’s visit of Arsenal to AnfieldAlexis Mac Allister found himself in a strong position to apply pressure on Liverpool over a new contract before Atlético M",
+      "headline": "Premier League: 10 talking points from the weekend’s action",
+      "summary": "Marco Rose’s tactics are lifting Bournemouth, Roméo Lavia makes progress with Chelsea and Roberto De Zerbi gives youth a chance at SpursGood defending is the mark of champions. At Anfield, where Arsenal had not won in the past 13 visits, Mi",
       "source": "The Guardian",
       "credibility": 9,
       "relevance": 100,
       "rank_score": 94.5,
-      "date": "2026-10-31",
-      "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
-      "rank": 1
-    },
-    {
-      "headline": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
-      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has been for Arsenal after signing from Aston Villa in the summer, especially in their 1-0 Premier League win against Liverpool at Anfield.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 90,
-      "rank_score": 90.0,
       "date": "2026-11-02",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&at_campaign=rss",
-      "rank": 2
+      "url": "https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action",
+      "rank": 1
     },
     {
       "headline": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
@@ -33,6 +22,17 @@
       "rank_score": 90.0,
       "date": "2026-11-01",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
+      "rank": 2
+    },
+    {
+      "headline": "Dominik Szoboszlai Injury Admission & Where He Fits in Iraola’s Midfield - Read Liverpool",
+      "summary": "Dominik Szoboszlai Injury Admission & Where He Fits in Iraola’s Midfield Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 90,
+      "rank_score": 90.0,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnhObmdGX3dJUVBwNC1JRHFLUmMyY0Y1Rkh6WGh5WHFzQTBqRWJrTzNURUJhbVoyRmxjcGtJcGlTa1Nfa1NvVUFJVHdHTzNSWFVBdWVjdG9jZXM0V21JM1RLWjdNbWRPQVNJME85REN2QTNubFNYdk9USnc3Q0lJYUpkMFQwQQ?oc=5",
       "rank": 3
     },
     {
@@ -58,6 +58,39 @@
       "rank": 5
     },
     {
+      "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
+      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 95,
+      "rank_score": 89.8,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
+      "rank": 6
+    },
+    {
+      "headline": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
+      "summary": "Iraola’s midfield has rediscovered its aggression and intensity just in time for Sunday’s visit of Arsenal to AnfieldAlexis Mac Allister found himself in a strong position to apply pressure on Liverpool over a new contract before Atlético M",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 92,
+      "rank_score": 86.9,
+      "date": "2026-10-31",
+      "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
+      "rank": 7
+    },
+    {
+      "headline": "‘We had to dig in’: Arsenal’s Anfield win was performance of champions, says Rice",
+      "summary": "Midfielder praises his side’s grit and determinationSzoboszlai says there are fine margins between sidesDeclan Rice says Arsenal are ready for more grinding wins as he hailed the 1-0 success at Liverpool on Sunday as the performance of cham",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 90,
+      "rank_score": 85.1,
+      "date": "2026-11-02",
+      "url": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-declan-rice-champions",
+      "rank": 8
+    },
+    {
       "headline": "Premier League today: How to watch, TV channels & live stream",
       "summary": "How will Liverpool and Arsenal fare today? Here is what to know, including kick-off time, TV channels and live stream optionsFive straight victories, including Wednesday’s Carabao Cup penalty shootout win over Chelsea, give the impression t",
       "source": "The Guardian",
@@ -66,7 +99,7 @@
       "rank_score": 85.1,
       "date": "2026-11-01",
       "url": "https://www.theguardian.com/football/2026/nov/01/how-to-watch-premier-league-liverpool-arsenal",
-      "rank": 6
+      "rank": 9
     },
     {
       "headline": "Anfield, intensity, rotation - how Iraola is improving Liverpool",
@@ -77,7 +110,7 @@
       "rank_score": 85.0,
       "date": "2026-11-01",
       "url": "https://www.bbc.co.uk/sport/football/articles/ckzd6217j7pgo?at_medium=RSS&at_campaign=rss",
-      "rank": 7
+      "rank": 10
     },
     {
       "headline": "Andoni Iraola tells Liverpool players to ‘go down’ after Alexander Isak denied penalty vs. Arsenal - The New York Times",
@@ -88,7 +121,7 @@
       "rank_score": 85.0,
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQR0FoZGpPXzd2SzJfRFRRX1hMaENEVTU1S19YemlnR05Mb28tNWMzU3lCS0xuSFVSV2JlbUI1T1dfb2pPVHgzWWdpYWpSOGVPTUc4b21xYW1SUFpCY2N0VFZjSGJtX0hYcGNmeHl4TWhmNGVfLW8zTTVNNmNWel8zVkZLRko3ZVNWWFhkcERzd19lTV9m?oc=5",
-      "rank": 8
+      "rank": 11
     },
     {
       "headline": "Araújo key factor in Liverpool’s improvement at set pieces, says Iraola",
@@ -99,29 +132,7 @@
       "rank_score": 82.2,
       "date": "2026-10-30",
       "url": "https://www.theguardian.com/football/2026/oct/30/araujo-key-factor-in-liverpools-improvement-at-set-pieces-says-iraola",
-      "rank": 9
-    },
-    {
-      "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
-      "summary": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 87,
-      "rank_score": 82.2,
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
-      "rank": 10
-    },
-    {
-      "headline": "Isak applies finishing touch as Liverpool bring Brighton’s winning run to an end",
-      "summary": "Brighton’s impressive run was blown off course at Anfield where Liverpool performed with an appetite and urgency at both ends of the pitch that showed Andoni Iraola’s methods taking root. It was Liverpool, deserving winners on home soil for",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 86,
-      "rank_score": 81.3,
-      "date": "2026-10-25",
-      "url": "https://www.theguardian.com/football/2026/oct/25/liverpool-brighton-premier-league-match-report",
-      "rank": 11
+      "rank": 12
     },
     {
       "headline": "Liverpool’s work in progress fizzles out in the face of streetwise champions | Andy Hunter",
@@ -132,7 +143,7 @@
       "rank_score": 80.3,
       "date": "2026-11-01",
       "url": "https://www.theguardian.com/football/2026/nov/01/liverpool-work-in-progress-fizzles-out-arsenal-premier-league",
-      "rank": 12
+      "rank": 13
     },
     {
       "headline": "Alexander Isak: Why keeping Sweden striker fit and firing is key to Andoni Iraola's Liverpool revival - Sky Sports",
@@ -143,29 +154,40 @@
       "rank_score": 80.3,
       "date": "2026-11-02",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOeEpsbFJjc2lYdzhtdmZ3TWlpZlBBUkZoZUNuU1hmQVJxN3NtMXdfYktIbTBqbzNScXo4ckpGMUdVekp3MV80YWhYVll5ZHFaX2M2ZzNkTGlRajl4SGE0WkFwMWNxSEhJY2ZCVUF0VUFaTWJpdHNjN2lCSU1MQU1fbFRZcHN1QWdPcGgtVjhIZE1ETzU3WUJZRGN6Yzh4Q2xOc09GVHdBRUdNd3kzUnVvYkhSejk5YUlVYWUwWFpIRVUxYmJSNXR5eTloMmhRNDZ3YWR0TS1XSlprYkFhUk1qQUVn?oc=5",
-      "rank": 13
+      "rank": 14
     },
     {
-      "headline": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
-      "summary": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for a pull on Alexander Isak's shirt by Arsenal defender Jurrien Timber and whether the Reds can feel hard done by.",
+      "headline": "Liverpool 0-1 Arsenal: Alexander Isak-Jurrien Timber shirt pull and Noni Madueke-Alexis Mac Allister 'headbutt' show good and bad sides of VAR - Sky Sports",
+      "summary": "Liverpool 0-1 Arsenal: Alexander Isak-Jurrien Timber shirt pull and Noni Madueke-Alexis Mac Allister 'headbutt' show good and bad sides of VAR Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSFpjaXkxVk43NjBQZzRVbFV3Wk56SVVhSzlyV2pCc1lyU1hDZmlYUktUWXBLa0VlNHQ5NWU4QW8wUWc0blVmYmNQc3JsbVRBLWYyOWVjRDhSb0p6TTZia1FYVmlpT2RPaUk3YWg1Zm44U0pQYVVQV1UxUUJlTElsVHZzVVdfR1hoQW5jNmdXTFg0cUhZSWNFaEZqZjNKZ2ZBNV90UklSems0Sl9jdmE2WU83TGp1S1JfdlJ5STlOS2VjWk02Q0FIZC02SlpsWG1jOHpwNXRDLWpJSWlLQ3NHbXlfYzNEVWFfV0p4REdJMzNxZVZ6RkxES1h1Mm1KSjQ1ZlFnRTRENEs4Rk1DSjJJNGwxbmUzTDg?oc=5",
+      "rank": 15
+    },
+    {
+      "headline": "Fabrizio Romano confirms Liverpool’s decision on re-signing Trent Alexander-Arnold - anfieldindex.com",
+      "summary": "Fabrizio Romano confirms Liverpool’s decision on re-signing Trent Alexander-Arnold anfieldindex.com",
+      "source": "anfieldindex.com",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPLVA3VWg3ZUtZdzFXWUFoVllCZTRoVS1YOTkxU3duWTZUbU52ZkdMM0tXeDI4eFI0X2g0cklEbjVXNVZSTVZFSFpyZi12ZlVSRVlDakxwUEdIWFBIb3VCcGttSUVINjJsb2xVY3V6SkRVSFVxUG9TSVl5N2taS3RaYUk2Q0pPT2tSdW82WVl2Y2xWYlBCeWI3djJ6V2RXVGZKVk9pcUozTlI1SEpzT29rODNTUFFOeU1hWWc?oc=5",
+      "rank": 16
+    },
+    {
+      "headline": "To dive or not to dive? Football's big dilemma",
+      "summary": "Liverpool feel Alexander Isak should have been awarded a penalty against Arsenal but with the striker not appealing for the decision and the VAR staying out of it, should he have made more of it?",
       "source": "BBC Sport",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-11-02",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&at_campaign=rss",
-      "rank": 14
-    },
-    {
-      "headline": "Rice relishing title race 'anxiety' after win at Liverpool",
-      "summary": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how Arsenal earned their first Premier League victory at Liverpool in 14 years.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
-      "rank": 15
+      "url": "https://www.bbc.co.uk/sport/football/articles/crvg69wn9490o?at_medium=RSS&at_campaign=rss",
+      "rank": 17
     },
     {
       "headline": "Should Alexander Isak have made more of shirt pull?",
@@ -176,7 +198,7 @@
       "rank_score": 80.0,
       "date": "2026-11-01",
       "url": "https://www.bbc.co.uk/sport/football/videos/c3x2wkkpr2veo?at_medium=RSS&at_campaign=rss",
-      "rank": 16
+      "rank": 18
     },
     {
       "headline": "I'll tell my players to dive in future - Iraola",
@@ -187,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-11-01",
       "url": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&at_campaign=rss",
-      "rank": 17
+      "rank": 19
     },
     {
       "headline": "Arsenal, Liverpool and Man Utd phone £50m midfielder over stunning transfer - Liverpool FC",
@@ -196,9 +218,31 @@
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-11-01",
+      "date": "2026-11-02",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPaUVNM1ppR0hNQnZTdEwwQnFaTHhPeW1OcWp0bFJPR3NPYkZKbUdsMUpkVnFtTmw5TlZKWDBkYzJ4R1FXRmpWc1JrTm9aT09DTzZqUndpQTVZdEpNLU5JSWNUUTRpV1Axd3dHTS05LUpyaHExQ2VlUEZFQ2stM1NBLXdrcW1rdGJvMHlhRjlFWm43YVk5aEp3SkVOcnZRcmpzdG5LaUJtS3hQUQ?oc=5",
-      "rank": 18
+      "rank": 20
+    },
+    {
+      "headline": "Liverpool ready to pay €50m to sign Chelsea transfer target in January - Read Liverpool",
+      "summary": "Liverpool ready to pay €50m to sign Chelsea transfer target in January Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQi1OQmFPczZtcnplWkhwS2YyTnQ5UHV0Z1Q1X2UtRzkzYTg4TzFmX25MLUQwWG1INUlWWktzcDFDSHJnTzE2V1I3SkVaS0l5aFFTV2tYbHFkeTEwSHc4cUc5QkxCWmxCNklaZU00WVVCZmRINXJIT2VQSTZiajFSR1c0bHVRS3RhRURiblBVSGZoNy1nTFZiQWdBMXJ4cXNFOWJnQl9UNA?oc=5",
+      "rank": 21
+    },
+    {
+      "headline": "'Big decision' - Fabrizio Romano makes massive Trent Alexander-Arnold to Liverpool transfer claim - Read Liverpool",
+      "summary": "'Big decision' - Fabrizio Romano makes massive Trent Alexander-Arnold to Liverpool transfer claim Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTZqQWNOVUlPR3lDS0htVmdLNTZ6VzNRZ3dxaUxyRlYtQzl5dWZFekk3OFRWNGdwdW1QbkZZczJnRUFXNzAxbUN5YTN0LW5mVzA4UjJpZ0FLenAzZVdOMEVNVl9nRmgwSHYzV09ld1cwQm14bjZoUC14VVN6dmhpbTg2aWxPVHN6R1hRZ2U5a2Y3SGVjay1seHJya0IwQVRwSm11RFBmU29neUJTSXFRRHVrTnRBTUNLZ2FTZHhFZURrajhiamc?oc=5",
+      "rank": 22
     },
     {
       "headline": "Andoni Iraola's press conference after Liverpool's defeat by Arsenal - Liverpool FC",
@@ -209,7 +253,7 @@
       "rank_score": 80.0,
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMmx5OXYtaS1IOXpoSDkzM3NGUUNENm5YQ0VfNi04NjBrTjZjdmQzck1yNWFfNFc3dkoxa05VQlNGeUlidGFCNUpLeFJ4WWxpMjV1bmtCY0tpUVY4SzdlX3JLendCaUh2OEFVeGdqOWRYVTQxMnRLTWRPSHZvSVpJdDU2bURvTFprNVNBTC11YkRDUnVQaVhibXpXTmZwbjVM?oc=5",
-      "rank": 19
+      "rank": 23
     },
     {
       "headline": "Andoni Iraola programme notes | 'We are building momentum together - let's continue today' - Liverpool FC",
@@ -220,29 +264,18 @@
       "rank_score": 80.0,
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbUs4LV80UUhLQlRRNjJ3cjFzVDZMbTQ3NmhPa254RlBHSDZpWENVWmFiLVgxU2tOWDBzY3lxb1dYSzlKVFZXWEpOTGd2a2RQTE5paGk0N2s5LXYxbk5pNms1ZU9kdzBVenlVRUxnM1VYRmxxa2FHejFraUlTbEVqRmhWaXAtYkRvbDNWcm1EeUplNkZlcVc4bURXSldJNTg?oc=5",
-      "rank": 20
+      "rank": 24
     },
     {
-      "headline": "Press conference | Watch Andoni Iraola's assessment of Liverpool 0-1 Arsenal - Liverpool FC",
-      "summary": "Press conference | Watch Andoni Iraola's assessment of Liverpool 0-1 Arsenal Liverpool FC",
+      "headline": "Andoni Iraola's post-Arsenal press conference - Liverpool FC",
+      "summary": "Andoni Iraola's post-Arsenal press conference Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPX29oWURsQ3NxejlTbGh3NUg2UlJSTDJOcTlOa2t5ZXRKd05xdmpjMUd3VDFVNnk4SjVWT3FUZFpnVzRkLTkzRXV4dzNuMjFQLTZYYThFVVRfUXZXeHN5Zzh2WVZSaUJpQ1JsRXVKWDlfNnpldzEtcmJBRVl5MGR5eklYOHBzWEFhM3JwTkJQdm44YjdYTlRqbTNQeXU2MzlzR3QwZQ?oc=5",
-      "rank": 21
-    },
-    {
-      "headline": "Match report: Liverpool narrowly beaten by Arsenal at Anfield - Liverpool FC",
-      "summary": "Match report: Liverpool narrowly beaten by Arsenal at Anfield Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN05WZnFWZ2dIMERjTXY0R0RlNUxadTNPN1RudER0eUJfbHRTcGtaSHh1ZGRvcF93WVNyREVHRkRDRFZ1bHNZMmFXOXB4WE15NDFyeXVCZnJGOUg0NzRRdmJxeXIwc1pfWEVmMmF6WVVCWGQ1NE9GcEFnZlJKMjVvRDFtaDl2eTRvOE00Qng0OVYxczNmd3NR?oc=5",
-      "rank": 22
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQjdZLXlhT0VIYU0tRklraXBiMDQwX0diV1c3NGZmdUI5X19SVGJ5U0tqUEJidzUwU2Fka0hXUG5Ec3pGU3BiR2pydlJtNlZhaERYWllaUGE4TXBQN2pSODQ2aGYxcC1sTGtaUFEzeTB0bWpRODRkUHloenpJYzRSbGxycEc?oc=5",
+      "rank": 25
     },
     {
       "headline": "Andoni Iraola: Liverpool boss says he will tell his players to dive in future - BBC",
@@ -253,83 +286,50 @@
       "rank_score": 80.0,
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5nZnMyeGJxTE4yNDZPZW9udDBOTlpDWGNSbDBnWVlDSFpOaVpUdTNNanBnSF9Rbk8wZkFpa1VuUVpabzZXSENWS1Q0UmNIa1VneURPYlN2Y281Njd3d3BTOUd2UkoyRUlGTVJj?oc=5",
-      "rank": 23
+      "rank": 26
     },
     {
-      "headline": "Liverpool 0 Arsenal 1: What does this mean for title race? Why wasn’t shirt-pull on Isak a pen? - The New York Times",
-      "summary": "Liverpool 0 Arsenal 1: What does this mean for title race? Why wasn’t shirt-pull on Isak a pen? The New York Times",
+      "headline": "‘Lost control’ – Daniel Sturridge pinpoints big Andoni Iraola blunder for Liverpool - Read Liverpool",
+      "summary": "‘Lost control’ – Daniel Sturridge pinpoints big Andoni Iraola blunder for Liverpool Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-02",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNHB5T0t3YnJudHcxaWViZkdKZlNpTnZ4SkliQW5ReGxMcWluZ3dmWUpHV1ZXcG5WYjVLbVVuRUJsSVQzSFhoMDRaQ2JHSEh5NDBxamsyZTFzdzdIaWdHRDJoNXk0YVdXUGJSTDJ2WDJiWDJMRGNZbmJlblpXbldYRTI1a042bkpmc3RRVnVIdnRUMmlPZHJ4emt2SUVib3Y4MGlpemh0WjlzY2loenozTzZrSQ?oc=5",
+      "rank": 27
+    },
+    {
+      "headline": "Liverpool 0 Arsenal 1: What does this mean for title race? Why wasn’t shirt-pull on Isak a pen? - The Athletic - The New York Times",
+      "summary": "Liverpool 0 Arsenal 1: What does this mean for title race? Why wasn’t shirt-pull on Isak a pen? - The Athletic The New York Times",
       "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-11-01",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNUViWGZwclNpNHNpRmZyMnRCdzh2VDBjREU5ZVdjVW1YNDVpMmtOTWE5b2J4cGJvYmd5XzFWM09YM0QwRWtaLXFvMHpsUEFvTm5pa3pta05pUkJUMkdtblZycDlkb0VTU2lEMFRKQUgyRHBkWE9vNGo0RWFXM2otdVlibmhzRkpfRFAzWWRrdlV2c1B3?oc=5",
-      "rank": 24
+      "rank": 28
     },
     {
-      "headline": "Why Liverpool are in love with Ronald Araujo: Garra charrua, floor headers and Anfield difference - The New York Times",
-      "summary": "Why Liverpool are in love with Ronald Araujo: Garra charrua, floor headers and Anfield difference The New York Times",
-      "source": "The New York Times",
+      "headline": "Match report: Liverpool narrowly beaten by Arsenal at Anfield - Liverpool FC",
+      "summary": "Match report: Liverpool narrowly beaten by Arsenal at Anfield Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-11-01",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPREVVRGhzcTZETHI5aDlvcHpUTVdObW10NlRWMm93c3NQalBqajRRLURKQUtyZnhPTUNmXzNhbXJyemhxczRIN3ZJcWE3WGZDMHN6Ul9LbVNORFl0UW9nRnE5OWVOd0ZoRW5vdWRnVGZScF9paWxnMGxmNHZfZ2t0ak9GMy1MWVNVemNQY2U3Z1E3OTA?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "Liverpool 0 Arsenal 1 LIVE - Virgil van Dijk and Andoni Iraola slam penalty decision",
-      "summary": "Live coverage of the huge Premier League clash at Anfield as the two past two champions Liverpool and Arsenal go head to head",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 95,
-      "rank_score": 79.3,
-      "date": "2026-11-01",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-arsenal-live-stream-score-34840526",
-      "rank": 26
-    },
-    {
-      "headline": "Dominik Szoboszlai and Victor Munoz arrive with Liverpool squad for Arsenal game in huge boost",
-      "summary": "Liverpool boss Andoni Iraola appears to have received a boost ahead of facing Arsenal in a huge Premier League clash at Anfield",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 95,
-      "rank_score": 79.3,
-      "date": "2026-11-01",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/breaking-liverpool-arsenal-team-news-34846534",
-      "rank": 27
-    },
-    {
-      "headline": "14 players could miss Liverpool vs Arsenal after Andoni Iraola injury update",
-      "summary": "Liverpool have the chance to close the gap on Arsenal in the Premier League table when they meet at Anfield this afternoon",
-      "source": "Liverpool Echo",
-      "credibility": 7,
-      "relevance": 95,
-      "rank_score": 79.3,
-      "date": "2026-11-01",
-      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-arsenal-injury-news-latest-34845908",
-      "rank": 28
-    },
-    {
-      "headline": "Are Liverpool in the title race? Their match against Arsenal will tell us a lot",
-      "summary": "Andoni Iraola’s team have shot up the table after a slow start but they are still not scoring enough goalsBy WhoScoredEvery Liverpool win this season seems to come with an asterisk. Yes, they beat Brentford, but Brentford had a man sent off",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 82,
-      "rank_score": 77.5,
-      "date": "2026-10-30",
-      "url": "https://www.theguardian.com/football/who-scored-blog/2026/oct/30/liverpool-matches-title-contenders-andoni-iraola-arsenal",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN05WZnFWZ2dIMERjTXY0R0RlNUxadTNPN1RudER0eUJfbHRTcGtaSHh1ZGRvcF93WVNyREVHRkRDRFZ1bHNZMmFXOXB4WE15NDFyeXVCZnJGOUg0NzRRdmJxeXIwc1pfWEVmMmF6WVVCWGQ1NE9GcEFnZlJKMjVvRDFtaDl2eTRvOE00Qng0OVYxczNmd3NR?oc=5",
       "rank": 29
     },
     {
-      "headline": "Ryan Gravenberch backed by Andoni Iraola to refind best Liverpool form: ‘We trust him’ - The New York Times",
-      "summary": "Ryan Gravenberch backed by Andoni Iraola to refind best Liverpool form: ‘We trust him’ The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-10-30",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQcDB1NnVsWGhTSGxJMjR1aU12TzMtajZxYXhqLUw0elJTSnYtSkR3M0cySkk0WmFPV01pejJTQXN0WndGS09CNUl6bTdJaHFwX2VTLWhNUUlYcDRtZFl3V1pWYW9wbnR4UTVpZ1lPSl8wWTBlMWlBR3RNVHF4RkUwSjR4MEc3dWUxbTJXWWFYSnRydmx3eU9FUUl2aVozVk0?oc=5",
+      "headline": "Ryan Gravenberch future intrigue grows at Liverpool after Andoni Iraola decision",
+      "summary": "Liverpool midfielder Ryan Gravenberch failed to even get off the bench for the Premier League clash against Arsenal at Anfield on Sunday afternoon",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-11-02",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/ryan-gravenberch-future-intrigue-grows-34848655",
       "rank": 30
     }
   ],
@@ -390,6 +390,19 @@
         "p": "Low",
         "mentions": 0,
         "active": false
+      },
+      {
+        "who": "Trent Alexander-Arnold",
+        "meta": "Emerging link · 4 reports across 2 outlets",
+        "fee": "undisclosed",
+        "p": "Low",
+        "mentions": 4,
+        "outlets": 2,
+        "source": "Read Liverpool",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUTZqQWNOVUlPR3lDS0htVmdLNTZ6VzNRZ3dxaUxyRlYtQzl5dWZFekk3OFRWNGdwdW1QbkZZczJnRUFXNzAxbUN5YTN0LW5mVzA4UjJpZ0FLenAzZVdOMEVNVl9nRmgwSHYzV09ld1cwQm14bjZoUC14VVN6dmhpbTg2aWxPVHN6R1hRZ2U5a2Y3SGVjay1seHJya0IwQVRwSm11RFBmU29neUJTSXFRRHVrTnRBTUNLZ2FTZHhFZURrajhiamc?oc=5",
+        "date": "2026-11-02",
+        "active": true,
+        "discovered": true
       }
     ],
     "out": [
@@ -398,21 +411,10 @@
         "meta": "CM · Real/Atlético links",
         "fee": "undisclosed",
         "p": "Low",
-        "mentions": 1,
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
-        "date": "2026-10-31",
-        "active": true
-      },
-      {
-        "who": "Virgil van Dijk",
-        "meta": "CB · Galatasaray interest",
-        "fee": "low/free",
-        "p": "Low",
-        "mentions": 1,
-        "source": "Liverpool Echo",
-        "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-arsenal-live-stream-score-34840526",
-        "date": "2026-11-01",
+        "mentions": 2,
+        "source": "Sky Sports",
+        "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPSFpjaXkxVk43NjBQZzRVbFV3Wk56SVVhSzlyV2pCc1lyU1hDZmlYUktUWXBLa0VlNHQ5NWU4QW8wUWc0blVmYmNQc3JsbVRBLWYyOWVjRDhSb0p6TTZia1FYVmlpT2RPaUk3YWg1Zm44U0pQYVVQV1UxUUJlTElsVHZzVVdfR1hoQW5jNmdXTFg0cUhZSWNFaEZqZjNKZ2ZBNV90UklSems0Sl9jdmE2WU83TGp1S1JfdlJ5STlOS2VjWk02Q0FIZC02SlpsWG1jOHpwNXRDLWpJSWlLQ3NHbXlfYzNEVWFfV0p4REdJMzNxZVZ6RkxES1h1Mm1KSjQ1ZlFnRTRENEs4Rk1DSjJJNGwxbmUzTDg?oc=5",
+        "date": "2026-11-02",
         "active": true
       },
       {
@@ -436,6 +438,14 @@
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
         "mentions": 0,
         "active": false
       },
