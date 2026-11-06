@@ -1,5 +1,5 @@
 {
-  "updated": "06 Nov 2026 11:50 UTC",
+  "updated": "06 Nov 2026 18:56 UTC",
   "count": 30,
   "items": [
     {
@@ -14,14 +14,14 @@
       "rank": 1
     },
     {
-      "headline": "Stumbling block: Wirtz's and Liverpool’s costly struggles against tight defences | Andrew Beasley",
-      "summary": "Credit to Arsenal for restricting opportunities at Anfield but Iraola will need his side to learn to unpick low backlinesLiverpool did not have a shot on target in their 1-0 defeat by Arsenal on Sunday, according to Opta, the first time the",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 92,
-      "rank_score": 86.9,
-      "date": "2026-11-02",
-      "url": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
+      "headline": "'Close to a guarantee' - Andoni Iraola on Alexander Isak's goalscoring form - Liverpool FC",
+      "summary": "'Close to a guarantee' - Andoni Iraola on Alexander Isak's goalscoring form Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNaGhuSHYwMUVKZ3pqRDFnbGZzTlkzOVhoSW5PZ1VYU3RETlFObHg2ZHZxRkUxNlQwTlo4ckdCenRJeEFBZ1VBX3YwcV9mMHdWdnhGNS1yRksyYjNzZ2ZsMDZud3JocTBnNHJLbUNVTHllZFNFOTlNbU41XzdURE1BY28xd1hudVFaME1rRU5IVnhUM0htOFAyc19WNEVmcGRrTlBtSA?oc=5",
       "rank": 2
     },
     {
@@ -58,6 +58,17 @@
       "rank": 5
     },
     {
+      "headline": "Stumbling block: Wirtz's and Liverpool’s costly struggles against tight defences | Andrew Beasley",
+      "summary": "Credit to Arsenal for restricting opportunities at Anfield but Iraola will need his side to learn to unpick low backlinesLiverpool did not have a shot on target in their 1-0 defeat by Arsenal on Sunday, according to Opta, the first time the",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 86,
+      "rank_score": 81.3,
+      "date": "2026-11-02",
+      "url": "https://www.theguardian.com/football/2026/nov/02/florian-wirtz-andoni-iraola-liverpool-tight-defences-arsenal-anfield",
+      "rank": 6
+    },
+    {
       "headline": "Premier League: 10 talking points from the weekend’s action",
       "summary": "Marco Rose’s tactics are lifting Bournemouth, Roméo Lavia makes progress with Chelsea and Roberto De Zerbi gives youth a chance at SpursGood defending is the mark of champions. At Anfield, where Arsenal had not won in the past 13 visits, Mi",
       "source": "The Guardian",
@@ -66,7 +77,7 @@
       "rank_score": 81.3,
       "date": "2026-11-02",
       "url": "https://www.theguardian.com/football/2026/nov/02/premier-league-10-talking-points-from-the-weekends-action",
-      "rank": 6
+      "rank": 7
     },
     {
       "headline": "No big deal: how Mac Allister shook off contract doubts to fire Liverpool’s revival",
@@ -77,7 +88,40 @@
       "rank_score": 81.3,
       "date": "2026-10-31",
       "url": "https://www.theguardian.com/football/2026/oct/31/how-alexis-mac-allister-shook-off-contract-doubts-liverpool-revival",
-      "rank": 7
+      "rank": 8
+    },
+    {
+      "headline": "Liverpool: Andoni Iraola demands creativity over control to solve Premier League scoring problems - Sky Sports",
+      "summary": "Liverpool: Andoni Iraola demands creativity over control to solve Premier League scoring problems Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeTdub1JXTmx3bldZNlpWTTU1YjlmMU9taVB5WEcyaFNILWNNWC1pUVJxdVRJMVNRTV9PUFdNUXZaeTh3UWgzbmJYWDEwb0lXZGs2QzAxbzFmdTFaUzJsRTduNC1TRlVjeWhIc0NiZzZYUkNWcTRtQ1ZVcUtiTnFXcy03Y0d2R19WTDJTY29BeXRVd3hVZzlTQm5XUDdjME9TOXN3X2JSNEFEQ05YbEJhZW1Fam5CeFVyMUhtZ2MyVmF2dVBBM0VVNklqOVBRT0Z0enQ0SURGbVBoUmNVMFE?oc=5",
+      "rank": 9
+    },
+    {
+      "headline": "Andoni Iraola admits to Liverpool's Premier League 'challenge' ahead of clash with Crystal Palace - Sky Sports",
+      "summary": "Andoni Iraola admits to Liverpool's Premier League 'challenge' ahead of clash with Crystal Palace Sky Sports",
+      "source": "Sky Sports",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPOXhPWnZqMUkxajVjV2RwTnQxU2lWaWM4MmVDV3Z6ekluWXdjY1Q5aGo1dkpYbTJXeERFem92bHNoZFU3S1E5M3NBQVByZ0FRd2NGQjJzQm9SMmI4di1iYVFsT3NsOHVpaV85RmxNMkdwa3B4OWpZbVRzYlZjWVhybnN3c3FDU3NUYm52YWp0dDNpNWxpOEhaMzdFTURnS0RUblNoZmFFYmJETzBRb3daMFBqZlpMSFI0S2p6TVZn?oc=5",
+      "rank": 10
+    },
+    {
+      "headline": "Sometimes we're too honest - Liverpool's Iraola",
+      "summary": "Liverpool Head Coach Andoni Iraola says his team are sometimes 'too honest' as they prepare to play Crystal Palace at Selhurst Park on Sunday.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-06",
+      "url": "https://www.bbc.co.uk/sport/football/videos/c6n8ddjjj935o?at_medium=RSS&at_campaign=rss",
+      "rank": 11
     },
     {
       "headline": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
@@ -88,7 +132,7 @@
       "rank_score": 80.0,
       "date": "2026-11-05",
       "url": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&at_campaign=rss",
-      "rank": 8
+      "rank": 12
     },
     {
       "headline": "Why Iraola's Liverpool are still a work in progress",
@@ -99,7 +143,7 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://www.bbc.co.uk/sport/football/videos/c9rky37kx37lo?at_medium=RSS&at_campaign=rss",
-      "rank": 9
+      "rank": 13
     },
     {
       "headline": "Squad rotation not the 'main reason' for Liverpool's defeat",
@@ -110,7 +154,18 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://www.bbc.co.uk/sport/football/videos/cjn5vd10v9g3o?at_medium=RSS&at_campaign=rss",
-      "rank": 10
+      "rank": 14
+    },
+    {
+      "headline": "'Now we have to react' - Andoni Iraola's pre-Crystal Palace press conference - Liverpool FC",
+      "summary": "'Now we have to react' - Andoni Iraola's pre-Crystal Palace press conference Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUdoR1NMNzlTQkY3bHVJWjdXb3ZkSDNrY1YyT1hFN3dNVzNKajBTbnp2akN0QllFVHBWemtQa2ZYdlRyQWJXVlRNVmxTeE1MWGVwempESmtnS2ZhYmtSak1DdTZ1LXloalhGR0ZSUzNVOHU5M2lpMWY2QTI2RldPSVVUUVpqLXRwc1E?oc=5",
+      "rank": 15
     },
     {
       "headline": "Andoni Iraola press conference: Reaction to Fenerbahce 3-2 Liverpool - Liverpool FC",
@@ -121,18 +176,29 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMGtzRXN5OFdLbmxFOEkwaUhlZnkzeWxJSlU5ZURRd2Z2eGxoVmloWVo3Q24ySGpmdmVwMUdDRFphanJLUjRtMjBveU5laFV4UmtPcFhOUDRhS1VmQndneXQwb0ttdmRsS1g5VVFwYUhyTFZOVEh6Ni1rXzdBYjJ6bkdLN2dFaVZDQWRHVWhrR0pxdUprS0E?oc=5",
-      "rank": 11
+      "rank": 16
     },
     {
-      "headline": "Live on Friday: Watch Andoni Iraola's pre-Crystal Palace press conference - Liverpool FC",
-      "summary": "Live on Friday: Watch Andoni Iraola's pre-Crystal Palace press conference Liverpool FC",
+      "headline": "1.30pm GMT: Watch Andoni Iraola's pre-Crystal Palace press conference live - Liverpool FC",
+      "summary": "1.30pm GMT: Watch Andoni Iraola's pre-Crystal Palace press conference live Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVGtmWWk4V0tUaEl0TGVxQWx2UWt0ZzAtUGxaam1RbGdkbGI5QmswcGFoLU9mUG9CV3p4VlIxZUg5U0RLX3htVHkzUFdTMlROMkVEZ2hybUFLLU5XbmszenBpRmNINzN3Z2ZYREt4aWxhNTJGQkQzZjdCV3BaNkF6Z0pHZnRKODdsR1dKTmF2SHBuUQ?oc=5",
-      "rank": 12
+      "rank": 17
+    },
+    {
+      "headline": "Ryan Gravenberch fitness latest - Liverpool FC",
+      "summary": "Ryan Gravenberch fitness latest Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNWNUbUZxb2xtUnZ2SXQtanlRLXhrLVlERDhWLW5RNjljZHJhVl9jaEdvNFRYcEVISnBWM1JzSHJJVFI0allrb05yRkY0OE5RNTgxOWdzdC0wdGdkWWpvUk9CenVMY0ZkcWZsVGdpZjNydWhyN1dPYWFtQmJ4MnBZUi1IU0I4Tnp3RE5sUl81dw?oc=5",
+      "rank": 18
     },
     {
       "headline": "Video: Andoni Iraola's press conference after Fenerbahce 3-2 Liverpool - Liverpool FC",
@@ -143,7 +209,18 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQb2pueTJvREMyNFBrOVMyaUg4c0p6Q3BwNjhld0xiUlpyN1l1WHVNSWNkeEhNX203TWdUVEIybTN3YThHX25qdUt2MFUyWEtiWk1CdWtiX0ZLSU9ub0VpUkJIOFRmYTBjWVl4Q2dkRlNEcGFtbDJGZ3J5NEZiUlh2NG1rVG9td3hUTjQyeDI5MGZ3bExjZWNsNjJQdm03UQ?oc=5",
-      "rank": 13
+      "rank": 19
+    },
+    {
+      "headline": "Andoni Iraola believes Liverpool must take more risks to improve attacking numbers - The New York Times",
+      "summary": "Andoni Iraola believes Liverpool must take more risks to improve attacking numbers The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-06",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUF3T0RuUU02VE1FOXpkYW1iU05odUhkUGhud0Rjck9pWmJQdTctUDl3eXJHNEEzUi1OVkt3LUlBb2tTc2N6eE5waFlweTBhakVVOHJmQXhQRkVpZUpnWjhHM0N3cVBXRGdLR0hzWi1xbHoxZjB5bjJHWTNrM3loY25Hc3ZCNExpV01qSmptaHdUWHpXb293?oc=5",
+      "rank": 20
     },
     {
       "headline": "Fenerbahce stun Liverpool. A failed Barcola experiment, and where was Iraola’s defence? - The Athletic - The New York Times",
@@ -154,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdWxRc09kVW53aUJUWEd3TkdPTndKbDliamhyTXNoMVhYUjd1WHFkdWlTTXVJMG4tczJpeVJKeFJCSGcxY0o4X2Z0Yi1tUk5yM0txUXFUby1vVWR1QzNyNGo2bjNBMi0ydi1hRVJWanFzSUQwZmN2dGstTU1oVU1fdlFTSHdhbWtGTzJaMFFZeTBjVm5OTm9mLTNaMHdJUUxESmFWVWg2d2liNTFwNVpfNGdXRmc?oc=5",
-      "rank": 14
+      "rank": 21
     },
     {
       "headline": "'Disappointed' - Alexander Isak's verdict after Liverpool's defeat at Fenerbahce - Liverpool FC",
@@ -165,7 +242,7 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMGdKMTg2RmYtSGZuS0E3YjFzRHNYVEt0TG5tLUNfTTlKQlR2Um9jT212RTlDMzlRUTkxR1M3dlh5a3hFWEc2Z1cwRUk0YS00NmtoVlBBYnl3ZmRoaWhLMDR1M3EzZWUta29QQzN4ZGtPX0dqNlBQeXNTNVZ6QzFSZExWak9BVVNhckZ4dTh4Y2xuMDRvNUM4T3JR?oc=5",
-      "rank": 15
+      "rank": 22
     },
     {
       "headline": "‘We Need To Get Back’ — Isak Insists Liverpool Slump Is Only a Wobble - Read Liverpool",
@@ -176,7 +253,18 @@
       "rank_score": 80.0,
       "date": "2026-11-04",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOOGdJZnZwV3hpU2ZabkxzVFhOOHdQRFFyS0w3dEptOHh0aDhfMW5lTEQxdC15X2tTaTlIaGxYSGJwZ0xuZ2JFUm5yS0ZYV0hhdXRiaXB3OENkMUdEY0VQdnRCbElkVWJUZzNNbWZYVW42SW8xZFFYaE03YVh2R3JUNlFYSnZqdjdDY25UeG90cGtqNHhtejNfc0dLRUtDN0pOaDdyTWxpTDZDVF9wak5MbVg4TVcwUQ?oc=5",
-      "rank": 16
+      "rank": 23
+    },
+    {
+      "headline": "Liverpool FC Legends to face Inter Legends at Anfield in March 2027 - Liverpool FC",
+      "summary": "Liverpool FC Legends to face Inter Legends at Anfield in March 2027 Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-05",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORGxiVUJCWUdWUXpKbGVNSk5ETklzeFp1d3Zqd2ZXZzMyaHcyTW5rWi04S0NLMVpWNTdzQTlLZGd4UUJCV3k0Z0Q0eXNzdlVZc0luem0xeUJ5cnZLRl9EVVdyQ3JfMjZ6b1RYakpla0V1d09odm5rTnlGM3BOVHU1Zjl4aEdJWGtfYnI5blZicVFZQ3A5UDBaSThDTXRYbG1MT2c?oc=5",
+      "rank": 24
     },
     {
       "headline": "‘Surprise’ – David Ornstein makes fresh claim on Virgil van Dijk’s Liverpool future - Read Liverpool",
@@ -187,7 +275,18 @@
       "rank_score": 80.0,
       "date": "2026-11-05",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM3RxV0cycmNoaHkwbHU2N3hOUEktV2hzWFlJeHNIMElxUWFtQW03UUpnbnd3azZSdlhGaUNSdWFLUUlBTy1mbV96UGs1NElEd0VPRHFxazJZOGNGdjY4ZS12clAtemozb2R5QnhvRXI3S0JaOVZRclZKWTNKYjdwNzJUOURVNmo0dk1oZzF5OWZCMFNIQnRVV2lDakFBTXFVYk1VUFB2QVNtbWx6REU0bEV3?oc=5",
-      "rank": 17
+      "rank": 25
+    },
+    {
+      "headline": "Andoni Iraola press conference LIVE - Ryan Gravenberch and Liverpool injury news for Crystal Palace",
+      "summary": "Live coverage of Liverpool head coach Andoni Iraola's press conference at the AXA Training Centre to preview the Premier League match at Crystal Palace",
+      "source": "Liverpool Echo",
+      "credibility": 7,
+      "relevance": 95,
+      "rank_score": 79.3,
+      "date": "2026-11-06",
+      "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/iraola-press-conference-live-stream-34872948",
+      "rank": 26
     },
     {
       "headline": "Alisson and Virgil van Dijk concerns cannot be ignored as Liverpool face transfer decision",
@@ -198,18 +297,7 @@
       "rank_score": 79.3,
       "date": "2026-11-05",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/alisson-virgil-van-dijk-concerns-34866811",
-      "rank": 18
-    },
-    {
-      "headline": "‘We had to dig in’: Arsenal’s Anfield win was performance of champions, says Rice",
-      "summary": "Midfielder praises his side’s grit and determinationSzoboszlai says there are fine margins between teamsDeclan Rice says Arsenal are ready for more grinding wins as he hailed the 1-0 success at Liverpool on Sunday as the performance of cham",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 82,
-      "rank_score": 77.5,
-      "date": "2026-11-02",
-      "url": "https://www.theguardian.com/football/2026/nov/02/arsenal-liverpool-declan-rice-champions",
-      "rank": 19
+      "rank": 27
     },
     {
       "headline": "Maybe we should dive more - Gakpo",
@@ -220,18 +308,7 @@
       "rank_score": 77.0,
       "date": "2026-11-03",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmx23kzw4k65o?at_medium=RSS&at_campaign=rss",
-      "rank": 20
-    },
-    {
-      "headline": "Liverpool midfielder in advanced negotiations over new contract after impressing Andoni Iraola - Read Liverpool",
-      "summary": "Liverpool midfielder in advanced negotiations over new contract after impressing Andoni Iraola Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOVpOWTh2S0JESEp6b0tZZFh0UUlBY0hCS2JmRURfWU0waGhWVEpGUGg5UkRkb3k0UFlKTFM4VU8yb3Y3cGt6NGRXYnlEZzcwdnhHa0tQNENwdnIzUk84dHluYld1MjBCUGFnb181Ri1VZnlvdkMtT2pIaG8weUlEVWRLNFRGVHRfT0ZsX1FlM0JmUldDUm5GdThveVNWaGY5SnVnZm52UkV4ajgwNGVaLUNYNGUzUFRNUXUxekJlZXp6OWtENUdj?oc=5",
-      "rank": 21
+      "rank": 28
     },
     {
       "headline": "Ryan Gravenberch injury update - Liverpool FC",
@@ -242,7 +319,7 @@
       "rank_score": 77.0,
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE92WGxaMnNjNktKX1VyQVdfSVBucFJSaGtheUhrdkdVRFZGUElPRlVhdm1fNmhZOWZFeF9IQU1qQ055SkQ2TlNIaUhFU0pFcFpmM2l5MXFtUkJpNFR4QmpQUVVqZFlWWVhrNjB6Rkx3cjg?oc=5",
-      "rank": 22
+      "rank": 29
     },
     {
       "headline": "Gakpo and Iraola's pre-Fenerbahce press conference - Liverpool FC",
@@ -253,83 +330,6 @@
       "rank_score": 77.0,
       "date": "2026-11-03",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTDRtSjExd1dRVnhpd0phand2VzU2NmVUNE5XZ3NGVi02QkpYcmRzV3JUZEdCd2tLT3A2TFgzT0FpZU1Ed29XNW01N0FRanROa3AtSEwxMnRDRUhRbEhDUF9aLV9PLXJ6OUgwdWcxWkFrMWNDNk1XbGhLVTlEdGxFdmxieXA?oc=5",
-      "rank": 23
-    },
-    {
-      "headline": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
-      "summary": "Manager rues two dismissed penalty claims by refereeIraola complains ‘if you don’t go down, you don’t call it’Andoni Iraola said he will instruct Liverpool players to go down in the box in future after Alexander Isak was denied a penalty du",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 81,
-      "rank_score": 76.5,
-      "date": "2026-11-01",
-      "url": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
-      "rank": 24
-    },
-    {
-      "headline": "Liverpool 0-1 Arsenal: Premier League – as it happened",
-      "summary": "Kai Havertz’s goal was enough to give Arsenal their first win at Anfield since September 2012 and take them three points clear at the top of the tableSo where is the game? Liverpool will look to get men around the ball when Arsenal have it,",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 81,
-      "rank_score": 76.5,
-      "date": "2026-11-01",
-      "url": "https://www.theguardian.com/football/live/2026/nov/01/liverpool-v-arsenal-premier-league-live",
-      "rank": 25
-    },
-    {
-      "headline": "Araújo key factor in Liverpool’s improvement at set pieces, says Iraola",
-      "summary": "Reds yet to concede set-piece goal in Premier LeagueSzoboszlai and Muñoz could return for Arsenal gameAndoni Iraola has cited Ronald Araújo as a key factor in Liverpool’s improvement at set pieces but admitted Arsenal pose the “biggest chal",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 81,
-      "rank_score": 76.5,
-      "date": "2026-10-30",
-      "url": "https://www.theguardian.com/football/2026/oct/30/araujo-key-factor-in-liverpools-improvement-at-set-pieces-says-iraola",
-      "rank": 26
-    },
-    {
-      "headline": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
-      "summary": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the champions of the past two seasons went head to head.",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 76,
-      "rank_score": 76.0,
-      "date": "2026-11-01",
-      "url": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&at_campaign=rss",
-      "rank": 27
-    },
-    {
-      "headline": "Muriqi caps Fenerbahce comeback to make Liverpool pay for defensive lapses",
-      "summary": "Andoni Iraola arrived in Istanbul seeking improvement from Liverpool’s attack but departed with sudden cause for concern at the opposite end of the pitch. Fenerbahce ignited Dirk Kuyt’s interim spell with a tumultuous victory after Liverpoo",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-11-04",
-      "url": "https://www.theguardian.com/football/2026/nov/04/muriqi-caps-fenerbahce-comeback-to-make-liverpool-pay-for-defensive-lapses",
-      "rank": 28
-    },
-    {
-      "headline": "Fenerbahce 3-2 Liverpool: Andoni Iraola left frustrated after 'messy goal's' conceded in Istanbul - Sky Sports",
-      "summary": "Fenerbahce 3-2 Liverpool: Andoni Iraola left frustrated after 'messy goal's' conceded in Istanbul Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-11-04",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNLUZWVDZZYzlXZS1SYzlpTmhqOUdUWE1mTWl2VmNnQmJqXzdRa0FZZGRaY0tSTjFrNWNUT1dndXdSa0xLNl82d1ZvYThEVjliS0ZSeUlGb29xU1EzLW41YmUxUjZHai13WEh6T1l0VDlPdW5OUUp2dXVyQkZwY0psNEFZS21WSTM1eTZBaHdCVS1zRk9hSFJFdjdvRkRzUmxEc01POXJKcURKOVNiR0J3S2xnbFpKdTRQb2VCcDc3VXdXUFdjTFVFc016Y1piWHhibkE1NWpDZ1ZCMTQ?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Fenerbahce 3-2 Liverpool: Andoni Iraola's side lose two leads in Istanbul as perfect Champions League start ends - Sky Sports",
-      "summary": "Fenerbahce 3-2 Liverpool: Andoni Iraola's side lose two leads in Istanbul as perfect Champions League start ends Sky Sports",
-      "source": "Sky Sports",
-      "credibility": 9,
-      "relevance": 80,
-      "rank_score": 75.6,
-      "date": "2026-11-05",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQb1Qwc3Z1X1dlUGhHdWJDRURralNuWjVsN3FmRjRsMDVGelp1dXdab0ZxOTNyNXJXVUFleVM0YWlVczQxNGx5ZFJCTVMzZzBmVFI3OG01Ukd0ck9jSDNwRnc1WWswYlBTMHVFV2pkRkJ5emVZZm1TVUd1dXVBNjBiVE8tUWxvZ0pOTDNiV3NNb0VWQ19mcXI5bEM4XzUwbkprVl9pMjVwRGNDd01CQVdISUU3VDBodTlDcmFBY2dfdWEzVVBmWVExMHRBRjZsdUhUdEVLdTVvNzRUR1dTWU1HaW1POFJvQW1vMVhVSi1zQWU?oc=5",
       "rank": 30
     }
   ],
