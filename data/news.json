@@ -1,16 +1,16 @@
 {
-  "updated": "20 Nov 2026 16:44 UTC",
+  "updated": "21 Nov 2026 01:08 UTC",
   "count": 30,
   "items": [
     {
-      "headline": "LFC fitness update: Frimpong, Gravenberch, Szoboszlai, Van Dijk and more - Liverpool FC",
-      "summary": "LFC fitness update: Frimpong, Gravenberch, Szoboszlai, Van Dijk and more Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 95,
-      "rank_score": 95.0,
+      "headline": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
+      "summary": "Everton’s playmaker returns after being stood down, while Liverpool’s head coach keeps focus for Anfield showdown Continue reading...",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 90,
+      "rank_score": 85.1,
       "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVE9kQ3gyS2RLWlVRMVozTFoxTTBFb2x0YTBrVHJYRW9xNzZfYTd1a0xRSFlNT1RGaEZTSklWa0pXQzhLMDJmdjFnMmJYSVJBQ2JLWkdsSXlhUVFGQ21kOFNsR3dHeTFGLVVmdWhrenduMkZwN0I5QXdCX3BnODd5aUxKcHJaYzVmTndPYWpqdTJDLU5BX09qblFORF9lLUNUNjNPcmJmZw?oc=5",
+      "url": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
       "rank": 1
     },
     {
@@ -80,6 +80,28 @@
       "rank": 7
     },
     {
+      "headline": "Fabrizio Romano confirms Liverpool have path to complete bombshell Arsenal deal - Anfield Watch",
+      "summary": "Fabrizio Romano confirms Liverpool have path to complete bombshell Arsenal deal Anfield Watch",
+      "source": "Anfield Watch",
+      "credibility": 9,
+      "relevance": 85,
+      "rank_score": 80.3,
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQWlNRbXpyNjNIeHhsU1IyQUZIVzM2a3VRd250Nms3RlRWMnJDZEdoTERWcDJIdTdkRHBtQ0dhaUIwRjBPYnpyNVJ2TFl3Tk4tYzB3Rm1wSUlIMTE2RUphTjVLc3NhSG9POWRySjVvVnM5OW1BUnlUVFBGQVF3NUlHX05fb0ZkbzBFTTNuVS1SMjFhNElVbkRESFdOS2tZMXZCT1Eyb3RQSDkzRDdaYkc1U1Q3VFMyTWJkYkRkdVgtb1AyM2hZWkRpRw?oc=5",
+      "rank": 8
+    },
+    {
+      "headline": "Sarr focused on Palace return after Liverpool interest",
+      "summary": "Crystal Palace forward Ismaila Sarr says he has moved on from Liverpool's interest in signing him and is keen for a \"fresh start\" under Thomas Frank.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-20",
+      "url": "https://www.bbc.co.uk/sport/football/articles/cvj6l7pd1yd0o?at_medium=RSS&at_campaign=rss",
+      "rank": 9
+    },
+    {
       "headline": "Iraola on being spotted at grassoots game",
       "summary": "Liverpool boss Andoni Iraola on being spotted at his son's grassoots football game.",
       "source": "BBC Sport",
@@ -88,7 +110,7 @@
       "rank_score": 80.0,
       "date": "2026-11-20",
       "url": "https://www.bbc.co.uk/sport/football/videos/cqy7rx28mpy5o?at_medium=RSS&at_campaign=rss",
-      "rank": 8
+      "rank": 10
     },
     {
       "headline": "Filming training by drones should be illegal - Iraola",
@@ -99,18 +121,7 @@
       "rank_score": 80.0,
       "date": "2026-11-20",
       "url": "https://www.bbc.co.uk/sport/football/articles/cqdr1xmekmg5o?at_medium=RSS&at_campaign=rss",
-      "rank": 9
-    },
-    {
-      "headline": "Filming training on a drone 'shouldn't be legal' - Iraola",
-      "summary": "Liverpool boss Andoni Iraola says that Man Utd's training session being filmed by a drone \"shouldn't be legal.\"",
-      "source": "BBC Sport",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-20",
-      "url": "https://www.bbc.co.uk/sport/football/videos/cq143j2ze04mo?at_medium=RSS&at_campaign=rss",
-      "rank": 10
+      "rank": 11
     },
     {
       "headline": "Inside the rise of 'humble' Nyoni and why Iraola trusts him",
@@ -121,7 +132,7 @@
       "rank_score": 80.0,
       "date": "2026-11-20",
       "url": "https://www.bbc.co.uk/sport/football/articles/ck24enjqvlyeo?at_medium=RSS&at_campaign=rss",
-      "rank": 11
+      "rank": 12
     },
     {
       "headline": "Tottenham join transfer race for Monza star Gustavo Varela as Liverpool scouts track Serie A top scorer - Liverpool FC",
@@ -132,40 +143,7 @@
       "rank_score": 80.0,
       "date": "2026-11-19",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTnBTLUtJQWNncTZNZjFhZGNMUWhreFNXSVBiWmxFbWNSbmJnaU5zTGxnNTNQY2thYmlLMk1XU1NNYkx6Ymp2bEQwdE04cUVfT0w1bDlZbVVMaHFBR0pWS0pfbmh2WjRtRlhNLUctYmRvQ2RjeTJvTVZJTHZVajZEaGZ6dnBtbVNiYVRRTENqZmVmemJiaDQ3T0k3SlhNN0V4Unhjc3NBQVVTclFSVW5ZVXE5Sm5TNldfbjRod2Z6QUdBeXpnM01ySERlTGxSdENWcXc?oc=5",
-      "rank": 12
-    },
-    {
-      "headline": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic - The New York Times",
-      "summary": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREM3Q2dHMnVqQnVlR2xuckpDdURMSmREejAtWHlIYXBUQTZyNmVqWV9lM2VrUU1oS1h0MkJrbEJlanlrdHlGLWE2cE4xRGxzREc2WDlEZmF4V1Y3U01rQS1ONkhoSjRmTzltWlpvc25fSnBuNWhHbUJkM3JTVnpCNVdfZEZXWGZ6WUVDcHhmSDFrc0ExM0d1R3JFZ0Npa3ZnTEY0?oc=5",
       "rank": 13
-    },
-    {
-      "headline": "Andoni Iraola's pre-Manchester United press conference: 'You don't find bigger games than this - I feel lucky' - Liverpool FC",
-      "summary": "Andoni Iraola's pre-Manchester United press conference: 'You don't find bigger games than this - I feel lucky' Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-20",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFFuUldzUTdXV0hSeTRBQU5DVDZUT1l4RlJaRTV1V080ZEk1QnFkbm15OGJCRjRMU1Y2NkNDNS1IYWJtdVY0Y0hDbVlEek5TRkI5NVktcjRxdU9FVzJoYjFhZGdPeDl0a05KM0dLRzNFenN6X19FelhlQm9jRkpNYXVzTW04RXJXbHJrcU9pVi1Za2ZCWW5NUTI4TFc?oc=5",
-      "rank": 14
-    },
-    {
-      "headline": "Andoni Iraola could lose key member of Liverpool backroom staff - Read Liverpool",
-      "summary": "Andoni Iraola could lose key member of Liverpool backroom staff Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGpBamJxMFZjVnRrR2N5TUtnMDNTdjlKZTMzejlmT1o1X0RhN3huRWdxNEpFTFQtYk5raFRNMXM2bWlhS1lpOHV6QlN4Uk9adzUwRE1mTE9Hd1BvaHNwNkxQNUU4VFVJa2FnTmFQbXlvLXB6OUZhXzV3YlRDVTVWb042WUk5WkRzbmlVa0pqVy0yQTk2RkZPRDU4OTZOZw?oc=5",
-      "rank": 15
     },
     {
       "headline": "‘Softened their stance’ – Sky Sports confirm £80m Liverpool transfer boost - Read Liverpool",
@@ -176,17 +154,39 @@
       "rank_score": 80.0,
       "date": "2026-11-19",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQVkhOeDQ0UXIzT2dBZjkxYmxFZC10V0lUSW50OWxGUy1SNW5kb0RPOTN3aUxVcXdNTHpxVHJOWUF5WVRLNTloeW40Z1Nzek96R2NWeW45SlF1Skt1M29ncDRPMHFtSEpWR0JSbm1JNE5VUmxWXzJZYWhnbkp6U2pGYV9tVWQ5YVZRODhDVmg2NGFYX2VlMFFLbVdvS29fbENfdDZKVTlROWQ3LXBw?oc=5",
-      "rank": 16
+      "rank": 14
     },
     {
-      "headline": "Photos: Conor Bradley and Giovanni Leoni continue injury recovery work - Liverpool FC",
-      "summary": "Photos: Conor Bradley and Giovanni Leoni continue injury recovery work Liverpool FC",
+      "headline": "On demand | Watch Andoni Iraola's pre-Manchester United press conference - Liverpool FC",
+      "summary": "On demand | Watch Andoni Iraola's pre-Manchester United press conference Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-11-18",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWVBUUtIVkhXN1M3Y3RIRlpwakZhOFUwNlJhVUJld0pvN1NWRG9DbFJEclJKNW91QnZrbjFXTXJPNnJGZ1dUdklmUTNiYVVRdWU4SGhEVEFQV1FGMEFLVGF4ZlE0TXVVVl95WHgtYUF1ZS1venNwNnV6Qm90Z21vMEZDd0ZmUTlkS1B6bHNFREFvQ09tNGNYNTZlZkNvbkU?oc=5",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZVJhWlRSQU10Tnl5MmI0YW9DeVh0clN3VzhEel9FMlFtTW9DVTR4ejB6ZkkwaUZkX3FoS0RqcS1pSDF0ekpwYml6ak1RdmF0OXNySzF0aUtOWkZKc0ItSldYVFlBYXF5c09tSWdBa1hiLTZGV0t3cHp1bVoxSkh4TU4ySVVNMUJnWWMtV1hpYVo0MkpxcjZGRFZuRTQzZw?oc=5",
+      "rank": 15
+    },
+    {
+      "headline": "Andoni Iraola's pre-Manchester United press conference: 'You don't find bigger games than this - I feel lucky' - Liverpool FC",
+      "summary": "Andoni Iraola's pre-Manchester United press conference: 'You don't find bigger games than this - I feel lucky' Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOFFuUldzUTdXV0hSeTRBQU5DVDZUT1l4RlJaRTV1V080ZEk1QnFkbm15OGJCRjRMU1Y2NkNDNS1IYWJtdVY0Y0hDbVlEek5TRkI5NVktcjRxdU9FVzJoYjFhZGdPeDl0a05KM0dLRzNFenN6X19FelhlQm9jRkpNYXVzTW04RXJXbHJrcU9pVi1Za2ZCWW5NUTI4TFc?oc=5",
+      "rank": 16
+    },
+    {
+      "headline": "Andoni Iraola could lose key member of Liverpool backroom staff - Read Liverpool",
+      "summary": "Andoni Iraola could lose key member of Liverpool backroom staff Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTGpBamJxMFZjVnRrR2N5TUtnMDNTdjlKZTMzejlmT1o1X0RhN3huRWdxNEpFTFQtYk5raFRNMXM2bWlhS1lpOHV6QlN4Uk9adzUwRE1mTE9Hd1BvaHNwNkxQNUU4VFVJa2FnTmFQbXlvLXB6OUZhXzV3YlRDVTVWb042WUk5WkRzbmlVa0pqVy0yQTk2RkZPRDU4OTZOZw?oc=5",
       "rank": 17
     },
     {
@@ -201,14 +201,14 @@
       "rank": 18
     },
     {
-      "headline": "‘Started’ – Fabrizio Romano provides overnight Liverpool contract update - Read Liverpool",
-      "summary": "‘Started’ – Fabrizio Romano provides overnight Liverpool contract update Read Liverpool",
-      "source": "Read Liverpool",
+      "headline": "UNO skills, superstitions and becoming Liverpool's No.9 - watch 'A Day With... Alexander Isak' - Liverpool FC",
+      "summary": "UNO skills, superstitions and becoming Liverpool's No.9 - watch 'A Day With... Alexander Isak' Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT083ZTRKZWVfX0xFUzg1QjROSDNnSi0wWDUyaldtX0Q1WnZGNG5NaHVHMFp6dnR2TnNqNFdZMFpEcnV1WVNzSnQtVWM3eExaMVBaWDZRNUlTekNYcElaRm5pTFNYNFFjOC1MZ0tIUUtIRVVQWkRPT3VxcWdyVlU1VWdia25keGtpUmZKbWpOOXlHU0ozVHFZb2hZUXhUT2FFdEJTRg?oc=5",
+      "date": "2026-11-20",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakdnM3J2bkMyZG84ZjQwZUE1T2JlQnFiN1hVSDlIYzRIX3FHcEM5Y2hPQ2RoZExYSkFGc28zb0thS1o3OFRuSWpISFpTbEt6OGtnSVZLZmtlcWVUNWVOb3dxOW8ycFRYVHJxaE1GMFczOGkzam9MU1BpMkxHcVpTcGc4U1NiRHJCZzZQMGZyeGoxWWRrVndWX0hBX0hUOFdVbkJlejFMc2ZsRzlxRFRmU0Z2VQ?oc=5",
       "rank": 19
     },
     {
@@ -223,17 +223,6 @@
       "rank": 20
     },
     {
-      "headline": "UNO skills, superstitions and becoming Liverpool's No.9 - watch 'A Day With... Alexander Isak' - Liverpool FC",
-      "summary": "UNO skills, superstitions and becoming Liverpool's No.9 - watch 'A Day With... Alexander Isak' Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-19",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakdnM3J2bkMyZG84ZjQwZUE1T2JlQnFiN1hVSDlIYzRIX3FHcEM5Y2hPQ2RoZExYSkFGc28zb0thS1o3OFRuSWpISFpTbEt6OGtnSVZLZmtlcWVUNWVOb3dxOW8ycFRYVHJxaE1GMFczOGkzam9MU1BpMkxHcVpTcGc4U1NiRHJCZzZQMGZyeGoxWWRrVndWX0hBX0hUOFdVbkJlejFMc2ZsRzlxRFRmU0Z2VQ?oc=5",
-      "rank": 21
-    },
-    {
       "headline": "Alexander Isak: You want to contribute important goals - I can feel a connection with fans - Liverpool FC",
       "summary": "Alexander Isak: You want to contribute important goals - I can feel a connection with fans Liverpool FC",
       "source": "Liverpool FC",
@@ -242,7 +231,29 @@
       "rank_score": 80.0,
       "date": "2026-11-19",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQV3FwS1ZhWTZzYzFlVzg4VXhVaktEMjVFY0xMRmFqb2dPNEdobHdLVXRxUmVXX0dSaGE4NWV2TFMtSHAzV1hiT25fZGNnQ0hBOTFjMnk4bXpjMFZEdzVpVGtJWG8tX2dpSUtUbTVHM1BRSzF0NVFuV2Y2OFF5SFN5bzRIb3FsYWxZc2hMNG5OR1U2ZVdhZERsTFZmS0o5TG54S2c3U2ZiY0xqaXlvN0NqakxSS3liZ194emZMaQ?oc=5",
+      "rank": 21
+    },
+    {
+      "headline": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic - The New York Times",
+      "summary": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREM3Q2dHMnVqQnVlR2xuckpDdURMSmREejAtWHlIYXBUQTZyNmVqWV9lM2VrUU1oS1h0MkJrbEJlanlrdHlGLWE2cE4xRGxzREc2WDlEZmF4V1Y3U01rQS1ONkhoSjRmTzltWlpvc25fSnBuNWhHbUJkM3JTVnpCNVdfZEZXWGZ6WUVDcHhmSDFrc0ExM0d1R3JFZ0Npa3ZnTEY0?oc=5",
       "rank": 22
+    },
+    {
+      "headline": "‘Started’ – Fabrizio Romano provides overnight Liverpool contract update - Read Liverpool",
+      "summary": "‘Started’ – Fabrizio Romano provides overnight Liverpool contract update Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-19",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQT083ZTRKZWVfX0xFUzg1QjROSDNnSi0wWDUyaldtX0Q1WnZGNG5NaHVHMFp6dnR2TnNqNFdZMFpEcnV1WVNzSnQtVWM3eExaMVBaWDZRNUlTekNYcElaRm5pTFNYNFFjOC1MZ0tIUUtIRVVQWkRPT3VxcWdyVlU1VWdia25keGtpUmZKbWpOOXlHU0ozVHFZb2hZUXhUT2FFdEJTRg?oc=5",
+      "rank": 23
     },
     {
       "headline": "Andoni Iraola Liverpool press conference - Virgil van Dijk, Dominik Szoboszlai injury news",
@@ -253,7 +264,7 @@
       "rank_score": 79.3,
       "date": "2026-11-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/andoni-iraola-liverpool-press-conference-34942105",
-      "rank": 23
+      "rank": 24
     },
     {
       "headline": "Van Dijk, Bradley, Frimpong, Leoni - Liverpool injury latest and return dates ahead of Man United",
@@ -264,17 +275,6 @@
       "rank_score": 79.3,
       "date": "2026-11-20",
       "url": "https://www.liverpoolecho.co.uk/sport/football/football-news/liverpool-injury-iraola-van-dijk-34943236",
-      "rank": 24
-    },
-    {
-      "headline": "Jamie Carragher sends clear January transfer warning to Liverpool over Iraola trend - Read Liverpool",
-      "summary": "Jamie Carragher sends clear January transfer warning to Liverpool over Iraola trend Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 77,
-      "rank_score": 77.0,
-      "date": "2026-11-17",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQU1JuZVRZNW13MVZYZllfWWxXZnhSdWFtaU04V1YxSTdkTVJuNk1uQVF6OXVlSnpLX1hvUHdKYVNWVWZmTEZGa3dpQVdoM3dYRzU1ckhuRDYyYmEyclpLYW5QYjlmZkdtbGVFSGpuVDVrcDdwWWhyRV9zVG5UMDQ3czkwLS1fWHdOUXo2VTc0Z1lGRnpFLXhfbEE1bVRlMUpZZmRxVTVB?oc=5",
       "rank": 25
     },
     {
@@ -398,10 +398,10 @@
         "meta": "CB · Galatasaray interest",
         "fee": "low/free",
         "p": "Low",
-        "mentions": 4,
-        "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPVE9kQ3gyS2RLWlVRMVozTFoxTTBFb2x0YTBrVHJYRW9xNzZfYTd1a0xRSFlNT1RGaEZTSklWa0pXQzhLMDJmdjFnMmJYSVJBQ2JLWkdsSXlhUVFGQ21kOFNsR3dHeTFGLVVmdWhrenduMkZwN0I5QXdCX3BnODd5aUxKcHJaYzVmTndPYWpqdTJDLU5BX09qblFORF9lLUNUNjNPcmJmZw?oc=5",
-        "date": "2026-11-20",
+        "mentions": 3,
+        "source": "BBC Sport",
+        "url": "https://www.bbc.co.uk/sport/football/videos/cqevrjvvj410o?at_medium=RSS&at_campaign=rss",
+        "date": "2026-11-13",
         "active": true
       },
       {
