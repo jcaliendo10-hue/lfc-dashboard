@@ -1,18 +1,7 @@
 {
-  "updated": "24 Nov 2026 04:38 UTC",
+  "updated": "24 Nov 2026 19:21 UTC",
   "count": 30,
   "items": [
-    {
-      "headline": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
-      "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eight",
-      "source": "The Guardian",
-      "credibility": 9,
-      "relevance": 100,
-      "rank_score": 94.5,
-      "date": "2026-11-22",
-      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
-      "rank": 1
-    },
     {
       "headline": "Cody Gakpo and Ryan Gravenberch injury update - Liverpool FC",
       "summary": "Cody Gakpo and Ryan Gravenberch injury update Liverpool FC",
@@ -22,18 +11,95 @@
       "rank_score": 90.0,
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckNOS0N6ZnBxN2cteTJfUnNwZWo0S0dIREpYek1qeG1FUF9hOHV6RG9RUl9ScjFVT1pzMjVDc3VKbkFwYURBT2IxdkVzUlNFNnZKSWRwWEJRdDBNd0pHRjRaUXBLZk9DTkVjc0J3Z3ZWSUZZSjA4bDNDQkZQX2Znel9lbWw?oc=5",
-      "rank": 2
+      "rank": 1
     },
     {
-      "headline": "Andoni Iraola explains why Cody Gakpo and Ryan Gravenberch are missing for Liverpool vs Manchester United - Read Liverpool",
-      "summary": "Andoni Iraola explains why Cody Gakpo and Ryan Gravenberch are missing for Liverpool vs Manchester United Read Liverpool",
-      "source": "Read Liverpool",
+      "headline": "Ryan Gravenberch and Cody Gakpo injury update - Liverpool FC",
+      "summary": "Ryan Gravenberch and Cody Gakpo injury update Liverpool FC",
+      "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 90,
       "rank_score": 90.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkZJUjQ4Qk5xNVppZUc0bVZpZFVPNTlacndLNDJ2M3VLZ3R0enNjQ1JXSk44VVpMWE40Ym5lZlItR1c3a2Fmd0wwcGstOWFGeEZjVmdOSjhvUE1Ta0tiR3RiVWFWY0tIMjBCdTFTTmxQMEttSWRFTVBoZ21kWV9EWEI5bWhJTVJtMFJqYWIwelBJQnRHUFl0TnFRYzlkQWpZN0JaMlBaZm03TEJDVS1vZ1RaREZkLWpCVlE?oc=5",
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1hSZEliV2Vtdy1UY20xWndidGd3SjE0ZEZfOTkzWm1mQWlGZjZOaVdleF9BQmVRZXYtZEc1d2VGRDA1UTJydjhzQ0x5SDlDb19FVnJvSlhfdTJZcTRnY3c2bDQydThCWjV1ajZJM2FrUDdaT0Q2S1RTZnB0OS1CLXJFSms?oc=5",
+      "rank": 2
+    },
+    {
+      "headline": "Florian Wirtz hails Iraola and Klopp as he reaches new levels for Liverpool",
+      "summary": "Playmaker in best form since moving to Anfield‘I am really enjoying playing under Iraola’Florian Wirtz has credited Andoni Iraola with helping him recapture the form that made him one of the most coveted players in Europe when he joined Liv",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 95,
+      "rank_score": 89.8,
+      "date": "2026-11-24",
+      "url": "https://www.theguardian.com/football/2026/nov/24/florian-wirtz-hails-iraola-and-klopp-as-he-reaches-new-levels-for-liverpool",
       "rank": 3
+    },
+    {
+      "headline": "Liverpool hand Pochettino nightmare Manchester United start after Yoro sees red",
+      "summary": "Green shoots of recovery have lasted longer in a blast furnace than in the Mauricio Pochettino era at Manchester United. On another abysmal Anfield day for the fallen giants of Manchester, Pochettino endured a baptism of fire from the eight",
+      "source": "The Guardian",
+      "credibility": 9,
+      "relevance": 92,
+      "rank_score": 86.9,
+      "date": "2026-11-22",
+      "url": "https://www.theguardian.com/football/2026/nov/22/liverpool-manchester-united-premier-league-match-report",
+      "rank": 4
+    },
+    {
+      "headline": "Klopp advice and Iraola confidence boosts Wirtz",
+      "summary": "Florian Wirtz opens up on why it's the best he has felt since joining Liverpool.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://www.bbc.co.uk/sport/football/articles/c69w91k0j9zeo?at_medium=RSS&at_campaign=rss",
+      "rank": 5
+    },
+    {
+      "headline": "‘Unbelievable’ – Liverpool transfer target told he’s one of the signings of the season - Read Liverpool",
+      "summary": "‘Unbelievable’ – Liverpool transfer target told he’s one of the signings of the season Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTV9iUUthaTNucFU4YTdDaUlIZ19XWUFQUDhGU0RtTDFVb0xyLUVuWXRNWC1ZTXZtM2tKaTNCWUhLYkVnWGp2cmU3dlJHTUdRZFZNYWttb05rLVlkZVZyUXEtQUZOWU1nVWhHT2VjNElsLXY4XzJadmhwSWIwM2h4UjBqRDAydFVUQVEyZWpSUjJDeVJMMzI5X1FYbnh5VHFLY1pRN0lwNjZxdVgwbnd1NXBka1RKdw?oc=5",
+      "rank": 6
+    },
+    {
+      "headline": "Liverpool fans will love what Florian Wirtz has just said about Andoni Iraola - Read Liverpool",
+      "summary": "Liverpool fans will love what Florian Wirtz has just said about Andoni Iraola Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVjNEdkZPbllSSTRPemZhMmk3UjBqZ19OM08wckVhZ2hsSkhsWi02YkMzYmtISHQwdlVLN2dIZzNDR0NDVkdfOTBsN2hlUllidXdISHZ5UGZ1WXdydzZCZDJFWHRrWUx5THlEblVGdnlJMWpEa3BPWE54OE9UOThmT0lFSVBqRkFlQTQwbWFhX1Rla0x2RnRUN1BOSjFVWEZGeXhnd2ZfNlJqQkltT1lHWg?oc=5",
+      "rank": 7
+    },
+    {
+      "headline": "Liverpool news: Jurgen Klopp advice and Andoni Iraola confidence helps turn Florian Wirtz's form around - BBC",
+      "summary": "Liverpool news: Jurgen Klopp advice and Andoni Iraola confidence helps turn Florian Wirtz's form around BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzTDVLVkhwbGRiTlU2eG5vTVVuSDFWT3RLa0hhdGVxM2owUnFyUmNaMUxOS0RXNkZTQmdNcDc2V2xGZXpEc2VRUWNCdXdlTzgzc0l5M2p3dmdSMW44VkhPVS1INXpqWjF1ckRJ?oc=5",
+      "rank": 8
+    },
+    {
+      "headline": "Premier League: Liverpool 4-0 Manchester United - Andoni Iraola post match interview - BBC",
+      "summary": "Premier League: Liverpool 4-0 Manchester United - Andoni Iraola post match interview BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhZTFtRmx0NGR1WmZ6bTUxeDVQa3dQTlFRVTVpemQ1Y2kxVW1FYjE0Qlc5RlprRGVNUmtJOGhTMVNGYnZBQUVnWGNXeEZXSFhkZWY2eWR5WjBYMzFaQkZxcm1Ea1V2ZjNl?oc=5",
+      "rank": 9
     },
     {
       "headline": "Andoni Iraola press conference: Man Utd victory, Kop celebration, Ngumoha, Barcola, Wirtz and more - Liverpool FC",
@@ -44,29 +110,51 @@
       "rank_score": 85.0,
       "date": "2026-11-22",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2lELTNVektrY0lHVjB2OW10SkF2bFJTUHdzRDNpai1OV2Z4OHF6cTFtZVVuc1B3Zk03MGxUc1BDb21makpFUkJwMTcxTGliVFptUUo4bDByR2l1Snd6dS1oc3VsczlSM1hKd3daN2YzMkM4NjlSTk9IYWVWZERBUnpQM2Ztei0wMDRqYWRFNHQzU3Zmak1yX1lacw?oc=5",
-      "rank": 4
+      "rank": 10
     },
     {
-      "headline": "Andoni Iraola warns Liverpool to ignore Premier League table for Manchester United visit - The New York Times",
-      "summary": "Andoni Iraola warns Liverpool to ignore Premier League table for Manchester United visit The New York Times",
-      "source": "The New York Times",
-      "credibility": 10,
-      "relevance": 85,
-      "rank_score": 85.0,
-      "date": "2026-11-23",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNa3d4eXVHZm1PVmZHLWw2S1ltbWZjaXZsUUFzSjN4eDVvb1A4dVFBN0RFVkxHb2FmU2RmOXpZaWNSb0JubUN6WWdpNUJzMFl5RXNsWWJkN0FUNTZLMFQ4TmR5NGh0UUhyaV9oWFZ6UGJVQnBGUW81dkJreU5PcXlBRmJ3YkZsNDk2cnp6QWJHaUFXMmRfVTduVG53?oc=5",
-      "rank": 5
-    },
-    {
-      "headline": "Andoni Iraola sends important message to Anfield faithful ahead of Liverpool vs Manchester United - Read Liverpool",
-      "summary": "Andoni Iraola sends important message to Anfield faithful ahead of Liverpool vs Manchester United Read Liverpool",
+      "headline": "‘Not easy’ – Andoni Iraola confirms double Liverpool injury blow ahead of Club Brugge clash - Read Liverpool",
+      "summary": "‘Not easy’ – Andoni Iraola confirms double Liverpool injury blow ahead of Club Brugge clash Read Liverpool",
       "source": "Read Liverpool",
       "credibility": 10,
       "relevance": 85,
       "rank_score": 85.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNU1pDSk1sV25ITi1wLTV4a0NpMUplcGgxVUlkUWh2dkdZUlExLTNtYzhWcTNwakk4R2dLcUF1THhtY0ZueUtuWjE0YTZnRzFYWTA2N0xkNFZvU1FIbUYwNHBoVHpaazJVSnB1U0ZRMFNrOHRnT1M5MHVwMVdqRHUzZnZINXRLc0h0NUZmTW43YXZ4cEhFeFFpN3lZREN5LUhrbFRpWW5SNW16SGp6RF81UlUtQ3ByYkNRVmduaVFWaVpZY2lleS1XRDlCQQ?oc=5",
-      "rank": 6
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0pDTEFFX3V6UFBKaGxmVmF6alM4Z2NmbGl3cXZGUlNnd2lLY21oVE1OQ3RpRVc4c1g1bHhjMHFMY3Z6M29Cc3VZdTNmRVY1MngwRTdPS2Q0OXp4aGhiLWhNRllqaU1zRm1SaGNzbUt1UVBHUHc0cE5LNVY4bnhMcF8yNFdfTkNUckc5cUZodjA0NUF4bWZRQmZkVXo0RVVLTHE2T1k1ZEtlckdzODNZbjUxQ2lDRHZJR0p4VEpB?oc=5",
+      "rank": 11
+    },
+    {
+      "headline": "Ngumoha and Wirtz up for Premier League Player of the Matchweek - Liverpool FC",
+      "summary": "Ngumoha and Wirtz up for Premier League Player of the Matchweek Liverpool FC",
+      "source": "Liverpool FC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUllpWGsxdHhzcXJ0SjVGQUQtMkQ2c2I0b3Raa1ROWXpKZ3NfM1BYQnN4YnhXajY4d1ZMeElkWmptQkNxRmNIUlFjOVdkNzJXRW02UlVPSC0yV3UtOGg5RXFTdUpzalhaMjg4S0ZwZktoV1Rha195LXlrZ0l3Z2pxVlRrbkhVVTM3ZTN3ZkhoVldzTU5QQWROMHBtVnI?oc=5",
+      "rank": 12
+    },
+    {
+      "headline": "Liverpool news: Gakpo and Gravenberch out for Brugge trip - BBC",
+      "summary": "Liverpool news: Gakpo and Gravenberch out for Brugge trip BBC",
+      "source": "BBC",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9mNEtQWDBCaXNQbHA3X3QyelhfRWJUd3YwMkgyU2hnYnZNQTJMbHk5aF9pcURTdEhDSzFKaExVeDNqU1liSTEtYjhqRlItMzVyT3hyVWdIenNUbzlBRUR4X2dPQUVJWlh1bkhr?oc=5",
+      "rank": 13
+    },
+    {
+      "headline": "Liverpool's Gakpo, Gravenberch to miss Brugge clash - Reuters",
+      "summary": "Liverpool's Gakpo, Gravenberch to miss Brugge clash Reuters",
+      "source": "Reuters",
+      "credibility": 10,
+      "relevance": 85,
+      "rank_score": 85.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRFk4Vzd5ZlFXTGsxME1iRmpJYkRYMXVQUEVNUzVvS1RPV3RzRW81TnpIQkhidm5rdU5JdmJ6ak9QLTBxZ21VQkNvTkRoNHhpendRSmQ3d0hvWE5wRmpFNnBJUmcwRU5DRVVacWplQU1tUUtfSzhpYUl2ZGlSSHY5VUNiOF9tNkFndm9mbXRkRkNKc25mM2ZSME5lQ1c?oc=5",
+      "rank": 14
     },
     {
       "headline": "Liverpool transfer news, rumours and gossip: Live updates and latest on deals, signings, loans and contracts - Sky Sports",
@@ -75,31 +163,42 @@
       "credibility": 9,
       "relevance": 87,
       "rank_score": 82.2,
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQN0xSQ1gwWDFfSVQyZUU2Ul8zaEplajRXbkN4bWFxNW9rMkNmbWFMQmxfWWpMemdnV0h6VGdzQnZaY0pFQ2xIVEV2RDNvcVN0TS1LZ2tHbEZKeDV4RFpOcTRHRlBGdjZhVXpfdHJPUGVfd04tckg3Q2pDWW1CdHNjS3psSGRtSlZ2cUREdzR2SXRZWjlBT0I1WTdVeFpWbUtVSkJYWkhVMmxUcTBwelR1NlNETUhjakFxYkdja0dUMmVHWFhfRTdfcG4yZVlvbnhNbTRNY2YyV1llY25qdVhybGh2eFh1T2J4SnpzU0FKcw?oc=5",
-      "rank": 7
+      "rank": 15
     },
     {
-      "headline": "Liverpool 4-0 Manchester United: Premier League – as it happened",
-      "summary": "Mauricio Pochettino suffered a nightmare start at Anfield, where Man Utd were reduced to 10 men and taken apart by Liverpool“Rob ‘Bob’ Smyth, as I live and breathe,” writes Ian Copestake. “Glad this game is in such .... hands. I will miss i",
+      "headline": "Andoni Iraola explains why Cody Gakpo and Ryan Gravenberch are missing for Liverpool vs Manchester United - Read Liverpool",
+      "summary": "Andoni Iraola explains why Cody Gakpo and Ryan Gravenberch are missing for Liverpool vs Manchester United Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 82,
+      "rank_score": 82.0,
+      "date": "2026-11-22",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMkZJUjQ4Qk5xNVppZUc0bVZpZFVPNTlacndLNDJ2M3VLZ3R0enNjQ1JXSk44VVpMWE40Ym5lZlItR1c3a2Fmd0wwcGstOWFGeEZjVmdOSjhvUE1Ta0tiR3RiVWFWY0tIMjBCdTFTTmxQMEttSWRFTVBoZ21kWV9EWEI5bWhJTVJtMFJqYWIwelBJQnRHUFl0TnFRYzlkQWpZN0JaMlBaZm03TEJDVS1vZ1RaREZkLWpCVlE?oc=5",
+      "rank": 16
+    },
+    {
+      "headline": "Manchester United win appeal over Yoro’s red card despite Webb backing decision",
+      "summary": "Player now eligible to face Brentford on SaturdayReferees’ chief Webb said it was ‘certainly not clearly wrong’Manchester United have successfully appealed against Leny Yoro’s red card in their 4-0 defeat to Liverpool on the day referees’ c",
       "source": "The Guardian",
       "credibility": 9,
       "relevance": 85,
       "rank_score": 80.3,
-      "date": "2026-11-22",
-      "url": "https://www.theguardian.com/football/live/2026/nov/22/liverpool-v-manchester-united-premier-league-live",
-      "rank": 8
+      "date": "2026-11-24",
+      "url": "https://www.theguardian.com/football/2026/nov/23/manchester-united-appeal-leny-yoro-red-card-liverpool",
+      "rank": 17
     },
     {
-      "headline": "David Lynch: WIRTZ & NGUMOHA MADE A STATEMENT! | Liverpool 4-0 Man Utd reaction - Anfield Index",
-      "summary": "David Lynch: WIRTZ & NGUMOHA MADE A STATEMENT! | Liverpool 4-0 Man Utd reaction Anfield Index",
-      "source": "Anfield Index",
-      "credibility": 9,
-      "relevance": 85,
-      "rank_score": 80.3,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWklSY3RFOVJOSUZENW9iWm9LdkRzT3VFelF6bllKd2ROZzRmeGdLdVppU3RRZjA2MEJkTzhrZ0hQdVVsaXBOUW9LNFAzTXBoLVVaTEx3bjlKOXBoYWhwQ0dwSzVGSmJNRTdpaFR0MGNfdm9qRzlWX29TaVgwbnpObEkzVEpHeUJ4WmtiRW01RmVrOEVEcXAyMm5VTjExc3NFM2FYbmlVQQ?oc=5",
-      "rank": 9
+      "headline": "The youngest Premier League goalscorers this season",
+      "summary": "After the stellar performances of Liverpool's Rio Ngumoha and Tottenham's Luca Williams-Barnett, BBC Sport looks at the youngest players to score in the Premier League this season.",
+      "source": "BBC Sport",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-24",
+      "url": "https://www.bbc.co.uk/sport/football/videos/cme39v4w7ykqo?at_medium=RSS&at_campaign=rss",
+      "rank": 18
     },
     {
       "headline": "Was Isak denied a goalscoring opportunity?",
@@ -110,7 +209,7 @@
       "rank_score": 80.0,
       "date": "2026-11-23",
       "url": "https://www.bbc.co.uk/sport/football/videos/cmewvdynv1qjo?at_medium=RSS&at_campaign=rss",
-      "rank": 10
+      "rank": 19
     },
     {
       "headline": "Did Liverpool 'get lucky' with red card decision?",
@@ -121,7 +220,7 @@
       "rank_score": 80.0,
       "date": "2026-11-22",
       "url": "https://www.bbc.co.uk/sport/football/videos/cq23jmklrj33o?at_medium=RSS&at_campaign=rss",
-      "rank": 11
+      "rank": 20
     },
     {
       "headline": "'World's best could've lost 4-0' - but should Man Utd have done more at Anfield?",
@@ -132,7 +231,7 @@
       "rank_score": 80.0,
       "date": "2026-11-22",
       "url": "https://www.bbc.co.uk/sport/football/articles/cm782j80yypwo?at_medium=RSS&at_campaign=rss",
-      "rank": 12
+      "rank": 21
     },
     {
       "headline": "'Man Utd looked awful' - Liverpool fan delighted after win",
@@ -143,29 +242,18 @@
       "rank_score": 80.0,
       "date": "2026-11-22",
       "url": "https://www.bbc.co.uk/sport/football/videos/cwvg2n5nrnn0o?at_medium=RSS&at_campaign=rss",
-      "rank": 13
+      "rank": 22
     },
     {
-      "headline": "Yoro sees red as Ngumoha shines - Liverpool v Man Utd player ratings",
-      "summary": "How Liverpool and Manchester United's players rated following their Premier League match.",
-      "source": "BBC Sport",
+      "headline": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic - The New York Times",
+      "summary": "Fernando Torres on his transfer from Liverpool to Chelsea: ‘Everything changed’ - The Athletic The New York Times",
+      "source": "The New York Times",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://www.bbc.co.uk/sport/football/articles/c933gzxk66yyo?at_medium=RSS&at_campaign=rss",
-      "rank": 14
-    },
-    {
-      "headline": "Andoni Iraola programme notes | Why Liverpool need to be 'all in' from the off today - Liverpool FC",
-      "summary": "Andoni Iraola programme notes | Why Liverpool need to be 'all in' from the off today Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQSF95bEw5a0psS21Zd0xkRXo4LWpINDlkajdSTk55X0V5Wm1BYzVHZUdLZng5cXQwVjByU3R5ZDMwMGhKX1NYWWwybHhoR2FyNTZyXzVmR0NtcmNQdFBrN2x0UmJQdHppeTNJRFdjT0IwdFNuVDdJLUtuRU00WDZyMF9LdWh3R2JuaG83ZDFOT2xfNUxmcUxicm96QlhRdw?oc=5",
-      "rank": 15
+      "date": "2026-11-23",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPREM3Q2dHMnVqQnVlR2xuckpDdURMSmREejAtWHlIYXBUQTZyNmVqWV9lM2VrUU1oS1h0MkJrbEJlanlrdHlGLWE2cE4xRGxzREc2WDlEZmF4V1Y3U01rQS1ONkhoSjRmTzltWlpvc25fSnBuNWhHbUJkM3JTVnpCNVdfZEZXWGZ6WUVDcHhmSDFrc0ExM0d1R3JFZ0Npa3ZnTEY0?oc=5",
+      "rank": 23
     },
     {
       "headline": "Liverpool 4-0 Man Utd: Watch Andoni Iraola's post-match press conference - Liverpool FC",
@@ -176,18 +264,29 @@
       "rank_score": 80.0,
       "date": "2026-11-22",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0RvLW5fV2FEODM3czNWZl8yTFJPcHVnR2NyQ3VIZ0tURlFMeWFwc0M1NHRZYVBtcW04Q0FPejZGUm1KdjZHSlAwQW5kTm1neDM0TWhabF9UTEROT1pTcVdPcUZ5d1h3WG15ZXB1SXk2ejlMSW1vRF95ZE5iSC1SWS1zV1lHa2x5U1hpRUpjX0xmZFQ4WGxjYWV2WFJOOUplWjI1Sg?oc=5",
-      "rank": 16
+      "rank": 24
     },
     {
-      "headline": "Andoni Iraola's post-Man Utd press conference - Liverpool FC",
-      "summary": "Andoni Iraola's post-Man Utd press conference Liverpool FC",
+      "headline": "Andoni Iraola press conference: 'Analysing Club Brugge wasn't boring!' - Liverpool FC",
+      "summary": "Andoni Iraola press conference: 'Analysing Club Brugge wasn't boring!' Liverpool FC",
       "source": "Liverpool FC",
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ySDNzamdrRkFQY2l2ZDAtbVJNVFZIS1Nfdkh6dUhCUk5PbXJQTjhIMFlHT2xzUGMwdHlDem9pQ3lfVkFtQ0hTSGEtU25BdTY3RkQxSGxXU2NQYTloM2ltR1RKbVF4MzhiZGpueTIzYktZNl9DOWVhbDVOMA?oc=5",
-      "rank": 17
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORGNmN1lNRW1ucEZtbUZabHV4VzkweGFhT0tLcjMtQjdFSzh0MTF6YkFnQ3JuVmdhejludlA5eUJDejFyYWNTNnJ6d3hRcXoyZHd6dzlWX0R1Y3ZVSGp5dll6WWF5ZlhiWldsQlhydWdZaF9Ld0ItRUtEeDNpNVllclNfQUk2UzY5aXVKa1hqbkpCbGxzUm5hckFPb20wTWs?oc=5",
+      "rank": 25
+    },
+    {
+      "headline": "Andoni Iraola reveals where Rio Ngumoha can improve after recent Liverpool heroics - Read Liverpool",
+      "summary": "Andoni Iraola reveals where Rio Ngumoha can improve after recent Liverpool heroics Read Liverpool",
+      "source": "Read Liverpool",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUXlERVctNTA5WnlTUDdzUEQxd3RoSHZmcHE5cUVWUzZiblNFQjlQcXFsRjB2bmt0czN3VGE3RXhFZ2dlbzAwREF3UVFTdW1ucWVud1BxVXhqQ2hmOXV5MF9NUU9WbXZIZ3lxR3ZDSm4wMkprdXNRS1BGQTNUS1M0Qm10SC1BUVJqNjNpZUswNmdCR0dLRXBkVExLZXBOelFLZkdGUVEwdUpZZWtDOEVPZFdvWnY3TWM?oc=5",
+      "rank": 26
     },
     {
       "headline": "‘Very difficult’ – Andoni Iraola admits Liverpool attacker is almost impossible to stop - Read Liverpool",
@@ -198,7 +297,18 @@
       "rank_score": 80.0,
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQR1pEWjZXQTdhSlR4TUVLQUdIVFBrOGRqekVMVk9SMkt0YmV3cTRUWE9Qb2pyZktjOUZiMmRHLS1sZ3RvRHkxZEdRSFc1OTRkZGU5RFp0VmxteWZIdVRWT0pZRVp5czhNLWZsNW5UMWkxZy1XSkZ3aWtxQm5aQXp0UU1NNWxJMzUxVXdJdmVYSWJLR2hHN1FIcHF5dzNFQUdsUWJBNkFpeE41Ukl2cG5DWXRha2hGYW1D?oc=5",
-      "rank": 18
+      "rank": 27
+    },
+    {
+      "headline": "Liverpool look more defensively solid under Iraola. Does the data back that up? - The Athletic - The New York Times",
+      "summary": "Liverpool look more defensively solid under Iraola. Does the data back that up? - The Athletic The New York Times",
+      "source": "The New York Times",
+      "credibility": 10,
+      "relevance": 80,
+      "rank_score": 80.0,
+      "date": "2026-11-24",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdzN0bnZHQXdQSXZiM0V4TGpuc1Y3R2NpUE1yN2R1c3hyUmc3OXhYbFhZRGtla1RKbzdNMm9RanAwNmlRaEQ2cVBqVlRnakFqdjNETURGa21QOFFJaEpSWV9QakhjaThfMXlEN2V5LWpfeTk2QVpyMFIzR3lJS1V3R2x5SlVrQmpDd1lDWURwNGxHZDlGRnhWeDZFdHc4MGdCSW50QQ?oc=5",
+      "rank": 28
     },
     {
       "headline": "Andoni Iraola tells Bradley Barcola where he can improve after Liverpool 4-0 Manchester United - Read Liverpool",
@@ -209,62 +319,7 @@
       "rank_score": 80.0,
       "date": "2026-11-23",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTTJ0N2dSMjM2UjFoTUhFVjhrWnFyaHFzWV9QclZGb09pODFjMzZJZnc3RE5TaHhRR0x6aWlhTlJUYVZmRFd0UFBIRVZZWVJxZXVia0NOSkFNY1Etbjd6aFJGTkhZOFR3cFFyNGhkaldBRVcxMmFCZkttU3o1YkZOZjZoZlhuZkFjTUZJR0xHSjNGbEZXd3ZFMWtTeHNVOFlVNnhTdjgwR2NLNmNhOE9qbmFobUtoc3FvbE9KZnRvUjgzQVNNeEtN?oc=5",
-      "rank": 19
-    },
-    {
-      "headline": "Steven Gerrard has hit the nail on the head about Florian Wirtz’s Liverpool renaissance - Read Liverpool",
-      "summary": "Steven Gerrard has hit the nail on the head about Florian Wirtz’s Liverpool renaissance Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-23",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQcVBMWjZKVDdHUktmWXRJdjR2ekYwRlVTMFNuVEFwU29vUFFDdl9SQ1VCY1dVdW9PWWlyZGlqUlFYY3ExRFJhZDRyN2hqQndJRUh4b005NkQxY0RzQlp1cW9DQ2pPeGl2WGlGUTB5TGNZb1Vxb0p2cHp3enkyTEQ0WnJYMm1KQnFRbFFkM0hybFczWEJGakxSbGRBTkdsejlESFM2UG9GNFJobU5aSndfYl9CR3Rpb0dJX2xjbA?oc=5",
-      "rank": 20
-    },
-    {
-      "headline": "Gareth Taylor reaction: Chelsea draw, individual praise, injury updates and more - Liverpool FC",
-      "summary": "Gareth Taylor reaction: Chelsea draw, individual praise, injury updates and more Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUVdpQm9FTGgwZ0NNTmk4ZEJQSzlHLTU1QXlYTzRrR0l4N0g1UlptSEhYWTFMOWM3UjVSaEMwN2FlYTNoOFdrUHJsOUw0Zks1eVVBWG9oMkdwczhZSlg4a2xZeWxZc1dJaEsxX1kteWZpM0JxOVpNaXY3LXdwcUdLMUdVQ1d3MXZsbTZxZnBIOXRNbVVWMlJDV1Y5X1RNUGFVa1gzWTZra3Q5djNMc0p3?oc=5",
-      "rank": 21
-    },
-    {
-      "headline": "Sky Sports may have accidentally confirmed Liverpool injury blow vs Manchester United - Read Liverpool",
-      "summary": "Sky Sports may have accidentally confirmed Liverpool injury blow vs Manchester United Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZzZCN2JLQVB1OWtkOVg3MXFCeUFQVWtjQ2dldTUtMXprVTVhZnNfNlVNTTFXQ3BVQk1CM2JkdVFCUFVqdGNRUUlUREg3SlZWWFpoTVpSVnZCYm55X0ZaS2lPcWlrTG5TaldrNUJrbUx2ZjNHLTNpY081b0dITm5xaXU5WEpWX29tY1RFLWtubTJNNWgxLW5WLUtfMnhuXzc4VWUxM0k5dFdBWWU2Z1cwbnhzWnhlcmFfWno0?oc=5",
-      "rank": 22
-    },
-    {
-      "headline": "Liverpool announce starting XI vs Manchester United as massive injury blow confirmed - Read Liverpool",
-      "summary": "Liverpool announce starting XI vs Manchester United as massive injury blow confirmed Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOWcwVnRoc3FWaHQ2enZfRWpHVzZIVzVHdHMyQVNXWEdESXlDUTlMUkhJYUlNYmE5cGwwQlpiRi12Tmp5N0VkOWk1WmRFdjY3dzVpenhLNGZsQm8wWUNzajFvd09hOVZ3WkRCbC16UUREb0ZsTXp2dWwwN1dLUjlIUExFV0VyZ3JTeEZ3Zzc5cW9YVnFZTWRsSnBOdUZ1TmZWdkpOZFRvTExjczJSdkk2NWlDMnJEUmcxUkE?oc=5",
-      "rank": 23
-    },
-    {
-      "headline": "Jamie Carragher omits Florian Wirtz from Liverpool-Manchester United combined XI - Read Liverpool",
-      "summary": "Jamie Carragher omits Florian Wirtz from Liverpool-Manchester United combined XI Read Liverpool",
-      "source": "Read Liverpool",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOWFdFU1FnMEpLYk9NcEZIWnFYT3FLYTU1TVdxY1hvRHVhdldMeEZlWm5yYUhMdmNWMVB2blJBZDFnVno4NHZFbU01TnBydktRSGxzRjFqeWtWZk16aVdnSUpTWVhUR3p0MzlFVVN2TkFaYXRMSjJKX09Lci1mRkN4V01tSnhqZ1ktS2ZLcTZvV1JWSjE0OW9OMzBCcTFNc1dyRFpuVlU0c1VHY1k5aUZrbTgwNzg?oc=5",
-      "rank": 24
+      "rank": 29
     },
     {
       "headline": "Free to watch | UNO skills, superstitions and becoming Liverpool's No.9 - watch 'A Day With... Alexander Isak' - Liverpool FC",
@@ -273,63 +328,8 @@
       "credibility": 10,
       "relevance": 80,
       "rank_score": 80.0,
-      "date": "2026-11-23",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakdnM3J2bkMyZG84ZjQwZUE1T2JlQnFiN1hVSDlIYzRIX3FHcEM5Y2hPQ2RoZExYSkFGc28zb0thS1o3OFRuSWpISFpTbEt6OGtnSVZLZmtlcWVUNWVOb3dxOW8ycFRYVHJxaE1GMFczOGkzam9MU1BpMkxHcVpTcGc4U1NiRHJCZzZQMGZyeGoxWWRrVndWX0hBX0hUOFdVbkJlejFMc2ZsRzlxRFRmU0Z2VQ?oc=5",
-      "rank": 25
-    },
-    {
-      "headline": "Five things we learned about Alexander Isak during 'A Day With...' - Liverpool FC",
-      "summary": "Five things we learned about Alexander Isak during 'A Day With...' Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNRkFLN0NHbm92ZmJSa2M1MFRUSGxlbTBRdnhSTFRTNElUVFU4WEVGazIwcGtxbGRJbURSNlFvTGRZQ3lDMVVPY3F2YW1VbDBqQW84ZW95NlpxME84X1g4bXhDeUdJeVB0czFkeGQzVEhKUEt6c2lETzJ3bFJPN2pXcnd0SUJRZDJJai00dnNqYzFWQUdoY19xMFB3?oc=5",
-      "rank": 26
-    },
-    {
-      "headline": "In photos: Anfield's celebrations as Liverpool put four goals past Man Utd - Liverpool FC",
-      "summary": "In photos: Anfield's celebrations as Liverpool put four goals past Man Utd Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdTdmZWoyWTBIa0pKNE9QODhqdnFqdmoydmpWbGVVdVZLak1mVEkySWttdzZybWVQY3RPa0UtR01kNHlScGlFTmhQNG5BcS0yZmlBQU9VRXlKdEtxT19kN3VYV01mSnJ2emdwRGZGdlJGcGNnVThvSDRZUXZycWtyaWRVQ2ZsaHZMN2tQa01ZdnYyeWxfeXRYcjdR?oc=5",
-      "rank": 27
-    },
-    {
-      "headline": "A Day With Alexander Isak | UNO, goalscoring & THAT fishing video! - Liverpool FC",
-      "summary": "A Day With Alexander Isak | UNO, goalscoring & THAT fishing video! Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
       "date": "2026-11-24",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9pQzN3YkphMzBzTmdQd0h2c3EtcHJlazQ1anRlOEpLYnBtMHJCQ3dtZ0QwcktMLXpuN2JEeU5WVVdQWkdVVjFUSXV6ZktyMUxVQ1RxTWZhUkpTZDc2eFVzcm9SUy1BWl80VGhaMF80ZnZPWmpVd1RzZkZIdw?oc=5",
-      "rank": 28
-    },
-    {
-      "headline": "'I feel very good' - Florian Wirtz on his form, Liverpool 4-0 Man Utd and more - Liverpool FC",
-      "summary": "'I feel very good' - Florian Wirtz on his form, Liverpool 4-0 Man Utd and more Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-22",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVllMTnBhaXJHLW1BcEZVc0VLdXpPTWVqNnhBQ1I5Mm5DaG9fWU8xdGJ1R1JhZkctT0pwNU1hUlI4M3B4emFhclpqVjhaWjlhLXVHeUo0ZHV6ZHZ2QVpQQXVJal9vYnZKaDFTR2w5MUdhZmFZQlJDN1c1OFhma3hWTmJ0UlFEUDFjUVE2bDZ2M0kyMGg1S1FWVWlhNUtZQQ?oc=5",
-      "rank": 29
-    },
-    {
-      "headline": "Virgil van Dijk: The performance against United was spot on - Liverpool FC",
-      "summary": "Virgil van Dijk: The performance against United was spot on Liverpool FC",
-      "source": "Liverpool FC",
-      "credibility": 10,
-      "relevance": 80,
-      "rank_score": 80.0,
-      "date": "2026-11-23",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVlcmUzWnV4djF6VlliQkxrUE1RYXRRWTF3YkNwSFNnalJCbXJIel9oVWI5WENqV1pQOHJ3UzFGb0lObnBoQ0k0bWdfVmlhZU5hNEwtamtxSlh0bzhDNnhqdTFYUTA3Z0NQLTJwUWU2MDY0UUthSnB4WUI2OUpXejNLWmkxcEhZanpobHBLX0I?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNakdnM3J2bkMyZG84ZjQwZUE1T2JlQnFiN1hVSDlIYzRIX3FHcEM5Y2hPQ2RoZExYSkFGc28zb0thS1o3OFRuSWpISFpTbEt6OGtnSVZLZmtlcWVUNWVOb3dxOW8ycFRYVHJxaE1GMFczOGkzam9MU1BpMkxHcVpTcGc4U1NiRHJCZzZQMGZyeGoxWWRrVndWX0hBX0hUOFdVbkJlejFMc2ZsRzlxRFRmU0Z2VQ?oc=5",
       "rank": 30
     }
   ],
@@ -397,36 +397,25 @@
     ],
     "out": [
       {
-        "who": "Rio Ngumoha",
-        "meta": "RW · Bayern keen",
-        "fee": "undisclosed",
-        "p": "Low",
-        "mentions": 3,
-        "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZ2lELTNVektrY0lHVjB2OW10SkF2bFJTUHdzRDNpai1OV2Z4OHF6cTFtZVVuc1B3Zk03MGxUc1BDb21makpFUkJwMTcxTGliVFptUUo4bDByR2l1Snd6dS1oc3VsczlSM1hKd3daN2YzMkM4NjlSTk9IYWVWZERBUnpQM2Ztei0wMDRqYWRFNHQzU3Zmak1yX1lacw?oc=5",
-        "date": "2026-11-22",
-        "active": true
-      },
-      {
         "who": "Cody Gakpo",
         "meta": "LW · Tottenham interest",
         "fee": "€45–85m",
         "p": "Low",
-        "mentions": 2,
+        "mentions": 5,
         "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNckNOS0N6ZnBxN2cteTJfUnNwZWo0S0dIREpYek1qeG1FUF9hOHV6RG9RUl9ScjFVT1pzMjVDc3VKbkFwYURBT2IxdkVzUlNFNnZKSWRwWEJRdDBNd0pHRjRaUXBLZk9DTkVjc0J3Z3ZWSUZZSjA4bDNDQkZQX2Znel9lbWw?oc=5",
-        "date": "2026-11-23",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR1hSZEliV2Vtdy1UY20xWndidGd3SjE0ZEZfOTkzWm1mQWlGZjZOaVdleF9BQmVRZXYtZEc1d2VGRDA1UTJydjhzQ0x5SDlDb19FVnJvSlhfdTJZcTRnY3c2bDQydThCWjV1ajZJM2FrUDdaT0Q2S1RTZnB0OS1CLXJFSms?oc=5",
+        "date": "2026-11-24",
         "active": true
       },
       {
-        "who": "Virgil van Dijk",
-        "meta": "CB · Galatasaray interest",
-        "fee": "low/free",
+        "who": "Rio Ngumoha",
+        "meta": "RW · Bayern keen",
+        "fee": "undisclosed",
         "p": "Low",
-        "mentions": 1,
+        "mentions": 4,
         "source": "Liverpool FC",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWUVlcmUzWnV4djF6VlliQkxrUE1RYXRRWTF3YkNwSFNnalJCbXJIel9oVWI5WENqV1pQOHJ3UzFGb0lObnBoQ0k0bWdfVmlhZU5hNEwtamtxSlh0bzhDNnhqdTFYUTA3Z0NQLTJwUWU2MDY0UUthSnB4WUI2OUpXejNLWmkxcEhZanpobHBLX0I?oc=5",
-        "date": "2026-11-23",
+        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUllpWGsxdHhzcXJ0SjVGQUQtMkQ2c2I0b3Raa1ROWXpKZ3NfM1BYQnN4YnhXajY4d1ZMeElkWmptQkNxRmNIUlFjOVdkNzJXRW02UlVPSC0yV3UtOGg5RXFTdUpzalhaMjg4S0ZwZktoV1Rha195LXlrZ0l3Z2pxVlRrbkhVVTM3ZTN3ZkhoVldzTU5QQWROMHBtVnI?oc=5",
+        "date": "2026-11-24",
         "active": true
       },
       {
@@ -450,6 +439,14 @@
         "meta": "RW · seeking minutes",
         "fee": "undisclosed",
         "p": "Medium",
+        "mentions": 0,
+        "active": false
+      },
+      {
+        "who": "Virgil van Dijk",
+        "meta": "CB · Galatasaray interest",
+        "fee": "low/free",
+        "p": "Low",
         "mentions": 0,
         "active": false
       },
